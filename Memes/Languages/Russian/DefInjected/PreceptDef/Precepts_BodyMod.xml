@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_BodyMod_OnlyBiological.label>only biological</VME_BodyMod_OnlyBiological.label>
+  <VME_BodyMod_OnlyBiological.description>Flesh only should be replaced by flesh, to replace a body with a machine is forbidden.</VME_BodyMod_OnlyBiological.description>
+
+
+</LanguageData>

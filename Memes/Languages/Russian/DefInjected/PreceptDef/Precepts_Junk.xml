@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Junk_Beautiful.label>beautiful</VME_Junk_Beautiful.label>
+  <VME_Junk_Beautiful.description>The machinations of old are breath-taking, and their weathering should be viewed as art. It's wonderful to live surrounded by things discarded by others.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Ancient junk buildings can be uninstalled and placed again as needed.\n - Colonists gets mood penalties / bonuses depending on amount of ancient junk buildings in a 20 tiles radius around them. Effect checks approximately once every 5 hours.</VME_Junk_Beautiful.description>
+
+
+</LanguageData>

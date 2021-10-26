@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Precepts -->
+
+  <VME_Sweets_Craved.label>craved</VME_Sweets_Craved.label>
+  <VME_Sweets_Craved.description>Desserts and treats shouldn’t be withheld, sugary confections should be eaten at least every couple days.</VME_Sweets_Craved.description>
+
+  <VME_Sweets_Impartial.label>impartial</VME_Sweets_Impartial.label>
+  <VME_Sweets_Impartial.description>Sweets aren’t that great, they can easily be left behind.</VME_Sweets_Impartial.description>
+
+
+</LanguageData>

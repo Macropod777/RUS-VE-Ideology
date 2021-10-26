@@ -10,10 +10,12 @@
   Relics and Artifacts
   Hats and Rags
 	Splits and Schisms
+	Memes and Structures (в процессе)
   </description>
   <loadAfter>
 		<li>VanillaExpanded.Ideo.RelicsAndArtifacts</li>
 		<li>VanillaExpanded.VIEHAR</li>
 		<li>VanillaExpanded.VIESAS</li>
+		<li>VanillaExpanded.VMemesE</li>
 	</loadAfter>
 </ModMetaData>

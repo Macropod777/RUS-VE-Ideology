@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Arm -->
+
+  <VME_FleshcraftedArmHediff.label>fleshcrafted arm</VME_FleshcraftedArmHediff.label>
+  <VME_FleshcraftedArmHediff.description>An installed fleshcrafted arm.</VME_FleshcraftedArmHediff.description>
+  <VME_FleshcraftedArmHediff.comps.0.tools.0.label>fist</VME_FleshcraftedArmHediff.comps.0.tools.0.label>
+  <VME_FleshcraftedArmHediff.labelNoun>a fleshcrafted arm</VME_FleshcraftedArmHediff.labelNoun>
+
+
+  <!-- Leg -->
+
+  <VME_FleshcraftedLegHediff.label>fleshcrafted leg</VME_FleshcraftedLegHediff.label>
+  <VME_FleshcraftedLegHediff.description>An installed fleshcrafted leg.</VME_FleshcraftedLegHediff.description>
+  <VME_FleshcraftedLegHediff.labelNoun>a fleshcrafted leg</VME_FleshcraftedLegHediff.labelNoun>
+
+
+  <!-- Heart -->
+
+  <VME_FleshcraftedHeartHediff.label>fleshcrafted heart</VME_FleshcraftedHeartHediff.label>
+  <VME_FleshcraftedHeartHediff.description>An installed fleshcrafted heart.</VME_FleshcraftedHeartHediff.description>
+  <VME_FleshcraftedHeartHediff.labelNoun>a fleshcrafted heart</VME_FleshcraftedHeartHediff.labelNoun>
+
+
+  <!-- Lung -->
+
+  <VME_FleshcraftedLungHediff.label>fleshcrafted lung</VME_FleshcraftedLungHediff.label>
+  <VME_FleshcraftedLungHediff.description>An installed fleshcrafted lung.</VME_FleshcraftedLungHediff.description>
+  <VME_FleshcraftedLungHediff.labelNoun>a fleshcrafted lung</VME_FleshcraftedLungHediff.labelNoun>
+
+
+  <!-- Kidney -->
+
+  <VME_FleshcraftedKidneyHediff.label>fleshcrafted kidney</VME_FleshcraftedKidneyHediff.label>
+  <VME_FleshcraftedKidneyHediff.description>An installed fleshcrafted kidney.</VME_FleshcraftedKidneyHediff.description>
+  <VME_FleshcraftedKidneyHediff.labelNoun>a fleshcrafted kidney</VME_FleshcraftedKidneyHediff.labelNoun>
+
+
+  <!-- Liver -->
+
+  <VME_FleshcraftedLiverHediff.label>fleshcrafted liver</VME_FleshcraftedLiverHediff.label>
+  <VME_FleshcraftedLiverHediff.description>An installed fleshcrafted liver.</VME_FleshcraftedLiverHediff.description>
+  <VME_FleshcraftedLiverHediff.labelNoun>a fleshcrafted liver</VME_FleshcraftedLiverHediff.labelNoun>
+
+
+  <!-- Eye -->
+
+  <VME_FleshcraftedEyeHediff.label>fleshcrafted eye</VME_FleshcraftedEyeHediff.label>
+  <VME_FleshcraftedEyeHediff.description>An installed fleshcrafted eye.</VME_FleshcraftedEyeHediff.description>
+  <VME_FleshcraftedEyeHediff.labelNoun>a fleshcrafted eye</VME_FleshcraftedEyeHediff.labelNoun>
+
+
+  <!-- Ear -->
+
+  <VME_FleshcraftedEarHediff.label>fleshcrafted ear</VME_FleshcraftedEarHediff.label>
+  <VME_FleshcraftedEarHediff.description>An installed fleshcrafted ear.</VME_FleshcraftedEarHediff.description>
+  <VME_FleshcraftedEarHediff.labelNoun>a fleshcrafted ear</VME_FleshcraftedEarHediff.labelNoun>
+
+
+  <!-- Nose -->
+
+  <VME_FleshcraftedNoseHediff.label>fleshcrafted nose</VME_FleshcraftedNoseHediff.label>
+  <VME_FleshcraftedNoseHediff.description>An installed fleshcrafted nose.</VME_FleshcraftedNoseHediff.description>
+  <VME_FleshcraftedNoseHediff.labelNoun>a fleshcrafted nose</VME_FleshcraftedNoseHediff.labelNoun>
+
+
+  <!-- Jaw -->
+
+  <VME_FleshcraftedJawHediff.label>fleshcrafted jaw</VME_FleshcraftedJawHediff.label>
+  <VME_FleshcraftedJawHediff.description>An installed fleshcrafted jaw.</VME_FleshcraftedJawHediff.description>
+  <VME_FleshcraftedJawHediff.labelNoun>a fleshcrafted jaw</VME_FleshcraftedJawHediff.labelNoun>
+
+
+  <!-- Stomach -->
+
+  <VME_FleshcraftedStomachHediff.label>fleshcrafted stomach</VME_FleshcraftedStomachHediff.label>
+  <VME_FleshcraftedStomachHediff.description>An installed fleshcrafted stomach.</VME_FleshcraftedStomachHediff.description>
+  <VME_FleshcraftedStomachHediff.labelNoun>a fleshcrafted stomach</VME_FleshcraftedStomachHediff.labelNoun>
+
+
+  <!-- Tongue -->
+
+  <VME_FleshcraftedTongueHediff.label>fleshcrafted tongue</VME_FleshcraftedTongueHediff.label>
+  <VME_FleshcraftedTongueHediff.description>An installed fleshcrafted tongue.</VME_FleshcraftedTongueHediff.description>
+  <VME_FleshcraftedTongueHediff.labelNoun>a fleshcrafted tongue</VME_FleshcraftedTongueHediff.labelNoun>
+
+
+  <!-- Spine -->
+
+  <VME_FleshcraftedSpineHediff.label>fleshcrafted spine</VME_FleshcraftedSpineHediff.label>
+  <VME_FleshcraftedSpineHediff.description>An installed fleshcrafted spine.</VME_FleshcraftedSpineHediff.description>
+  <VME_FleshcraftedSpineHediff.labelNoun>a fleshcrafted spine</VME_FleshcraftedSpineHediff.labelNoun>
+
+
+</LanguageData>

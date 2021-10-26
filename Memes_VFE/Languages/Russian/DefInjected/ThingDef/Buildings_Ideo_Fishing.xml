@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VME_SmallFishingTrap.label>small fishing trap</VME_SmallFishingTrap.label>
+  <VME_SmallFishingTrap.description>A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a small trap that will only catch small sized fish.</VME_SmallFishingTrap.description>
+  <VME_SmallFishingTrap_Blueprint.label>small fishing trap (blueprint)</VME_SmallFishingTrap_Blueprint.label>
+  <VME_SmallFishingTrap_Blueprint_Install.label>small fishing trap (blueprint)</VME_SmallFishingTrap_Blueprint_Install.label>
+  <VME_SmallFishingTrap_Frame.label>small fishing trap (building)</VME_SmallFishingTrap_Frame.label>
+  <VME_SmallFishingTrap_Frame.description>A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a small trap that will only catch small sized fish.</VME_SmallFishingTrap_Frame.description>
+
+  <VME_MediumFishingTrap.label>medium fishing trap</VME_MediumFishingTrap.label>
+  <VME_MediumFishingTrap.description>A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a medium trap that will only catch medium sized fish.</VME_MediumFishingTrap.description>
+  <VME_MediumFishingTrap_Blueprint.label>medium fishing trap (blueprint)</VME_MediumFishingTrap_Blueprint.label>
+  <VME_MediumFishingTrap_Blueprint_Install.label>medium fishing trap (blueprint)</VME_MediumFishingTrap_Blueprint_Install.label>
+  <VME_MediumFishingTrap_Frame.label>medium fishing trap (building)</VME_MediumFishingTrap_Frame.label>
+  <VME_MediumFishingTrap_Frame.description>A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a medium trap that will only catch medium sized fish.</VME_MediumFishingTrap_Frame.description>
+
+  <VME_LargeFishingTrap.label>large fishing trap</VME_LargeFishingTrap.label>
+  <VME_LargeFishingTrap.description>A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a large trap that will only catch large sized fish.</VME_LargeFishingTrap.description>
+  <VME_LargeFishingTrap_Blueprint.label>large fishing trap (blueprint)</VME_LargeFishingTrap_Blueprint.label>
+  <VME_LargeFishingTrap_Blueprint_Install.label>large fishing trap (blueprint)</VME_LargeFishingTrap_Blueprint_Install.label>
+  <VME_LargeFishingTrap_Frame.label>large fishing trap (building)</VME_LargeFishingTrap_Frame.label>
+  <VME_LargeFishingTrap_Frame.description>A primitive, though quite ingenious barricade made of wooden stick and netting meant to entrap incoming fish and leave them with no way out. Fish traps are eventually destroyed by the currents and struggling fish, and will need replacing.\n\nThis is a large trap that will only catch large sized fish.</VME_LargeFishingTrap_Frame.description>
+
+
+</LanguageData>
