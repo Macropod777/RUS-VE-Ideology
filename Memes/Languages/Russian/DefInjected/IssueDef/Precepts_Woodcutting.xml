@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Issues -->
-
-  <VME_WoodcuttingYield.label>woodcutting yield</VME_WoodcuttingYield.label>
-
-
+  <!-- EN: woodcutting yield -->
+  <VME_WoodcuttingYield.label>бережливость лесорубов</VME_WoodcuttingYield.label>
 </LanguageData>
