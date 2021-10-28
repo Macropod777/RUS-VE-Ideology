@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Precepts -->
-
+  <!-- EN: slow -->
   <VME_SkilledLabor_Slow.label>замедлена</VME_SkilledLabor_Slow.label>
-  <VME_SkilledLabor_Slow.description>Занятия квалифицированным трудом являются кропотливыми и трудоёмкими, поэтому лучше сосредоточить наше внимание и усилия на чем-то другом.</VME_SkilledLabor_Slow.description>
-
-
+  <!-- EN: Pursuits of skilled labor are meticulous and time-consuming, it is better to focus our attention and efforts elsewhere. -->
+  <VME_SkilledLabor_Slow.description>Занятия квалифицированным трудом слишком сложны и времязатратны, поэтому лучше приложить усилия и внимание к чем-нибудь другому.</VME_SkilledLabor_Slow.description>
 </LanguageData>
