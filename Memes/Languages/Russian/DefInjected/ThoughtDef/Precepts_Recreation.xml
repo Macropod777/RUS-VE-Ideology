@@ -3,8 +3,7 @@
 
   <!-- Precepts -->
 
-  <VME_Recreation_Disapproved.stages.0.label>waste of time</VME_Recreation_Disapproved.stages.0.label>
-  <VME_Recreation_Disapproved.stages.0.description>Recreation is a waste of time.</VME_Recreation_Disapproved.stages.0.description>
-
+  <VME_Recreation_Disapproved.stages.0.label>потеря времени</VME_Recreation_Disapproved.stages.0.label>
+  <VME_Recreation_Disapproved.stages.0.description>Время потрачено на пустые развлечения.</VME_Recreation_Disapproved.stages.0.description>
 
 </LanguageData>
