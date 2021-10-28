@@ -3,17 +3,16 @@
 
   <!-- Precepts -->
 
-  <VME_Scars_Honorable.stages.0.label>faintly scarred</VME_Scars_Honorable.stages.0.label>
-  <VME_Scars_Honorable.stages.1.label>scarred</VME_Scars_Honorable.stages.1.label>
-  <VME_Scars_Honorable.stages.2.label>heavily scarred</VME_Scars_Honorable.stages.2.label>
-  <VME_Scars_Honorable.stages.3.label>extremely scarred</VME_Scars_Honorable.stages.3.label>
-  <VME_Scars_Honorable.stages.4.label>innumerable battlefield scars</VME_Scars_Honorable.stages.4.label>
+  <VME_Scars_Honorable.stages.0.label>есть шрамы</VME_Scars_Honorable.stages.0.label>
+  <VME_Scars_Honorable.stages.1.label>много шрамов</VME_Scars_Honorable.stages.1.label>
+  <VME_Scars_Honorable.stages.2.label>очень много шрамов</VME_Scars_Honorable.stages.2.label>
+  <VME_Scars_Honorable.stages.3.label>весь в шрамах</VME_Scars_Honorable.stages.3.label>
+  <VME_Scars_Honorable.stages.4.label>бессчётные боевые шрамы</VME_Scars_Honorable.stages.4.label>
 
-  <VME_Scars_Disgusting.stages.0.label>faintly scarred</VME_Scars_Disgusting.stages.0.label>
-  <VME_Scars_Disgusting.stages.1.label>scarred</VME_Scars_Disgusting.stages.1.label>
-  <VME_Scars_Disgusting.stages.2.label>heavily scarred</VME_Scars_Disgusting.stages.2.label>
-  <VME_Scars_Disgusting.stages.3.label>extremely scarred</VME_Scars_Disgusting.stages.3.label>
-  <VME_Scars_Disgusting.stages.4.label>innumerable battlefield scars</VME_Scars_Disgusting.stages.4.label>
-
+  <VME_Scars_Disgusting.stages.0.label>есть шрамы</VME_Scars_Disgusting.stages.0.label>
+  <VME_Scars_Disgusting.stages.1.label>много шрамов</VME_Scars_Disgusting.stages.1.label>
+  <VME_Scars_Disgusting.stages.2.label>очень много шрамов</VME_Scars_Disgusting.stages.2.label>
+  <VME_Scars_Disgusting.stages.3.label>весь в шрамах</VME_Scars_Disgusting.stages.3.label>
+  <VME_Scars_Disgusting.stages.4.label>бессчётные боевые шрамы</VME_Scars_Disgusting.stages.4.label>
 
 </LanguageData>

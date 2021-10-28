@@ -3,8 +3,7 @@
 
   <!-- Precepts -->
 
-  <VME_SocialInteractions_Disallowed.label>disallowed</VME_SocialInteractions_Disallowed.label>
-  <VME_SocialInteractions_Disallowed.description>Chatter between those of our creed is forbidden. We seek to achieve a greater understanding through a venere of silence and secrecy, an oath few outsiders can comprehend.</VME_SocialInteractions_Disallowed.description>
-
+  <VME_SocialInteractions_Disallowed.label>запрещено</VME_SocialInteractions_Disallowed.label>
+  <VME_SocialInteractions_Disallowed.description>Болтовня между членами нашего общества запрещена. Мы стремимся к достижению большего взаимопонимания через молчание и секретность, смысл этого обета смогут понять совсем немногие посторонние.</VME_SocialInteractions_Disallowed.description>
 
 </LanguageData>

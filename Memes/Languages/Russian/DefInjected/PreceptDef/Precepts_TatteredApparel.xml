@@ -3,14 +3,14 @@
 
   <!-- Precepts -->
 
-  <VME_TatteredApparel_DontCare.label>don't care</VME_TatteredApparel_DontCare.label>
-  <VME_TatteredApparel_DontCare.description>We have bigger concerns to address than holes in our clothes, let's not waste our valuable time fretting or lamenting about such trivialities.</VME_TatteredApparel_DontCare.description>
+  <VME_TatteredApparel_DontCare.label>безразлична</VME_TatteredApparel_DontCare.label>
+  <VME_TatteredApparel_DontCare.description>У нас есть проблемы поважнее, чем дыры в одежде, давайте не будем тратить драгоценное время на беспокойство и ворчание о таких мелочах.</VME_TatteredApparel_DontCare.description>
 
-  <VME_TatteredApparel_Disapproved.label>disapproved</VME_TatteredApparel_Disapproved.label>
-  <VME_TatteredApparel_Disapproved.description>Wearing ratty clothes is uncomfortable and should be avoided.</VME_TatteredApparel_Disapproved.description>
+  <VME_TatteredApparel_Disapproved.label>порицается</VME_TatteredApparel_Disapproved.label>
+  <VME_TatteredApparel_Disapproved.description>Носить рваную одежду неудобно, не надо так делать.</VME_TatteredApparel_Disapproved.description>
 
-  <VME_TatteredApparel_Abhorrent.label>abhorrent</VME_TatteredApparel_Abhorrent.label>
-  <VME_TatteredApparel_Abhorrent.description>Ratty clothes are disgusting and should be discarded as soon as possible.</VME_TatteredApparel_Abhorrent.description>
+  <VME_TatteredApparel_Abhorrent.label>отвратительна</VME_TatteredApparel_Abhorrent.label>
+  <VME_TatteredApparel_Abhorrent.description>Рвань и лохмотья отвратительны, их следует выбросить как можно скорее.</VME_TatteredApparel_Abhorrent.description>
 
 
 </LanguageData>

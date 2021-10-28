@@ -3,14 +3,13 @@
 
   <!-- Precepts -->
 
-  <VME_TaintedApparel_DontCare.label>don't care</VME_TaintedApparel_DontCare.label>
-  <VME_TaintedApparel_DontCare.description>Clothing soaked in blood or bits shouldn’t dissuade one from covering themselves and making use of what would otherwise be worn away by time.</VME_TaintedApparel_DontCare.description>
+  <VME_TaintedApparel_DontCare.label>безразлична</VME_TaintedApparel_DontCare.label>
+  <VME_TaintedApparel_DontCare.description>Если одежда испачкана кровью, то это не причина отказываться с пользой применить то, что иначе просто пропадёт.</VME_TaintedApparel_DontCare.description>
 
-  <VME_TaintedApparel_Disapproved.label>disapproved</VME_TaintedApparel_Disapproved.label>
-  <VME_TaintedApparel_Disapproved.description>Wearing a dead person's apparel is quite disgusting.</VME_TaintedApparel_Disapproved.description>
+  <VME_TaintedApparel_Disapproved.label>порицается</VME_TaintedApparel_Disapproved.label>
+  <VME_TaintedApparel_Disapproved.description>Носить одежду, снятую с мертвеца, довольно противно.</VME_TaintedApparel_Disapproved.description>
 
-  <VME_TaintedApparel_Abhorrent.label>abhorrent</VME_TaintedApparel_Abhorrent.label>
-  <VME_TaintedApparel_Abhorrent.description>There can be nothing more disgusting in this world than wearing the clothing used by a dead person.</VME_TaintedApparel_Abhorrent.description>
-
+  <VME_TaintedApparel_Abhorrent.label>отвратительна</VME_TaintedApparel_Abhorrent.label>
+  <VME_TaintedApparel_Abhorrent.description>В этом мире не может быть ничего более отвратительного, чем носить одежду, снятую с мертвеца.</VME_TaintedApparel_Abhorrent.description>
 
 </LanguageData>

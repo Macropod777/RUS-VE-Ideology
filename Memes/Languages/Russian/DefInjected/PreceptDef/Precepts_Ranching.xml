@@ -3,11 +3,17 @@
 
   <!-- Precepts -->
 
-  <VME_Ranching_Disliked.label>disliked</VME_Ranching_Disliked.label>
-  <VME_Ranching_Disliked.description>Keeping animals captive to consume their flesh and their resources is deeply immoral and should be avoided at all costs. Growing our own fruits and vegetables is a much nobler pursuit.</VME_Ranching_Disliked.description>
+  <!-- disliked -->
+  <VME_Ranching_Disliked.label>нелюбимо</VME_Ranching_Disliked.label>
+  <VME_Ranching_Disliked.description>Держать живых существ в плену, чтоб потом убивать ради мяся и шкур, глубоко аморально. Ради пропитания приличествует выращивать на полях фрукты и овощи.</VME_Ranching_Disliked.description>
 
-  <VME_Ranching_Nomadic.label>nomadic</VME_Ranching_Nomadic.label>
-  <VME_Ranching_Nomadic.description>A nomad is nothing without their trusty steed. Developing a bond with beasts of burden means traveling this world will never be a lonely endeavour.</VME_Ranching_Nomadic.description>
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>нет загонов в поселении</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.0>
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>метка загона в поселении</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.1>
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>метки загонов в поселении</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.2>
+  <VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>животноводческая ферма</VME_Ranching_Disliked.comps.0.thoughtStageDescriptions.3>
 
+  <!-- nomadic -->
+  <VME_Ranching_Nomadic.label>кочевое</VME_Ranching_Nomadic.label>
+  <VME_Ranching_Nomadic.description>Кочевник - ничто без своего верного скакуна. Крепкая связь с вьючными животными означает, что путешественник по этому миру никогда не будет одинок.</VME_Ranching_Nomadic.description>
 
 </LanguageData>
