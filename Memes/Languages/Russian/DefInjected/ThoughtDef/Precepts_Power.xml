@@ -3,7 +3,7 @@
   <!-- EN: divine rule -->
   <VME_Power_Exalted.stages.0.label>моё божественное правление</VME_Power_Exalted.stages.0.label>
   <!-- EN: My rule is supreme, for I am godlike. -->
-  <VME_Power_Exalted.stages.0.description>У меня наивысшая власть, я PAWN_gender ? богоподобен : богоподобна.</VME_Power_Exalted.stages.0.description>
+  <VME_Power_Exalted.stages.0.description>У меня наивысшая власть, я {PAWN_gender ? богоподобен : богоподобна}.</VME_Power_Exalted.stages.0.description>
 
   <!-- EN: in a position of power -->
   <VME_Power_Desired.stages.0.label>с позиции силы</VME_Power_Desired.stages.0.label>
