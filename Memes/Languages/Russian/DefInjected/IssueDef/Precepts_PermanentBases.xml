@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_PermanentBases.label>permanent bases</VME_PermanentBases.label>
-
-
+  <!-- EN: permanent bases -->
+  <VME_PermanentBases.label>постоянное жилище</VME_PermanentBases.label>
 </LanguageData>
