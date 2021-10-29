@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Thoughts -->
-
-  <VME_Slavery_Forbidden_SlavesInColony.stages.0.label>рабы в колонии</VME_Slavery_Forbidden_SlavesInColony.stages.0.label>
-  <VME_Slavery_Forbidden_SlavesInColony.stages.0.description>В колонии есть рабы. Мы должны освободить их как можно скорее.</VME_Slavery_Forbidden_SlavesInColony.stages.0.description>
-
-  <VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>{PAWN_gender ? страдал : страдала} в рабстве</VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>
-
+  <!-- EN: unemancipated slaves in colony -->
+  <VME_Slavery_Forbidden_SlavesInColony.stages.0.label>рабы в поселении</VME_Slavery_Forbidden_SlavesInColony.stages.0.label>
+  <!-- EN: There are slaves in the colony. We should emancipate them as soon as possible. -->
+  <VME_Slavery_Forbidden_SlavesInColony.stages.0.description>У нас в поселении есть рабы. И они страдают в неволе. Нужно освободить их поскорее.</VME_Slavery_Forbidden_SlavesInColony.stages.0.description>
+  <!-- EN: suffered slavery -->
+  <VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>страдает в рабстве</VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>
 </LanguageData>

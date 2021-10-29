@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Issues -->
-
-  <VME_FishingYield.label>fishing yield</VME_FishingYield.label>
-
-
+  <!-- EN: fishing yield -->
+  <VME_FishingYield.label>ловля рыбы</VME_FishingYield.label>
 </LanguageData>

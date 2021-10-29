@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Precepts -->
-
-  <VME_SlaveTrading_OnlyBuying.label>только покупка</VME_SlaveTrading_OnlyBuying.label>
-  <VME_SlaveTrading_OnlyBuying.description>Рабов допустимо только покупать, после чего им следует обеспечить приличное жильё и доброе отношение в нашей колонии. Тот, кто продаёт раба, отдаёт его судьбу в руки покупателя, что очень неразумно.</VME_SlaveTrading_OnlyBuying.description>
+  <!-- EN: only buying -->
+  <VME_SlaveTrading_OnlyBuying.label>оправдание покупки</VME_SlaveTrading_OnlyBuying.label>
+  <!-- EN: Only buying slaves is justifiable, after which we should provide them amicable amounts of lodging and consideration within our colony. By selling a slave one leaves their fate up to the good faith of their buyer, a very unwise decision. -->
+  <VME_SlaveTrading_OnlyBuying.description>Оправдание покупки рабов может принести только обеспечение их приличным жильём и добрым отношением в нашем поселении. Продавая раба, мы отдаём его судьбу в руки покупателя. Это очень безответственно.</VME_SlaveTrading_OnlyBuying.description>
+  <!-- EN: Someone bought a slave -->
   <VME_SlaveTrading_OnlyBuying.comps.2.description>Кто-то купил раба</VME_SlaveTrading_OnlyBuying.comps.2.description>
+  <!-- EN: Someone sold a slave -->
   <VME_SlaveTrading_OnlyBuying.comps.3.description>Кто-то продал раба</VME_SlaveTrading_OnlyBuying.comps.3.description>
-
 </LanguageData>

@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_SocialInteractions.label>социальное общение</VME_SocialInteractions.label>
-
-
+  <!-- EN: social interactions -->
+  <VME_SocialInteractions.label>социальные взаимодействия</VME_SocialInteractions.label>
 </LanguageData>
