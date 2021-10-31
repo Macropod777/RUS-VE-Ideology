@@ -27,7 +27,7 @@
   <!-- EN: shared -->
   <VME_Mood_Shared.label>общее</VME_Mood_Shared.label>
   <!-- EN: Empathy is a quality we must all strive to possess. We bear each other's burdens as well as each other's jubilations.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - If the average colony mood is happy, colonists receive a positive thought, and vice versa. -->
-  <VME_Mood_Shared.description>Сопереживание — качество, к которому мы все должны стремиться. Мы все вместе чувствуем беду каждого и так же вместе радуемся друг за друга.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n — Если настроение в поселении в среднем радостное, то поселенцы получат позитивную мысль, и наоборот.</VME_Mood_Shared.description>
+  <VME_Mood_Shared.description>Сопереживание — это качество, к которому мы все должны стремиться. Мы все вместе чувствуем беду каждого и так же вместе радуемся друг за друга.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n — Если настроение в поселении в среднем радостное, то поселенцы получат позитивную мысль, и наоборот.</VME_Mood_Shared.description>
   <!-- EN: Average colony mood is positive -->
   <VME_Mood_Shared.comps.0.thoughtStageDescriptions.0>Настроение поселения в среднем позитивное</VME_Mood_Shared.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Average colony mood is negative -->
