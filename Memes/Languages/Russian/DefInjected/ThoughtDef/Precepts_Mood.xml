@@ -1,37 +1,66 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: stars are aligned -->
+  <VME_Mood_DictatedByStars.stages.0.label>звёзды построились</VME_Mood_DictatedByStars.stages.0.label>
+  <!-- EN: The astral architects smile upon me, their benevolence is unmatched. -->
+  <VME_Mood_DictatedByStars.stages.0.description>Астральные архитекторы улыбаются мне, их доброжелательность не имеет предела.</VME_Mood_DictatedByStars.stages.0.description>
+  <!-- EN: Stars are perfect -->
+  <VME_Mood_DictatedByStars.stages.1.label>звёзды идеальны</VME_Mood_DictatedByStars.stages.1.label>
+  <!-- EN: The stellar bodies above tell a story of imminent fortunes and success. -->
+  <VME_Mood_DictatedByStars.stages.1.description>Небесные тела наверху рассказывают историю о близких удаче и успехе.</VME_Mood_DictatedByStars.stages.1.description>
+  <!-- EN: Stars are excellent -->
+  <VME_Mood_DictatedByStars.stages.2.label>звёзды превосходны</VME_Mood_DictatedByStars.stages.2.label>
+  <!-- EN: The stars whisper to me, and they tell me to breathe easy. My fate is comfortably in their hands. -->
+  <VME_Mood_DictatedByStars.stages.2.description>Звёзды шепчут, советуя мне дышать полной грудью. Мне обеспечена благая судьба.</VME_Mood_DictatedByStars.stages.2.description>
+  <!-- EN: Stars are good -->
+  <VME_Mood_DictatedByStars.stages.3.label>звёзды добры</VME_Mood_DictatedByStars.stages.3.label>
+  <!-- EN: Though small, the constellations tell me all is well for the time being -->
+  <VME_Mood_DictatedByStars.stages.3.description>Маленькие созвездия говорят мне, что пока всё идёт хорошо.</VME_Mood_DictatedByStars.stages.3.description>
+  <!-- EN: Stars are indifferent -->
+  <VME_Mood_DictatedByStars.stages.4.label>звёзды равнодушны</VME_Mood_DictatedByStars.stages.4.label>
+  <!-- EN: The stars whisper nonsense and contradictions, our destiny is increasingly unclear. -->
+  <VME_Mood_DictatedByStars.stages.4.description>Звёзды шепчут противоречивую чепуху, наша судьба становится все более неясной.</VME_Mood_DictatedByStars.stages.4.description>
+  <!-- EN: stars are bad -->
+  <VME_Mood_DictatedByStars.stages.5.label>звёзды недобры</VME_Mood_DictatedByStars.stages.5.label>
+  <!-- EN: The skies do not bode well, an ill omen is on the horizon. -->
+  <VME_Mood_DictatedByStars.stages.5.description>Небеса не предвещают ничего хорошего, на горизонте виднеется дурное знамение.</VME_Mood_DictatedByStars.stages.5.description>
+  <!-- EN: stars are not on my side -->
+  <VME_Mood_DictatedByStars.stages.6.label>звёзды не на моей стороне</VME_Mood_DictatedByStars.stages.6.label>
+  <!-- EN: The sea of stars is ever cloudy, they shroud themselves from me and refuse to tell me of my fate. -->
+  <VME_Mood_DictatedByStars.stages.6.description>Звёздное небо всё время затянуто облаками. Звёзды прячутся и отказываются рассказывать мне о моей судьбе.</VME_Mood_DictatedByStars.stages.6.description>
+  <!-- EN: stars are a bad omen -->
+  <VME_Mood_DictatedByStars.stages.7.label>звёзды предвещают беду</VME_Mood_DictatedByStars.stages.7.label>
+  <!-- EN: The stellar bodies far above have made themselves clear, I am no longer in their favor. -->
+  <VME_Mood_DictatedByStars.stages.7.description>Звездные тела наверху ясно дали понять, что больше не благосклонны ко мне.</VME_Mood_DictatedByStars.stages.7.description>
+  <!-- EN: stars are aligned… against me -->
+  <VME_Mood_DictatedByStars.stages.8.label>звёзды построились ... против меня</VME_Mood_DictatedByStars.stages.8.label>
+  <!-- EN: The planets have aligned, a syzygy has made clear my approaching demise is inescapable. I will shortly be reduced to mere dust. -->
+  <VME_Mood_DictatedByStars.stages.8.description>Планеты выстроились в ряд, чтоб сообщить, что моя приближающаяся кончина неизбежна. Вскоре я превращусь в прах.</VME_Mood_DictatedByStars.stages.8.description>
 
-  <!-- Precepts -->
 
-  <VME_Mood_DictatedByStars.stages.0.label>stars are aligned</VME_Mood_DictatedByStars.stages.0.label>
-  <VME_Mood_DictatedByStars.stages.0.description>The astral architects smile upon me, their benevolence is unmatched.</VME_Mood_DictatedByStars.stages.0.description>
-  <VME_Mood_DictatedByStars.stages.1.label>stars are perfect</VME_Mood_DictatedByStars.stages.1.label>
-  <VME_Mood_DictatedByStars.stages.1.description>The stellar bodies above tell a story of imminent fortunes and success.</VME_Mood_DictatedByStars.stages.1.description>
-  <VME_Mood_DictatedByStars.stages.2.label>stars are excellent</VME_Mood_DictatedByStars.stages.2.label>
-  <VME_Mood_DictatedByStars.stages.2.description>The stars whisper to me, and they tell me to breathe easy. My fate is comfortably in their hands.</VME_Mood_DictatedByStars.stages.2.description>
-  <VME_Mood_DictatedByStars.stages.3.label>stars are good</VME_Mood_DictatedByStars.stages.3.label>
-  <VME_Mood_DictatedByStars.stages.3.description>Though small, the constellations tell me all is well for the time being.</VME_Mood_DictatedByStars.stages.3.description>
-  <VME_Mood_DictatedByStars.stages.4.label>stars are indifferent</VME_Mood_DictatedByStars.stages.4.label>
-  <VME_Mood_DictatedByStars.stages.4.description>The stars whisper nonsense and contradictions, our destiny is increasingly unclear.</VME_Mood_DictatedByStars.stages.4.description>
-  <VME_Mood_DictatedByStars.stages.5.label>stars are bad</VME_Mood_DictatedByStars.stages.5.label>
-  <VME_Mood_DictatedByStars.stages.5.description>The skies do not bode well, an ill omen is on the horizon.</VME_Mood_DictatedByStars.stages.5.description>
-  <VME_Mood_DictatedByStars.stages.6.label>stars are not on my side</VME_Mood_DictatedByStars.stages.6.label>
-  <VME_Mood_DictatedByStars.stages.6.description>The sea of stars is ever cloudy, they shroud themselves from me and refuse to tell me of my fate.</VME_Mood_DictatedByStars.stages.6.description>
-  <VME_Mood_DictatedByStars.stages.7.label>stars are a bad omen</VME_Mood_DictatedByStars.stages.7.label>
-  <VME_Mood_DictatedByStars.stages.7.description>The stellar bodies far above have made themselves clear, I am no longer in their favor.</VME_Mood_DictatedByStars.stages.7.description>
-  <VME_Mood_DictatedByStars.stages.8.label>stars are aligned… against me</VME_Mood_DictatedByStars.stages.8.label>
-  <VME_Mood_DictatedByStars.stages.8.description>The planets have aligned, a syzygy has made clear my approaching demise is inescapable. I will shortly be reduced to mere dust.</VME_Mood_DictatedByStars.stages.8.description>
-
-  <VME_Mood_Shared.stages.0.label>rejoice</VME_Mood_Shared.stages.0.label>
-  <VME_Mood_Shared.stages.0.description>Everyone is in good mood, as am I.</VME_Mood_Shared.stages.0.description>
-  <VME_Mood_Shared.stages.1.label>grieve</VME_Mood_Shared.stages.1.label>
-  <VME_Mood_Shared.stages.1.description>Everyone is in bad mood, as am I.</VME_Mood_Shared.stages.1.description>
-
-  <VME_Mood_LowExpectations.stages.0.label>bad mood</VME_Mood_LowExpectations.stages.0.label>
-  <VME_Mood_LowExpectations.stages.0.description>I'm just generally having a bad mood. The Rim is a hostile place.</VME_Mood_LowExpectations.stages.0.description>
-
-  <VME_Mood_HighExpectations.stages.0.label>good mood</VME_Mood_HighExpectations.stages.0.label>
-  <VME_Mood_HighExpectations.stages.0.description>I'm just generally having a good mood. The Rim is an amazing place.</VME_Mood_HighExpectations.stages.0.description>
+  <!-- настроение для черты VME_Gestalt, где все радуются и грустят вместе -->
+  <!-- EN: rejoice -->
+  <VME_Mood_Shared.stages.0.label>мы ликуем</VME_Mood_Shared.stages.0.label>
+  <!-- EN: Everyone is in good mood, as am I. -->
+  <VME_Mood_Shared.stages.0.description>У всех хорошее настроение, значит и у меня.</VME_Mood_Shared.stages.0.description>
+  <!-- EN: grieve -->
+  <VME_Mood_Shared.stages.1.label>мы скорбим</VME_Mood_Shared.stages.1.label>
+  <!-- EN: Everyone is in bad mood, as am I. -->
+  <VME_Mood_Shared.stages.1.description>У всех плохое настроение, значит и у меня.</VME_Mood_Shared.stages.1.description>
 
 
+
+
+  <!-- возможно "bad mood" и "good mood"  следует перевести ещё как-то иначе, чтоб было понятно, что постоянное изменение настроения происходит из-за жизни на этой планете, вроде "мы в дыре", "мы в хорошем месте"-->
+
+  <!-- EN: bad mood -->
+  <VME_Mood_LowExpectations.stages.0.label>всё скверно</VME_Mood_LowExpectations.stages.0.label>
+  <!-- EN: I'm just generally having a bad mood. The Rim is a hostile place. -->
+  <VME_Mood_LowExpectations.stages.0.description>Ну просто у меня всегда поганое настроение, потому что окраинные миры — поганое место.</VME_Mood_LowExpectations.stages.0.description>
+
+
+  <!-- EN: good mood -->
+  <VME_Mood_HighExpectations.stages.0.label>всё отлично</VME_Mood_HighExpectations.stages.0.label>
+  <!-- EN: I'm just generally having a good mood. The Rim is an amazing place. -->
+  <VME_Mood_HighExpectations.stages.0.description>Ну просто у меня всегда прекрасное настроение, потому что окраинные миры — прекрасное место.</VME_Mood_HighExpectations.stages.0.description>
 </LanguageData>

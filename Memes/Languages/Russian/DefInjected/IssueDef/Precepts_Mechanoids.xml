@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_Mechanoids.label>mechanoids</VME_Mechanoids.label>
-
-
+  <!-- EN: mechanoids -->
+  <VME_Mechanoids.label>механоиды</VME_Mechanoids.label>
 </LanguageData>

@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Precepts -->
-
-  <VME_MeatEating_Abhorrent_Strict.label>abhorrent (strict)</VME_MeatEating_Abhorrent_Strict.label>
-  <VME_MeatEating_Abhorrent_Strict.description>Eating meat of any kind is deeply evil. Consuming any animal product is immoral.</VME_MeatEating_Abhorrent_Strict.description>
-
-
+  <!-- EN: abhorrent (strict) -->
+  <VME_MeatEating_Abhorrent_Strict.label>отвращение (строгое)</VME_MeatEating_Abhorrent_Strict.label>
+  <!-- EN: Eating meat of any kind is deeply evil. Consuming any animal product is immoral. --> 
+  <VME_MeatEating_Abhorrent_Strict.description>Есть мясо любого происхождение — глубокое зло. Употребление любых продуктов животного происхождения аморально.</VME_MeatEating_Abhorrent_Strict.description>
 </LanguageData>
