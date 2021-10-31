@@ -3,10 +3,10 @@
   <!-- EN: mechanoid destroyed -->
   <VME_Mechanoids_Exalted.stages.0.label>уничтожен механоид</VME_Mechanoids_Exalted.stages.0.label>
   <!-- EN: I have destroyed a mechanoid being, this will anger the gods. -->
-  <VME_Mechanoids_Exalted.stages.0.description>Я уничтожил механоидное существо, это прогневит богов.</VME_Mechanoids_Exalted.stages.0.description>
+  <VME_Mechanoids_Exalted.stages.0.description>Я уничтожил механоида, это разгневает богов.</VME_Mechanoids_Exalted.stages.0.description>
 
   <!-- EN: mechanoid destroyed -->
   <VME_Mechanoids_Despised.stages.0.label>уничтожен механоид</VME_Mechanoids_Despised.stages.0.label>
   <!-- EN: I have destroyed a mechanoid being, this is a victory! -->
-  <VME_Mechanoids_Despised.stages.0.description>Я уничтожил механоидное существо, это победа!</VME_Mechanoids_Despised.stages.0.description>
+  <VME_Mechanoids_Despised.stages.0.description>Я уничтожил механоида, это победа!</VME_Mechanoids_Despised.stages.0.description>
 </LanguageData>
