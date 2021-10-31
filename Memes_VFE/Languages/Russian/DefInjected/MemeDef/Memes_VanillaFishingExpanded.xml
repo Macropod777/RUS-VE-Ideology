@@ -58,9 +58,9 @@
     <li>founderJoin(tag=meme_Anglers)     ->[founder_simple] [place_job] по имени [founderName] [founder_get] благословение от [deity0_name]. Оно даровало [founder_objective] божественную мудрость воздвигнуть великий очиститель воды и наполнить воды вновь сотнями рыб.</li>
     <li>victory(tag=meme_Anglers)         ->Планы [foeSoldiers] и [foeLeader] потерпели крах, а сами они были унижены. Им ничего не осталось, кроме как оставить [memberNamePlural] в покое.</li>
     <li>setup(tag=meme_Anglers)           ->Наш основатель, [founderName] [founder_setup]. Не было рыбы, которую [founderName_objective] бы поймать на крючок.</li>
-    <li>story(uses=1,tag=meme_Anglers)    ->[founderName] [founder_teach] научила нас тому, что рыбалка это, в первую очередь, состояние души. [founderName_pronoun] всегда [founder_repeat], что смысл рыбалки в вечных попытках поймать нечто иллюзорное, но реальное и достижимое для каждого путём неисчислимых попыток.</li> 
+    <li>story(uses=1,tag=meme_Anglers)    ->[founderName] [founder_teach] научила нас тому, что рыбалка, это, в первую очередь, состояние души. [founderName_pronoun] всегда [founder_repeat], что смысл рыбалки в вечных попытках поймать нечто иллюзорное, но реальное и достижимое для каждого путём неисчислимых попыток.</li> 
     <li>lessonIntro(tag=meme_Anglers)         ->Я [founder_spend] за рыбалкой столько лет, сколько это вообще возможно. И, иногда, провожу ещё. И сейчас я [founder_know], что</li>
-    <li>lesson(tag=meme_Anglers)              ->рыбалка это всё же тяжёлая работа. Ночью и днём, в дождь и жару. Вы всегда должны оставаться смекалистыми. И ловкими.</li>
+    <li>lesson(tag=meme_Anglers)              ->рыбалка — это всё же тяжёлая работа. Ночью и днём, в дождь и жару. Вы всегда должны оставаться смекалистыми. И ловкими.</li>
     <li>lessonReinforcement(tag=meme_Anglers) ->День, проведённый за рыбалкой, поможет мне принять решение или даст здравую мысль.</li>
     <li>archistBasis(tag=meme_Anglers)    ->Арохотеки наполнили водоёмы удивительным изобилием, доступным каждому, у кого есть навыки взять его.</li>
     <li>archistFact(tag=meme_Anglers)     ->Архотеки ценят изобретательность превыше всего. Поэтому мы принимаем изобилие вод, как их дар.</li> 
