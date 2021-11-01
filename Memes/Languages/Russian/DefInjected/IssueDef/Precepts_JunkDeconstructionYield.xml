@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_JunkDeconstructionYield.label>deconstruction yield</VME_JunkDeconstructionYield.label>
-
-
+  <!-- EN: deconstruction yield -->
+  <VME_JunkDeconstructionYield.label>продуктивность разборки</VME_JunkDeconstructionYield.label>
 </LanguageData>
