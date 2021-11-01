@@ -16,12 +16,12 @@
   <!-- EN: best crafter -->
   <VME_Leader_BestCrafter.label>лучший ремесленник</VME_Leader_BestCrafter.label>
   <!-- EN: Our most skilled artisan is our leader, through their keen eye and delicate touch our workshops will sing the song of creation.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - The leader role will periodically be forced upon the highest level crafter in the colony (this will only work if the ideology is the primary one). -->
-  <VME_Leader_BestCrafter.description>Наш самый умелый ремесленник — наш лидер. Под его зорким взглядом и чутким наставлением наши мастерские споют гимн творчества.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n — Периодически на роль лидера будет принудительно выдвигаться лучший ремесленник (когда эта идеология является основной).</VME_Leader_BestCrafter.description>
+  <VME_Leader_BestCrafter.description>Наш самый умелый ремесленник — наш лидер. Под его зорким взглядом и чутким наставлением, наши мастерские споют гимн творчества.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n — Периодически на роль лидера будет принудительно выдвигаться лучший ремесленник (когда эта идеология является основной).</VME_Leader_BestCrafter.description>
 
   <!-- EN: best fighter -->
   <VME_Leader_BestFighter.label>лучший боец</VME_Leader_BestFighter.label>
   <!-- EN: Martial expertise, be it with a blade or spear is a show of strength and courage. Our most talented fighter will be our leader, no questions asked (this will only work if the ideology is the primary one). -->
-  <VME_Leader_BestFighter.description>Боевые навыки владения клинком или копьём — проявление силы и отваги. Самый талантливый боец и будет нашим лидером, без сомнения.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n — Периодически на роль лидера будет принудительно выдвигаться лучший боец (когда эта идеология является основной).</VME_Leader_BestFighter.description>
+  <VME_Leader_BestFighter.description>Боевые навыки владения клинком или копьём — проявление силы и отваги. Самый талантливый боец и будет нашим лидером. Без сомнения.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n — Периодически на роль лидера будет принудительно выдвигаться лучший боец (когда эта идеология является основной).</VME_Leader_BestFighter.description>
 
   <!-- EN: three -->
   <VME_Leader_Three.label>триумвират</VME_Leader_Three.label>

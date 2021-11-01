@@ -48,5 +48,5 @@
   <!-- EN: beautiful junk -->
   <VME_Junk_Beautiful.stages.9.label>прекрасный хлам</VME_Junk_Beautiful.stages.9.label>
   <!-- EN: I am surrounded by a junkyard and I love it. -->
-  <VME_Junk_Beautiful.stages.9.description>Я {PAWN_gender ? окружен : окружена} свалкой и мне это нравится.</VME_Junk_Beautiful.stages.9.description>
+  <VME_Junk_Beautiful.stages.9.description>Я {PAWN_gender ? окружен : окружена} свалкой, и мне это нравится.</VME_Junk_Beautiful.stages.9.description>
 </LanguageData>
