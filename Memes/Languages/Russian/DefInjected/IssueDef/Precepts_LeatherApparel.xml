@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_LeatherApparel.label>leather apparel</VME_LeatherApparel.label>
-
-
+  <!-- EN: leather apparel -->
+  <VME_LeatherApparel.label>одежда из кожи</VME_LeatherApparel.label>
 </LanguageData>
