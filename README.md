@@ -1,6 +1,6 @@
 ﻿##  Перевод серии модов [Vanilla Ideology Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678)
  
- ### Прогресс Memes and Structures 101 из 281
+ ### Прогресс Memes and Structures 102 из 281
  
 Подробности и координация на [дискорд сервере](https://discord.gg/Xmbwmgh)
 
