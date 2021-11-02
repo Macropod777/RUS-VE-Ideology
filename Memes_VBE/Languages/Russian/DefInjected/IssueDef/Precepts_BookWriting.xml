@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Issues -->
-
-  <VME_BookWriting.label>book writing</VME_BookWriting.label>
-
-
+  <!-- EN: book writing -->
+  <VME_BookWriting.label>написание книг</VME_BookWriting.label>
 </LanguageData>
