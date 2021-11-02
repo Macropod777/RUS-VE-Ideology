@@ -6,7 +6,7 @@
   <VME_Junk_Beautiful.stages.0.description>Я слишком долго не {PAWN_gender ? видел : видела} древнего хлама.</VME_Junk_Beautiful.stages.0.description>
 
   <!-- EN: few pieces of ancient junk (1 nearby) -->
-  <VME_Junk_Beautiful.stages.1.label>несколько кусков древнего хлама (1 поблизости)</VME_Junk_Beautiful.stages.1.label>
+  <VME_Junk_Beautiful.stages.1.label>мало кусков древнего хлама (1 поблизости)</VME_Junk_Beautiful.stages.1.label>
   <!-- EN: This area is way too sparse, I miss seeing the junk. -->
   <VME_Junk_Beautiful.stages.1.description>Эта местность слишком пуста, я скучаю по хламу.</VME_Junk_Beautiful.stages.1.description>
 

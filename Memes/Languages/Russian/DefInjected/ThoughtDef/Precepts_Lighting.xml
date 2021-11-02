@@ -3,10 +3,10 @@
   <!-- EN: darklight -->
   <VME_Darklight_NormalPreferred_Darklight.stages.0.label>тёмный свет</VME_Darklight_NormalPreferred_Darklight.stages.0.label>
   <!-- EN: Darklight is unnatural. -->
-  <VME_Darklight_NormalPreferred_Darklight.stages.0.description>Тёмный свет такой неестествененный.</VME_Darklight_NormalPreferred_Darklight.stages.0.description>
+  <VME_Darklight_NormalPreferred_Darklight.stages.0.description>Тёмный свет такой неестественный.</VME_Darklight_NormalPreferred_Darklight.stages.0.description>
 
   <!-- EN: despised darkness -->
   <VME_Darklight_DislikeDarkness.stages.0.label>гнетущая тьма</VME_Darklight_DislikeDarkness.stages.0.label>
   <!-- EN: Darkness is unnatural and disgusting. -->
-  <VME_Darklight_DislikeDarkness.stages.0.description>Находиться во тьма ненормально и отвратительно</VME_Darklight_DislikeDarkness.stages.0.description>
+  <VME_Darklight_DislikeDarkness.stages.0.description>Находиться во тьме ненормально и отвратительно.</VME_Darklight_DislikeDarkness.stages.0.description>
 </LanguageData>
