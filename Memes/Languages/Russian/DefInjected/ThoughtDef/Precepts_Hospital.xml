@@ -1,16 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: need hospital -->
+  <VME_Hospital_Required.stages.0.label>нужна больница</VME_Hospital_Required.stages.0.label>
+  <!-- EN: We lack a place to help people and should have a dedicated hospital. -->
+  <VME_Hospital_Required.stages.0.description>У нас нет места, где можно было бы помочь людям, нам нужна специальная больница.</VME_Hospital_Required.stages.0.description>
 
-  <!-- Precepts -->
+  <!-- EN: small hospital -->
+  <VME_Hospital_Required.stages.1.label>небольшая больница</VME_Hospital_Required.stages.1.label>
+  <!-- EN: We have a small hospital. -->
+  <VME_Hospital_Required.stages.1.description>У нас есть небольшая больница.</VME_Hospital_Required.stages.1.description>
 
-  <VME_Hospital_Required.stages.0.label>need hospital</VME_Hospital_Required.stages.0.label>
-  <VME_Hospital_Required.stages.0.description>We lack a place to help people and should have a dedicated hospital.</VME_Hospital_Required.stages.0.description>
-  <VME_Hospital_Required.stages.1.label>small hospital</VME_Hospital_Required.stages.1.label>
-  <VME_Hospital_Required.stages.1.description>We have a small hospital.</VME_Hospital_Required.stages.1.description>
-  <VME_Hospital_Required.stages.2.label>spacious hospital</VME_Hospital_Required.stages.2.label>
-  <VME_Hospital_Required.stages.2.description>We have a very spacious hospital.</VME_Hospital_Required.stages.2.description>
-  <VME_Hospital_Required.stages.3.label>huge hospital</VME_Hospital_Required.stages.3.label>
-  <VME_Hospital_Required.stages.3.description>We have a huge, professional hospital!</VME_Hospital_Required.stages.3.description>
+  <!-- EN: spacious hospital -->
+  <VME_Hospital_Required.stages.2.label>просторная больница</VME_Hospital_Required.stages.2.label>
+  <!-- EN: We have a very spacious hospital. -->
+  <VME_Hospital_Required.stages.2.description>У нас очень просторная больница .</VME_Hospital_Required.stages.2.description>
 
-
+  <!-- EN: huge hospital -->
+  <VME_Hospital_Required.stages.3.label>огромная больница</VME_Hospital_Required.stages.3.label>
+  <!-- EN: We have a huge, professional hospital! -->
+  <VME_Hospital_Required.stages.3.description>У нас есть огромная профессиональная больница !</VME_Hospital_Required.stages.3.description>
 </LanguageData>

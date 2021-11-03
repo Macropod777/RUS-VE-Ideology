@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Precepts -->
-
-  <VME_InsectJelly.label>insect jelly</VME_InsectJelly.label>
-
-
+  <!-- EN: insect jelly -->
+  <VME_InsectJelly.label>желе насекомых</VME_InsectJelly.label>
 </LanguageData>
