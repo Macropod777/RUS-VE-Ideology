@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Precepts -->
-
+  <!-- EN: neutral -->
   <VME_InsectJellyEaten_Neutral_Classic.label>neutral</VME_InsectJellyEaten_Neutral_Classic.label>
-  <VME_InsectJellyEaten_Neutral_Classic.description>Insect jelly is smooth, rich and nourishing, even though it has some... questionable origins.</VME_InsectJellyEaten_Neutral_Classic.description>
+  <!-- EN: Insect jelly is smooth, rich and nourishing, even though it has some... questionable origins. -->
+  <VME_InsectJellyEaten_Neutral_Classic.description>Желе насекомых нежное, сочное и питательное, хотя у его немного... сомнительное происхождение.</VME_InsectJellyEaten_Neutral_Classic.description>
 
-  <VME_InsectJellyEaten_Loved_Classic.label>loved</VME_InsectJellyEaten_Loved_Classic.label>
-  <VME_InsectJellyEaten_Loved_Classic.description>Insect jelly is divine ambrosia, a gift from perfect creatures.</VME_InsectJellyEaten_Loved_Classic.description>
-
-
+  <!-- EN: loved -->
+  <VME_InsectJellyEaten_Loved_Classic.label>любимо</VME_InsectJellyEaten_Loved_Classic.label>
+  <!-- EN: Insect jelly is divine ambrosia, a gift from perfect creatures. -->
+  <VME_InsectJellyEaten_Loved_Classic.description>Желе насекомых — божественная амброзия, дар совершенных созданий.</VME_InsectJellyEaten_Loved_Classic.description>
 </LanguageData>

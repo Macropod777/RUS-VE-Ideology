@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Issues -->
-
-  <VME_Immunity.label>immunity</VME_Immunity.label>
-
-
+  <!-- EN: immunity -->
+  <VME_Immunity.label>иммунитет</VME_Immunity.label>
 </LanguageData>
