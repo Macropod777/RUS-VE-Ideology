@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: extinguished fire -->
+  <VME_Firefighting_Abhorrent.stages.0.label>потушен пожар</VME_Firefighting_Abhorrent.stages.0.label>
+  <!-- EN: I had to extinguish fire. What a violation of the spirits. -->
+  <VME_Firefighting_Abhorrent.stages.0.description>Мне пришлось потушить пожар. Какое надругательство над духами.</VME_Firefighting_Abhorrent.stages.0.description>
 
-  <!-- Precepts -->
-
-  <VME_Firefighting_Abhorrent.stages.0.label>extinguished fire</VME_Firefighting_Abhorrent.stages.0.label>
-  <VME_Firefighting_Abhorrent.stages.0.description>I had to extinguish fire. What a violation of the spirits.</VME_Firefighting_Abhorrent.stages.0.description>
-
-  <VME_Firefighting_Preferred.stages.0.label>extinguished fire</VME_Firefighting_Preferred.stages.0.label>
-  <VME_Firefighting_Preferred.stages.0.description>I extinguished a fire. What an exhilarating experience!</VME_Firefighting_Preferred.stages.0.description>
-
-
+  <!-- EN: extinguished fire -->
+  <VME_Firefighting_Preferred.stages.0.label>потушен пожар</VME_Firefighting_Preferred.stages.0.label>
+  <!-- EN: I extinguished a fire. What an exhilarating experience! -->
+  <VME_Firefighting_Preferred.stages.0.description>Я  {PAWN_gender ? потушил : потушила} пожар. Какой волнующий опыт!</VME_Firefighting_Preferred.stages.0.description>
 </LanguageData>

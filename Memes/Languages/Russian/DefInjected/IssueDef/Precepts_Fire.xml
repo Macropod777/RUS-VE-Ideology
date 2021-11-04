@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_Fire.label>fire</VME_Fire.label>
-
-
+  <!-- EN: fire -->
+  <VME_Fire.label>огонь</VME_Fire.label>
 </LanguageData>
