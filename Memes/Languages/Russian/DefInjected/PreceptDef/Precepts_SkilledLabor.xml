@@ -4,4 +4,9 @@
   <VME_SkilledLabor_Slow.label>замедлена</VME_SkilledLabor_Slow.label>
   <!-- EN: Pursuits of skilled labor are meticulous and time-consuming, it is better to focus our attention and efforts elsewhere. -->
   <VME_SkilledLabor_Slow.description>Занятия квалифицированным трудом слишком сложны и времязатратны, поэтому лучше приложить усилия и внимание к чем-нибудь другому.</VME_SkilledLabor_Slow.description>
+
+  <!-- EN: relaxed -->
+  <VME_SkilledLabor_Relaxed.label>расслаблена</VME_SkilledLabor_Relaxed.label>
+  <!-- EN: Skilled labour should be approached with care and time. Rushing things only leads to sloppy results and unfortunate accidents. -->
+  <VME_SkilledLabor_Relaxed.description>Квалифицированным трудом следует заниматься осторожно и неспеша. Спешка ведёт к неряшливым результатам и досадным происшествиям.</VME_SkilledLabor_Relaxed.description>
 </LanguageData>
