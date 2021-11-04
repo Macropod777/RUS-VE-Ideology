@@ -3,10 +3,10 @@
   <!-- EN: exalted -->
   <VME_Insectoids_Exalted.label>обожание</VME_Insectoids_Exalted.label>
   <!-- EN: Insects are not our enemies, only misunderstood and they certainly don’t deserve our aggression. -->
-  <VME_Insectoids_Exalted.description>Насекомые нам не враги, просто их неправильно понимают, и они, безусловно, не заслуживают нашей агрессии.</VME_Insectoids_Exalted.description>
+  <VME_Insectoids_Exalted.description>Насекомые нам не враги. Это всего лишь распространённое заблуждение. Они не заслуживают агрессивного отношения.</VME_Insectoids_Exalted.description>
 
   <!-- EN: despised -->
   <VME_Insectoids_Despised.label>презрение</VME_Insectoids_Despised.label>
   <!-- EN: Insects are our enemies, a plague that deserves to be exterminated. -->
-  <VME_Insectoids_Despised.description>Насекомые — наши враги, зараза, которая заслуживает уничтожения.</VME_Insectoids_Despised.description>
+  <VME_Insectoids_Despised.description>Насекомые — наши враги. Это настоящая зараза, заслуживающая скорейшего уничтожения.</VME_Insectoids_Despised.description>
 </LanguageData>
