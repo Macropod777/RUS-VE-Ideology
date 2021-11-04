@@ -3,7 +3,7 @@
   <!-- EN: need hospital -->
   <VME_Hospital_Required.stages.0.label>нужна больница</VME_Hospital_Required.stages.0.label>
   <!-- EN: We lack a place to help people and should have a dedicated hospital. -->
-  <VME_Hospital_Required.stages.0.description>У нас нет места, где можно было бы помочь людям, нам нужна специальная больница.</VME_Hospital_Required.stages.0.description>
+  <VME_Hospital_Required.stages.0.description>У нас нет места, где можно было бы помочь людям. Нам нужно выделенное под больницу помещение.</VME_Hospital_Required.stages.0.description>
 
   <!-- EN: small hospital -->
   <VME_Hospital_Required.stages.1.label>небольшая больница</VME_Hospital_Required.stages.1.label>
@@ -18,5 +18,5 @@
   <!-- EN: huge hospital -->
   <VME_Hospital_Required.stages.3.label>огромная больница</VME_Hospital_Required.stages.3.label>
   <!-- EN: We have a huge, professional hospital! -->
-  <VME_Hospital_Required.stages.3.description>У нас есть огромная профессиональная больница !</VME_Hospital_Required.stages.3.description>
+  <VME_Hospital_Required.stages.3.description>У нас есть огромная профессиональная больница!</VME_Hospital_Required.stages.3.description>
 </LanguageData>

@@ -3,12 +3,12 @@
   <!-- EN: exalted -->
   <VME_Illness_Exalted.label>обожаемы</VME_Illness_Exalted.label>
   <!-- EN: To be infected is to be blessed, and to go long without blessing is regrettable. -->
-  <VME_Illness_Exalted.description>Заразиться — значит получить благословение, а долго жить без благословения — горько.</VME_Illness_Exalted.description>
+  <VME_Illness_Exalted.description>Кто болен, тот благословлён. Жизнь без благословений полна сожалений.</VME_Illness_Exalted.description>
 
   <!-- EN: preferred -->
   <VME_Illness_Preferred.label>желанны</VME_Illness_Preferred.label>
   <!-- EN: Being sick gives you an excuse to lie down and work less. It's worth it! -->
-  <VME_Illness_Preferred.description>Болезнь дает вам возможность лежать и не работать. Оно того стоит!</VME_Illness_Preferred.description>
+  <VME_Illness_Preferred.description>Болезнь даёт повод лежать и не работать. Ну не хорошо ли?</VME_Illness_Preferred.description>
 
   <!-- EN: indifferent -->
   <VME_Illness_Indifferent.label>безразличны</VME_Illness_Indifferent.label>
