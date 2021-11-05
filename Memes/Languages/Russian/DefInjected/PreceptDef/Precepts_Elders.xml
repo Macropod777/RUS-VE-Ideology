@@ -3,11 +3,11 @@
   <!-- EN: despised -->
   <VME_Elders_Despised.label>презираемы</VME_Elders_Despised.label>
   <!-- EN: What is this, a retirement home? Get out of my way, fossil! -->
-  <VME_Elders_Despised.description>Здесь что, дом престарелых? Убирайся с дороги, ископаемое!</VME_Elders_Despised.description>
+  <VME_Elders_Despised.description>Здесь что, дом престарелых? Прочь с дороги, ископаемое!</VME_Elders_Despised.description>
   <!-- EN: Elder (more than 65 years) -->
   <VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>Старость (более 65 лет)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Youth (less than 25 years) -->
-  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>Молодость (до 25 лет)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>
+  <VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>Молодость (менее 25 лет)</VME_Elders_Despised.comps.0.thoughtStageDescriptions.1>
 
   <!-- EN: respected -->
   <VME_Elders_Respected.label>уважаемы</VME_Elders_Respected.label>

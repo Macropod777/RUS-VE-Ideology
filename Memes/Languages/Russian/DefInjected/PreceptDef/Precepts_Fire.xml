@@ -3,7 +3,7 @@
   <!-- EN: desired -->
   <VME_Fire_Desired.label>желаем</VME_Fire_Desired.label>
   <!-- EN: The warmth of ash, the light of embers, scintillating flame is an awesome sight to behold.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists get moods bonuses depending on the number of active fires on the map. Campfires, torches, Stone Campfires from Vanilla Furniture Expanded - Core and Hearths from Vanilla Factions Expanded - Vikings also count. -->
-  <VME_Fire_Desired.description>Тёплый пепел, светящиеся угли, мерцающее пламя — потрясающее зрелище.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n — Поселенцы получают штрафы или бонусы к настроению в зависимости от количества горящих огней на карте. (Также учитываются костры, факелы, каменные очаги из Vanilla Furniture Expanded — Core и очаги из Vanilla Factions Expanded — Vikings.)</VME_Fire_Desired.description>
+  <VME_Fire_Desired.description>Тепло пепла, свечение углей, мерцание пламени — всё это потрясающее зрелище.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Поселенцы получают бонусы к настроению в зависимости от количества огней на карте. Также учитываются костры и факелы из основной игры, каменные костры из Vanilla Furniture Expanded — Core и очаги из Vanilla Factions Expanded — Vikings.</VME_Fire_Desired.description>
   <!-- EN: No fires nearby -->
   <VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>нет огня поблизости</VME_Fire_Desired.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Very few fires -->
@@ -20,7 +20,7 @@
   <!-- EN: despised -->
   <VME_Fire_Despised.label>нелюбим</VME_Fire_Despised.label>
   <!-- EN: There is nothing as disgusting as an out of control fire. The flames shall be avoided by any means necessary, for their destructive power is unmatched.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Colonists get negative moods depending on the number of active fires on the map. Campfires, torches, Stone Campfires from Vanilla Furniture Expanded - Core and Hearths from Vanilla Factions Expanded - Vikings also count. -->
-  <VME_Fire_Despised.description>Нет ничего более скверного, чем неконтролируемый огонь. Следует пресекать возможность пожара всеми необходимыми средствами, поскольку его разрушительная сила не имеет себе равных.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n — Поселенцы получают штрафы к настроению при наличии горящих огней на карте. (Также учитываются костры, факелы, каменные очаги из Vanilla Furniture Expanded — Core и очаги из Vanilla Factions Expanded — Vikings.)</VME_Fire_Despised.description>
+  <VME_Fire_Despised.description>Нет ничего хуже, чем вышедший из-под контроля огонь. Следует всеми силами пресекать возможность возникновения пожара, ведь его разрушительная сила не имеет себе равных.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Поселенцы получают штрафы к настроению в зависимости от количества огней на карте. Также учитываются костры и факелы из основной игры, каменные костры из Vanilla Furniture Expanded — Core и очаги из Vanilla Factions Expanded — Vikings.</VME_Fire_Despised.description>
   <!-- EN: No fires nearby -->
   <VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>нет огня поблизости</VME_Fire_Despised.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Very few fires -->

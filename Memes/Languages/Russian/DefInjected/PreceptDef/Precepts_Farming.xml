@@ -3,5 +3,5 @@
   <!-- EN: high -->
   <VME_FarmingYield_High.label>высокая</VME_FarmingYield_High.label>
   <!-- EN: Each vegetable or fruit harvested should be harvested down to the last stem, root, or leaf. Leave not a single bit of produce unharvested.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Farming yield: +10%. -->
-  <VME_FarmingYield_High.description>Каждый овощ или фрукт должен быть собран до последнего стебля, корня или листа. Не оставим в поле ни капли урожая.\n\n&lt;color=#E5E54C&gt;Эффекты:&lt;/color&gt;\n - Урожайность садоводства: +10%.</VME_FarmingYield_High.description>
+  <VME_FarmingYield_High.description>Каждый овощ или фрукт должен быть собран, чтобы не осталось лишнего стебля, корня или листа. Мы не оставим в поле ни части урожая несобранной.\n\n&lt;color=#E5E54C&gt;Эффекты:&lt;/color&gt;\n - Урожайность фермерства: +10%.</VME_FarmingYield_High.description>
 </LanguageData>
