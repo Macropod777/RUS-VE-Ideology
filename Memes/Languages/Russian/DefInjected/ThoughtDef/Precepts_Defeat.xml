@@ -3,10 +3,10 @@
   <!-- EN: defeated in combat -->
   <VME_Defeat_Dishonorable.stages.0.label>поражение в бою</VME_Defeat_Dishonorable.stages.0.label>
   <!-- EN: I was defeated in combat, this brings me great dishonor. -->
-  <VME_Defeat_Dishonorable.stages.0.description>Я {PAWN_gender ? потерпел : потерпела} поражение в бою, это несёт мне большой позор.</VME_Defeat_Dishonorable.stages.0.description>
+  <VME_Defeat_Dishonorable.stages.0.description>Я {PAWN_gender ? потерпел : потерпела} поражение в бою. Это лишает меня чести.</VME_Defeat_Dishonorable.stages.0.description>
 
   <!-- EN: defeated in combat twice -->
-  <VME_SecondDefeat_Dishonorable.stages.0.label>снова поражение</VME_SecondDefeat_Dishonorable.stages.0.label>
+  <VME_SecondDefeat_Dishonorable.stages.0.label>второе поражение</VME_SecondDefeat_Dishonorable.stages.0.label>
   <!-- EN: I was defeated in combat again, my dishonor is immeasurable. -->
-  <VME_SecondDefeat_Dishonorable.stages.0.description>Я снова {PAWN_gender ? потерпел : потерпела} поражение в бою, бесчестие мое неизмеримо.</VME_SecondDefeat_Dishonorable.stages.0.description>
+  <VME_SecondDefeat_Dishonorable.stages.0.description>Я снова {PAWN_gender ? потерпел : потерпела} поражение в бою, бесчестие моё неизмеримо.</VME_SecondDefeat_Dishonorable.stages.0.description>
 </LanguageData>

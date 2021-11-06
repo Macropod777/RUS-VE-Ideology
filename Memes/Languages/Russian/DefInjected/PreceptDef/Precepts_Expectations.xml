@@ -3,7 +3,7 @@
   <!-- EN: high -->
   <VME_Expectations_High.label>высокие</VME_Expectations_High.label>
   <!-- EN: Our people are creatures of comfort, even the commoners among us deserve to relax or be pampered from time to time.\n\n&lt;color=#E5E54C&gt;Gameplay effect:&lt;/color&gt;\n - Expectations increased by 1 for everyone in the colony. -->
-  <VME_Expectations_High.description>Человек рождён для счастья, даже самый последний из нас имеет право время от времени отдохнуть и побаловать себя.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Для каждого в поселении ожидания повышены на 1.</VME_Expectations_High.description>
+  <VME_Expectations_High.description>Человек рождён для счастья, даже простолюдины имеют право время от времени отдохнуть и побаловать себя.\n\n&lt;color=#E5E54C&gt;Влияние на игровой процесс:&lt;/color&gt;\n - Для каждого в поселении ожидания повышены на 1.</VME_Expectations_High.description>
 
   <!-- EN: low -->
   <VME_Expectations_Low.label>низкие</VME_Expectations_Low.label>
