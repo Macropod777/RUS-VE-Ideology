@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Precepts -->
-
-  <VME_Meditation_Exquisite.label>exquisite</VME_Meditation_Exquisite.label>
-  <VME_Meditation_Exquisite.description>Hear, feel, think… Beyond meditation, enter trance and surrender yourself to your own soul and those souls around it.</VME_Meditation_Exquisite.description>
-
-
+  <!-- EN: exquisite -->
+  <VME_Meditation_Exquisite.label>совершенная</VME_Meditation_Exquisite.label>
+  <!-- EN: Hear, feel, think… Beyond meditation, enter trance and surrender yourself to your own soul and those souls around it. -->
+  <VME_Meditation_Exquisite.description>Слышать, чувствовать, мыслить... Во время медитации восприятие выходит на новый уровень и душа объединяется с душами вокруг.</VME_Meditation_Exquisite.description>
 </LanguageData>
