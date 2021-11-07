@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Issues -->
-
-  <VME_CraftingQuality.label>crafting quality</VME_CraftingQuality.label>
-
-
+  <!-- EN: crafting quality -->
+  <VME_CraftingQuality.label>качество ремесла</VME_CraftingQuality.label>
 </LanguageData>

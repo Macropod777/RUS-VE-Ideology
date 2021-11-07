@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Issues -->
-
-  <VME_Alcohol.label>alcohol</VME_Alcohol.label>
-
-
+  <!-- EN: alcohol -->
+  <VME_Alcohol.label>алкоголь</VME_Alcohol.label>
 </LanguageData>

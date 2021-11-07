@@ -1,10 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Precepts -->
-
-  <VME_Anonymity_Required.label>required</VME_Anonymity_Required.label>
-  <VME_Anonymity_Required.description>Histrionic tendencies are despicable, through true anonymity we can achieve things thought unfathomable. For the betterment of yourself and your brothers in faith, keep your voice to a whisper and your face covered.</VME_Anonymity_Required.description>
-
-
+  <!-- EN: required -->
+  <VME_Anonymity_Required.label>необходима</VME_Anonymity_Required.label>
+  <!-- EN: Histrionic tendencies are despicable, through true anonymity we can achieve things thought unfathomable. For the betterment of yourself and your brothers in faith, keep your voice to a whisper and your face covered. -->
+  <VME_Anonymity_Required.description>Лицемерие достойно презрения, только благодаря истинной анонимности мы можем достичь того, что нам кажется непостижимым. Для совершенствования себя и своих братьев по вере, говорите шепотом и скрывайте лицо.</VME_Anonymity_Required.description>
 </LanguageData>
