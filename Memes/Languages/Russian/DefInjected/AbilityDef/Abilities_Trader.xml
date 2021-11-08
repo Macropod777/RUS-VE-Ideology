@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_CallTradeCaravan.label>call trade caravan</VME_CallTradeCaravan.label>
-  <VME_CallTradeCaravan.description>Summon a trade caravan.</VME_CallTradeCaravan.description>
-
-
+  <!-- EN: call trade caravan -->
+  <VME_CallTradeCaravan.label>вызвать торговый караван</VME_CallTradeCaravan.label>
+  <!-- EN: Summon a trade caravan. -->
+  <VME_CallTradeCaravan.description>Призывает в поселенире торговый караван.</VME_CallTradeCaravan.description>
 </LanguageData>

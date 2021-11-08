@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_MedicalEmergency.label>medical emergency</VME_MedicalEmergency.label>
-  <VME_MedicalEmergency.description>Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly.</VME_MedicalEmergency.description>
-
-
+  <!-- EN: medical emergency -->
+  <VME_MedicalEmergency.label>скорая медицинская помощь</VME_MedicalEmergency.label>
+  <!-- EN: Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly. -->
+  <VME_MedicalEmergency.description>Останавливает для санитара рост потребности в отдыхе, удовлетворённости и сытости в течение 12 часов. В течение этого времени санитар может правильно выполнять только медицинскую работу.</VME_MedicalEmergency.description>
 </LanguageData>

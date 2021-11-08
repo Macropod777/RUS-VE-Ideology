@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_ThrowParty.label>throw party</VME_ThrowParty.label>
-  <VME_ThrowParty.description>Throws a party.</VME_ThrowParty.description>
-
-
+  <!-- EN: throw party -->
+  <VME_ThrowParty.label>устроить вечеринку</VME_ThrowParty.label>
+  <!-- EN: Throws a party. -->
+  <VME_ThrowParty.description>Устраивает вечеринку.</VME_ThrowParty.description>
 </LanguageData>
