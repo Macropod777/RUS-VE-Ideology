@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Issues -->
-
-  <VME_AutomationEfficiency.label>automation efficiency</VME_AutomationEfficiency.label>
-
-
+  <!-- EN: automation efficiency -->
+  <VME_AutomationEfficiency.label>эффективность автоматизации</VME_AutomationEfficiency.label>
 </LanguageData>

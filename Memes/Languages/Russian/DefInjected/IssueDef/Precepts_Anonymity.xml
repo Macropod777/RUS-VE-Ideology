@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_Anonymity.label>anonymity</VME_Anonymity.label>
-
-
+  <!-- EN: anonymity -->
+  <VME_Anonymity.label>анонимность</VME_Anonymity.label>
 </LanguageData>
