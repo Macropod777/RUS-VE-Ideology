@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_IdeoRole_InsectoidHerder.label>insectoid herder</VME_IdeoRole_InsectoidHerder.label>
-  <VME_IdeoRole_InsectoidHerder.description>A talented tamer of insectoids. Through study or natural talent these leaders are capable of immediately understanding and controlling insectoid creatures, however, as a sacred bond they are not allowed to partake in any other kinds of work. Insectoid herders can erect insectoid hives as part of a short ritual.</VME_IdeoRole_InsectoidHerder.description>
-
-
+  <!-- EN: insectoid herder -->
+  <VME_IdeoRole_InsectoidHerder.label>жуковод</VME_IdeoRole_InsectoidHerder.label>
+  <!-- EN: A talented tamer of insectoids. Through study or natural talent these leaders are capable of immediately understanding and controlling insectoid creatures, however, as a sacred bond they are not allowed to partake in any other kinds of work. Insectoid herders can erect insectoid hives as part of a short ritual. -->
+  <VME_IdeoRole_InsectoidHerder.description>Талантливый дрессировщик насекомых. Благодаря учебе или природному таланту эти специалисты способны мгновенно понимать и брать под контроль насекомоподобных существ, однако эта сокровенная связь не позволяет им участвовать почти ни в какой другой деятельности. Пастухи насекомых могут воздвигать ульи насекомых как часть короткого ритуала.</VME_IdeoRole_InsectoidHerder.description>
 </LanguageData>

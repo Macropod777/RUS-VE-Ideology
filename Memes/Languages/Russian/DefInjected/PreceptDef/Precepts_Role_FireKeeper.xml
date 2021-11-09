@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_IdeoRole_FireKeeper.label>fire keeper</VME_IdeoRole_FireKeeper.label>
-  <VME_IdeoRole_FireKeeper.description>A keeper of sacred flame whose primary job is to control pyres, bonfires, and kilns. Respected unanimously by their disciples, they have no qualms extinguishing fires and followers will respect their decisions to do so. All Firekeepers possess the ability to ignite flame sources and cause an explosion.</VME_IdeoRole_FireKeeper.description>
-
-
+  <!-- EN: fire keeper -->
+  <VME_IdeoRole_FireKeeper.label>хранитель огня</VME_IdeoRole_FireKeeper.label>
+  <!-- EN: A keeper of sacred flame whose primary job is to control pyres, bonfires, and kilns. Respected unanimously by their disciples, they have no qualms extinguishing fires and followers will respect their decisions to do so. All Firekeepers possess the ability to ignite flame sources and cause an explosion. -->
+  <VME_IdeoRole_FireKeeper.description>Хранитель священного пламени, чья обязанность — контролировать факелы, костры и печи. Беззаговорочно уважается соплеменниками, и без угрызений совести тушит пожары, последователи будут уважать такие решения. Все хранители пламени обладают способностью усиливать природные источники огня и вызывать взрыв.</VME_IdeoRole_FireKeeper.description>
 </LanguageData>

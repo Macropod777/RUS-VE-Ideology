@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_IdeoRole_Commissar.label>commissar</VME_IdeoRole_Commissar.label>
-  <VME_IdeoRole_Commissar.description>A brave and ruthless military tactician who specializes in leading by means of fear and threats. Capable of executing insubordinate pawns in order to motivate the rest.</VME_IdeoRole_Commissar.description>
-
-
+  <!-- EN: commissar -->
+  <VME_IdeoRole_Commissar.label>комиссар</VME_IdeoRole_Commissar.label>
+  <!-- EN: A brave and ruthless military tactician who specializes in leading by means of fear and threats. Capable of executing insubordinate pawns in order to motivate the rest. -->
+  <VME_IdeoRole_Commissar.description>Отважный и безжалостный военный тактик, который специализируется на руководстве с помощью страха и угроз. Может казнить недисциплинированных поселенцев, чтобы поднять дух остальных.</VME_IdeoRole_Commissar.description>
 </LanguageData>

@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_HarvestBodyParts.label>harvest body parts</VME_HarvestBodyParts.label>
-  <VME_HarvestBodyParts.description>Executes a colonist. Every colonist receives a positive mood bonus.</VME_HarvestBodyParts.description>
-
-
+  <!-- EN: harvest body parts -->
+  <VME_HarvestBodyParts.label>извлечь части тела</VME_HarvestBodyParts.label>
+  <!-- EN: Harvests a fleshcrafted body part from a corpse. -->
+  <VME_HarvestBodyParts.description>Извлекает из свежего трупа части тела, состоящие из плоти (неаугментированные).</VME_HarvestBodyParts.description>
 </LanguageData>
