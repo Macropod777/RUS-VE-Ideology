@@ -1,64 +1,93 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: corporate fine sandstone tile -->
+  <VME_CorporateFineTileSandstone.label>корпоратская изысканная плитка из песчаника</VME_CorporateFineTileSandstone.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileSandstone.description>Изысканная плитка в корпоратском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_CorporateFineTileSandstone.description>
 
-  <!-- Corporate -->
+  <!-- EN: corporate fine granite tile -->
+  <VME_CorporateFineTileGranite.label>корпоратская изысканная гранитная плитка</VME_CorporateFineTileGranite.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileGranite.description>Изысканная плитка в корпоратском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_CorporateFineTileGranite.description>
 
-  <VME_CorporateFineTileSandstone.label>corporate fine sandstone tile</VME_CorporateFineTileSandstone.label>
-  <VME_CorporateFineTileSandstone.description>Fine stone tiles in a corporate style for expressing economic status. Slow to construct.</VME_CorporateFineTileSandstone.description>
+  <!-- EN: corporate fine limestone tile -->
+  <VME_CorporateFineTileLimestone.label>корпоратская изысканная плитка из известняка</VME_CorporateFineTileLimestone.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileLimestone.description>Изысканная плитка в корпоратском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_CorporateFineTileLimestone.description>
 
-  <VME_CorporateFineTileGranite.label>corporate fine granite tile</VME_CorporateFineTileGranite.label>
-  <VME_CorporateFineTileGranite.description>Fine stone tiles in a corporate style for expressing economic status. Slow to construct.</VME_CorporateFineTileGranite.description>
+  <!-- EN: corporate fine slate tile -->
+  <VME_CorporateFineTileSlate.label>корпоратская изысканная плитка из сланца</VME_CorporateFineTileSlate.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileSlate.description>Изысканная плитка в корпоратском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_CorporateFineTileSlate.description>
 
-  <VME_CorporateFineTileLimestone.label>corporate fine limestone tile</VME_CorporateFineTileLimestone.label>
-  <VME_CorporateFineTileLimestone.description>Fine stone tiles in a corporate style for expressing economic status. Slow to construct.</VME_CorporateFineTileLimestone.description>
-
-  <VME_CorporateFineTileSlate.label>corporate fine slate tile</VME_CorporateFineTileSlate.label>
-  <VME_CorporateFineTileSlate.description>Fine stone tiles in a corporate style for expressing economic status. Slow to construct.</VME_CorporateFineTileSlate.description>
-
-  <VME_CorporateFineTileMarble.label>corporate fine marble tile</VME_CorporateFineTileMarble.label>
-  <VME_CorporateFineTileMarble.description>Fine stone tiles in a corporate style for expressing economic status. Slow to construct.</VME_CorporateFineTileMarble.description>
-
-
-  <!-- Shintao -->
-
-  <VME_ShintaoFineTileSandstone.label>shintao fine sandstone tile</VME_ShintaoFineTileSandstone.label>
-  <VME_ShintaoFineTileSandstone.description>Fine stone tiles in a shintao style for expressing economic status. Slow to construct.</VME_ShintaoFineTileSandstone.description>
-
-  <VME_ShintaoFineTileGranite.label>shintao fine granite tile</VME_ShintaoFineTileGranite.label>
-  <VME_ShintaoFineTileGranite.description>Fine stone tiles in a shintao style for expressing economic status. Slow to construct.</VME_ShintaoFineTileGranite.description>
-
-  <VME_ShintaoFineTileLimestone.label>shintao fine limestone tile</VME_ShintaoFineTileLimestone.label>
-  <VME_ShintaoFineTileLimestone.description>Fine stone tiles in a shintao style for expressing economic status. Slow to construct.</VME_ShintaoFineTileLimestone.description>
-
-  <VME_ShintaoFineTileSlate.label>shintao fine slate tile</VME_ShintaoFineTileSlate.label>
-  <VME_ShintaoFineTileSlate.description>Fine stone tiles in a shintao style for expressing economic status. Slow to construct.</VME_ShintaoFineTileSlate.description>
-
-  <VME_ShintaoFineTileMarble.label>shintao fine marble tile</VME_ShintaoFineTileMarble.label>
-  <VME_ShintaoFineTileMarble.description>Fine stone tiles in a shintao style for expressing economic status. Slow to construct.</VME_ShintaoFineTileMarble.description>
-
-  <VME_ShintaoCarpetRed.label>shintao red carpet</VME_ShintaoCarpetRed.label>
-  <VME_ShintaoCarpetRed.description>Plush carpet in a lovely rose hue.</VME_ShintaoCarpetRed.description>
-
-  <VME_ShintaoCarpetGreen.label>shintao green carpet</VME_ShintaoCarpetGreen.label>
-  <VME_ShintaoCarpetGreen.description>Naturalistic-feeling green carpet. Earth tones, dude.</VME_ShintaoCarpetGreen.description>
-
-  <VME_ShintaoCarpetBlue.label>shintao blue carpet</VME_ShintaoCarpetBlue.label>
-  <VME_ShintaoCarpetBlue.description>Toe-hugging plush carpet in a cool blue color.</VME_ShintaoCarpetBlue.description>
-
-  <VME_ShintaoCarpetCream.label>shintao cream carpet</VME_ShintaoCarpetCream.label>
-  <VME_ShintaoCarpetCream.description>Inviting cream-colored carpet.</VME_ShintaoCarpetCream.description>
-
-  <VME_ShintaoCarpetDark.label>shintao dark carpet</VME_ShintaoCarpetDark.label>
-  <VME_ShintaoCarpetDark.description>Professional-looking dark gray carpet.</VME_ShintaoCarpetDark.description>
-
-  <VME_ShintaoCarpetFineBurgundy.label>fine shintao burgundy carpet</VME_ShintaoCarpetFineBurgundy.label>
-  <VME_ShintaoCarpetFineBurgundy.description>Classic burgundy carpet for that classic rich look.</VME_ShintaoCarpetFineBurgundy.description>
-
-  <VME_ShintaoCarpetFineIndigo.label>fine shintao indigo carpet</VME_ShintaoCarpetFineIndigo.label>
-  <VME_ShintaoCarpetFineIndigo.description>Soft and silky indigo carpet, for that extra sense of pomp.</VME_ShintaoCarpetFineIndigo.description>
-
-  <VME_ShintaoCarpetFineWhite.label>fine shintao white carpet</VME_ShintaoCarpetFineWhite.label>
-  <VME_ShintaoCarpetFineWhite.description>Sublime white carpet, glimmering with subtle patterns.</VME_ShintaoCarpetFineWhite.description>
+  <!-- EN: corporate fine marble tile -->
+  <VME_CorporateFineTileMarble.label>корпоратская изысканная мраморная плитка</VME_CorporateFineTileMarble.label>
+  <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+  <VME_CorporateFineTileMarble.description>Изысканная плитка в корпоратском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_CorporateFineTileMarble.description>
 
 
+  <!-- EN: shintao fine sandstone tile -->
+  <VME_ShintaoFineTileSandstone.label>шиндаистская изысканная плитка из песчаника</VME_ShintaoFineTileSandstone.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileSandstone.description>Изысканная плитка в шиндаистском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_ShintaoFineTileSandstone.description>
+
+  <!-- EN: shintao fine granite tile -->
+  <VME_ShintaoFineTileGranite.label>шиндаистская изысканная гранитная плитка</VME_ShintaoFineTileGranite.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileGranite.description>Изысканная плитка в шиндаистском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_ShintaoFineTileGranite.description>
+
+  <!-- EN: shintao fine limestone tile -->
+  <VME_ShintaoFineTileLimestone.label>шиндаистская изысканная плитка из известняка</VME_ShintaoFineTileLimestone.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileLimestone.description>Изысканная плитка в шиндаистском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_ShintaoFineTileLimestone.description>
+
+  <!-- EN: shintao fine slate tile -->
+  <VME_ShintaoFineTileSlate.label>шиндаистская изысканная плитка из сланца</VME_ShintaoFineTileSlate.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileSlate.description>Изысканная плитка в шиндаистском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_ShintaoFineTileSlate.description>
+
+  <!-- EN: shintao fine marble tile -->
+  <VME_ShintaoFineTileMarble.label>шиндаистская изысканная мраморная плитка</VME_ShintaoFineTileMarble.label>
+  <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+  <VME_ShintaoFineTileMarble.description>Изысканная плитка в шиндаистском стиле, прекрасно подчёркивающая финансовое положение владельца. Трудоёмка в производстве.</VME_ShintaoFineTileMarble.description>
+
+  <!-- EN: shintao red carpet -->
+  <VME_ShintaoCarpetRed.label>шиндаистский красный ковёр</VME_ShintaoCarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <VME_ShintaoCarpetRed.description>Алый, словно роза, плюшевый ковёр.</VME_ShintaoCarpetRed.description>
+
+  <!-- EN: shintao green carpet -->
+  <VME_ShintaoCarpetGreen.label>шиндаистский зелёный ковёр</VME_ShintaoCarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <VME_ShintaoCarpetGreen.description>Ковёр естественного, по-природному свежего зелёного цвета.</VME_ShintaoCarpetGreen.description>
+
+  <!-- EN: shintao blue carpet -->
+  <VME_ShintaoCarpetBlue.label>шиндаистский синий ковёр</VME_ShintaoCarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
+  <VME_ShintaoCarpetBlue.description>Мягчайший плюшевый ковёр холодного синего цвета.</VME_ShintaoCarpetBlue.description>
+
+  <!-- EN: shintao cream carpet -->
+  <VME_ShintaoCarpetCream.label>шиндаистский кремовый ковёр</VME_ShintaoCarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
+  <VME_ShintaoCarpetCream.description>Приятный ковёр располагающего кремового цвета.</VME_ShintaoCarpetCream.description>
+
+  <!-- EN: shintao dark carpet -->
+  <VME_ShintaoCarpetDark.label>шиндаистский тёмный ковёр</VME_ShintaoCarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
+  <VME_ShintaoCarpetDark.description>Ковёр тёмно-серого цвета в сдержанном деловом стиле.</VME_ShintaoCarpetDark.description>
+
+  <!-- EN: fine shintao burgundy carpet -->
+  <VME_ShintaoCarpetFineBurgundy.label>изысканный шиндаистский багровый ковёр</VME_ShintaoCarpetFineBurgundy.label>
+  <!-- EN: Classic burgundy carpet for that classic rich look. -->
+  <VME_ShintaoCarpetFineBurgundy.description>Классический багровый ковёр для создания обстановки классической роскоши.</VME_ShintaoCarpetFineBurgundy.description>
+
+  <!-- EN: fine shintao indigo carpet -->
+  <VME_ShintaoCarpetFineIndigo.label>изысканный шиндаистский аметистовый ковёр</VME_ShintaoCarpetFineIndigo.label>
+  <!-- EN: Soft and silky indigo carpet, for that extra sense of pomp. -->
+  <VME_ShintaoCarpetFineIndigo.description>Мягкий и шелковистый аметистовый ковёр, добавляющий обстановке ощущение пышности.</VME_ShintaoCarpetFineIndigo.description>
+
+  <!-- EN: fine shintao white carpet -->
+  <VME_ShintaoCarpetFineWhite.label>изысканный шиндаистский белый ковёр</VME_ShintaoCarpetFineWhite.label>
+  <!-- EN: Sublime white carpet, glimmering with subtle patterns. -->
+  <VME_ShintaoCarpetFineWhite.description>Ковёр благородного белого цвета, сияющий едва заметными узорами.</VME_ShintaoCarpetFineWhite.description>
 </LanguageData>
