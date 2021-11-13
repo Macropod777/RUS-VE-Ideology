@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: ancient system rack -->
-  <VME_AncientSystemRack.label>древняя системная стойка</VME_AncientSystemRack.label>
+  <VME_AncientSystemRack.label>древняя серверная стойка</VME_AncientSystemRack.label>
   <!-- EN: An ancient rack unit packed with unidentifiable devices. Valuable parts are missing, and everything else is degraded to uselessness. -->
   <VME_AncientSystemRack.description>Древний стеллаж, набитый неопознанными штуковинами. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientSystemRack.description>
 
@@ -28,12 +28,12 @@
   <!-- EN: ancient bed -->
   <VME_AncientBed.label>древняя кровать</VME_AncientBed.label>
   <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
-  <VME_AncientBed.description>Старый гнилой матрас на ржавой раме. Хотя он неудобен, но всё ещё пригоден к использованию, однако он слишком ветхий, чтобы чинить.</VME_AncientBed.description>
+  <VME_AncientBed.description>Старый гнилой матрас на ржавой раме. Несмотря на неудобство, кровать всё ещё можно к использовать по прямому назначению, но не починить.</VME_AncientBed.description>
 
   <!-- EN: ancient display bank -->
   <VME_AncientDisplayBank.label>ряд древних дисплеев</VME_AncientDisplayBank.label>
   <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <VME_AncientDisplayBank.description>Древний компьютерный интерфейс. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientDisplayBank.description>
+  <VME_AncientDisplayBank.description>Древняя система экранов. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientDisplayBank.description>
 
   <!-- EN: ancient locker bank -->
   <VME_AncientLockerBank.label>ряд древних шкафов</VME_AncientLockerBank.label>
@@ -48,7 +48,7 @@
   <!-- EN: ancient military crate -->
   <VME_AncientMilitaryCrate.label>древний военный ящик</VME_AncientMilitaryCrate.label>
   <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
-  <VME_AncientMilitaryCrate.description>Древний ящик военной внешности. Он был взломан давным-давно, и всё ценное из него было утащено.</VME_AncientMilitaryCrate.description>
+  <VME_AncientMilitaryCrate.description>Древний ящик с армейскими отметками. Он был взломан давным-давно, и всё ценное из него было утащено.</VME_AncientMilitaryCrate.description>
 
   <!-- EN: ancient spacer crate -->
   <VME_AncientSpacerCrate.label>древний космический ящик</VME_AncientSpacerCrate.label>
@@ -58,7 +58,7 @@
   <!-- EN: ancient barrel -->
   <VME_AncientBarrel.label>древняя бочка</VME_AncientBarrel.label>
   <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
-  <VME_AncientBarrel.description>Древняя дырявая бочка, выглядит как будто в ней хранились какие-то отбросы. Единственное, что в ней сейчас — это размазанная засохшая грязь.</VME_AncientBarrel.description>
+  <VME_AncientBarrel.description>Древняя дырявая бочка, выглядит как будто в ней хранились какие-то отходы. Единственное, что в ней сейчас — это размазанная засохшая грязь.</VME_AncientBarrel.description>
 
   <!-- EN: ancient generator -->
   <VME_AncientGenerator.label>древний генератор</VME_AncientGenerator.label>
