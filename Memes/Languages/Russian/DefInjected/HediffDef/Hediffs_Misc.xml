@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_MedicalEmergencyHediff.label>medical emergency</VME_MedicalEmergencyHediff.label>
-  <VME_MedicalEmergencyHediff.description>Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly.</VME_MedicalEmergencyHediff.description>
-
-
+  <!-- EN: medical emergency -->
+  <VME_MedicalEmergencyHediff.label>чрезвычайная ситуация</VME_MedicalEmergencyHediff.label>
+  <!-- EN: Stops the Nurse’s Rest, Recreation and Hunger from dropping for 12 hours. During this time, Nurse can only do Doctoring jobs properly. -->
+  <VME_MedicalEmergencyHediff.description>Останавливает на 12 часов рост потребности в отдыхе, удовлетворённости и сытости. В течение этого времени медик будет заниматься исключительно лечением.</VME_MedicalEmergencyHediff.description>
 </LanguageData>

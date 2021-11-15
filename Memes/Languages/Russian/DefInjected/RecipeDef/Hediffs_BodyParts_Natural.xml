@@ -1,95 +1,130 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- Arm -->
+  <!-- EN: install fleshcrafted arm -->
+  <VME_InstallFleshcraftedArm.label>установить руку из плоти</VME_InstallFleshcraftedArm.label>
+  <!-- EN: Install a fleshcrafted arm. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedArm.description>Установить руку из плоти. Может быть безопасно имплантирована поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedArm.description>
+  <!-- EN: Installing fleshcrafted arm. -->
+  <VME_InstallFleshcraftedArm.jobString>Устанавливает руку из плоти.</VME_InstallFleshcraftedArm.jobString>
 
-  <VME_InstallFleshcraftedArm.label>install fleshcrafted arm</VME_InstallFleshcraftedArm.label>
-  <VME_InstallFleshcraftedArm.description>Install a fleshcrafted arm. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedArm.description>
-  <VME_InstallFleshcraftedArm.jobString>Installing fleshcrafted arm.</VME_InstallFleshcraftedArm.jobString>
+  <!-- Hand -->
+  <!-- EN: install fleshcrafted hand -->
+  <VME_InstallFleshcraftedHand.label>установить кисть руки из плоти</VME_InstallFleshcraftedHand.label>
+  <!-- EN: Install a fleshcrafted hand. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedHand.description>Установить кисть руки из плоти. Может быть безопасно имплантирована поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedHand.description>
+  <!-- EN: Installing fleshcrafted hand. -->
+  <VME_InstallFleshcraftedHand.jobString>Устанавливает кисть руки из плоти.</VME_InstallFleshcraftedHand.jobString>
 
+  <!-- Finger -->
+  <!-- EN: install fleshcrafted finger -->
+  <VME_InstallFleshcraftedFinger.label>установить большой палец из плоти</VME_InstallFleshcraftedFinger.label>
+  <!-- EN: Install a fleshcrafted finger. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedFinger.description>Установить большой палец из плоти. Может быть безопасно имплантирован поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedFinger.description>
+  <!-- EN: Installing fleshcrafted finger. -->
+  <VME_InstallFleshcraftedFinger.jobString>Устанавливает большой палец из плоти.</VME_InstallFleshcraftedFinger.jobString>
+
+  <!-- Toe -->
+  <!-- EN: install fleshcrafted toe -->
+  <VME_InstallFleshcraftedToe.label>установить палец ноги из плоти</VME_InstallFleshcraftedToe.label>
+  <!-- EN: Install a fleshcrafted toe. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedToe.description>Установить палец ноги из плоти. Может быть безопасно имплантирован поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedToe.description>
+  <!-- EN: Installing fleshcrafted toe. -->
+  <VME_InstallFleshcraftedToe.jobString>Устанавливает палец ноги из плоти.</VME_InstallFleshcraftedToe.jobString>
 
   <!-- Leg -->
-
-  <VME_InstallFleshcraftedLeg.label>install fleshcrafted leg</VME_InstallFleshcraftedLeg.label>
-  <VME_InstallFleshcraftedLeg.description>Install a fleshcrafted leg. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedLeg.description>
-  <VME_InstallFleshcraftedLeg.jobString>Installing fleshcrafted leg.</VME_InstallFleshcraftedLeg.jobString>
-
+  <!-- EN: install fleshcrafted leg -->
+  <VME_InstallFleshcraftedLeg.label>установить ногу из плоти</VME_InstallFleshcraftedLeg.label>
+  <!-- EN: Install a fleshcrafted leg. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedLeg.description>Установить ногу из плоти. Может быть безопасно имплантирована поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedLeg.description>
+  <!-- EN: Installing fleshcrafted leg. -->
+  <VME_InstallFleshcraftedLeg.jobString>Устанавливает ногу из плоти.</VME_InstallFleshcraftedLeg.jobString>
 
   <!-- Heart -->
-
-  <VME_InstallFleshcraftedHeart.label>install fleshcrafted heart</VME_InstallFleshcraftedHeart.label>
-  <VME_InstallFleshcraftedHeart.description>Install a fleshcrafted heart. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedHeart.description>
-  <VME_InstallFleshcraftedHeart.jobString>Installing fleshcrafted heart.</VME_InstallFleshcraftedHeart.jobString>
-
+  <!-- EN: install fleshcrafted heart -->
+  <VME_InstallFleshcraftedHeart.label>установить сердце из плоти</VME_InstallFleshcraftedHeart.label>
+  <!-- EN: Install a fleshcrafted heart. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedHeart.description>Установить сердце из плоти. Может быть безопасно имплантировано поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedHeart.description>
+  <!-- EN: Installing fleshcrafted heart. -->
+  <VME_InstallFleshcraftedHeart.jobString>Устанавливает сердце из плоти.</VME_InstallFleshcraftedHeart.jobString>
 
   <!-- Lung -->
-
-  <VME_InstallFleshcraftedLung.label>install fleshcrafted lung</VME_InstallFleshcraftedLung.label>
-  <VME_InstallFleshcraftedLung.description>Install a fleshcrafted lung. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedLung.description>
-  <VME_InstallFleshcraftedLung.jobString>Installing fleshcrafted lung.</VME_InstallFleshcraftedLung.jobString>
-
+  <!-- EN: install fleshcrafted lung -->
+  <VME_InstallFleshcraftedLung.label>установить лёгкое из плоти</VME_InstallFleshcraftedLung.label>
+  <!-- EN: Install a fleshcrafted lung. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedLung.description>Установить лёгкое из плоти. Может быть безопасно имплантировано поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedLung.description>
+  <!-- EN: Installing fleshcrafted lung. -->
+  <VME_InstallFleshcraftedLung.jobString>Устанавливает лёгкое из плоти.</VME_InstallFleshcraftedLung.jobString>
 
   <!-- Kidney -->
-
-  <VME_InstallFleshcraftedKidney.label>install fleshcrafted kidney</VME_InstallFleshcraftedKidney.label>
-  <VME_InstallFleshcraftedKidney.description>Install a fleshcrafted kidney. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedKidney.description>
-  <VME_InstallFleshcraftedKidney.jobString>Installing fleshcrafted kidney.</VME_InstallFleshcraftedKidney.jobString>
-
+  <!-- EN: install fleshcrafted kidney -->
+  <VME_InstallFleshcraftedKidney.label>установить почку из плоти</VME_InstallFleshcraftedKidney.label>
+  <!-- EN: Install a fleshcrafted kidney. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedKidney.description>Установить почку из плоти. Может быть безопасно имплантирована поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedKidney.description>
+  <!-- EN: Installing fleshcrafted kidney. -->
+  <VME_InstallFleshcraftedKidney.jobString>Устанавливает почку из плоти.</VME_InstallFleshcraftedKidney.jobString>
 
   <!-- Liver -->
-
-  <VME_InstallFleshcraftedLiver.label>install fleshcrafted liver</VME_InstallFleshcraftedLiver.label>
-  <VME_InstallFleshcraftedLiver.description>Install a fleshcrafted liver. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedLiver.description>
-  <VME_InstallFleshcraftedLiver.jobString>Installing fleshcrafted liver.</VME_InstallFleshcraftedLiver.jobString>
-
+  <!-- EN: install fleshcrafted liver -->
+  <VME_InstallFleshcraftedLiver.label>установить печень из плоти</VME_InstallFleshcraftedLiver.label>
+  <!-- EN: Install a fleshcrafted liver. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedLiver.description>Установить печень из плоти. Может быть безопасно имплантирована поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedLiver.description>
+  <!-- EN: Installing fleshcrafted liver. -->
+  <VME_InstallFleshcraftedLiver.jobString>Устанавливает печень из плоти.</VME_InstallFleshcraftedLiver.jobString>
 
   <!-- Eye -->
-
-  <VME_InstallFleshcraftedEye.label>install fleshcrafted eye</VME_InstallFleshcraftedEye.label>
-  <VME_InstallFleshcraftedEye.description>Install a fleshcrafted eye. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedEye.description>
-  <VME_InstallFleshcraftedEye.jobString>Installing fleshcrafted eye.</VME_InstallFleshcraftedEye.jobString>
-
+  <!-- EN: install fleshcrafted eye -->
+  <VME_InstallFleshcraftedEye.label>установить глаз из плоти</VME_InstallFleshcraftedEye.label>
+  <!-- EN: Install a fleshcrafted eye. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedEye.description>Установить глаз из плоти. Может быть безопасно имплантирован поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedEye.description>
+  <!-- EN: Installing fleshcrafted eye. -->
+  <VME_InstallFleshcraftedEye.jobString>Устанавливает глаз из плоти.</VME_InstallFleshcraftedEye.jobString>
 
   <!-- Ear -->
-
-  <VME_InstallFleshcraftedEar.label>install fleshcrafted ear</VME_InstallFleshcraftedEar.label>
-  <VME_InstallFleshcraftedEar.description>Install a fleshcrafted ear. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedEar.description>
-  <VME_InstallFleshcraftedEar.jobString>Installing fleshcrafted ear.</VME_InstallFleshcraftedEar.jobString>
-
+  <!-- EN: install fleshcrafted ear -->
+  <VME_InstallFleshcraftedEar.label>ухо из плоти</VME_InstallFleshcraftedEar.label>
+  <!-- EN: Install a fleshcrafted ear. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedEar.description>Установить ухо из плоти. Может быть безопасно имплантировано поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedEar.description>
+  <!-- EN: Installing fleshcrafted ear. -->
+  <VME_InstallFleshcraftedEar.jobString>Устанавливает ухо из плоти.</VME_InstallFleshcraftedEar.jobString>
 
   <!-- Nose -->
-
-  <VME_InstallFleshcraftedNose.label>install fleshcrafted nose</VME_InstallFleshcraftedNose.label>
-  <VME_InstallFleshcraftedNose.description>Install a fleshcrafted nose. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedNose.description>
-  <VME_InstallFleshcraftedNose.jobString>Installing fleshcrafted nose.</VME_InstallFleshcraftedNose.jobString>
-
+  <!-- EN: install fleshcrafted nose -->
+  <VME_InstallFleshcraftedNose.label>установить нос из плоти</VME_InstallFleshcraftedNose.label>
+  <!-- EN: Install a fleshcrafted nose. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedNose.description>Установить нос из плоти. Может быть безопасно имплантирован поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedNose.description>
+  <!-- EN: Installing fleshcrafted nose. -->
+  <VME_InstallFleshcraftedNose.jobString>Устанавливает нос из плоти.</VME_InstallFleshcraftedNose.jobString>
 
   <!-- Jaw -->
-
-  <VME_InstallFleshcraftedJaw.label>install fleshcrafted jaw</VME_InstallFleshcraftedJaw.label>
-  <VME_InstallFleshcraftedJaw.description>Install a fleshcrafted jaw. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedJaw.description>
-  <VME_InstallFleshcraftedJaw.jobString>Installing fleshcrafted jaw.</VME_InstallFleshcraftedJaw.jobString>
-
+  <!-- EN: install fleshcrafted jaw -->
+  <VME_InstallFleshcraftedJaw.label>установить челюсть из плоти</VME_InstallFleshcraftedJaw.label>
+  <!-- EN: Install a fleshcrafted jaw. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedJaw.description>Установить челюсть из плоти. Может быть безопасно имплантирована поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedJaw.description>
+  <!-- EN: Installing fleshcrafted jaw. -->
+  <VME_InstallFleshcraftedJaw.jobString>Устанавливает челюсть из плоти.</VME_InstallFleshcraftedJaw.jobString>
 
   <!-- Stomach -->
-
-  <VME_InstallFleshcraftedStomach.label>install fleshcrafted stomach</VME_InstallFleshcraftedStomach.label>
-  <VME_InstallFleshcraftedStomach.description>Install a fleshcrafted stomach. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedStomach.description>
-  <VME_InstallFleshcraftedStomach.jobString>Installing fleshcrafted stomach.</VME_InstallFleshcraftedStomach.jobString>
-
+  <!-- EN: install fleshcrafted stomach -->
+  <VME_InstallFleshcraftedStomach.label>установить желудок из плоти</VME_InstallFleshcraftedStomach.label>
+  <!-- EN: Install a fleshcrafted stomach. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedStomach.description>Установить желудок из плоти. Может быть безопасно имплантирован поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedStomach.description>
+  <!-- EN: Installing fleshcrafted stomach. -->
+  <VME_InstallFleshcraftedStomach.jobString>Устанавливает желудок из плоти.</VME_InstallFleshcraftedStomach.jobString>
 
   <!-- Tongue -->
-
-  <VME_InstallFleshcraftedTongue.label>install fleshcrafted tongue</VME_InstallFleshcraftedTongue.label>
-  <VME_InstallFleshcraftedTongue.description>Install a fleshcrafted tongue. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedTongue.description>
-  <VME_InstallFleshcraftedTongue.jobString>Installing fleshcrafted tongue.</VME_InstallFleshcraftedTongue.jobString>
-
+  <!-- EN: install fleshcrafted tongue -->
+  <VME_InstallFleshcraftedTongue.label>установить язык из плоти</VME_InstallFleshcraftedTongue.label>
+  <!-- EN: Install a fleshcrafted tongue. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedTongue.description>Установить язык из плоти. Может быть безопасно имплантирован поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedTongue.description>
+  <!-- EN: Installing fleshcrafted tongue. -->
+  <VME_InstallFleshcraftedTongue.jobString>Устанавливает язык из плоти.</VME_InstallFleshcraftedTongue.jobString>
 
   <!-- Spine -->
-
-  <VME_InstallFleshcraftedSpine.label>install fleshcrafted spine</VME_InstallFleshcraftedSpine.label>
-  <VME_InstallFleshcraftedSpine.description>Install a fleshcrafted spine. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others.</VME_InstallFleshcraftedSpine.description>
-  <VME_InstallFleshcraftedSpine.jobString>Installing fleshcrafted spine.</VME_InstallFleshcraftedSpine.jobString>
-
-
+  <!-- EN: install fleshcrafted spine -->
+  <VME_InstallFleshcraftedSpine.label>установить позвоночник из плоти</VME_InstallFleshcraftedSpine.label>
+  <!-- EN: Install a fleshcrafted spine. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+  <VME_InstallFleshcraftedSpine.description>Установить позвоночник из плоти. Может быть безопасно имплантирован поселенцу, следующему Культу Плоти, но вызовет инфекцию и отторжение органа у прочих.</VME_InstallFleshcraftedSpine.description>
+  <!-- EN: Installing fleshcrafted spine. -->
+  <VME_InstallFleshcraftedSpine.jobString>Устанавливает позвоночник из плоти.</VME_InstallFleshcraftedSpine.jobString>
 </LanguageData>
