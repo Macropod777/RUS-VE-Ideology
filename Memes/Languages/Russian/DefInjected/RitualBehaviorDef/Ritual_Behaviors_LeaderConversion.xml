@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_LeaderConversionBehavior.roles.0.label>speaker</VME_LeaderConversionBehavior.roles.0.label>
-  <VME_LeaderConversionBehavior.roles.1.label>convertee</VME_LeaderConversionBehavior.roles.1.label>
-
-
+  <!-- EN: speaker -->
+  <VME_LeaderConversionBehavior.roles.0.label>оратор</VME_LeaderConversionBehavior.roles.0.label>
+  <!-- EN: convertee -->
+  <VME_LeaderConversionBehavior.roles.1.label>обращаемый</VME_LeaderConversionBehavior.roles.1.label>
+  <!-- EN: Prisoner is not reachable. -->
+  <VME_LeaderConversionBehavior.stages.0.failTriggers.0.desc>Заключённый недоступен.</VME_LeaderConversionBehavior.stages.0.failTriggers.0.desc>
 </LanguageData>

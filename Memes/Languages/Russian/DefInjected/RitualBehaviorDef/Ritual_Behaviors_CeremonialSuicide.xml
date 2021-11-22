@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_CeremonialSuicideRitualBehaviour.roles.0.label>suicidal colonist</VME_CeremonialSuicideRitualBehaviour.roles.0.label>
-
-
+  <!-- EN: suicidal colonist -->
+  <VME_CeremonialSuicideRitualBehaviour.roles.0.label>самоубийца</VME_CeremonialSuicideRitualBehaviour.roles.0.label>
+  <!-- EN: Participants -->
+  <VME_CeremonialSuicideRitualBehaviour.spectatorsLabel>Участники</VME_CeremonialSuicideRitualBehaviour.spectatorsLabel>
+  <!-- EN: participate -->
+  <VME_CeremonialSuicideRitualBehaviour.spectatorGerund>участвовать</VME_CeremonialSuicideRitualBehaviour.spectatorGerund>
 </LanguageData>
