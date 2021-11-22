@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: trading fair organizer -->
+  <VME_TradingFairRitualBehaviour.roles.0.label>устроитель ярмарки</VME_TradingFairRitualBehaviour.roles.0.label>
 
-  <VME_TradingFairRitualBehaviour.roles.0.label>trading fair organizer</VME_TradingFairRitualBehaviour.roles.0.label>
-
-
+  <!-- EN: Participants -->
+  <VME_TradingFairRitualBehaviour.spectatorsLabel>Участники</VME_TradingFairRitualBehaviour.spectatorsLabel>
+  <!-- EN: participate -->
+  <VME_TradingFairRitualBehaviour.spectatorGerund>участвовать</VME_TradingFairRitualBehaviour.spectatorGerund>
 </LanguageData>

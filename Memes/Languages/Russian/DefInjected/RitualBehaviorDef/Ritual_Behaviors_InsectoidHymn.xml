@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_InsectoidHymnRitualBehaviour.roles.0.label>chanter</VME_InsectoidHymnRitualBehaviour.roles.0.label>
-
-
+  <!-- EN: chanter -->
+  <VME_InsectoidHymnRitualBehaviour.roles.0.label>певец</VME_InsectoidHymnRitualBehaviour.roles.0.label>
+  <!-- EN: Participants -->
+  <VME_InsectoidHymnRitualBehaviour.spectatorsLabel>Участники</VME_InsectoidHymnRitualBehaviour.spectatorsLabel>
+  <!-- EN: participate -->
+  <VME_InsectoidHymnRitualBehaviour.spectatorGerund>участвовать</VME_InsectoidHymnRitualBehaviour.spectatorGerund>
 </LanguageData>

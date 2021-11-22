@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_IncantationBehavior.roles.0.label>speaker</VME_IncantationBehavior.roles.0.label>
-
-
+  <!-- EN: speaker -->
+  <VME_IncantationBehavior.roles.0.label>проповедник</VME_IncantationBehavior.roles.0.label>
+  <!-- EN: Participants -->
+  <VME_IncantationBehavior.spectatorsLabel>Участники</VME_IncantationBehavior.spectatorsLabel>
+  <!-- EN: participate -->
+  <VME_IncantationBehavior.spectatorGerund>участвовать</VME_IncantationBehavior.spectatorGerund>
 </LanguageData>
