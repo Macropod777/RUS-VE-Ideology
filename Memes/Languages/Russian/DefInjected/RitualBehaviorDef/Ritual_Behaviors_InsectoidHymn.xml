@@ -3,7 +3,7 @@
   <!-- EN: chanter -->
   <VME_InsectoidHymnRitualBehaviour.roles.0.label>певец</VME_InsectoidHymnRitualBehaviour.roles.0.label>
   <!-- EN: Participants -->
-  <VME_InsectoidHymnRitualBehaviour.spectatorsLabel>Участники</VME_InsectoidHymnRitualBehaviour.spectatorsLabel>
+  <VME_InsectoidHymnRitualBehaviour.spectatorsLabel>участники</VME_InsectoidHymnRitualBehaviour.spectatorsLabel>
   <!-- EN: participate -->
   <VME_InsectoidHymnRitualBehaviour.spectatorGerund>участвовать</VME_InsectoidHymnRitualBehaviour.spectatorGerund>
 </LanguageData>

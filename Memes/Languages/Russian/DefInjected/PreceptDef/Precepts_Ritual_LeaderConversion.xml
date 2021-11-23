@@ -3,5 +3,5 @@
   <!-- EN: conversion ritual (leader) -->
   <VME_LeaderConversion.label>ритуал обращения (лидер)</VME_LeaderConversion.label>
   <!-- EN: The leader tries to persuade someone into joining your ideoligion. -->
-  <VME_LeaderConversion.description>Лидер пытается убедить цель ритуала перейти в вашу идеологию.</VME_LeaderConversion.description>
+  <VME_LeaderConversion.description>Лидер пытается убедить кого-то присоединиться к вашей идеолигии.</VME_LeaderConversion.description>
 </LanguageData>

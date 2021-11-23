@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-  <!-- названия ролей переведены не дословно, а проверены в игре -->
-  
   <!-- EN: speaker -->
   <VME_LeadershipChallengeRitualBehaviour.roles.0.label>оратор</VME_LeadershipChallengeRitualBehaviour.roles.0.label>
 
@@ -21,7 +18,7 @@
   <VME_LeadershipChallengeRitualBehaviour.roles.2.missingDesc>поселенец с лучшим в поселении навыком ближнего боя</VME_LeadershipChallengeRitualBehaviour.roles.2.missingDesc>
   
   <!-- EN: Participants -->
-  <VME_LeadershipChallengeRitualBehaviour.spectatorsLabel>Участники</VME_LeadershipChallengeRitualBehaviour.spectatorsLabel>
+  <VME_LeadershipChallengeRitualBehaviour.spectatorsLabel>участники</VME_LeadershipChallengeRitualBehaviour.spectatorsLabel>
   <!-- EN: participate -->
   <VME_LeadershipChallengeRitualBehaviour.spectatorGerund>участвовать</VME_LeadershipChallengeRitualBehaviour.spectatorGerund>
 </LanguageData>
