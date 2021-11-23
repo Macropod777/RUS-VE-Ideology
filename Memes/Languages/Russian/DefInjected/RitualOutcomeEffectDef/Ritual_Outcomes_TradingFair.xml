@@ -3,7 +3,7 @@
   <!-- EN: Depending on ritual quality and as long as it is positive, between 1 and 6 trade caravans arrive from friendly factions. Also, depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days.\n\nYou will need to have at least 200 silver near a valid trading beacon for the fair to work properly, or else participants will receive a "cheap trading fair" mood penalty. -->
   <VME_TradingFairRitualOutcome.description>В зависимости от качества ритуала и до тех пор, пока он положительный, от 1 до 6 торговых караванов прибывают из дружественных фракций. Также, в зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.\n\nВам понадобится не менее 200 единиц серебра рядом с действующим торговым маяком, чтобы ярмарка работала должным образом. Иначе участники получат отрицательное настроение "дешёвая ярмарка".</VME_TradingFairRitualOutcome.description>
   <!-- EN: trading fair organizer present -->
-  <VME_TradingFairRitualOutcome.comps.0.label>присутствует устроитель ярмарки</VME_TradingFairRitualOutcome.comps.0.label>
+  <VME_TradingFairRitualOutcome.comps.0.label>присутствует распорядитель ярмарки</VME_TradingFairRitualOutcome.comps.0.label>
   <!-- EN: participant count -->
   <VME_TradingFairRitualOutcome.comps.1.label>количество участников</VME_TradingFairRitualOutcome.comps.1.label>
 
