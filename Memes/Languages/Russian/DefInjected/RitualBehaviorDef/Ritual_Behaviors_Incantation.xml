@@ -3,7 +3,7 @@
   <!-- EN: speaker -->
   <VME_IncantationBehavior.roles.0.label>проповедник</VME_IncantationBehavior.roles.0.label>
   <!-- EN: Participants -->
-  <VME_IncantationBehavior.spectatorsLabel>Участники</VME_IncantationBehavior.spectatorsLabel>
+  <VME_IncantationBehavior.spectatorsLabel>участники</VME_IncantationBehavior.spectatorsLabel>
   <!-- EN: participate -->
   <VME_IncantationBehavior.spectatorGerund>участвовать</VME_IncantationBehavior.spectatorGerund>
 </LanguageData>

@@ -3,7 +3,7 @@
   <!-- EN: conversion ritual (leader) -->
   <VME_LeaderConversionRitual.label>ритуал обращения (лидер)</VME_LeaderConversionRitual.label>
   <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
-  <VME_LeaderConversionRitual.description>Попытаться убедить цель принять вашу систему ценностей. Если всё пройдёт хорошо, её уверенность в своих взглядах снизится и она может обратиться. При неудаче цель обретёт уверенность в своих старых убеждениях.\n\nПровести ритуал можно у места проведения ритуала или подходящего алтаря/идеограммы.</VME_LeaderConversionRitual.description>
+  <VME_LeaderConversionRitual.description>Попытаться убедить цель принять вашу систему ценностей. Если всё пройдёт гладко, она потеряет уверенность в своей идеолигии и может даже отречься от неё. Провал приведёт лишь к повышению уверенности цели в своих взглядах.\n\nПровести ритуал можно у места проведения ритуала или подходящего алтаря/идеограммы.</VME_LeaderConversionRitual.description>
 
   <!-- EN: convert (leader) -->
   <VME_LeaderConvert.label>обратить (лидер)</VME_LeaderConvert.label>

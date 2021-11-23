@@ -19,7 +19,7 @@
   <!-- EN: Boring -->
   <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>скучно</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.label>
   <!-- EN: The {0} was boring. The speech seemed forced. At the very least we have restored the honor of our colony. -->
-  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>{0} было скучным! Речь казалась вымученной. Но хотя бы честь посёления восстановлена.</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
+  <VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>{0} было скучным! Речь казалась вымученной. Но хотя бы честь поселения восстановлена.</VME_CeremonialSuicideRitualOutcome.outcomeChances.1.description>
 
   <!-- EN: Honorable -->
   <VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>достойно</VME_CeremonialSuicideRitualOutcome.outcomeChances.2.label>

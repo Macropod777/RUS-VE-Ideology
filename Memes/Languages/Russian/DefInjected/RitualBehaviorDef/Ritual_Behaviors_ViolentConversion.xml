@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Spectators must be willing to watch the violent conversion. -->
-  <VME_ViolentConversionRitualBehaviour.spectatorFilter.description>Зрители должны быть готовы наблюдать за насильственным обращением.</VME_ViolentConversionRitualBehaviour.spectatorFilter.description>
+  <VME_ViolentConversionRitualBehaviour.spectatorFilter.description>Зрители должны быть готовы наблюдать за принудительным обращением.</VME_ViolentConversionRitualBehaviour.spectatorFilter.description>
   <!-- EN: inquisitor -->
   <VME_ViolentConversionRitualBehaviour.roles.0.label>инквизитор</VME_ViolentConversionRitualBehaviour.roles.0.label>
   <!-- EN: prisoner -->

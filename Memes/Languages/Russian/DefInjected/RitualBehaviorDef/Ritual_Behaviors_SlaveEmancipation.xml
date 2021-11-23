@@ -10,7 +10,7 @@
   <VME_SlaveEmancipationBehavior.roles.1.missingDesc>рабы</VME_SlaveEmancipationBehavior.roles.1.missingDesc>
 
   <!-- EN: Participants -->
-  <VME_SlaveEmancipationBehavior.spectatorsLabel>Участники</VME_SlaveEmancipationBehavior.spectatorsLabel>
+  <VME_SlaveEmancipationBehavior.spectatorsLabel>участники</VME_SlaveEmancipationBehavior.spectatorsLabel>
   <!-- EN: participate -->
   <VME_SlaveEmancipationBehavior.spectatorGerund>участвовать</VME_SlaveEmancipationBehavior.spectatorGerund>
 </LanguageData>
