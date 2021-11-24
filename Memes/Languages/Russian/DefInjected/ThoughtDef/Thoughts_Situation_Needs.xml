@@ -1,14 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: anonymity violated -->
+  <VME_NeedAnonymity.stages.0.label>анонимность отсутствует</VME_NeedAnonymity.stages.0.label>
+  <!-- EN: They know everything, I’m an open book, entirely vulnerable and without a shred of nuance. -->
+  <VME_NeedAnonymity.stages.0.description>Они всё знают.  Я — открытая книга, полностью беззащитная и без малейших нюансов.</VME_NeedAnonymity.stages.0.description>
 
-  <VME_NeedAnonymity.stages.0.label>anonymity violated</VME_NeedAnonymity.stages.0.label>
-  <VME_NeedAnonymity.stages.0.description>They know everything, I’m an open book, entirely vulnerable and without a shred of nuance.</VME_NeedAnonymity.stages.0.description>
-  <VME_NeedAnonymity.stages.1.label>anonymity compromised</VME_NeedAnonymity.stages.1.label>
-  <VME_NeedAnonymity.stages.1.description>My identity has been deeply compromised, I’m so ashamed by the attention I’ve garnered for myself.</VME_NeedAnonymity.stages.1.description>
-  <VME_NeedAnonymity.stages.2.label>anonymity threatened</VME_NeedAnonymity.stages.2.label>
-  <VME_NeedAnonymity.stages.2.description>This can’t be allowed to continue, if I keep this behavior up I’ll be exposed.</VME_NeedAnonymity.stages.2.description>
-  <VME_NeedAnonymity.stages.3.label>completely anonymous</VME_NeedAnonymity.stages.3.label>
-  <VME_NeedAnonymity.stages.3.description>I feel so much more comfortable like this. I don’t even think they know my name or face.</VME_NeedAnonymity.stages.3.description>
+  <!-- EN: anonymity compromised -->
+  <VME_NeedAnonymity.stages.1.label>анонимность нарушена</VME_NeedAnonymity.stages.1.label>
+  <!-- EN: My identity has been deeply compromised, I’m so ashamed by the attention I’ve garnered for myself. -->
+  <VME_NeedAnonymity.stages.1.description>Моя личность глубоко скомпрометирована. Мне так стыдно за то внимание, которое я привлекаю к себе.</VME_NeedAnonymity.stages.1.description>
 
+  <!-- EN: anonymity threatened -->
+  <VME_NeedAnonymity.stages.2.label>анонимность под угрозой</VME_NeedAnonymity.stages.2.label>
+  <!-- EN: This can’t be allowed to continue, if I keep this behavior up I’ll be exposed. -->
+  <VME_NeedAnonymity.stages.2.description>Нельзя допустить, чтобы это продолжалось. Если я и далее сохраню такое поведение, меня разоблачат.</VME_NeedAnonymity.stages.2.description>
 
+  <!-- EN: completely anonymous -->
+  <VME_NeedAnonymity.stages.3.label>полная анонимность</VME_NeedAnonymity.stages.3.label>
+  <!-- EN: I feel so much more comfortable like this. I don’t even think they know my name or face. -->
+  <VME_NeedAnonymity.stages.3.description>Так я чувствую себя намного комфортнее. Я не думаю даже, что им мзвестно моё имя или лицо.</VME_NeedAnonymity.stages.3.description>
 </LanguageData>
