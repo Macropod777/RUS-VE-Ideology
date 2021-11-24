@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: converting a prisoner -->
   <VME_ConvertAPrisoner.label>обращение заключенного</VME_ConvertAPrisoner.label>
 
 

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: killing with fire -->
   <VME_KillingWithFire.label>убийство с помощью огня</VME_KillingWithFire.label>
 
 

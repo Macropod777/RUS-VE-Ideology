@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: insectoid killed -->
   <VME_InsectoidKilled.label>интексоид убит</VME_InsectoidKilled.label>
 
 

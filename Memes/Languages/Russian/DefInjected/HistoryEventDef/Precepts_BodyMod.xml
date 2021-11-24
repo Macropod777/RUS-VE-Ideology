@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  
+  <!-- EN: installed non-natural prosthetic -->
   <VME_InstalledNonNaturalProsthetic.label>установлен искусственный протез</VME_InstalledNonNaturalProsthetic.label>
 
 
