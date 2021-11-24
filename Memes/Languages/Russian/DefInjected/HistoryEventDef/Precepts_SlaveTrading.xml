@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_BoughtSlave.label>bought slave</VME_BoughtSlave.label>
-
-
+  <!-- EN: bought slave -->
+  <VME_BoughtSlave.label>выкуплен раб</VME_BoughtSlave.label>
 </LanguageData>

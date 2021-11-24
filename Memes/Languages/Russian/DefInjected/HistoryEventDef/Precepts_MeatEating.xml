@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_AteAnimalProducts.label>ate animal products</VME_AteAnimalProducts.label>
-
-
+  <!-- EN: ate animal products -->
+  <VME_AteAnimalProducts.label>съедена животная пища</VME_AteAnimalProducts.label>
 </LanguageData>

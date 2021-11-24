@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <!-- EN: Violent conversion has a 50% chance of either completely converting the participant to your ideoligion or just being executed. Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <VME_ViolentConversionRitualOutcome.description>Принудительное обращение с вероятностью в 50% либо полностью обращает участника в вашу идеологию, либо подвергает его казни. В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</VME_ViolentConversionRitualOutcome.description>
+  <VME_ViolentConversionRitualOutcome.description>Принудительное обращение с вероятностью в 50% полностью обращает участника в вашу идеолигию или подвергает его казни. В зависимости от качества ритуала настроение его участников изменится на величину от {MINMOOD} до {MAXMOOD} на {MOODDAYS_numCase ? день : дня : дней}.</VME_ViolentConversionRitualOutcome.description>
   <!-- EN: participant count -->
   <VME_ViolentConversionRitualOutcome.comps.0.label>количество участников</VME_ViolentConversionRitualOutcome.comps.0.label>
   <!-- EN: {PAWN_labelShort}'s social impact -->
@@ -16,12 +16,12 @@
   <!-- EN: Awkward -->
   <VME_ViolentConversionRitualOutcome.outcomeChances.0.label>неуклюже</VME_ViolentConversionRitualOutcome.outcomeChances.0.label>
   <!-- EN: The {0} was awkward. The speech dragged on and it was a fruitless back-and-forth argument. The words were vague and unconvincing. -->
-  <VME_ViolentConversionRitualOutcome.outcomeChances.0.description>{0} было неуклюжим. Речь затянулась и представляла собой бесплодное перекладывание аргументов. Слова были расплывчатыми и неубедительными.</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.0.description>{0} было неуклюжим. Речь затянулась и представляла собой какое-то переливание из пустого в порожнее. Слова были расплывчатыми и неубедительными.</VME_ViolentConversionRitualOutcome.outcomeChances.0.description>
 
   <!-- EN: Satisfying -->
   <VME_ViolentConversionRitualOutcome.outcomeChances.1.label>удовлетворительно</VME_ViolentConversionRitualOutcome.outcomeChances.1.label>
   <!-- EN: The {0} was satisfying. The speech was stirring and enjoyable to listen to. -->
-  <VME_ViolentConversionRitualOutcome.outcomeChances.1.description>{0} было удовлетворительным. Речь была волнующей и приятной для прослушивания.</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
+  <VME_ViolentConversionRitualOutcome.outcomeChances.1.description>{0} было удовлетворительным. Речь было увлекательно и приятно слушать.</VME_ViolentConversionRitualOutcome.outcomeChances.1.description>
 
   <!-- EN: Spectacular -->
   <VME_ViolentConversionRitualOutcome.outcomeChances.2.label>изумительно</VME_ViolentConversionRitualOutcome.outcomeChances.2.label>

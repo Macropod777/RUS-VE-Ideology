@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_AttackedAnimal.label>attacked animal</VME_AttackedAnimal.label>
-
-
+  <!-- EN: attacked animal -->
+  <VME_AttackedAnimal.label>атаковано животное</VME_AttackedAnimal.label>
 </LanguageData>
