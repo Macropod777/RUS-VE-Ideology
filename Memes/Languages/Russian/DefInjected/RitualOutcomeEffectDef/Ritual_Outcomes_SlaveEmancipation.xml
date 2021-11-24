@@ -14,25 +14,25 @@
   <!-- EN: Demagogic -->
   <VME_SlaveEmancipationOutcome.outcomeChances.0.label>демагогично</VME_SlaveEmancipationOutcome.outcomeChances.0.label>
   <!-- EN: The {0} was horribly demagogic! We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony. -->
-  <VME_SlaveEmancipationOutcome.outcomeChances.0.description>{0} было ужасно демагогично! Мы закончили тем, что выглядели как злодеи... После такой демонстрации вряд ли кто-то добровольно захочет присоединиться к поселению.</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.0.description>{0} вёл какой-то демагог! Под конец мы были похожи на плохих парней... После такого вряд ли кто-то добровольно захочет присоединиться к поселению.</VME_SlaveEmancipationOutcome.outcomeChances.0.description>
 
   <!-- EN: Freethinking -->
   <VME_SlaveEmancipationOutcome.outcomeChances.1.label>свободомысленно</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
   <!-- EN: The {0} was a nice display of freethinking. Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way. Participating slaves have a 25% chance of joining the colony. -->
-  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0} было хорошим проявлением свободомыслия. Речь нашего лидера была ясной и лаконичной, в краткой форме объясняющей всё зло рабства. Участвующие рабы получают шанс присоединиться к поселению в 25%.</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0} было хорошим проявлением свободомыслия. Речь нашего лидера была ясной и лаконичной, кратко объясняющей всё зло рабства. Участвующие рабы получают 25% шанс присоединиться к поселению.</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
 
   <!-- EN: Unshackling -->
-  <VME_SlaveEmancipationOutcome.outcomeChances.2.label>расковывающе</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.label>выпускающе</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
   <!-- EN: The {0} was unshackling. Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society. Participating slaves have a 50% chance of joining the colony. -->
-  <VME_SlaveEmancipationOutcome.outcomeChances.2.description>{0} было освобождением от оков. Речь нашего лидера была очень вдохновляющей, в ней подробно описывались все беды, вызванные рабством, и огромные преимущества свободного общества. Участвующие рабы получают шанс присоединиться к поселению в 50%.</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.2.description>{0} буквально снимало оковы. Речь была очень вдохновляющей, подробно описывала все беды от рабства и все преимущества от общества свободных людей. Участвующие рабы получают 50% шанс присоединиться к поселению.</VME_SlaveEmancipationOutcome.outcomeChances.2.description>
 
   <!-- EN: Liberating -->
   <VME_SlaveEmancipationOutcome.outcomeChances.3.label>освобождающе</VME_SlaveEmancipationOutcome.outcomeChances.3.label>
   <!-- EN: The {0} was liberating! Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery. Participating slaves have a 75% chance of joining the colony. -->
-  <VME_SlaveEmancipationOutcome.outcomeChances.3.description>{0} было освобождающим! Речь нашего лидера была мастер-классом по восхвалению достоинств свободного общества, освобождённого от оков рабства. Участвующие рабы получают шанс присоединиться к поселению в 75%.</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.3.description>{0} было освобождающим! Речь лидера была образцом восхваления достоинств общества, освобождённого от оков рабства. Участвующие рабы получают 75% шанс присоединиться к поселению.</VME_SlaveEmancipationOutcome.outcomeChances.3.description>
 
   <!-- EN: Amazing -->
   <VME_SlaveEmancipationOutcome.outcomeChances.4.label>удивительно</VME_SlaveEmancipationOutcome.outcomeChances.4.label>
   <!-- EN: The {0} was amazing! Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation. Participating slaves have a 100% chance of joining the colony. -->
-  <VME_SlaveEmancipationOutcome.outcomeChances.4.description>{0} было удивительным! Будут рассказаны легенды о речи нашего лидера и о том, как эти слова будут звучать в будущем, возвышая дело освобождения. Участвующие рабы получают шанс присоединиться к поселению в 100%.</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.4.description>{0} было удивительным! Будут ходить легенды об этой речи и о том, как она изменила будущее, возвысив дело освобождения. Участвующие рабы получают 100% шанс присоединиться к поселению.</VME_SlaveEmancipationOutcome.outcomeChances.4.description>
 </LanguageData>
