@@ -1,17 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <!-- EN: terrible leadership challenge -->
+  <VME_TerribleLeadershipChallenge.stages.0.label>ужасное оспаривание лидерства</VME_TerribleLeadershipChallenge.stages.0.label>
+  <!-- EN: That leadership challenge was terrible. Watching it just made people sad. I guess we have a strong leader, at least... -->
+  <VME_TerribleLeadershipChallenge.stages.0.description>Это оспаривание лидерства получилось ужасным! Зрители были расстроены. Я думаю, что у нас, по крайней мере, есть сильный лидер...</VME_TerribleLeadershipChallenge.stages.0.description>
 
-  <VME_TerribleLeadershipChallenge.stages.0.label>terrible leadership challenge</VME_TerribleLeadershipChallenge.stages.0.label>
-  <VME_TerribleLeadershipChallenge.stages.0.description>That leadership challenge was terrible. Watching it just made people sad. I guess we have a strong leader, at least...</VME_TerribleLeadershipChallenge.stages.0.description>
+  <!-- EN: boring leadership challenge -->
+  <VME_BoringLeadershipChallenge.stages.0.label>скучное оспаривание лидерства</VME_BoringLeadershipChallenge.stages.0.label>
+  <!-- EN: That leadership challenge was not good. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest. -->
+  <VME_BoringLeadershipChallenge.stages.0.description>Это оспаривание лидерства получилось нехорошо. Бойцы не совершили ничего достойного, и не было никаких волнующих моментов. Ну по крайней мере, наш лидер самый сильный.</VME_BoringLeadershipChallenge.stages.0.description>
 
-  <VME_BoringLeadershipChallenge.stages.0.label>boring leadership challenge</VME_BoringLeadershipChallenge.stages.0.label>
-  <VME_BoringLeadershipChallenge.stages.0.description>That leadership challenge was not good. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest.</VME_BoringLeadershipChallenge.stages.0.description>
+  <!-- EN: good leadership challenge -->
+  <VME_GoodLeadershipChallenge.stages.0.label>хорошее оспаривание лидерства</VME_GoodLeadershipChallenge.stages.0.label>
+  <!-- EN: A good leadership challenge. The fighters went for blood and showed real heart. We now know that our leader is the strongest. -->
+  <VME_GoodLeadershipChallenge.stages.0.description>Хорошее оспаривание лидерства. Бойцы жаждали крови и проявили настоящее мужество. Теперь мы знаем, что наш лидер самый сильный.</VME_GoodLeadershipChallenge.stages.0.description>
 
-  <VME_GoodLeadershipChallenge.stages.0.label>good leadership challenge</VME_GoodLeadershipChallenge.stages.0.label>
-  <VME_GoodLeadershipChallenge.stages.0.description>A good leadership challenge. The fighters went for blood and showed real heart. We now know that our leader is the strongest.</VME_GoodLeadershipChallenge.stages.0.description>
-
-  <VME_UnforgettableLeadershipChallenge.stages.0.label>unforgettable leadership challenge</VME_UnforgettableLeadershipChallenge.stages.0.label>
-  <VME_UnforgettableLeadershipChallenge.stages.0.description>That leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us!</VME_UnforgettableLeadershipChallenge.stages.0.description>
-
-
+  <!-- EN: unforgettable leadership challenge -->
+  <VME_UnforgettableLeadershipChallenge.stages.0.label>незабываемое оспаривание лидерства</VME_UnforgettableLeadershipChallenge.stages.0.label>
+  <!-- EN: That leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us! -->
+  <VME_UnforgettableLeadershipChallenge.stages.0.description>Оспаривание лидерства было незабываемым! Оба бойца сделали всё, что могли, и мы теперь знаем, что наш лидер сейчас самый сильный среди нас!</VME_UnforgettableLeadershipChallenge.stages.0.description>
 </LanguageData>
