@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <VME_AttackedInnocent.label>attacked innocent people</VME_AttackedInnocent.label>
+  
+  <!-- EN: attacked innocent people -->
+  <VME_AttackedInnocent.label>атакованы невинные люди</VME_AttackedInnocent.label>
 
 
 </LanguageData>
