@@ -19,7 +19,7 @@
   <!-- EN: Freethinking -->
   <VME_SlaveEmancipationOutcome.outcomeChances.1.label>свободомысленно</VME_SlaveEmancipationOutcome.outcomeChances.1.label>
   <!-- EN: The {0} was a nice display of freethinking. Our leader's speech was clear and succint, explaining all the evils of slavery in a concise way. Participating slaves have a 25% chance of joining the colony. -->
-  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0} было хорошим проявлением свободомыслия. Речь нашего лидера была ясной и лаконичной, кратко объясняющей всё зло рабства. Участвующие рабы получают 25% шанс присоединиться к поселению.</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
+  <VME_SlaveEmancipationOutcome.outcomeChances.1.description>{0} было хорошим проявлением свободомыслия. Речь нашего лидера была ясной и лаконичной, объясняющей всё зло рабства. Участвующие рабы получают 25% шанс присоединиться к поселению.</VME_SlaveEmancipationOutcome.outcomeChances.1.description>
 
   <!-- EN: Unshackling -->
   <VME_SlaveEmancipationOutcome.outcomeChances.2.label>выпускающе</VME_SlaveEmancipationOutcome.outcomeChances.2.label>
