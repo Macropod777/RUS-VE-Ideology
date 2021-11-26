@@ -20,7 +20,7 @@
   <!-- EN: Boring -->
   <VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>скучно</VME_PlagueFestivalRitualOutcome.outcomeChances.1.label>
   <!-- EN: The {0} was boring. The speech was repetitive and the killing technique was noticeably flawed. However the blessed plague is now among us. -->
-  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>{0} был скучным. Речь была повторяющейся, а техника убийства была далека до идеала. Однако благословенная чума теперь среди нас.</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
+  <VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>{0} был скучным. Речь была повторяющейся, а техника убийства была далека от идеала. Однако благословенная чума теперь среди нас.</VME_PlagueFestivalRitualOutcome.outcomeChances.1.description>
 
   <!-- EN: Satisfying -->
   <VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>удовлетворительно</VME_PlagueFestivalRitualOutcome.outcomeChances.2.label>
