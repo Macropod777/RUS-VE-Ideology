@@ -119,20 +119,20 @@
   </VME_Cultured.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: cultured -->
-  <VME_Cultured.symbolPacks.0.adjective>образовистский</VME_Cultured.symbolPacks.0.adjective>
+  <VME_Cultured.symbolPacks.0.adjective>образовательный</VME_Cultured.symbolPacks.0.adjective>
   <!-- EN: Cultured -->
-  <VME_Cultured.symbolPacks.0.ideoName>образовилизм</VME_Cultured.symbolPacks.0.ideoName>
+  <VME_Cultured.symbolPacks.0.ideoName>образованность</VME_Cultured.symbolPacks.0.ideoName>
   <!-- EN: reader -->
   <VME_Cultured.symbolPacks.0.member>чтец</VME_Cultured.symbolPacks.0.member>
   <!-- EN: books -->
-  <VME_Cultured.symbolPacks.0.theme>книги</VME_Cultured.symbolPacks.0.theme>
+  <VME_Cultured.symbolPacks.0.theme>книг</VME_Cultured.symbolPacks.0.theme>
   
   <!-- EN: writing -->
-  <VME_Cultured.symbolPacks.1.adjective>писателистский</VME_Cultured.symbolPacks.1.adjective>
+  <VME_Cultured.symbolPacks.1.adjective>писательский</VME_Cultured.symbolPacks.1.adjective>
   <!-- EN: Writing -->
-  <VME_Cultured.symbolPacks.1.ideoName>писателизм</VME_Cultured.symbolPacks.1.ideoName>
+  <VME_Cultured.symbolPacks.1.ideoName>писательство</VME_Cultured.symbolPacks.1.ideoName>
   <!-- EN: writer -->
   <VME_Cultured.symbolPacks.1.member>писатель</VME_Cultured.symbolPacks.1.member>
   <!-- EN: writing -->
-  <VME_Cultured.symbolPacks.1.theme>писательство</VME_Cultured.symbolPacks.1.theme>
+  <VME_Cultured.symbolPacks.1.theme>писательства</VME_Cultured.symbolPacks.1.theme>
 </LanguageData>

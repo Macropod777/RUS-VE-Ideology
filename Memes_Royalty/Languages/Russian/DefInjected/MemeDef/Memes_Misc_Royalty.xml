@@ -3,7 +3,7 @@
   <!-- EN: psychic focus -->
   <VME_PsychicFocus.label>пси-фокусировка</VME_PsychicFocus.label>
   <!-- EN: Mastering the power of the mind is essential to securing one’s place in the universe. Strength of mind can be achieved only through inner peace, and inner peace can only be achieved through meditation. -->
-  <VME_PsychicFocus.description>Овладеть силой собственного разума необходимо, чтобы найти собственное место во вселенной. Для силы разума необходимо достичь внутреннего равновесия. Для внутреннего равновесия необходима медитация.</VME_PsychicFocus.description>
+  <VME_PsychicFocus.description>Овладеть силой собственного разума необходимо, чтобы найти собственное место во Вселенной. Для силы разума необходимо достичь внутреннего равновесия. Для внутреннего равновесия необходима медитация.</VME_PsychicFocus.description>
   
   <!-- EN:
 		<li>memeAdjective->mental</li>
@@ -128,7 +128,7 @@
   <!-- EN: Psychics -->
   <VME_PsychicFocus.symbolPacks.0.ideoName>психизм</VME_PsychicFocus.symbolPacks.0.ideoName>
   <!-- EN: psychic -->
-  <VME_PsychicFocus.symbolPacks.0.member>психист</VME_PsychicFocus.symbolPacks.0.member>
+  <VME_PsychicFocus.symbolPacks.0.member>психиста</VME_PsychicFocus.symbolPacks.0.member>
   <!-- EN: pshychic powers -->
   <VME_PsychicFocus.symbolPacks.0.theme>пси-способности</VME_PsychicFocus.symbolPacks.0.theme>
 
@@ -139,7 +139,7 @@
   <!-- EN: mentalist -->
   <VME_PsychicFocus.symbolPacks.1.member>менталист</VME_PsychicFocus.symbolPacks.1.member>
   <!-- EN: mentalism -->
-  <VME_PsychicFocus.symbolPacks.1.theme>ментализм</VME_PsychicFocus.symbolPacks.1.theme>
+  <VME_PsychicFocus.symbolPacks.1.theme>ментализма</VME_PsychicFocus.symbolPacks.1.theme>
 
   <!-- EN: psionic -->
   <VME_PsychicFocus.symbolPacks.2.adjective>псионистский</VME_PsychicFocus.symbolPacks.2.adjective>
@@ -148,5 +148,5 @@
   <!-- EN: psion -->
   <VME_PsychicFocus.symbolPacks.2.member>псионист</VME_PsychicFocus.symbolPacks.2.member>
   <!-- EN: psionics -->
-  <VME_PsychicFocus.symbolPacks.2.theme>псионизм</VME_PsychicFocus.symbolPacks.2.theme>
+  <VME_PsychicFocus.symbolPacks.2.theme>псионизма</VME_PsychicFocus.symbolPacks.2.theme>
 </LanguageData>
