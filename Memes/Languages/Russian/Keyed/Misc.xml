@@ -15,7 +15,7 @@
   <!-- EN: Eldritch Corruption too low -->
   <VME_ExtraCertaintyLoss>Осквернение слишком мало</VME_ExtraCertaintyLoss>
   <!-- EN: Eldritch Corruption -->
-  <VME_NullCertaintyLoss>Жутностистское осквернение</VME_NullCertaintyLoss>
+  <VME_NullCertaintyLoss>Жутьностистское осквернение</VME_NullCertaintyLoss>
   <!-- EN: {0} is not harbouring suicidal thoughts! -->
   <VME_PawnMustBeSuicidal>{0} не думает о самоубийстве!</VME_PawnMustBeSuicidal>
   <!-- EN: {0} must be the best melee fighter in the colony! -->
