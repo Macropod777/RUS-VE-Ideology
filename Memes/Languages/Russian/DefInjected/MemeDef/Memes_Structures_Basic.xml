@@ -607,7 +607,7 @@
   <!-- EN: corporate origin -->
   <VME_Structure_Corporate.label>корпоративная основа</VME_Structure_Corporate.label>
   <!-- EN: No Gods or Kings should be worshipped, only man and his unslakable desire for wealth. Colonies should be managed like companies. -->
-  <VME_Structure_Corporate.description>Мы не чтим богов и королей. Только просто человеческое желание богатства, о котором никто и не напишет в рабочий чат. Наше поселение ничем не отличается от компании.</VME_Structure_Corporate.description>
+  <VME_Structure_Corporate.description>Мы не чтим богов и королей. Только простое человеческое желание богатства, о котором никто и не напишет в рабочий чат. Наше поселение ничем не отличается от компании.</VME_Structure_Corporate.description>
   <!-- EN: office -->
   <VME_Structure_Corporate.worshipRoomLabel>офис</VME_Structure_Corporate.worshipRoomLabel>
 
