@@ -29,37 +29,37 @@
   <!-- EN: god-king radicals -->
   <VME_GodKing_Radicals.label>символ власти</VME_GodKing_Radicals.label>
   <!-- EN: The steel fist of our King or Queen should never come into question, they shall want for nothing. If those who oppose us don't bend the knee we shall feed their legs to the hounds.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Cult of Personality. -->
-  <VME_GodKing_Radicals.description>The steel fist of our King or Queen should never come into question, they shall want for nothing. If those who oppose us don't bend the knee we shall feed their legs to the hounds.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Культ личности.</VME_GodKing_Radicals.description>
+  <VME_GodKing_Radicals.description>Слова правителя являются законом. Любой закон должен исполняться, не подвергаться сомнениям. И каждый должен пасть ниц перед правителем: по своей воле или же лишившись ног.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Культ личности.</VME_GodKing_Radicals.description>
 
   <!-- EN: cosmic cultists -->
-  <VME_Cosmic_Cultists.label>cosmic cultists</VME_Cosmic_Cultists.label>
+  <VME_Cosmic_Cultists.label>культисты космоса</VME_Cosmic_Cultists.label>
   <!-- EN: The stars above sing to us, and we respond in kind. May their everlasting glow illuminate the threads of our fate which rest so wearily upon a most capricious spindle. Bathe oneself in the hallowed moonlight and let astral workings of the architects of fate guide you.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Esotericism. -->
-  <VME_Cosmic_Cultists.description>The stars above sing to us, and we respond in kind. May their everlasting glow illuminate the threads of our fate which rest so wearily upon a most capricious spindle. Bathe oneself in the hallowed moonlight and let astral workings of the architects of fate guide you.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Эзотеризм.</VME_Cosmic_Cultists.description>
+  <VME_Cosmic_Cultists.description>Мы возносим песни звёздам, а они проливают свет на наши нити судьбы. Мы с радостью купаемся в нём, позволяя высшим силам направлять нас в будущее.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Эзотеризм.</VME_Cosmic_Cultists.description>
 
   <!-- EN: flame seers -->
-  <VME_Flame_Seers.label>flame seers</VME_Flame_Seers.label>
+  <VME_Flame_Seers.label>колдуны пламени</VME_Flame_Seers.label>
   <!-- EN: In the beginning - There was flame, and from flame, came warmth, and from warmth, came life. Blessed are we to be enraptured in the gross incandescence of the sun above.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Any. -->
-  <VME_Flame_Seers.description>In the beginning - There was flame, and from flame, came warmth, and from warmth, came life. Blessed are we to be enraptured in the gross incandescence of the sun above.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Любая.</VME_Flame_Seers.description>
+  <VME_Flame_Seers.description>В начале было пламя. Из пламени родилось тепло. Из тепла жизнь. Жизнь, благословлённая теплотой солнца на небе.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Любая.</VME_Flame_Seers.description>
 
   <!-- EN: dwarven artificers -->
-  <VME_Dwarven_Artificers.label>dwarven artificers</VME_Dwarven_Artificers.label>
+  <VME_Dwarven_Artificers.label>дварфийские мастера</VME_Dwarven_Artificers.label>
   <!-- EN: No day is better spent than a day in a hot forge. With our hammers we will echo the roar of flame and the ringing of steel through our mountain halls. Should we put in ample work, our Forgefathers will reward us with a supper fungus in excess so that we may fuel our bodies, just as we fuel our kilns.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Ideological. -->
-  <VME_Dwarven_Artificers.description>No day is better spent than a day in a hot forge. With our hammers we will echo the roar of flame and the ringing of steel through our mountain halls. Should we put in ample work, our Forgefathers will reward us with a supper fungus in excess so that we may fuel our bodies, just as we fuel our kilns.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Светская идеология.</VME_Dwarven_Artificers.description>
+  <VME_Dwarven_Artificers.description>Нет ничего лучше, чем провести день за работой в кузнице. Возьми в руки молот и наполни залы под горой звуками огня и стали. За усердную работу предки-кузнецы наградят обильным урожаем грибов, что станут и топливом для тела, и топливом для печи.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Светская идеология.</VME_Dwarven_Artificers.description>
 
   <!-- EN: nordic matriarchy -->
-  <VME_Nordic_Matriarchy.label>nordic matriarchy</VME_Nordic_Matriarchy.label>
+  <VME_Nordic_Matriarchy.label>северный матриархат</VME_Nordic_Matriarchy.label>
   <!-- EN: It is by the flurry of snow and crashing of waves we lead our people to the afterlife. Die an honorable death or answer to our shield-maiden.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Pantheism. -->
-  <VME_Nordic_Matriarchy.description>It is by the flurry of snow and crashing of waves we lead our people to the afterlife. Die an honorable death or answer to our shield-maiden.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Пантеизм.</VME_Nordic_Matriarchy.description>
+  <VME_Nordic_Matriarchy.description>Под вой северного ветра и грохот волн мы провожаем наших людей в последний путь. Эту церемонию заслуживают лишь те, кто умер достойно и не опозорил Воительницу.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Пантеизм.</VME_Nordic_Matriarchy.description>
 
   <!-- EN: steamworld ne'er-do-wells -->
-  <VME_Steamworld_Neerdowells.label>steamworld ne'er-do-wells</VME_Steamworld_Neerdowells.label>
+  <VME_Steamworld_Neerdowells.label>индустриальные бездельники</VME_Steamworld_Neerdowells.label>
   <!-- EN: From saloon to stable we're honest muffalopokes and live by one simple rule. ‘You don't get to live a bad life and have good things happen to you’. ‘Course, not all of us seem too convinced... Just don’t let the long arm of the law catch up y’all, ya’ hear?\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Christian Origin. -->
-  <VME_Steamworld_Neerdowells.description>From saloon to stable we're honest muffalopokes and live by one simple rule. ‘You don't get to live a bad life and have good things happen to you’. ‘Course, not all of us seem too convinced... Just don’t let the long arm of the law catch up y’all, ya’ hear?\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Христианское течение.</VME_Steamworld_Neerdowells.description>
+  <VME_Steamworld_Neerdowells.description>Во всём этом городке у честных муффалобоев есть одно важное правило: «Ты не живешь дерьмовой жизнью, если в ней происходят хорошие штуки». «Конечно, не все тут выглядят достаточно честными... Просто не дайте законникам поймать вас, окей?».\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Христианское течение.</VME_Steamworld_Neerdowells.description>
 
   <!-- EN: medieval monarchists -->
-  <VME_Medieval_Monarchists.label>medieval monarchists</VME_Medieval_Monarchists.label>
+  <VME_Medieval_Monarchists.label>средневековые монархи</VME_Medieval_Monarchists.label>
   <!-- EN: Our sires and grandsires all followed the foresight and guidance of our King, long may he reign, and we shall do no different. Should another kingdom find it preferable to resort to bow and blade, we have no hesitation in making them our serfs.\n\n&lt;color=#E5E54C&gt;Recommended Structure:&lt;/color&gt;\n - Cult of Personality. -->
-  <VME_Medieval_Monarchists.description>Our sires and grandsires all followed the foresight and guidance of our King, long may he reign, and we shall do no different. Should another kingdom find it preferable to resort to bow and blade, we have no hesitation in making them our serfs.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Культ личности.</VME_Medieval_Monarchists.description>
+  <VME_Medieval_Monarchists.description>Отцы и деды были поданными короля (долгих дней ему) и мы будем верны ему. Если другое королевство решит прийти к нам с мечом, ты встретим их с сделаем своими рабами.\n\n&lt;color=#E5E54C&gt;Рекомендуемая структура:&lt;/color&gt;\n - Культ личности.</VME_Medieval_Monarchists.description>
 
 
   <!-- EN: pleasure extremists -->
