@@ -956,6 +956,9 @@
   <VME_PartyLife.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_PartyLife)-&gt;I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</VME_PartyLife.descriptionMaker.rules.rulesStrings.22>
   <VME_PartyLife.symbolPacks.0.adjective>partying</VME_PartyLife.symbolPacks.0.adjective>
 
+
+  <!-- 28 -->
+
   <VME_Anonymity.label>anonymity</VME_Anonymity.label>
   <VME_Anonymity.description>Knowing the names, faces, and backgrounds of your fellow colonists can be both a blessing and a curse.</VME_Anonymity.description>
   <VME_Anonymity.generalRules.rulesStrings.0>memeCreed-&gt;anonymity</VME_Anonymity.generalRules.rulesStrings.0>
@@ -991,124 +994,434 @@
   <VME_Anonymity.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Anonymity)-&gt;Animals do not care about human. We can be ourselves with them, as they are not as prone to judgement as humans are.</VME_Anonymity.descriptionMaker.rules.rulesStrings.22>
   <VME_Anonymity.symbolPacks.0.adjective>anonymous</VME_Anonymity.symbolPacks.0.adjective>
 
-  <VME_Emancipation.label>emancipation</VME_Emancipation.label>
-  <VME_Emancipation.description>It’s not enough to simply not participate in slavery, we should actively work to fight against those who dare to enslave others and free those who have suffered such inhumanities.</VME_Emancipation.description>
-  <VME_Emancipation.generalRules.rulesStrings.0>memeAdjective-&gt;emancipating</VME_Emancipation.generalRules.rulesStrings.0>
-  <VME_Emancipation.generalRules.rulesStrings.1>memeAdjective-&gt;liberating</VME_Emancipation.generalRules.rulesStrings.1>
-  <VME_Emancipation.generalRules.rulesStrings.2>memeAdjective-&gt;free</VME_Emancipation.generalRules.rulesStrings.2>
-  <VME_Emancipation.generalRules.rulesStrings.3>memeAdjective-&gt;independent</VME_Emancipation.generalRules.rulesStrings.3>
-  <VME_Emancipation.generalRules.rulesStrings.4>memeLeaderNoun-&gt;emancipator</VME_Emancipation.generalRules.rulesStrings.4>
-  <VME_Emancipation.generalRules.rulesStrings.5>memeCreed-&gt;emancipation</VME_Emancipation.generalRules.rulesStrings.5>
-  <VME_Emancipation.generalRules.rulesStrings.6>memeHyphenPrefix-&gt;free</VME_Emancipation.generalRules.rulesStrings.6>
-  <VME_Emancipation.generalRules.rulesStrings.7>memeConcept-&gt;freedom</VME_Emancipation.generalRules.rulesStrings.7>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Emancipation)        -&gt;[deity0_name] showed us that slavery is aberrant, and should be stopped at all costs.</VME_Emancipation.descriptionMaker.rules.rulesStrings.0>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Emancipation)  -&gt;[deity0_name] said to all the [memberNamePlural], "Those who deny freedom to others, deserve it not for themselves."</VME_Emancipation.descriptionMaker.rules.rulesStrings.1>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Emancipation)           -&gt;On the [place_summary] [place_name], a tradition began at the [altarRoomLabel] of [deity0_name] where slaves were freed and given a new chance at life.</VME_Emancipation.descriptionMaker.rules.rulesStrings.2>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Emancipation)           -&gt;A bigot [foeLeader] looked at this with scorn, for [foeLeader_pronoun] was a slaver that saw [foeLeader_possessive] profits threatened.</VME_Emancipation.descriptionMaker.rules.rulesStrings.3>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Emancipation)        -&gt;[deity0_name]'s truest follower [founderName] stood before the [place_powerCenter], and gave a long, passionate speech about emancipation and the evils of slavery.</VME_Emancipation.descriptionMaker.rules.rulesStrings.4>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Emancipation)            -&gt;Even if the [foeLeader] wasn't convinced by the arguments, everyone else applauded [founderName]'s words, and [founder_pronoun] was considered from that moment to be [deity0_name]'s speaker.</VME_Emancipation.descriptionMaker.rules.rulesStrings.5>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Emancipation)           -&gt;[founderName] was born in an oppressive urbworld where slavery was commonplace. [founder_pronoun] grew up seeing other human beings being used as property, and this deeply disgusted [founder_objective].</VME_Emancipation.descriptionMaker.rules.rulesStrings.6>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Emancipation)    -&gt;[founderName] set out to abolish slavery in [founder_possessive] native planet, and with [founder_possessive] success [founder_possessive] philosophy spread across the stars.</VME_Emancipation.descriptionMaker.rules.rulesStrings.7>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Emancipation)         -&gt;Slavery is theft -- theft of a life, theft of work, theft of any property or produce, theft even of the children a slave might have borne. It is so important you understand that</VME_Emancipation.descriptionMaker.rules.rulesStrings.8>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Emancipation)              -&gt;nature made no man a slave</VME_Emancipation.descriptionMaker.rules.rulesStrings.9>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Emancipation) -&gt;To subjugate another is to subjugate yourself.</VME_Emancipation.descriptionMaker.rules.rulesStrings.10>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Emancipation)    -&gt;Archotechs are the pinnacle of ethical development. Beings so wise and so advanced that they have achieved perfection in their thoughts.</VME_Emancipation.descriptionMaker.rules.rulesStrings.11>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Emancipation)     -&gt;To an archotech, slavery is an abhorrent sin. Treating another human like an object.</VME_Emancipation.descriptionMaker.rules.rulesStrings.12>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Emancipation) -&gt;Only by abolishing slavery and fighting against it everywhere we see it can we become worthy of transcendence.</VME_Emancipation.descriptionMaker.rules.rulesStrings.13>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Emancipation)    -&gt;The very concept of slavery, of owning another human being as if it were an object, is incomprehensible to the spirits.</VME_Emancipation.descriptionMaker.rules.rulesStrings.14>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Emancipation)     -&gt;To the spirits, slavery is not only sinful and wrong, but something that should be actively fought against in any way possible.</VME_Emancipation.descriptionMaker.rules.rulesStrings.15>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_Emancipation) -&gt;[itIsSaid] only by abolishing slavery and fighting against it everywhere we see it can we make the spirits truly listen to us.</VME_Emancipation.descriptionMaker.rules.rulesStrings.16>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_Emancipation)-&gt;[itIsSaid] we will form a society in which no human owns another as if it were a mere object. Accepting and tolerant, as all insects are.</VME_Emancipation.descriptionMaker.rules.rulesStrings.17>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_Emancipation)-&gt;These eldritch entities would love nothing more than to enslave the human race to do their bidding.</VME_Emancipation.descriptionMaker.rules.rulesStrings.18>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_Emancipation)-&gt;Such occult knowledge will require an unshackled mind. As long as the mind is enslaved, the body can never be free.</VME_Emancipation.descriptionMaker.rules.rulesStrings.19>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_Emancipation)-&gt;Only by working together can be bring the end of the world. We will free every shackled slave and recruit them to our cause.</VME_Emancipation.descriptionMaker.rules.rulesStrings.20>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Emancipation)-&gt;We all know some other corporations in the Rim engage in "pseudo-illicit exploitment of human capital", so it is company policy to free these "forced employees" as soon as we can, and offer them an internship with us.</VME_Emancipation.descriptionMaker.rules.rulesStrings.21>
-  <VME_Emancipation.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Emancipation)-&gt;These wayward creatures embody the concept of freedom that we espouse, and we'd do well to learn from them.</VME_Emancipation.descriptionMaker.rules.rulesStrings.22>
-  <VME_Emancipation.symbolPacks.0.adjective>emancipator</VME_Emancipation.symbolPacks.0.adjective>
 
-  <VME_Nationalist.label>nationalist</VME_Nationalist.label>
-  <VME_Nationalist.description>Insubordination and dissent should be quenched to make space for a strong sense of nationalistic pride.</VME_Nationalist.description>
-  <VME_Nationalist.generalRules.rulesStrings.0>memeAdjective-&gt;firm</VME_Nationalist.generalRules.rulesStrings.0>
-  <VME_Nationalist.generalRules.rulesStrings.1>memeAdjective-&gt;oligarchic</VME_Nationalist.generalRules.rulesStrings.1>
-  <VME_Nationalist.generalRules.rulesStrings.2>memeAdjective-&gt;absolute</VME_Nationalist.generalRules.rulesStrings.2>
-  <VME_Nationalist.generalRules.rulesStrings.3>memeAdjective-&gt;uncompromising</VME_Nationalist.generalRules.rulesStrings.3>
-  <VME_Nationalist.generalRules.rulesStrings.4>memeAdjective-&gt;repressive</VME_Nationalist.generalRules.rulesStrings.4>
-  <VME_Nationalist.generalRules.rulesStrings.5>memeAdjective-&gt;iron-fisted</VME_Nationalist.generalRules.rulesStrings.5>
-  <VME_Nationalist.generalRules.rulesStrings.6>memeAdjective-&gt;populist</VME_Nationalist.generalRules.rulesStrings.6>
-  <VME_Nationalist.generalRules.rulesStrings.7>memeLeaderNoun-&gt;supreme leader</VME_Nationalist.generalRules.rulesStrings.7>
-  <VME_Nationalist.generalRules.rulesStrings.8>memeLeaderNoun-&gt;caudillo</VME_Nationalist.generalRules.rulesStrings.8>
-  <VME_Nationalist.generalRules.rulesStrings.9>memeLeaderNoun-&gt;chairman</VME_Nationalist.generalRules.rulesStrings.9>
-  <VME_Nationalist.generalRules.rulesStrings.10>memeLeaderNoun-&gt;duce</VME_Nationalist.generalRules.rulesStrings.10>
-  <VME_Nationalist.generalRules.rulesStrings.11>memeLeaderNoun-&gt;president for life</VME_Nationalist.generalRules.rulesStrings.11>
-  <VME_Nationalist.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;stern</VME_Nationalist.generalRules.rulesStrings.12>
-  <VME_Nationalist.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;patriot</VME_Nationalist.generalRules.rulesStrings.13>
-  <VME_Nationalist.generalRules.rulesStrings.14>memeLeaderAdjective-&gt;callous</VME_Nationalist.generalRules.rulesStrings.14>
-  <VME_Nationalist.generalRules.rulesStrings.15>memeLeaderAdjective-&gt;harsh</VME_Nationalist.generalRules.rulesStrings.15>
-  <VME_Nationalist.generalRules.rulesStrings.16>memeLeaderAdjective-&gt;implacable</VME_Nationalist.generalRules.rulesStrings.16>
-  <VME_Nationalist.generalRules.rulesStrings.17>memeLeaderAdjective-&gt;inexorable</VME_Nationalist.generalRules.rulesStrings.17>
-  <VME_Nationalist.generalRules.rulesStrings.18>memeMoralist-&gt;propagandist</VME_Nationalist.generalRules.rulesStrings.18>
-  <VME_Nationalist.generalRules.rulesStrings.19>memeMoralist-&gt;regime advocate</VME_Nationalist.generalRules.rulesStrings.19>
-  <VME_Nationalist.generalRules.rulesStrings.20>memeMoralist-&gt;campaigner</VME_Nationalist.generalRules.rulesStrings.20>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Nationalist)        -&gt;[deity0_name] showed us that plutocratic and reactionary democracies have blocked the march and frequently plotted against the existence of the [memberNamePlural].</VME_Nationalist.descriptionMaker.rules.rulesStrings.0>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Nationalist)  -&gt;[deity0_name] shouted to all the [memberNamePlural], "The hour destined by fate is sounding for us. The hour of irrevocable decision has come."</VME_Nationalist.descriptionMaker.rules.rulesStrings.1>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Nationalist)           -&gt;On the [place_summary] [place_name], enormous monolitic statues saluted and extolled the glory of [deity0_name].</VME_Nationalist.descriptionMaker.rules.rulesStrings.2>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Nationalist)           -&gt;A coward [foeLeader] looked at this with scorn, for [foeLeader_pronoun] was a revolutionary who didn't believe in order, justice and honor.</VME_Nationalist.descriptionMaker.rules.rulesStrings.3>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Nationalist)        -&gt;[deity0_name]'s truest follower [founderName], a true patriot, stood before the [place_powerCenter], and gave a long, rousing speech about how the [foeLeader] was the most powerful enemy number one against whom the [memberNamePlural] were engaged and against whom they should continue the struggle to the last drop of blood.</VME_Nationalist.descriptionMaker.rules.rulesStrings.4>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Nationalist)            -&gt;Emboldened by the [founderName]'s words, [founder_possessive] troops incarcerated the [foeLeader], who was executed a few days later for [deity0_name]'s glory.</VME_Nationalist.descriptionMaker.rules.rulesStrings.5>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Nationalist)           -&gt;[founderName] was a hero of the people, a true patriot. Everyone was united under [founder_possessive] banner.</VME_Nationalist.descriptionMaker.rules.rulesStrings.6>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Nationalist)    -&gt;[founderName] made us understand that hardships, suffering and sacrifices that are faced with exemplary courage and dignity have their day of compensation when all the enemy forces are crushed on the battlefields by the heroism of our soldiers.</VME_Nationalist.descriptionMaker.rules.rulesStrings.7>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Nationalist)         -&gt;Through you I want to speak to our people, to the authentic, real, great people, who fight with the courage of lions on land, sea and air fronts. It is so important you understand that</VME_Nationalist.descriptionMaker.rules.rulesStrings.8>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Nationalist)              -&gt;they absolutely must not be confused or contaminated by the minority or well-known, anti-social individuals and complainers, who grumble about their suspended comforts</VME_Nationalist.descriptionMaker.rules.rulesStrings.9>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Nationalist) -&gt;We are a great people. We deserve and will have victory.</VME_Nationalist.descriptionMaker.rules.rulesStrings.10>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Nationalist)    -&gt;Archotechs do not respect those who can't defend themselves: We rise as one unified order, under a single banner, and no enemy can destabilize the ideal we represent.</VME_Nationalist.descriptionMaker.rules.rulesStrings.11>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Nationalist)     -&gt;Our nation will rise triumphant over the rest, proving to the archotechs that we are One people, One voice.</VME_Nationalist.descriptionMaker.rules.rulesStrings.12>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Nationalist) -&gt;Only by standing proud as the only true followers of our ideals can we become worthy of transcendence.</VME_Nationalist.descriptionMaker.rules.rulesStrings.13>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Nationalist)    -&gt;The spirits understand the need for an unified will. The preservation of our eternal values, the suppression of which would imply instability and chaos.</VME_Nationalist.descriptionMaker.rules.rulesStrings.14>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Nationalist)     -&gt;To the spirits, it is clear that our youth prepared itself for fight and engendered a spirit of our crusade that they derived from our soundest traditions of spiritual values and merged them with the social yearnings of our times.</VME_Nationalist.descriptionMaker.rules.rulesStrings.15>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_Nationalist) -&gt;[itIsSaid] only by standing proud as the only true followers of our ideals can we make the spirits truly listen to us.</VME_Nationalist.descriptionMaker.rules.rulesStrings.16>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_Nationalist)-&gt;[itIsSaid] we will truly stand as One people, with an unified will, standing proud as the only true followers of our ideals.</VME_Nationalist.descriptionMaker.rules.rulesStrings.17>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_Nationalist)-&gt;These eldritch entities would seek to destroy us, but they lack the vision to understand that we will stand proud against them as the only true followers of our ideals.</VME_Nationalist.descriptionMaker.rules.rulesStrings.18>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_Nationalist)-&gt;Such occult knowledge requires an unified, iron will. We will stand proud as the only true followers of our ideals.</VME_Nationalist.descriptionMaker.rules.rulesStrings.19>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_Nationalist)-&gt;Only our nation is strong enough to do what must be done. We will stand proud as the only true followers of our ideals, until the end.</VME_Nationalist.descriptionMaker.rules.rulesStrings.20>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Nationalist)-&gt;As a reminder, multiple employment is expressly forbidden by the contract you signed. If you think any of your co-workers is engaging in such activities please report it as soon as possible so the proper disciplinary measures can be enacted.</VME_Nationalist.descriptionMaker.rules.rulesStrings.21>
-  <VME_Nationalist.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Nationalist)-&gt;These wayward creatures are ours to do as we please.</VME_Nationalist.descriptionMaker.rules.rulesStrings.22>
-  <VME_Nationalist.symbolPacks.0.adjective>nationalist</VME_Nationalist.symbolPacks.0.adjective>
 
-  <VME_Healthcare.label>healthcare</VME_Healthcare.label>
-  <VME_Healthcare.description>The wellbeing of our bodies and minds is something our people take very seriously. It’s important that we look out for each other and tend to the wounds of our friends and family alike.</VME_Healthcare.description>
-  <VME_Healthcare.generalRules.rulesStrings.0>memeAdjective-&gt;healthy</VME_Healthcare.generalRules.rulesStrings.0>
-  <VME_Healthcare.generalRules.rulesStrings.1>memeAdjective-&gt;medical</VME_Healthcare.generalRules.rulesStrings.1>
-  <VME_Healthcare.generalRules.rulesStrings.2>memeAdjective-&gt;preventive</VME_Healthcare.generalRules.rulesStrings.2>
-  <VME_Healthcare.generalRules.rulesStrings.3>memeCreed-&gt;healthcare</VME_Healthcare.generalRules.rulesStrings.3>
-  <VME_Healthcare.generalRules.rulesStrings.4>memeCreed-&gt;wellness</VME_Healthcare.generalRules.rulesStrings.4>
-  <VME_Healthcare.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;fit</VME_Healthcare.generalRules.rulesStrings.5>
-  <VME_Healthcare.generalRules.rulesStrings.6>memeConcept-&gt;hospitals</VME_Healthcare.generalRules.rulesStrings.6>
-  <VME_Healthcare.generalRules.rulesStrings.7>memeLeaderNoun-&gt;surgeon</VME_Healthcare.generalRules.rulesStrings.7>
-  <VME_Healthcare.generalRules.rulesStrings.8>memeMoralist-&gt;doctor</VME_Healthcare.generalRules.rulesStrings.8>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Healthcare)        -&gt;[deity0_name] spoke to [deity0_possessive] followers: "Give people what they need: food, medicine, clean air, pure water, trees and grass. Don't ask who deserves it. Every human being deserves it."</VME_Healthcare.descriptionMaker.rules.rulesStrings.0>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Healthcare)  -&gt;As [deity0_name] commanded, we always took care of one another and pooled our resources so no one has to suffer alone.</VME_Healthcare.descriptionMaker.rules.rulesStrings.1>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Healthcare)           -&gt;On the [place_summary] [place_name], the [memberNamePlural] built a gigantic hospital, where the ill and infirm were taken care of.</VME_Healthcare.descriptionMaker.rules.rulesStrings.2>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Healthcare)        -&gt;An evil insurance seller, seeing [foeLeader_possessive] profits evaporate due to public healthcare, wanted to sabotage the hospital by any means necessary.</VME_Healthcare.descriptionMaker.rules.rulesStrings.3>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Healthcare)     -&gt;Our founder, [founderName], firmly spoke to [foeLeader_objective]: "It is hard to talk about a middle ground for something that is a fundamental right".</VME_Healthcare.descriptionMaker.rules.rulesStrings.4>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Healthcare)         -&gt;Eventually, everyone was convinced of [founderName_possessive] arguments, and the [memberNamePlural] will forever believe in universal healthcare.</VME_Healthcare.descriptionMaker.rules.rulesStrings.5>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Healthcare)           -&gt;[founderName] was an accomplished surgeon in one of the Glitterworlds, but lost the use of his hands in a traffic accident. That's how he became Sorcerer Supreme and... wait, wrong Universe...</VME_Healthcare.descriptionMaker.rules.rulesStrings.6>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Healthcare)    -&gt;[founderName] argued that health is your warranty seal. It seems quite pointless to waste health relentlessly in order to earn money that we shall spend on recovering health.</VME_Healthcare.descriptionMaker.rules.rulesStrings.7>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Healthcare)         -&gt;The oldest doctor in our colony taught me the history of healthcare, how healing those who have no means to heal themselves is the basis of a free society. He was leading me to understand that</VME_Healthcare.descriptionMaker.rules.rulesStrings.8>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Healthcare)              -&gt;every single journey of your life starts with a healthy mind and a healthy journey</VME_Healthcare.descriptionMaker.rules.rulesStrings.9>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Healthcare) -&gt;You may not appreciate the presence of good health, but you will definitely regret the absence of good health, because health is happiness.</VME_Healthcare.descriptionMaker.rules.rulesStrings.10>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Healthcare)    -&gt;Archotechs are wise beyond measure. The values of compassion and empathy are important to them.</VME_Healthcare.descriptionMaker.rules.rulesStrings.11>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Healthcare)     -&gt;A society that doesn't take care of those in need is a cruel mockery of civilization. How would the archotechs judge us if we didn't heal those who need it?</VME_Healthcare.descriptionMaker.rules.rulesStrings.12>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Healthcare) -&gt;[inTheEnd], the archotechs will allow only the most compassionate of us to transcend.</VME_Healthcare.descriptionMaker.rules.rulesStrings.13>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Healthcare)    -&gt;The spirits value compassion and empathy above anything else.</VME_Healthcare.descriptionMaker.rules.rulesStrings.14>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Healthcare)     -&gt;The soul is the same in all living creatures, so it makes sense to make no distinctions when healing others.</VME_Healthcare.descriptionMaker.rules.rulesStrings.15>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_Healthcare) -&gt;[itIsSaid] that only those who can truly take care of anyone in need will be able to commune with the spirits.</VME_Healthcare.descriptionMaker.rules.rulesStrings.16>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_Healthcare)-&gt;[itIsSaid] we will take care of each other like insects do. Unified in purpose, will, and compassion for each other.</VME_Healthcare.descriptionMaker.rules.rulesStrings.17>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_Healthcare)-&gt;These eldritch entities would see us fight and quarrel among ourselves, rip each other apart. We will show them that compassion and empathy are the only goals worth pursuing.</VME_Healthcare.descriptionMaker.rules.rulesStrings.18>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_Healthcare)-&gt;Such occult knowledge will require a pure mind to fathom. Through compassion and empathy towards others we will reach a state of mind that will allow us to see the cosmos for what it truly is.</VME_Healthcare.descriptionMaker.rules.rulesStrings.19>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_Healthcare)-&gt;We will cherish and support each other, for we are a bastion of purity in this obscene world, and by comparison we will see the iniquity of it and why its cruel inhabitants must be purged.</VME_Healthcare.descriptionMaker.rules.rulesStrings.20>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Healthcare)-&gt;Let me remind you that the company offers some comprehensive healthcare benefits as part of your employment contract. Feel free to peruse the details on the company's intranet and direct any enquiries to the human resources department.</VME_Healthcare.descriptionMaker.rules.rulesStrings.21>
-  <VME_Healthcare.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Healthcare)-&gt;These wayward creatures are poor, innocent beings. We should take care of them and show compassion and empathy.</VME_Healthcare.descriptionMaker.rules.rulesStrings.22>
-  <VME_Healthcare.symbolPacks.0.adjective>medical</VME_Healthcare.symbolPacks.0.adjective>
+  <!-- 29 -->
 
+  <!-- EN: emancipation -->
+  <VME_Emancipation.label>освобождение</VME_Emancipation.label>
+  <!-- EN: It’s not enough to simply not participate in slavery, we should actively work to fight against those who dare to enslave others and free those who have suffered such inhumanities. -->
+  <VME_Emancipation.description>Недостаточно просто быть непричастным к рабовладению, мы должны активно бороться с теми, кто осмеливается порабощать других, и освобождать тех, кто пострадал от этих бесчеловечных поступков. </VME_Emancipation.description>
+
+  <!-- EN:
+    <li>memeAdjective->emancipating</li>
+    <li>memeAdjective->liberating</li>
+    <li>memeAdjective->free</li>
+    <li>memeAdjective->independent</li>
+    <li>memeLeaderNoun->emancipator</li>
+    <li>memeCreed->emancipation</li>
+    <li>memeHyphenPrefix->free</li>
+    <li>memeConcept->freedom</li>
+  -->
+  <VME_Emancipation.generalRules.rulesStrings>
+    <li>memeAdjective->освобождающий</li>
+    <li>memeAdjective->освободительный</li>
+    <li>memeAdjective->свободный</li>
+    <li>memeAdjective->независимый</li>
+    <li>memeLeaderNoun->освободитель</li>
+    <li>memeCreed->аболиционизм</li>
+    <li>memeHyphenPrefix->свободо</li>
+    <li>memeConcept->свободы</li>
+  </VME_Emancipation.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Emancipation)        ->[deity0_name] showed us that slavery is aberrant, and should be stopped at all costs.</li>
+    <li>episode(uses=1,tag=meme_Emancipation)  ->[deity0_name] said to all the [memberNamePlural], "Those who deny freedom to others, deserve it not for themselves."</li>
+
+    <li>intro(tag=meme_Emancipation)           ->On the [place_summary] [place_name], a tradition began at the [altarRoomLabel] of [deity0_name] where slaves were freed and given a new chance at life.</li>
+    <li>conflict(tag=meme_Emancipation)           ->A bigot [foeLeader] looked at this with scorn, for [foeLeader_pronoun] was a slaver that saw [foeLeader_possessive] profits threatened.</li>
+    <li>founderJoin(tag=meme_Emancipation)        ->[deity0_name]'s truest follower [founderName] stood before the [place_powerCenter], and gave a long, passionate speech about emancipation and the evils of slavery.</li>
+    <li>victory(tag=meme_Emancipation)            ->Even if the [foeLeader] wasn't convinced by the arguments, everyone else applauded [founderName]'s words, and [founder_pronoun] was considered from that moment to be [deity0_name]'s speaker.</li>
+
+    <li>setup(tag=meme_Emancipation)           ->[founderName] was born in an oppressive urbworld where slavery was commonplace. [founder_pronoun] grew up seeing other human beings being used as property, and this deeply disgusted [founder_objective].</li>
+    <li>story(uses=1,tag=meme_Emancipation)    ->[founderName] set out to abolish slavery in [founder_possessive] native planet, and with [founder_possessive] success [founder_possessive] philosophy spread across the stars.</li>
+
+    <li>lessonIntro(tag=meme_Emancipation)         ->Slavery is theft - theft of a life, theft of work, theft of any property or produce, theft even of the children a slave might have borne. It is so important you understand that</li>
+    <li>lesson(tag=meme_Emancipation)              ->nature made no man a slave</li>
+    <li>lessonReinforcement(tag=meme_Emancipation) ->To subjugate another is to subjugate yourself.</li>
+
+    <li>archistBasis(tag=meme_Emancipation)    ->Archotechs are the pinnacle of ethical development. Beings so wise and so advanced that they have achieved perfection in their thoughts.</li>
+    <li>archistFact(tag=meme_Emancipation)     ->To an archotech, slavery is an abhorrent sin. Treating another human like an object.</li>
+    <li>archistProphecy(tag=meme_Emancipation) ->Only by abolishing slavery and fighting against it everywhere we see it can we become worthy of transcendence.</li>
+
+    <li>animistBasis(tag=meme_Emancipation)    ->The very concept of slavery, of owning another human being as if it were an object, is incomprehensible to the spirits.</li>
+    <li>animistFact(tag=meme_Emancipation)     ->To the spirits, slavery is not only sinful and wrong, but something that should be actively fought against in any way possible.</li>
+    <li>animistProphecy(tag=meme_Emancipation) ->[itIsSaid] only by abolishing slavery and fighting against it everywhere we see it can we make the spirits truly listen to us.</li>
+
+    <li>serketistProphecy(tag=meme_Emancipation)->[itIsSaid] we will form a society in which no human owns another as if it were a mere object. Accepting and tolerant, as all insects are.</li>
+
+    <li>chthonianProphecy(tag=meme_Emancipation)->These eldritch entities would love nothing more than to enslave the human race to do their bidding.</li>
+
+    <li>esotericismProphecy(tag=meme_Emancipation)->Such occult knowledge will require an unshackled mind. As long as the mind is enslaved, the body can never be free.</li>
+
+    <li>eschatologismFact(tag=meme_Emancipation)->Only by working together can be bring the end of the world. We will free every shackled slave and recruit them to our cause.</li>
+
+    <li>introMemo(tag=meme_Emancipation)->We all know some other corporations in the Rim engage in "pseudo-illicit exploitment of human capital", so it is company policy to free these "forced employees" as soon as we can, and offer them an internship with us.</li>
+
+    <li>alienistProphecy(tag=meme_Emancipation)->These wayward creatures embody the concept of freedom that we espouse, and we'd do well to learn from them.</li>
+  -->
+  <VME_Emancipation.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Emancipation)        ->[deity0_name] [deity0_showed] нам, что рабство является извращением и должно быть остановлено любой ценой.</li>
+    <li>episode(uses=1,tag=meme_Emancipation)  ->[deity0_name] [deity0_said], чтобы [memberNamePlural] запомнили: "Те, кто отказывает в свободе другим, не заслуживают её для себя."</li>
+
+    <li>intro(tag=meme_Emancipation)           ->[place_summary] [place_name], где до сих пор существует [altarRoomLabel] в честь нашего божества по имени [deity0_name] — там впервые рабы были освобождены и получили новый шанс в жизни.</li>
+    <li>conflict(tag=meme_Emancipation)           ->Ханжа [foeLeader] [foe_looked] на это с презрением, ибо [foe_slaver], что [foeLeader_possessive] прибыли под угрозой.</li>
+	<li>founderJoin(tag=meme_Emancipation)        ->[deity0_name] [deity0_called] [founder_follower] по имени [founderName]. Неподалёку находилось священное место — [place_powerCenter], встав возле которого [founderName] [founder_said] длинную воодушевляющую речь об освобождении и зле рабства.</li>
+    <li>victory(tag=meme_Emancipation)            ->Разумеется, [foeLeader] не [foe_convinced] речью, которую [founder_said] [founderName], но все прочие присутствующие аплодировали стоя [founder_possessive] словам, и с тех пор считалось, что через н[founder_possessive] говорит [deity0_name].</li>
+
+    <li>setup(tag=meme_Emancipation)           ->[founderName] [founder_born] в несправедливом городском мире, где рабство было обычным явлением. [founder_pronoun] [founder_grew], видя, как других людей используют в качестве собственности, и это вызывало у н[founder_possessive] глубокое отвращение.</li>
+    <li>story(uses=1,tag=meme_Emancipation)    ->[founderName] намеревался отменить рабство на своей родной планете, и после успеха этого начинания [founder_possessive] философия распространидась среди звёзд.</li>
+
+    <li>lessonIntro(tag=meme_Emancipation)         ->Рабство — это кража. Кража жизни, кража работы, кража любого имущества или продуктов, кража даже детей, которых мог родить раб. Очень важно, чтобы вы поняли, что</li>
+    <li>lesson(tag=meme_Emancipation)              ->природа не сделала человека рабом </li>
+    <li>lessonReinforcement(tag=meme_Emancipation) ->Порабощать другого - значит порабощать себя.</li>
+
+    <li>archistBasis(tag=meme_Emancipation)    ->Архотеки — это вершина этического развития. Существа настолько мудрые и развитые, что достигли совершенства в своих помыслах.</li>
+    <li>archistFact(tag=meme_Emancipation)     ->Для архотека рабство — отвратительный грех. Отношение к другому человеку как к вещи.</li>
+    <li>archistProphecy(tag=meme_Emancipation) ->Только отменив рабство и борясь с ним повсюду, где мы его видим, мы можем стать достойными трансцендентого.</li>
+
+    <li>animistBasis(tag=meme_Emancipation)    ->Сама концепция рабства, владения другим человеком как вещью, непостижима для духов.</li>
+    <li>animistFact(tag=meme_Emancipation)     ->Для духов рабство является не только греховным и неправильным, но и тем, с чем следует активно бороться всеми возможными способами.</li>
+    <li>animistProphecy(tag=meme_Emancipation) ->[itIsSaid] только отменив рабство и борясь с ним повсюду, где мы его видим, мы можем заставить духов по-настоящему слушать нас.</li>
+
+    <li>serketistProphecy(tag=meme_Emancipation)->[itIsSaid] мы сформируем общество, в котором ни один человек не будет владеть другим, как вещью. Чувствительное и терпимое, как все насекомые.</li>
+
+    <li>chthonianProphecy(tag=meme_Emancipation)->Эти жуткие сущности не хотели бы ничего более, чем поработить человечество, чтобы оно выполняло их волю.</li>
+
+    <li>esotericismProphecy(tag=meme_Emancipation)->Такое оккультное знание потребует свободного ума. Пока ум порабощен, тело тоже никогда не может быть свободным.</li>
+
+    <li>eschatologismFact(tag=meme_Emancipation)->Только совместными усилиями можно приблизить конец света. Мы освободим каждого закованного раба и привлечём к нашему делу.</li>
+
+    <li>introMemo(tag=meme_Emancipation)->Все мы знаем, что некоторые корпорации окраинных миров занимаются «псевдозаконной эксплуатацией человеческого капитала», поэтому политика компании заключается в том, чтобы как можно скорее освободить этих «вынужденных сотрудников» и предложить им стажировку у нас.</li>
+
+    <li>alienistProphecy(tag=meme_Emancipation)->Эти непохожие существа воплощают идею свободы, которую мы поддерживаем, и нам стоит поучиться у них.</li>
+
+	<li>deity0_showed(deity0_gender==None)->раскрыло</li>
+    <li>deity0_showed(deity0_gender==Male)->раскрыл</li>
+    <li>deity0_showed(deity0_gender==Female)->раскрыла</li>
+	<li>deity0_said(deity0_gender==None)->сказало</li>
+    <li>deity0_said(deity0_gender==Male)->сказал</li>
+    <li>deity0_said(deity0_gender==Female)->сказала</li>
+
+    <li>foe_looked(foeLeader_gender==Male)->смотрел</li>
+    <li>foe_looked(foeLeader_gender==Female)->смотрела</li>
+    <li>foe_slaver(foeLeader_gender==Male)->был работорговцем и увидел</li>
+    <li>foe_slaver(foeLeader_gender==Female)->была работорговкой и увидела</li>
+
+    <li>deity0_called(deity0_gender==None)->призвало</li>
+    <li>deity0_called(deity0_gender==Male)->призвал</li>
+    <li>deity0_called(deity0_gender==Female)->призвала</li>
+	<li>founder_follower(founder_gender==Male)->своего самого верного последователя</li>
+    <li>founder_follower(founder_gender==Female)->свою самую верную последовательницу</li>
+	<li>founder_said(founder_gender==Male)->произнёс</li>
+    <li>founder_said(founder_gender==Female)->произнесла</li>
+    <li>foe_convinced(foeLeader_gender==Male)->был убеждён</li>
+    <li>foe_convinced(foeLeader_gender==Female)->была убеждена</li>
+
+	<li>founder_born(founder_gender==Male)->был рождён</li>
+    <li>founder_born(founder_gender==Female)->была рождена</li>
+	<li>founder_grew(founder_gender==Male)->рос</li>
+    <li>founder_grew(founder_gender==Female)->росла</li>
+  </VME_Emancipation.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Emancipation -->
+  <VME_Emancipation.symbolPacks.0.ideoName>Освобождение</VME_Emancipation.symbolPacks.0.ideoName>
+  <!-- EN: emancipation -->
+  <VME_Emancipation.symbolPacks.0.theme>освобождения</VME_Emancipation.symbolPacks.0.theme>
+  <!-- EN: emancipator -->
+  <VME_Emancipation.symbolPacks.0.adjective>освобождающий</VME_Emancipation.symbolPacks.0.adjective>
+  <!-- EN: rescuer -->
+  <VME_Emancipation.symbolPacks.0.member>спасатель</VME_Emancipation.symbolPacks.0.member>
+
+
+  <!-- 30 -->
+
+  <!-- EN: nationalist -->
+  <VME_Nationalist.label>национализм</VME_Nationalist.label>
+  <!-- EN: Insubordination and dissent should be quenched to make space for a strong sense of nationalistic pride. -->
+  <VME_Nationalist.description>Неповиновение и инакомыслие необходимо подавить, чтобы освободить место для сильного чувства националистической гордости.</VME_Nationalist.description>
+  <!-- EN:  
+    <li>memeAdjective->firm</li>
+    <li>memeAdjective->oligarchic</li>
+    <li>memeAdjective->absolute</li>
+    <li>memeAdjective->uncompromising</li>
+    <li>memeAdjective->repressive</li>
+    <li>memeAdjective->iron-fisted</li>
+    <li>memeAdjective->populist</li>
+    <li>memeLeaderNoun->supreme leader</li>
+    <li>memeLeaderNoun->caudillo</li>
+    <li>memeLeaderNoun->chairman</li>
+    <li>memeLeaderNoun->duce</li>
+    <li>memeLeaderNoun->president for life</li>
+    <li>memeLeaderAdjective->stern</li>
+    <li>memeLeaderAdjective->patriot</li>
+    <li>memeLeaderAdjective->callous</li>
+    <li>memeLeaderAdjective->harsh</li>
+    <li>memeLeaderAdjective->implacable</li>
+    <li>memeLeaderAdjective->inexorable</li>
+    <li>memeMoralist->propagandist</li>
+    <li>memeMoralist->regime advocate</li>
+    <li>memeMoralist->campaigner</li>
+  -->
+  <VME_Nationalist.generalRules.rulesStrings>
+    <li>memeAdjective->жёсткий</li>
+    <li>memeAdjective->олигархический</li>
+    <li>memeAdjective->абсолютный</li>
+    <li>memeAdjective->бескомпромиссный</li>
+    <li>memeAdjective->репрессивный</li>
+    <li>memeAdjective->железный</li>
+    <li>memeAdjective->популистский</li>
+    <li>memeLeaderNoun->верховный вождь</li>
+    <li>memeLeaderNoun->каудильо</li>
+    <li>memeLeaderNoun->председатель</li>
+    <li>memeLeaderNoun->дуче</li>
+    <li>memeLeaderNoun->пожизненный президент</li>
+    <li>memeLeaderAdjective->суровый</li>
+    <li>memeLeaderAdjective->патриотичный</li>
+    <li>memeLeaderAdjective->непоколебимый</li>
+    <li>memeLeaderAdjective->строгий</li>
+    <li>memeLeaderAdjective->неумолимый</li>
+    <li>memeLeaderAdjective->непреклонный</li>
+    <li>memeMoralist->пропагандист</li>
+    <li>memeMoralist->сторонник режима</li>
+    <li>memeMoralist->агитатор</li>
+  </VME_Nationalist.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Nationalist)        ->[deity0_name] showed us that plutocratic and reactionary democracies have blocked the march and frequently plotted against the existence of the [memberNamePlural].</li>
+    <li>episode(uses=1,tag=meme_Nationalist)  ->[deity0_name] shouted to all the [memberNamePlural], "The hour destined by fate is sounding for us. The hour of irrevocable decision has come."</li>
+
+    <li>intro(tag=meme_Nationalist)           ->On the [place_summary] [place_name], enormous monolitic statues saluted and extolled the glory of [deity0_name].</li>
+    <li>conflict(tag=meme_Nationalist)           ->A coward [foeLeader] looked at this with scorn, for [foeLeader_pronoun] was a revolutionary who didn't believe in order, justice and honor.</li>
+    <li>founderJoin(tag=meme_Nationalist)        ->[deity0_name]'s truest follower [founderName], a true patriot, stood before the [place_powerCenter], and gave a long, rousing speech about how the [foeLeader] was the most powerful enemy number one against whom the [memberNamePlural] were engaged and against whom they should continue the struggle to the last drop of blood.</li>
+    <li>victory(tag=meme_Nationalist)            ->Emboldened by the [founderName]'s words, [founder_possessive] troops incarcerated the [foeLeader], who was executed a few days later for [deity0_name]'s glory.</li>
+
+    <li>setup(tag=meme_Nationalist)           ->[founderName] was a hero of the people, a true patriot. Everyone was united under [founder_possessive] banner.</li>
+    <li>story(uses=1,tag=meme_Nationalist)    ->[founderName] made us understand that hardships, suffering and sacrifices that are faced with exemplary courage and dignity have their day of compensation when all the enemy forces are crushed on the battlefields by the heroism of our soldiers.</li>
+
+    <li>lessonIntro(tag=meme_Nationalist)         ->Through you I want to speak to our people, to the authentic, real, great people, who fight with the courage of lions on land, sea and air fronts. It is so important you understand that</li>
+    <li>lesson(tag=meme_Nationalist)              ->they absolutely must not be confused or contaminated by the minority or well-known, anti-social individuals and complainers, who grumble about their suspended comforts</li>
+    <li>lessonReinforcement(tag=meme_Nationalist) ->We are a great people. We deserve and will have victory.</li>
+
+    <li>archistBasis(tag=meme_Nationalist)    ->Archotechs do not respect those who can't defend themselves: We rise as one unified order, under a single banner, and no enemy can destabilize the ideal we represent.</li>
+    <li>archistFact(tag=meme_Nationalist)     ->Our nation will rise triumphant over the rest, proving to the archotechs that we are One people, One voice.</li>
+    <li>archistProphecy(tag=meme_Nationalist) ->Only by standing proud as the only true followers of our ideals can we become worthy of transcendence.</li>
+
+    <li>animistBasis(tag=meme_Nationalist)    ->The spirits understand the need for an unified will. The preservation of our eternal values, the suppression of which would imply instability and chaos.</li>
+    <li>animistFact(tag=meme_Nationalist)     ->To the spirits, it is clear that our youth prepared itself for fight and engendered a spirit of our crusade that they derived from our soundest traditions of spiritual values and merged them with the social yearnings of our times.</li>
+    <li>animistProphecy(tag=meme_Nationalist) ->[itIsSaid] only by standing proud as the only true followers of our ideals can we make the spirits truly listen to us.</li>
+
+    <li>serketistProphecy(tag=meme_Nationalist)->[itIsSaid] we will truly stand as One people, with an unified will, standing proud as the only true followers of our ideals.</li>
+
+    <li>chthonianProphecy(tag=meme_Nationalist)->These eldritch entities would seek to destroy us, but they lack the vision to understand that we will stand proud against them as the only true followers of our ideals.</li>
+
+    <li>esotericismProphecy(tag=meme_Nationalist)->Such occult knowledge requires an unified, iron will. We will stand proud as the only true followers of our ideals.</li>
+
+    <li>eschatologismFact(tag=meme_Nationalist)->Only our nation is strong enough to do what must be done. We will stand proud as the only true followers of our ideals, until the end.</li>
+
+    <li>introMemo(tag=meme_Nationalist)->As a reminder, multiple employment is expressly forbidden by the contract you signed. If you think any of your co-workers is engaging in such activities please report it as soon as possible so the proper disciplinary measures can be enacted.</li>
+
+    <li>alienistProphecy(tag=meme_Nationalist)->These wayward creatures are ours to do as we please.</li>
+  -->
+
+  <VME_Nationalist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nationalist)        ->[deity0_name] [deity0_showed] всем, как плутократические и реакционные демократии тормозили развитие часто строили заговоры, отчего страдали [memberNamePlural].</li>
+    <li>episode(uses=1,tag=meme_Nationalist)  ->[deity0_name] [deity0_shouted] так громко, что услышали все [memberNamePlural]: «Час, назначенный судьбой, пробил! Настало время окончательного решения!»</li>
+
+    <li>intro(tag=meme_Nationalist)           ->Было место — [place_summary] [place_name], где огромные монолитные статуи отдавали салют и превозносили славу божества, что звалось [deity0_name].</li>
+    <li>conflict(tag=meme_Nationalist)           ->[foe_coward] [foeLeader] [foe_looked] на это с презрением, потому что [foe_was] в порядок, справедливость и честь.</li>
+    <li>founderJoin(tag=meme_Nationalist)        ->[deity0_name] [deity0_called] [founder_patriot], по имени [founderName]. Неподалёку находилось священное место — [place_powerCenter], встав возле которого [founderName] [founder_said] длинную воодушевляющую речь о том, что [foeLeader] является самым могущественным врагом номер один из всех, против которых [memberNamePlural] когда-либо сражались, и против которого они должны продолжать борьбу до последней капли крови.</li>
+    <li>victory(tag=meme_Nationalist)            ->Слова, которые [founder_said] [founderName], воодушевили [founder_possessive] воинов. [foeLeader] [foe_incarcerated] в тюрьму и через несколько дней [foe_executed], да прославится [deity0_name]!</li>
+
+    <li>setup(tag=meme_Nationalist)           ->[founderName] [founder_hero]. Все объединились под [founder_possessive] знаменем.</li>
+    <li>story(uses=1,tag=meme_Nationalist)    ->[founderName] [founder_made] нас понять, что лишения, страдания и жертвы, которые мы встречаем с мужеством и достоинством, получат воздаяние в день, когда все вражеские силы сокрушены на полях сражений героизмом наших солдат.</li>
+
+    <li>lessonIntro(tag=meme_Nationalist)         ->В вашем лице я хочу обратиться к нашему народу, к подлинным, настоящим, великим людям, которые сражаются на сухопутном, морском и воздушном фронтах с мужеством львов. Очень важно, чтобы вы поняли, что</li>
+    <li>lesson(tag=meme_Nationalist)              ->они никогда не должны быть сбиты с толку или заражены мнением меньшинства или известных антисоциальных личностей и жалобщиков, которые ворчат по поводу своих потерянных удобств</li>
+    <li>lessonReinforcement(tag=meme_Nationalist) ->Мы - великий народ. Мы заслуживаем и добьёмся победы.</li>
+
+    <li>archistBasis(tag=meme_Nationalist)    ->Архотеки не уважают тех, кто не может защитить себя. Мы поднимаемся как единый орден, под единым знаменем, и ни один враг не сможет покачнуть идеалы, который мы воплощаем.</li>
+    <li>archistFact(tag=meme_Nationalist)     ->Наша нация восторжествует над остальными, доказывая архотекам, что мы — единый народ, единый голос.</li>
+    <li>archistProphecy(tag=meme_Nationalist) ->Только гордясь тем, что мы — единственные истинные последователи наших идеалов, мы можем стать достойными трансцендентого.</li>
+
+    <li>animistBasis(tag=meme_Nationalist)    ->Духи понимают необходимость единой воли для сохранения наших вечных ценностей, пресечение которых означало бы нестабильность и хаос.</li>
+    <li>animistFact(tag=meme_Nationalist)     ->Духам очевидно, что наша молодежь подготовилась к борьбе и породила дух нашего священного похода, который они унаследовали от наших самых прочных традиционных духовных ценностей и соединили их с социальными чаяниями нашего времени.</li>
+    <li>animistProphecy(tag=meme_Nationalist) ->[itIsSaid] только гордясь тем, что мы единственные истинные последователи наших идеалов, мы можем заставить духов по-настоящему прислушаться к нам.</li>
+
+    <li>serketistProphecy(tag=meme_Nationalist)->[itIsSaid] мы действительно будем стоять как единый народ, с единой волей, гордясь тем, что являемся единственными истинными последователями наших идеалов.</li>
+
+    <li>chthonianProphecy(tag=meme_Nationalist)->Эти жуткие сущности будут стремиться уничтожить нас, но им не хватает прозорливости, чтобы понять, что мы будем гордо противостоять им как единственные истинные последователи наших идеалов.</li>
+
+    <li>esotericismProphecy(tag=meme_Nationalist)->Такое оккультное знание требует единой, железной воли. Мы будем гордиться тем, что являемся единственными истинными последователями наших идеалов.</li>
+
+    <li>eschatologismFact(tag=meme_Nationalist)->Только наша нация достаточно сильна, чтобы совершить необходимое. Мы будем гордиться тем, что являемся единственными истинными последователями наших идеалов, до самого конца.</li>
+
+    <li>introMemo(tag=meme_Nationalist)->Напоминаем, что многократное трудоустройство прямо запрещено контрактом, который вы подписали. Если вы считаете, что кто-либо из ваших коллег занимается подобной деятельностью, пожалуйста, сообщите об этом как можно скорее, чтобы можно было принять надлежащие дисциплинарные меры.</li>
+
+    <li>alienistProphecy(tag=meme_Nationalist)->Эти непохожие создания в нашей власти, чтобы делать то, что нам заблагорассудится.</li>
+
+	<li>deity0_showed(deity0_gender==None)->раскрыло</li>
+    <li>deity0_showed(deity0_gender==Male)->раскрыл</li>
+    <li>deity0_showed(deity0_gender==Female)->раскрыла</li>
+	<li>deity0_shouted(deity0_gender==None)->прокричало</li>
+    <li>deity0_shouted(deity0_gender==Male)->прокричал</li>
+    <li>deity0_shouted(deity0_gender==Female)->прокричала</li>
+
+    <li>foe_coward(foeLeader_gender==Male)->малодушный</li>
+    <li>foe_coward(foeLeader_gender==Female)->малодушный</li>
+    <li>foe_looked(foeLeader_gender==Male)->смотрел</li>
+    <li>foe_looked(foeLeader_gender==Female)->смотрела</li>
+    <li>foe_was(foeLeader_gender==Male)->он был смутьяном, не верящим</li>
+    <li>foe_was(foeLeader_gender==Female)->она была смутьянкой, не верящей</li>
+    <li>deity0_called(deity0_gender==None)->призвало</li>
+    <li>deity0_called(deity0_gender==Male)->призвал</li>
+    <li>deity0_called(deity0_gender==Female)->призвала</li>
+	<li>founder_patriot(founder_gender==Male)->своего самого верного последователя, настоящего патриота</li>
+    <li>founder_patriot(founder_gender==Female)->свою самую верную последовательницу, настоящую патриотку</li>
+	<li>founder_said(founder_gender==Male)->произнёс</li>
+    <li>founder_said(founder_gender==Female)->произнесла</li>
+    <li>foe_incarcerated(foeLeader_gender==Male)->обыл заключён</li>
+    <li>foe_incarcerated(foeLeader_gender==Female)->была заключёна</li>
+    <li>foe_executed(foeLeader_gender==Male)->казнён</li>
+    <li>foe_executed(foeLeader_gender==Female)->казнена</li>
+
+    <li>founder_hero(founder_gender==Male)->был народным героем, настоящим патриотом</li>
+    <li>founder_hero(founder_gender==Female)->была народной героиней, настоящего патриоткой</li>
+	<li>founder_made(founder_gender==Male)->заставил</li>
+    <li>founder_made(founder_gender==Female)->заставила</li>
+  </VME_Nationalist.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Nationalism -->
+  <VME_Nationalist.symbolPacks.0.ideoName>Национализм</VME_Nationalist.symbolPacks.0.ideoName>
+  <!-- EN: nationalism -->
+  <VME_Nationalist.symbolPacks.0.theme>национализма</VME_Nationalist.symbolPacks.0.theme>
+  <!-- EN: nationalist -->
+  <VME_Nationalist.symbolPacks.0.adjective>националистический</VME_Nationalist.symbolPacks.0.adjective>
+  <!-- EN: patriot -->
+  <VME_Nationalist.symbolPacks.0.member>патриот</VME_Nationalist.symbolPacks.0.member>
+
+
+  <!-- 31 -->
+
+  <!-- EN: healthcare -->
+  <VME_Healthcare.label>здравоохранение</VME_Healthcare.label>
+  <!-- EN: The wellbeing of our bodies and minds is something our people take very seriously. It’s important that we look out for each other and tend to the wounds of our friends and family alike. -->
+  <VME_Healthcare.description>Благополучие наших тел и умов — это то, к чему мы относимся очень серьезно. Забота друг о друге важна, как и забота о ранах, полученных нашими друзьями или членами семьи.</VME_Healthcare.description>
+  <!-- EN:  
+    <li>memeAdjective->healthy</li>
+    <li>memeAdjective->medical</li>
+    <li>memeAdjective->preventive</li>
+    <li>memeCreed->healthcare</li>
+    <li>memeCreed->wellness</li>
+    <li>memeHyphenPrefix->fit</li>
+    <li>memeConcept->hospitals</li>
+    <li>memeLeaderNoun->surgeon</li>
+    <li>memeMoralist->doctor</li>
+  -->
+  <VME_Healthcare.generalRules.rulesStrings>
+    <li>memeAdjective->здоровый</li>
+    <li>memeAdjective->медицинский</li>
+    <li>memeAdjective->профилактический</li>
+    <li>memeCreed->режим профилактики</li>
+    <li>memeCreed->культ здоровья</li>
+    <li>memeHyphenPrefix->мед</li>
+    <li>memeConcept->больницы</li>
+    <li>memeLeaderNoun->врач</li>
+    <li>memeMoralist->доктор</li>
+  </VME_Healthcare.generalRules.rulesStrings>
+  <!-- EN:  
+    <li>creation(tag=meme_Healthcare)        ->[deity0_name] spoke to [deity0_possessive] followers: "Give people what they need: food, medicine, clean air, pure water, trees and grass. Don't ask who deserves it. Every human being deserves it."</li>
+    <li>episode(uses=1,tag=meme_Healthcare)  ->As [deity0_name] commanded, we always took care of one another and pooled our resources so no one has to suffer alone.</li>
+
+    <li>intro(tag=meme_Healthcare)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic hospital, where the ill and infirm were taken care of.</li>
+    <li>conflict(tag=meme_Healthcare)        ->An evil insurance seller, seeing [foeLeader_possessive] profits evaporate due to public healthcare, wanted to sabotage the hospital by any means necessary.</li>
+    <li>founderJoin(tag=meme_Healthcare)     ->Our founder, [founderName], firmly spoke to [foeLeader_objective]: "It is hard to talk about a middle ground for something that is a fundamental right".</li>
+    <li>victory(tag=meme_Healthcare)         ->Eventually, everyone was convinced of [founderName_possessive] arguments, and the [memberNamePlural] will forever believe in universal healthcare.</li>
+
+    <li>setup(tag=meme_Healthcare)           ->[founderName] was an accomplished surgeon in one of the Glitterworlds, but lost the use of his hands in a traffic accident. That's how he became Sorcerer Supreme and... wait, wrong Universe...</li>
+    <li>story(uses=1,tag=meme_Healthcare)    ->[founderName] argued that health is your warranty seal. It seems quite pointless to waste health relentlessly in order to earn money that we shall spend on recovering health.</li>
+
+    <li>lessonIntro(tag=meme_Healthcare)         ->The oldest doctor in our colony taught me the history of healthcare, how healing those who have no means to heal themselves is the basis of a free society. He was leading me to understand that</li>
+    <li>lesson(tag=meme_Healthcare)              ->every single journey of your life starts with a healthy mind and a healthy journey</li>
+    <li>lessonReinforcement(tag=meme_Healthcare) ->You may not appreciate the presence of good health, but you will definitely regret the absence of good health, because health is happiness.</li>
+
+    <li>archistBasis(tag=meme_Healthcare)    ->Archotechs are wise beyond measure. The values of compassion and empathy are important to them.</li>
+    <li>archistFact(tag=meme_Healthcare)     ->A society that doesn't take care of those in need is a cruel mockery of civilization. How would the archotechs judge us if we didn't heal those who need it?</li>
+    <li>archistProphecy(tag=meme_Healthcare) ->[inTheEnd], the archotechs will allow only the most compassionate of us to transcend.</li>
+
+    <li>animistBasis(tag=meme_Healthcare)    ->The spirits value compassion and empathy above anything else.</li>
+    <li>animistFact(tag=meme_Healthcare)     ->The soul is the same in all living creatures, so it makes sense to make no distinctions when healing others.</li>
+    <li>animistProphecy(tag=meme_Healthcare) ->[itIsSaid] that only those who can truly take care of anyone in need will be able to commune with the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_Healthcare)->[itIsSaid] we will take care of each other like insects do. Unified in purpose, will, and compassion for each other.</li>
+
+    <li>chthonianProphecy(tag=meme_Healthcare)->These eldritch entities would see us fight and quarrel among ourselves, rip each other apart. We will show them that compassion and empathy are the only goals worth pursuing.</li>
+
+    <li>esotericismProphecy(tag=meme_Healthcare)->Such occult knowledge will require a pure mind to fathom. Through compassion and empathy towards others we will reach a state of mind that will allow us to see the cosmos for what it truly is.</li>
+
+    <li>eschatologismFact(tag=meme_Healthcare)->We will cherish and support each other, for we are a bastion of purity in this obscene world, and by comparison we will see the iniquity of it and why its cruel inhabitants must be purged.</li>
+
+    <li>introMemo(tag=meme_Healthcare)->Let me remind you that the company offers some comprehensive healthcare benefits as part of your employment contract. Feel free to peruse the details on the company's intranet and direct any enquiries to the human resources department.</li>
+
+    <li>alienistProphecy(tag=meme_Healthcare)->These wayward creatures are poor, innocent beings. We should take care of them and show compassion and empathy.</li>
+  -->
+<VME_Healthcare.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Healthcare)        ->[deity0_name] [deity0_spoke] своим последователям: «Дайте людям то, что им нужно: еду, лекарства, чистый воздух, чистую воду, деревья и траву. Не спрашивайте, кто этого достоин. Каждый этого достоин.»</li>
+    <li>episode(uses=1,tag=meme_Healthcare)  ->Как [deity0_commanded] [deity0_name], мы всегда заботились друг о друге и объединяли наши силы, чтобы никто не страдал в одиночестве.</li>
+
+    <li>intro(tag=meme_Healthcare)           ->В месте, что известно как [place_summary] [place_name], [memberNamePlural] построили гигантскую больницу, где заботились о больных и немощных.</li>
+    <li>conflict(tag=meme_Healthcare)        ->Злобный продавец страховых полисов, видя, как прибыль [foeLeader_possessive] улетучивается из-за общественного здравоохранения, решил вредить больнице всеми доступными средствами.</li>
+    <li>founderJoin(tag=meme_Healthcare)     ->Наш основатель, [founderName], твёрдо [founder_spoke] [foeLeader_objective]: "Неуместно рассуждать о золотой середине для чего-то, что является основополагающим правом".</li>
+    <li>victory(tag=meme_Healthcare)         ->В конце концов все убедились в верности его [founderName_possessive] аргументов, и [memberNamePlural] навсегда поверили в необходимость всеобщего здравоохранения.</li>
+
+    <li>setup(tag=meme_Healthcare)           ->[founderName] [founder_was] опытным хирургом в одном из утопических миров, но потерял способность пользоваться руками в результате дорожного происшествия. Вот так он и стал Верховным Магом и... а нет, постойте, не та Вселенная...</li>
+    <li>story(uses=1,tag=meme_Healthcare)    ->[founderName] [founder_argued], что здоровье — это ваша гарантия. Выглядит совершенно бессмысленным безжалостная трата здоровья ради зарабатывания денег, которые потом будут потрачены на восстановление здоровья.</li>
+
+    <li>lessonIntro(tag=meme_Healthcare)         ->Старейший врач нашего поселения обучал меня истории здравоохранения, и почему исцеление тех, у кого нет средств на лечение, является основой свободного общества. Он вёл меня к пониманию того, что</li>
+    <li>lesson(tag=meme_Healthcare)              ->каждое путешествие в вашей жизни начинается со здорового ума и здорового маршрута</li>
+    <li>lessonReinforcement(tag=meme_Healthcare) ->Вы можете не ценить наличие хорошего здоровья, но вы определённо пожалеете об отсутствии хорошего здоровья, потому что здоровье — это счастье.</li>
+
+    <li>archistBasis(tag=meme_Healthcare)    ->Архотеки безмерно мудры. Для них важны такие ценности, как сострадание и сочувствие.</li>
+    <li>archistFact(tag=meme_Healthcare)     ->Общество, которое не заботится о нуждающихся, - это жестокая насмешка над цивилизацией. Как бы архотеки судили о нас, если бы мы не исцеляли тех, кто в этом нуждается?</li>
+    <li>archistProphecy(tag=meme_Healthcare) ->[inTheEnd], архотеки позволят только самым сострадательным из нас вознестись.</li>
+
+    <li>animistBasis(tag=meme_Healthcare)    ->Духи ценят сострадание и сочувствие превыше всего остального.</li>
+    <li>animistFact(tag=meme_Healthcare)     ->Душа одинакова у всех живых существ, поэтому имеет смысл не делать различий при исцелении других.</li>
+    <li>animistProphecy(tag=meme_Healthcare) ->[itIsSaid], что только те, кто действительно может позаботиться о нуждающихся, смогут общаться с духами.</li>
+
+    <li>serketistProphecy(tag=meme_Healthcare)->[itIsSaid], мы будем заботиться друг о друге, как насекомые. Объединенные целью, волей и состраданием друг к другу.</li>
+
+    <li>chthonianProphecy(tag=meme_Healthcare)->Эти жуткие существа могли бы увидеть, как мы дерёмся и ссоримся между собой, разрываем друг друга на части. Мы покажем им, что сострадание и сочувствие — единственные цели, к которым стоит стремиться.</li>
+
+    <li>esotericismProphecy(tag=meme_Healthcare)->Для понимания такого оккультного знания потребуется ясный разум. Благодаря состраданию и сочувствию к другим мы достигнем того состояния ума, которое позволит нам увидеть космос таким, какой он есть на самом деле.</li>
+
+    <li>eschatologismFact(tag=meme_Healthcare)->Мы будем лелеять и поддерживать друг друга, потому что мы являемся оплотом чистоты в этом непристойном мире, и в сравнении мы увидим его беззаконие и то, почему его жестокие жители должны быть очищены.</li>
+
+    <li>introMemo(tag=meme_Healthcare)->Напоминаем, что компания предлагает комплексные медицинские льготы в рамках вашего трудового договора. Не стесняйтесь изучать подробную информацию во внутренней сети компании и направлять любые запросы в отдел кадров.</li>
+
+    <li>alienistProphecy(tag=meme_Healthcare)->Эти непохожие создания - бедные, невинные существа. Мы должны заботиться о них и проявлять сострадание и сочувствие.</li>
+
+    <li>deity0_spoke(deity0_gender==None)->сказало</li>
+    <li>deity0_spoke(deity0_gender==Male)->сказал</li>
+    <li>deity0_spoke(deity0_gender==Female)->сказала</li>
+    <li>deity0_commanded(deity0_gender==None)->повелело</li>
+    <li>deity0_commanded(deity0_gender==Male)->повелел</li>
+    <li>deity0_commanded(deity0_gender==Female)->повелела</li>
+    <li>founder_spoke(founder_gender==Male)->заявил</li>
+    <li>founder_spoke(founder_gender==Female)->заявила</li>
+    <li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+    <li>founder_argued(founder_gender==Male)->утверждал</li>
+    <li>founder_argued(founder_gender==Female)->утверждала</li>
+  </VME_Healthcare.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Healthcare -->
+  <VME_Healthcare.symbolPacks.0.ideoName>Здравоохранение</VME_Healthcare.symbolPacks.0.ideoName>
+  <!-- EN: healthcare -->
+  <VME_Healthcare.symbolPacks.0.theme>здравоохранения</VME_Healthcare.symbolPacks.0.theme>
+  <!-- EN: medical -->
+  <VME_Healthcare.symbolPacks.0.adjective>медицинский</VME_Healthcare.symbolPacks.0.adjective>
+  <!-- EN: medic -->
+  <VME_Healthcare.symbolPacks.0.member>медик</VME_Healthcare.symbolPacks.0.member>
 
 </LanguageData>
