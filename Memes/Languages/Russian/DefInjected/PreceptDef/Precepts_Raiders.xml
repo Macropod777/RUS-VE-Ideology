@@ -3,7 +3,7 @@
   <!-- EN: honorable -->
   <VME_Raiding_Honorable.label>достойно</VME_Raiding_Honorable.label>
   <!-- EN: We display our strength and perseverance through conquest, and in doing so we bring honor to our colony. -->
-  <VME_Raiding_Honorable.description>Мы демонстрируем нашу силу и упорство через завоевания — этим приносим честь нашему поселению.</VME_Raiding_Honorable.description>
+  <VME_Raiding_Honorable.description>Мы демонстрируем нашу силу и упорство через завоевания — этим приносим честь нашему поселению.</VME_Raiding_Honorable.description>
 
   <VME_Raiding_Honorable.comps.0.thoughtStageDescriptions.0>Совершали налёт менее {DAYSSINCELASTRAIDTHRESHOLD} дней назад</VME_Raiding_Honorable.comps.0.thoughtStageDescriptions.0>
   <VME_Raiding_Honorable.comps.0.thoughtStageDescriptions.1>Совершали налёт более {DAYSSINCELASTRAIDTHRESHOLD} дней назад</VME_Raiding_Honorable.comps.0.thoughtStageDescriptions.1>

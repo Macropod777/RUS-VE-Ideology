@@ -51,10 +51,10 @@
   <!-- EN: bad mood -->
   <VME_Mood_LowExpectations.stages.0.label>всё плохо</VME_Mood_LowExpectations.stages.0.label>
   <!-- EN: I'm just generally having a bad mood. The Rim is a hostile place. -->
-  <VME_Mood_LowExpectations.stages.0.description>Ну просто у меня всегда обычно поганое настроение, потому что окраинные миры — поганое место.</VME_Mood_LowExpectations.stages.0.description>
+  <VME_Mood_LowExpectations.stages.0.description>Ну просто у меня всегда обычно поганое настроение, потому что окраинные миры — поганое место.</VME_Mood_LowExpectations.stages.0.description>
 
   <!-- EN: good mood -->
   <VME_Mood_HighExpectations.stages.0.label>всё отлично</VME_Mood_HighExpectations.stages.0.label>
   <!-- EN: I'm just generally having a good mood. The Rim is an amazing place. -->
-  <VME_Mood_HighExpectations.stages.0.description>Ну просто у меня всегда обычно прекрасное настроение, потому что окраинные миры — прекрасное место.</VME_Mood_HighExpectations.stages.0.description>
+  <VME_Mood_HighExpectations.stages.0.description>Ну просто у меня всегда обычно прекрасное настроение, потому что окраинные миры — прекрасное место.</VME_Mood_HighExpectations.stages.0.description>
 </LanguageData>

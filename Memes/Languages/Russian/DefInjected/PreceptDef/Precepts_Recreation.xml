@@ -13,5 +13,5 @@
   <!-- EN: disapproved -->
   <VME_Recreation_Disapproved.label>порицаются</VME_Recreation_Disapproved.label>
   <!-- EN: Recreation is a waste of time.\n\n&lt;color=#E5E54C&gt;Stats:&lt;/color&gt;\n - Colonists get -5 mood for half a day after doing a recreation job. -->
-  <VME_Recreation_Disapproved.description>Развлечения — пустая трата времени.\n\n&lt;color=#E5E54C&gt;Эффекты:&lt;/color&gt;\n - Поселенцы после развлечения получают -5 к настроению на полдня.</VME_Recreation_Disapproved.description>
+  <VME_Recreation_Disapproved.description>Развлечения — пустая трата времени.\n\n&lt;color=#E5E54C&gt;Эффекты:&lt;/color&gt;\n - Поселенцы после развлечения получают -5 к настроению на полдня.</VME_Recreation_Disapproved.description>
 </LanguageData>

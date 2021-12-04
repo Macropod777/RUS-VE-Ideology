@@ -1,7 +1,7 @@
 ﻿##  Перевод серии модов [Vanilla Ideology Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2569397678)
 
 ### Прогресс
-* Перевод Memes and Structures: 295 из 297 файлов
+* Перевод Memes and Structures: 297 из 299 файлов
 * Проверка обновлений текста: ожидается
 * Проверка перевода в игре: ожидается
  

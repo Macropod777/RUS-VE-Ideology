@@ -18,9 +18,9 @@
 		<li>memeMoralist->clairvoyant</li>
   -->
   <VME_PsychicFocus.generalRules.rulesStrings>
-		<li>memeAdjective->ментальное</li>
-		<li>memeAdjective->психическое</li>
-		<li>memeAdjective->метафизическое</li>
+		<li>memeAdjective->ментальный</li>
+		<li>memeAdjective->психический</li>
+		<li>memeAdjective->метафизический</li>
 	  <li>memeHyphenPrefix->пси</li>
 		<li>memeConcept->пси-способности</li>
 		<li>memeLeaderNoun->менталист</li>
@@ -61,7 +61,7 @@
   
   <VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_PsychicFocus)        ->[deity0_name] [deity_spoke] людей пси-способностями, чтобы те следовали [deity0_possessive] воле.</li>
-    <li>episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name] [deity_told] всем [memberNamePlural]: «Ваш разум — ваш главный помощник. Научитесь пользоваться им и никто не сможет устоять против вас».</li>
+    <li>episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name] [deity_told] всем [memberNamePlural]: «Ваш разум — ваш главный помощник. Научитесь пользоваться им и никто не сможет устоять против вас».</li>
     
     <li>intro(tag=meme_PsychicFocus)           ->[memberNamePlural] построили нечто величественное в [place_summary] [place_name], названное «[altarName]». Это стало местом обучения пси-способностям и божественной воле.</li>
     <li>conflict(tag=meme_PsychicFocus)        ->[foe_envious] [foeLeader] [foe_deny] волю [deity0_name] и [foe_told] своим [foeSoldiers] напасть на последователей [deity0_name], призвав самые безумные психические силы.</li>
@@ -72,11 +72,11 @@
     <li>story(uses=1,tag=meme_PsychicFocus)    ->[founderName] [founder_repeat] престижную боевую академию для своих последователей. В ней ученики обучались использовать свой разум в качестве оружия.</li>
     
     <li>lessonIntro(tag=meme_PsychicFocus)         ->За все годы преподавания я [founder_open] один самый важный урок:</li>
-    <li>lesson(tag=meme_PsychicFocus)              ->ваш разум — острый клинок. Не стоит тупить его, бросаясь на первого встречного</li>
+    <li>lesson(tag=meme_PsychicFocus)              ->ваш разум — острый клинок. Не стоит тупить его, бросаясь на первого встречного</li>
     <li>lessonReinforcement(tag=meme_PsychicFocus) ->Воина делает лучшим не то, как хорошо он использует свои силы, а то как хорошо он выбирает время и место, чтобы использовать свои силы.</li>
     
     <li>archistBasis(tag=meme_PsychicFocus)    ->Арохотеки обладают чистим и ясным разумом, превосходящим любой другой и, потому, они подобны богам.</li>
-    <li>archistFact(tag=meme_PsychicFocus)     ->Пси-способности — дар архотеков. Когда мы используем их, пусть всего лишь на таком слабом уровне, мы восхваляем архотеков.</li> 
+    <li>archistFact(tag=meme_PsychicFocus)     ->Пси-способности — дар архотеков. Когда мы используем их, пусть всего лишь на таком слабом уровне, мы восхваляем архотеков.</li> 
     <li>archistProphecy(tag=meme_PsychicFocus) ->[inTheEnd] архотеки позволят достичь трансцендентности лишь тем, кто обладает сильнейшими способностями.</li>
     
     <li>animistFact(tag=meme_PsychicFocus)     ->Духи обладают совершенным разумом и когда мы пробуждаем способности, соединяемся с ними.</li>
@@ -85,7 +85,7 @@
 	  <li>esotericismProphecy(tag=meme_PsychicFocus) ->Мы пробудим в себе силы и направим их на раскрытие всех секретов.</li>
 	  <li>eschatologismFact(tag=meme_PsychicFocus)   ->Мы пробудем в себе силы и используем их, чтобы разрушить и убить всё, что встанет у нас на пути.</li>
 	  
-    <li>introMemo(tag=meme_PsychicFocus)           ->Как вам всем хорошо известно, интеллект — важнейшая ценность нашей компании. Поэтому сотрудникам, у которых проявится псионический потенциал, следует немедленно доложить в отдел кадров для получения повышения и перевода в новый отдел для дальнейшего развития способностей.</li>
+    <li>introMemo(tag=meme_PsychicFocus)           ->Как вам всем хорошо известно, интеллект — важнейшая ценность нашей компании. Поэтому сотрудникам, у которых проявится псионический потенциал, следует немедленно доложить в отдел кадров для получения повышения и перевода в новый отдел для дальнейшего развития способностей.</li>
     
     <li>deity_spoke(deity0_gender==None)->одарило</li>
     <li>deity_spoke(deity0_gender==Male)->одарил</li>
