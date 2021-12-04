@@ -6,29 +6,29 @@
   <VME_AncientSystemRack.description>Древний стеллаж, набитый неопознанными штуковинами. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientSystemRack.description>
 
   <!-- EN: ancient equipment blocks -->
-  <VME_AncientEquipmentBlocks.label>древние ящики снаряжения</VME_AncientEquipmentBlocks.label>
+  <VME_AncientEquipmentBlocks.label>древние ящики с оборудованием</VME_AncientEquipmentBlocks.label>
   <!-- EN: A collection of ancient equipment blocks of unknown function. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <VME_AncientEquipmentBlocks.description>Коллекция древних ящиков с оборудованием неизвестного назначения. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientEquipmentBlocks.description>
+  <VME_AncientEquipmentBlocks.description>Несколько древних ящиков с оборудованием неизвестного назначения. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientEquipmentBlocks.description>
 
   <!-- EN: ancient machine -->
   <VME_AncientMachine.label>древняя машина</VME_AncientMachine.label>
   <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <VME_AncientMachine.description>Здоровенный корпус древней машины, заполненный непонятными механизмами. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientMachine.description>
+  <VME_AncientMachine.description>Громоздкий корпус древней машины, заполненный непонятными механизмами. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientMachine.description>
 
   <!-- EN: ancient storage cylinder -->
-  <VME_AncientStorageCylinder.label>древний цилиндрический сосуд</VME_AncientStorageCylinder.label>
+  <VME_AncientStorageCylinder.label>древний бак</VME_AncientStorageCylinder.label>
   <!-- EN: An ancient device that looks like it once stored some kind of fluid. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <VME_AncientStorageCylinder.description>Древняя штука, которая выглядит похожей на хранилище для какой-то жидкости. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientStorageCylinder.description>
+  <VME_AncientStorageCylinder.description>Древнее устройство, выглядящее так, словно в нём раньше была какая-то жидкость. Ценные детали отсутствуют, а всё остальное пришло в негодность.</VME_AncientStorageCylinder.description>
 
   <!-- EN: ancient lamp -->
   <VME_AncientLamp.label>древняя лампа</VME_AncientLamp.label>
   <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
-  <VME_AncientLamp.description>Древняя лампа с автономным питанием. Её внутренний источник питания почти полностью разряжен, но она всё ещё слабо светится.</VME_AncientLamp.description>
+  <VME_AncientLamp.description>Древняя лампа с автономным питанием. Её аккумулятор почти полностью разряжен, но она всё ещё слабо светится.</VME_AncientLamp.description>
 
   <!-- EN: ancient bed -->
   <VME_AncientBed.label>древняя кровать</VME_AncientBed.label>
   <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
-  <VME_AncientBed.description>Старый гнилой матрас на ржавой раме. Несмотря на неудобство, кровать всё ещё можно к использовать по прямому назначению, но не починить.</VME_AncientBed.description>
+  <VME_AncientBed.description>Старый гнилой матрас на ржавой раме. Несмотря на неудобство, кровать всё ещё можно к использовать по прямому назначению, но починить уже не получится.</VME_AncientBed.description>
 
   <!-- EN: ancient display bank -->
   <VME_AncientDisplayBank.label>ряд древних дисплеев</VME_AncientDisplayBank.label>
@@ -38,17 +38,17 @@
   <!-- EN: ancient locker bank -->
   <VME_AncientLockerBank.label>ряд древних шкафов</VME_AncientLockerBank.label>
   <!-- EN: An ancient, rusted bank of lockers. All of the lockers have been forced open with nothing valuable left behind. -->
-  <VME_AncientLockerBank.description>Древний проржавевший ряд шкафчиков. Все шкафчики давно взломаны, ничего ценного внутри не осталось.</VME_AncientLockerBank.description>
+  <VME_AncientLockerBank.description>Ряд древних проржавевших шкафчиков. Все они давно взломаны, ничего ценного внутри не осталось.</VME_AncientLockerBank.description>
 
   <!-- EN: ancient crate -->
   <VME_AncientCrate.label>древний ящик</VME_AncientCrate.label>
   <!-- EN: An ancient, broken crate. Any valuables it once contained have degraded to uselessness. -->
-  <VME_AncientCrate.description>Древний сломанный ящик. Всё ценное что в нём было, пришло в негодность.</VME_AncientCrate.description>
+  <VME_AncientCrate.description>Древний сломанный ящик. Всё ценное, что в нём было, пришло в негодность.</VME_AncientCrate.description>
 
   <!-- EN: ancient military crate -->
   <VME_AncientMilitaryCrate.label>древний военный ящик</VME_AncientMilitaryCrate.label>
   <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
-  <VME_AncientMilitaryCrate.description>Древний ящик с армейскими отметками. Он был взломан давным-давно, и всё ценное из него было утащено.</VME_AncientMilitaryCrate.description>
+  <VME_AncientMilitaryCrate.description>Древний ящик с армейскими отметками. Он давным-давно взломан, а всё ценное из него — растащено.</VME_AncientMilitaryCrate.description>
 
   <!-- EN: ancient spacer crate -->
   <VME_AncientSpacerCrate.label>древний космический ящик</VME_AncientSpacerCrate.label>
@@ -58,12 +58,12 @@
   <!-- EN: ancient barrel -->
   <VME_AncientBarrel.label>древняя бочка</VME_AncientBarrel.label>
   <!-- EN: An ancient, broken barrel that looks like it once contained waste of some sort. The only thing it contains now is a smear of dried sludge. -->
-  <VME_AncientBarrel.description>Древняя дырявая бочка, выглядит как будто в ней хранились какие-то отходы. Единственное, что в ней сейчас — это размазанная засохшая грязь.</VME_AncientBarrel.description>
+  <VME_AncientBarrel.description>Древняя дырявая бочка, выглядит так, как будто в ней хранились какие-то отходы. Единственное, что в ней сейчас — это размазанная засохшая грязь.</VME_AncientBarrel.description>
 
   <!-- EN: ancient generator -->
   <VME_AncientGenerator.label>древний генератор</VME_AncientGenerator.label>
   <!-- EN: An ancient electrical generator. Its usable parts were smashed or looted long ago, and the rest has rusted into uselessness. -->
-  <VME_AncientGenerator.description>Древний электрический генератор. Его пригодные для использования части давно разбиты или разграблены, а остальное заржавело и стало бесполезным.</VME_AncientGenerator.description>
+  <VME_AncientGenerator.description>Древний электрический генератор. Его пригодные для использования части давно изъяты или разбиты, а остальное — заржавело.</VME_AncientGenerator.description>
 
   <!-- EN: ancient operating table -->
   <VME_AncientOperatingTable.label>древний операционный стол</VME_AncientOperatingTable.label>

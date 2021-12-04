@@ -1064,20 +1064,20 @@
     <li>creation(tag=meme_Emancipation)        ->[deity0_name] [deity0_showed] нам, что рабство является извращением и должно быть остановлено любой ценой.</li>
     <li>episode(uses=1,tag=meme_Emancipation)  ->[deity0_name] [deity0_said], чтобы [memberNamePlural] запомнили: "Те, кто отказывает в свободе другим, не заслуживают её для себя."</li>
 
-    <li>intro(tag=meme_Emancipation)           ->[place_summary] [place_name], где до сих пор существует [altarRoomLabel] в честь нашего божества по имени [deity0_name] — там впервые рабы были освобождены и получили новый шанс в жизни.</li>
+    <li>intro(tag=meme_Emancipation)           ->[place_summary] [place_name], где до сих пор существует [altarRoomLabel] в честь нашего божества по имени [deity0_name] — там впервые рабы были освобождены и получили новый шанс в жизни.</li>
     <li>conflict(tag=meme_Emancipation)           ->Ханжа [foeLeader] [foe_looked] на это с презрением, ибо [foe_slaver], что [foeLeader_possessive] прибыли под угрозой.</li>
-	<li>founderJoin(tag=meme_Emancipation)        ->[deity0_name] [deity0_called] [founder_follower] по имени [founderName]. Неподалёку находилось священное место — [place_powerCenter], встав возле которого [founderName] [founder_said] длинную воодушевляющую речь об освобождении и зле рабства.</li>
+	<li>founderJoin(tag=meme_Emancipation)        ->[deity0_name] [deity0_called] [founder_follower] по имени [founderName]. Неподалёку находилось священное место — [place_powerCenter], встав возле которого [founderName] [founder_said] длинную воодушевляющую речь об освобождении и зле рабства.</li>
     <li>victory(tag=meme_Emancipation)            ->Разумеется, [foeLeader] не [foe_convinced] речью, которую [founder_said] [founderName], но все прочие присутствующие аплодировали стоя [founder_possessive] словам, и с тех пор считалось, что через н[founder_possessive] говорит [deity0_name].</li>
 
     <li>setup(tag=meme_Emancipation)           ->[founderName] [founder_born] в несправедливом городском мире, где рабство было обычным явлением. [founder_pronoun] [founder_grew], видя, как других людей используют в качестве собственности, и это вызывало у н[founder_possessive] глубокое отвращение.</li>
     <li>story(uses=1,tag=meme_Emancipation)    ->[founderName] намеревался отменить рабство на своей родной планете, и после успеха этого начинания [founder_possessive] философия распространидась среди звёзд.</li>
 
-    <li>lessonIntro(tag=meme_Emancipation)         ->Рабство — это кража. Кража жизни, кража работы, кража любого имущества или продуктов, кража даже детей, которых мог родить раб. Очень важно, чтобы вы поняли, что</li>
+    <li>lessonIntro(tag=meme_Emancipation)         ->Рабство — это кража. Кража жизни, кража работы, кража любого имущества или продуктов, кража даже детей, которых мог родить раб. Очень важно, чтобы вы поняли, что</li>
     <li>lesson(tag=meme_Emancipation)              ->природа не сделала человека рабом </li>
     <li>lessonReinforcement(tag=meme_Emancipation) ->Порабощать другого - значит порабощать себя.</li>
 
-    <li>archistBasis(tag=meme_Emancipation)    ->Архотеки — это вершина этического развития. Существа настолько мудрые и развитые, что достигли совершенства в своих помыслах.</li>
-    <li>archistFact(tag=meme_Emancipation)     ->Для архотека рабство — отвратительный грех. Отношение к другому человеку как к вещи.</li>
+    <li>archistBasis(tag=meme_Emancipation)    ->Архотеки — это вершина этического развития. Существа настолько мудрые и развитые, что достигли совершенства в своих помыслах.</li>
+    <li>archistFact(tag=meme_Emancipation)     ->Для архотека рабство — отвратительный грех. Отношение к другому человеку как к вещи.</li>
     <li>archistProphecy(tag=meme_Emancipation) ->Только отменив рабство и борясь с ним повсюду, где мы его видим, мы можем стать достойными трансцендентого.</li>
 
     <li>animistBasis(tag=meme_Emancipation)    ->Сама концепция рабства, владения другим человеком как вещью, непостижима для духов.</li>
@@ -1228,9 +1228,9 @@
     <li>creation(tag=meme_Nationalist)        ->[deity0_name] [deity0_showed] всем, как плутократические и реакционные демократии тормозили развитие часто строили заговоры, отчего страдали [memberNamePlural].</li>
     <li>episode(uses=1,tag=meme_Nationalist)  ->[deity0_name] [deity0_shouted] так громко, что услышали все [memberNamePlural]: «Час, назначенный судьбой, пробил! Настало время окончательного решения!»</li>
 
-    <li>intro(tag=meme_Nationalist)           ->Было место — [place_summary] [place_name], где огромные монолитные статуи отдавали салют и превозносили славу божества, что звалось [deity0_name].</li>
+    <li>intro(tag=meme_Nationalist)           ->Было место — [place_summary] [place_name], где огромные монолитные статуи отдавали салют и превозносили славу божества, что звалось [deity0_name].</li>
     <li>conflict(tag=meme_Nationalist)           ->[foe_coward] [foeLeader] [foe_looked] на это с презрением, потому что [foe_was] в порядок, справедливость и честь.</li>
-    <li>founderJoin(tag=meme_Nationalist)        ->[deity0_name] [deity0_called] [founder_patriot], по имени [founderName]. Неподалёку находилось священное место — [place_powerCenter], встав возле которого [founderName] [founder_said] длинную воодушевляющую речь о том, что [foeLeader] является самым могущественным врагом номер один из всех, против которых [memberNamePlural] когда-либо сражались, и против которого они должны продолжать борьбу до последней капли крови.</li>
+    <li>founderJoin(tag=meme_Nationalist)        ->[deity0_name] [deity0_called] [founder_patriot], по имени [founderName]. Неподалёку находилось священное место — [place_powerCenter], встав возле которого [founderName] [founder_said] длинную воодушевляющую речь о том, что [foeLeader] является самым могущественным врагом номер один из всех, против которых [memberNamePlural] когда-либо сражались, и против которого они должны продолжать борьбу до последней капли крови.</li>
     <li>victory(tag=meme_Nationalist)            ->Слова, которые [founder_said] [founderName], воодушевили [founder_possessive] воинов. [foeLeader] [foe_incarcerated] в тюрьму и через несколько дней [foe_executed], да прославится [deity0_name]!</li>
 
     <li>setup(tag=meme_Nationalist)           ->[founderName] [founder_hero]. Все объединились под [founder_possessive] знаменем.</li>
@@ -1241,8 +1241,8 @@
     <li>lessonReinforcement(tag=meme_Nationalist) ->Мы - великий народ. Мы заслуживаем и добьёмся победы.</li>
 
     <li>archistBasis(tag=meme_Nationalist)    ->Архотеки не уважают тех, кто не может защитить себя. Мы поднимаемся как единый орден, под единым знаменем, и ни один враг не сможет покачнуть идеалы, который мы воплощаем.</li>
-    <li>archistFact(tag=meme_Nationalist)     ->Наша нация восторжествует над остальными, доказывая архотекам, что мы — единый народ, единый голос.</li>
-    <li>archistProphecy(tag=meme_Nationalist) ->Только гордясь тем, что мы — единственные истинные последователи наших идеалов, мы можем стать достойными трансцендентого.</li>
+    <li>archistFact(tag=meme_Nationalist)     ->Наша нация восторжествует над остальными, доказывая архотекам, что мы — единый народ, единый голос.</li>
+    <li>archistProphecy(tag=meme_Nationalist) ->Только гордясь тем, что мы — единственные истинные последователи наших идеалов, мы можем стать достойными трансцендентого.</li>
 
     <li>animistBasis(tag=meme_Nationalist)    ->Духи понимают необходимость единой воли для сохранения наших вечных ценностей, пресечение которых означало бы нестабильность и хаос.</li>
     <li>animistFact(tag=meme_Nationalist)     ->Духам очевидно, что наша молодежь подготовилась к борьбе и породила дух нашего священного похода, который они унаследовали от наших самых прочных традиционных духовных ценностей и соединили их с социальными чаяниями нашего времени.</li>
@@ -1306,7 +1306,7 @@
   <!-- EN: healthcare -->
   <VME_Healthcare.label>здравоохранение</VME_Healthcare.label>
   <!-- EN: The wellbeing of our bodies and minds is something our people take very seriously. It’s important that we look out for each other and tend to the wounds of our friends and family alike. -->
-  <VME_Healthcare.description>Благополучие наших тел и умов — это то, к чему мы относимся очень серьезно. Забота друг о друге важна, как и забота о ранах, полученных нашими друзьями или членами семьи.</VME_Healthcare.description>
+  <VME_Healthcare.description>Благополучие наших тел и умов — это то, к чему мы относимся очень серьезно. Забота друг о друге важна, как и забота о ранах, полученных нашими друзьями или членами семьи.</VME_Healthcare.description>
   <!-- EN:  
     <li>memeAdjective->healthy</li>
     <li>memeAdjective->medical</li>
@@ -1375,11 +1375,11 @@
     <li>victory(tag=meme_Healthcare)         ->В конце концов все убедились в верности его [founderName_possessive] аргументов, и [memberNamePlural] навсегда поверили в необходимость всеобщего здравоохранения.</li>
 
     <li>setup(tag=meme_Healthcare)           ->[founderName] [founder_was] опытным хирургом в одном из утопических миров, но потерял способность пользоваться руками в результате дорожного происшествия. Вот так он и стал Верховным Магом и... а нет, постойте, не та Вселенная...</li>
-    <li>story(uses=1,tag=meme_Healthcare)    ->[founderName] [founder_argued], что здоровье — это ваша гарантия. Выглядит совершенно бессмысленным безжалостная трата здоровья ради зарабатывания денег, которые потом будут потрачены на восстановление здоровья.</li>
+    <li>story(uses=1,tag=meme_Healthcare)    ->[founderName] [founder_argued], что здоровье — это ваша гарантия. Выглядит совершенно бессмысленным безжалостная трата здоровья ради зарабатывания денег, которые потом будут потрачены на восстановление здоровья.</li>
 
     <li>lessonIntro(tag=meme_Healthcare)         ->Старейший врач нашего поселения обучал меня истории здравоохранения, и почему исцеление тех, у кого нет средств на лечение, является основой свободного общества. Он вёл меня к пониманию того, что</li>
     <li>lesson(tag=meme_Healthcare)              ->каждое путешествие в вашей жизни начинается со здорового ума и здорового маршрута</li>
-    <li>lessonReinforcement(tag=meme_Healthcare) ->Вы можете не ценить наличие хорошего здоровья, но вы определённо пожалеете об отсутствии хорошего здоровья, потому что здоровье — это счастье.</li>
+    <li>lessonReinforcement(tag=meme_Healthcare) ->Вы можете не ценить наличие хорошего здоровья, но вы определённо пожалеете об отсутствии хорошего здоровья, потому что здоровье — это счастье.</li>
 
     <li>archistBasis(tag=meme_Healthcare)    ->Архотеки безмерно мудры. Для них важны такие ценности, как сострадание и сочувствие.</li>
     <li>archistFact(tag=meme_Healthcare)     ->Общество, которое не заботится о нуждающихся, - это жестокая насмешка над цивилизацией. Как бы архотеки судили о нас, если бы мы не исцеляли тех, кто в этом нуждается?</li>
@@ -1391,7 +1391,7 @@
 
     <li>serketistProphecy(tag=meme_Healthcare)->[itIsSaid], мы будем заботиться друг о друге, как насекомые. Объединенные целью, волей и состраданием друг к другу.</li>
 
-    <li>chthonianProphecy(tag=meme_Healthcare)->Эти жуткие существа могли бы увидеть, как мы дерёмся и ссоримся между собой, разрываем друг друга на части. Мы покажем им, что сострадание и сочувствие — единственные цели, к которым стоит стремиться.</li>
+    <li>chthonianProphecy(tag=meme_Healthcare)->Эти жуткие существа могли бы увидеть, как мы дерёмся и ссоримся между собой, разрываем друг друга на части. Мы покажем им, что сострадание и сочувствие — единственные цели, к которым стоит стремиться.</li>
 
     <li>esotericismProphecy(tag=meme_Healthcare)->Для понимания такого оккультного знания потребуется ясный разум. Благодаря состраданию и сочувствию к другим мы достигнем того состояния ума, которое позволит нам увидеть космос таким, какой он есть на самом деле.</li>
 
