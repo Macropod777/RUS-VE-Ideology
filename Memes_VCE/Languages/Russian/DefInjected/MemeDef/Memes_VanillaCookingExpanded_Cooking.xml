@@ -16,10 +16,10 @@
 		<li>memeLeaderNoun->pastry chef</li>
   -->
   <VME_SweetTeeth.generalRules.rulesStrings>
-		<li>memeAdjective->сладкое</li>
-		<li>memeAdjective->сахарное</li>
-		<li>memeAdjective->приторное</li>
-		<li>memeAdjective->конфетное</li>
+		<li>memeAdjective->сладкий</li>
+		<li>memeAdjective->сахарный</li>
+		<li>memeAdjective->приторный</li>
+		<li>memeAdjective->конфетный</li>
 	  <li>memeHyphenPrefix->сахарно</li>
 		<li>memeHyphenPrefix->сладко</li>
 		<li>memeConcept->десертов</li>

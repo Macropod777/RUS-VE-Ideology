@@ -17,11 +17,11 @@
 		<li>memeMoralist->scribe</li>
   -->
   <VME_Cultured.generalRules.rulesStrings>
-  	<li>memeAdjective->культурное</li>
-    <li>memeAdjective->интеллигентное</li>
-		<li>memeAdjective->образованное</li>
-		<li>memeAdjective->эрудированное</li>
-		<li>memeAdjective->обладающее знаниями</li>
+  	<li>memeAdjective->культурный</li>
+    <li>memeAdjective->интеллигентный</li>
+		<li>memeAdjective->образованный</li>
+		<li>memeAdjective->эрудированный</li>
+		<li>memeAdjective->обладающий знаниями</li>
 	  <li>memeConcept->писательства</li>
     <li>memeConcept->чтения</li>
     <li>memeConcept->издательства</li>

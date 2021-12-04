@@ -24,22 +24,22 @@
     <li>InsectAdjective3->Resistant</li>
   -->
   <VME_SerketistDescription.rules.rulesStrings>
-    <li>serketistBasis   ->Нет более высокой формы жизни, чем Королевы Улья. Их питательное желе подобно амброзии, и весь мир должен быть переделан по их образу и подобию.</li>
-    <li>serketistBasis   ->В своем высокомерии человечество нечаянно создало совершенную форму жизни — инсектоидов.</li>
-    <li>serketistBasis   ->Инсектоиды — создания, сбежавшие от какого-то забытого древнего генетика, эволюционировали, чтобы превратиться в совершенную форму жизни.</li>
-    <li>serketistBasis   ->Под страхом исходящей от механоидов угрозы человечество создало идеальную форму жизни — инсектоидов. </li>
-    <li>serketistBasis   ->Инсектоиды, возглавляемые священными Королевами Улья, являются идеальнейшей формой жизни в галактике. </li>
+    <li>serketistBasis   ->Нет более высокой формы жизни, чем Королевы Ульев. Их питательное желе подобно амброзии, и весь мир должен быть переделан по их образу и подобию.</li>
+    <li>serketistBasis   ->Возгордившись, человечество открыло совершенную форму жизни — инсектоидов.</li>
+    <li>serketistBasis   ->Инсектоиды — сбежавшие творения давно забытого генетика, которые эволюционировали и превратились в совершенную форму жизни.</li>
+    <li>serketistBasis   ->Под страхом исходящей от механоидов угрозы, человечество создало совершенную форму жизни — инсектоидов. </li>
+    <li>serketistBasis   ->Инсектоиды, возглавляемые священными Королевами Ульев, являются идеальнейшей формой жизни в галактике. </li>
     <li>serketistFact    ->Они являются вершиной эволюции. [InsectAdjective]. [InsectAdjective2]. [InsectAdjective3]. Каждому следует стремиться стать похожим на них.</li>
-    <li>serketistProphecy->[itIsSaid] мы будем учиться у них, становясь подобными приливной волне, которая накроет наших врагов.</li>
-    <li>itIsSaid->Возможно когда-нибудь</li>
-    <li>itIsSaid->Нам предназначена судьба, где</li>
-    <li>itIsSaid->Либо с помощью технологии, либо с помощью более таинственных средств,</li>
-    <li>itIsSaid->Мы будем уважать их пути, их коллективный разум, и</li>
+    <li>serketistProphecy->[itIsSaid] мы сможем накрывать врагов подобно приливу и смывать их с берега бытия.</li>
+    <li>itIsSaid->Возможно, что когда-нибудь</li>
+    <li>itIsSaid->Предопределено судьбой, что</li>
+    <li>itIsSaid->Либо с помощью технологии, либо с помощью более таинственных средств</li>
+    <li>itIsSaid->Относясь с уважением к их коллективному разуму</li>
     <li>itIsSaid->Выполняя волю Королевы улья</li>
-    <li>InsectAdjective->Адаптивные</li>
+    <li>InsectAdjective->Адаптирующиеся</li>
     <li>InsectAdjective->Всеядные</li>
     <li>InsectAdjective->Неуязвимые</li>
-    <li>InsectAdjective2->Разносторонние</li>
+    <li>InsectAdjective2->Способные</li>
     <li>InsectAdjective2->Бескомпромиссные</li>
     <li>InsectAdjective2->Опасные</li>
     <li>InsectAdjective3->Сложные</li>
@@ -68,23 +68,18 @@
     <li>byWorshipping->We hope if we worshop</li>
   -->
   <VME_ChthonianDescription.rules.rulesStrings>
-    <li>chthonianBasis   ->Существуют великие сущности, которые не поддаются никакому пониманию. Нечто гораздо более древнее, чем просто Боги.</li>
-    <li>chthonianBasis   ->За Завесой вас ожидает целая новая вселенная сводящих с ума Старых Богов.</li>
-    <li>chthonianBasis   ->Боги не являются вершиной пирамиды во Вселенной, ибо есть древние сущности, гораздо более могущественные. Сущности, которых следует уважать... и бояться.</li>
-    <li>chthonianBasis   ->В неизведанных просторах космоса обитают безумные сущности, которые могли бы переделать всю Вселенную одной только мыслью просто по капризу.</li>
+    <li>chthonianBasis   ->Существуют великие сущности за гранью человеческого восприятия. Гораздо древнее, чем наши Боги.</li>
+    <li>chthonianBasis   ->За Пеленой скрыта целая вселенная сводящих с ума Древних богов.</li>
+    <li>chthonianBasis   ->Боги не являются вершиной пищевой цепи во Вселенной, ибо есть древние сущности, гораздо более могущественные. Сущности, которых следует уважать... и бояться.</li>
+    <li>chthonianBasis   ->В неизведанных просторах космоса обитают безумные сущности, которые могли бы переделать всю Вселенную одной только мыслью просто по своему капризу.</li>
     <li>chthonianFact    ->Для этих существ мы подобны насекомым. Даже не заслуживаем их внимания. Для них мы столь же незначительны, как для нас муравей.</li>
-    <li>chthonianFact    ->Их не волнует человечество. Мы для них ничто. Даже не мелочь.</li>
-    <li>chthonianFact    ->Хотя они могущественны, они безразличны. Так далеко за пределами нашего разума, что мы даже неразумны в их глазах.</li>
-    <li>chthonianFact    ->С их точки зрения, нас даже не существует. Точно так же вы не думаете о микробах на поверхности стула, на котором сидите.</li>
-    <li>chthonianProphecy->[weMustBe] осторожными, потому что неразумно привлекать внимание тех, кто может уничтожить нас в одно мгновение.</li>
-    <li>chthonianProphecy->[byWorshipping] им, возможно, мы сможем избежать их взгляда.</li>
-    <li>chthonianProphecy->Не обманывайтесь: они не заслуживают нашей преданности. Но, возможно, демонстрируя фальшивый фасад благочестия, мы сможем достаточно долго избегать их внимания.</li>
-    <li>chthonianProphecy->Тем не менее, у них можно многому научиться. Жуткие знания ждут тех, кто достаточно храбр, или глуп, чтобы заглянуть в кричащее лицо безумия.</li>
-    <li>weMustBe->Мы должны быть</li>
-    <li>weMustBe->Крайне важно, чтобы мы были</li>
-    <li>weMustBe->Нам лучше быть</li>
-    <li>byWorshipping->Поклоняясь</li>
-    <li>byWorshipping->Мы надеемся, если мы будем поклоняться</li>
+    <li>chthonianFact    ->Их не волнует человечество. Мы для них ничто. Даже больше, чем ничто.</li>
+    <li>chthonianFact    ->Хотя они могущественны, они равнодушны. Они ушли так далеко за пределы нашего понимания, что мы для них на уровне неразумных животных.</li>
+    <li>chthonianFact    ->С их точки зрения, нас даже не существует. Точно так же, как не существует микробов на поверхности стула под нами.</li>
+    <li>chthonianProphecy->Стоит сохранять осторожность: неразумно привлекать внимание тех, кто может уничтожить тебя в одно мгновение.</li>
+    <li>chthonianProphecy->Поклоняясь, возможно, мы сможем избежать их пристального взгляда.</li>
+    <li>chthonianProphecy->Не обманывайтесь: они не заслуживают нашей преданности. Но, возможно, демонстрируя напускную покорность, мы сможем достаточно долго избегать их внимания.</li>
+    <li>chthonianProphecy->Тем не менее, у них можно многому научиться. Жуткие знания ждут тех, кто достаточно храбр или глуп, чтобы заглянуть в глаза безумию.</li>
   </VME_ChthonianDescription.rules.rulesStrings>
 
 
@@ -102,23 +97,23 @@
     <li>esotericismProphecy->With such knowledge, we will have a clear advantage over the rest of this planet's inhabitants, and our domination will be all but secured.</li>
   -->
   <VME_EsotericismDescription.rules.rulesStrings>
-    <li>esotericismBasis   ->За пределами понимания традиционной науки существует непревзойдённое богатство тайных знаний.</li>
-    <li>esotericismBasis   ->Спрятанный от любопытных глаз учёных и философов, оккультный мир скрытых знаний ждёт вас.</li>
-    <li>esotericismBasis   ->Наука может лишь увести вас в сторону. А за завесой реальности находится сокровищница тайных знаний, ожидающих своего раскрытия.</li>
+    <li>esotericismBasis   ->За пределами традиционной науки существует непревзойдённое богатство тайных знаний.</li>
+    <li>esotericismBasis   ->Спрятанный от любопытных глаз учёных и философов, оккультный мир тайных знаний ждёт вас.</li>
+    <li>esotericismBasis   ->За пеленой реальности находится сокровищница тайных знаний, ожидающих своего раскрытия. Наука может лишь увести вас в сторону.</li>
     <li>esotericismBasis   ->Вселенная слишком велика, чтобы ограничиваться рамками чистой математики и физики. За пределами этих рамок существует огромное сокровище тайных знаний, к которым могут получить доступ те, кто готов отдать за них любую необходимую цену.</li>
-    <li>esotericismFact    ->Лишь немногие избранные обладают достаточной умственной силой для обретения постижения.</li>
-    <li>esotericismFact    ->Эти оккультные озарения не для всех. Только меньшинство мудрецов может исследовать и наблюдать их. Только избранные.</li>
-    <li>esotericismFact    ->Постижение этого, вероятно, было бы слишком непосильно для простого народа. Только те, кто обладает большой силой духа, могут заглянуть в сокрытое... и сохранить свой разум невредимым.</li>
-    <li>esotericismProphecy->Возможно, углубляясь в такие знания, мы сможем даже выйти за пределы нашего смертного существования.</li>
-    <li>esotericismProphecy->Если у нас будет достаточно времени, мы раскроем самые охраняемые секреты и, наконец, поймём своё место в этой Вселенной.</li>
-    <li>esotericismProphecy->Алхимики древности, быть может, были не так уж и глупы в своих поисках золота, но мы гораздо более амбициозны. Мы применим трансмутацию к самим нашим душам и станем больше, чем людьми.</li>
-    <li>esotericismProphecy->Обладая такими знаниями, мы будем иметь явное преимущество перед остальными жителями этой планеты, и наше господство будет гарантировано.</li>
+    <li>esotericismFact    ->Лишь немногие избранные обладают достаточной умственной силой для озарения.</li>
+    <li>esotericismFact    ->Оккультные озарения не для всех. Лишь малая часть мудрецов может исследовать и наблюдать их. Избранные.</li>
+    <li>esotericismFact    ->Такие знания были бы за гранью для обывателей. Только те, кто имеет стойкий разум и дух, могут заглянуть в сокрытое... и сохранить свой разум невредимым.</li>
+    <li>esotericismProphecy->Возможно, углубляясь в такие знания, мы сможем выйти за пределы нашего смертного существования.</li>
+    <li>esotericismProphecy->Имея достаточно времени мы раскроем самые охраняемые секреты и наконец поймём своё место во Вселенной.</li>
+    <li>esotericismProphecy->Алхимики древности, быть может, были не так уж и глупы в своих поисках золота, но мы гораздо более амбициозны: мы собираемся совершить трансмутацию человека и стать больше, чем людьми.</li>
+    <li>esotericismProphecy->Обладая такими знаниями мы будем иметь явное преимущество перед остальными жителями этой планеты, после чего наше господство будет обеспечено.</li>
   </VME_EsotericismDescription.rules.rulesStrings>
 
 
   <VME_HedonistDescription.rules.rulesFiles>
     <li>TerrainFeature_gen->Words/VME_TerrainFeatures_Genitive</li>
-	<li>Community_Prep->Words/VME_Communities_Prepos</li>
+	  <li>Community_Prep->Words/VME_Communities_Prepos</li>
   </VME_HedonistDescription.rules.rulesFiles>
   <!-- EN:
     <li>lesson(priority=-1)->stuff happens</li>
@@ -163,46 +158,48 @@
     <li>lessonReinforcement->It is something I'll never forget.</li>
 -->
   <VME_HedonistDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->stuff happens</li>
+    <li>lesson(priority=-1)->всякое случается</li>
     <li>r_pattern->«[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]»\n\n  - [lessonAttribution]</li>
     <li>lessonAttribution->[founder_nameFull]</li>
     <li>lessonAttribution(p=2)->&lt;i>«[attributionSource_titleCase]»&lt;/i>\n          [founder_nameFull]</li>
     <li>lessonAttribution->[founder_nameFull], письмо к [believer_nameFull]</li>
-    <li>lessonAttribution->[founder_nameFull], [founder_possessive] предсмертные слова</li>
-    <li>lessonAttribution->[founder_nameFull], непосредственно перед казнью</li>
-    <li>lessonAttribution->[founder_nameFull], [speech] около [TerrainFeature_gen]</li>
-    <li>lessonAttribution->[founder_nameFull], [speech] в [Community_Prep]</li>
+    <li>lessonAttribution->Предсмертные слова [founder_nameFull]</li>
+    <li>lessonAttribution->Сказанное [founder_nameFull] непосредственно перед казнью</li>
+    <li>lessonAttribution->[speech] [founder_nameFull] около [TerrainFeature_gen]</li>
+    <li>lessonAttribution->[speech] [founder_nameFull] в [Community_Prep]</li>
     <li>attributionSource->Суть [memeConcept]</li>
-    <li>attributionSource->[memeAdjective] смысл [memeConcept]</li>
-    <li>attributionSource->[memeAdjective] жизненный опыт</li>
-    <li>attributionSource->[attributionJob], размышления</li>
-    <li>attributionSource->[attributionJob], дневник</li>
+    <li>attributionSource->[memeAdjective] в идеях [memeConcept]</li>
+    <li>attributionSource->[memeAdjective] человек и его жизнь</li>
+    <li>attributionSource->[attributionJob] и его размышления</li>
+    <li>attributionSource->[attributionJob] и его дневник</li>
     <li>attributionSource->[attributionJob]. Мысли и высказывания</li>
     <li>attributionSource->Жизнь, что прожил [attributionJob]</li>
     <li>attributionJob->[memeAdjective] [place_job]</li>
     <li>attributionJob->[place_job]</li>
     <li>speech->речь</li>
     <li>speech->выступление</li>
-    <li>lessonIntro->После множества бессонных ночей, проведённых в тщательных размышлениях, я пришёл к простому выводу:</li>
-    <li>lessonIntro->Что является фундаментальной истиной человеческого существования? Вот:</li>
+    <li>speech->слова</li>
+    <li>speech->наставления</li>
+    <li>lessonIntro->После множества бессонных ночей, проведённых в долгих размышлениях, я пришёл к простому выводу:</li>
+    <li>lessonIntro->Что является фундаментальной основой человеческого существования? То, что</li>
     <li>lessonIntro->Я много страдал в этой жизни. Но страдания научили меня простому принципу:</li>
-    <li>lessonIntro->Вырастая в нищете в месте, известном как [place_summary] [place_name], я усвоил искреннюю аксиому:</li>      
+    <li>lessonIntro->Вырастая в нищете в месте, известном как [place_summary] [place_name], я прочувствовал истину:</li>      
     <li>lessonIntro->Усвойте этот урок, ибо он сослужит вам хорошую службу:</li>
-    <li>lessonIntro->Вам кажется, что всё пропало? Возможно, вы ещё не поняли эту очень простую концепцию:</li>
-    <li>lessonIntro->Они пытались соблазнить меня богатой, скучной жизнью, но им не удалось меня одурачить:</li>
-    <li>lessonMain->удовольствие, удовлетворение телесных желаний, является высшим благом и верной целью человеческой жизни. Будь то религия или философия, вся наша жизнь должна быть сосредоточена на том, чтобы ублажать себя как можно больше</li>
+    <li>lessonIntro->Вам кажется, что всё пропало? Возможно, вы ещё не поняли очень простую концепцию:</li>
+    <li>lessonIntro->Они пытались соблазнить меня богатой, скучной жизнью, но им не удалось меня одурачить, ведь я знаю, что</li>
+    <li>lessonMain->удовольствие, удовлетворение телесных желаний, является высшим благом и правильной целью человеческой жизни. Будь то религия или философия, вся наша жизнь должна быть сосредоточена на том, чтобы ублажать себя как можно больше</li>
     <li>lessonMain->единственная причина быть живым — это наслаждаться самим этим фактом</li>
     <li>lessonMain->единственный способ избавиться от искушения — поддаться ему</li>
-    <li>lessonMain->спасение — для слабых. Я не хочу спасения, я хочу жизни, всей жизни, как несчастной, так и превосходной</li>
-    <li>lessonMain->удовольствие — это не потребность, а мотивация</li>
-    <li>lessonMain->самый ответственный образ жизни прямо сейчас — это наслаждаться собой, пока мы можем</li>
-    <li>lessonMain->вы можете дожить до ста лет, если откажетесь от всего, что заставляет вас хотеть дожить до ста</li>
-	<li>lessonReinforcement->С этим никто не может поспорить.</li>
-    <li>lessonReinforcement->Только дураки полагают обратное.</li>
+    <li>lessonMain->защита для слабых. Я не хочу защиты. Я хочу жизни, всей жизни, со всеми её несчастиями и радостями</li>
+    <li>lessonMain->удовольствие — не потребность, но мотивация</li>
+    <li>lessonMain->надёжнее всего сейчас наслаждаться тем, что ты можешь себе дать</li>
+    <li>lessonMain->вы можете дожить до старости, если откажетесь от всего, что заставляет вас желать дожить до старости</li>
+	  <li>lessonReinforcement->С этим никто не сможет поспорить.</li>
+    <li>lessonReinforcement->Только дураки будут считать иначе.</li>
     <li>lessonReinforcement->И, как мы теперь знаем, это вскоре стало очевидным для всех.</li>
-    <li>lessonReinforcement->Всё, что произошло с тех пор, подтверждало этот факт.</li>
-    <li>lessonReinforcement->Это как будто вырезано прямо в моем сознании.</li>
-    <li>lessonReinforcement->Это то, что я никогда не забуду.</li>
+    <li>lessonReinforcement->Прошедшие события только подтверждают это.</li>
+    <li>lessonReinforcement->Эта мысль отпечаталась в моей голове.</li>
+    <li>lessonReinforcement->Это то, что я буду помнить всегда.</li>
   </VME_HedonistDescription.rules.rulesStrings>
 
 
@@ -224,25 +221,25 @@
   -->
   <VME_EschatologismDescription.rules.rulesStrings>
     <li>eschatologismBasis   ->Этот мир испорчен и нечист, и должен быть очищен. Мы приблизим конец света, и новая Вселенная возродится из пепла нынешней.</li>
-    <li>eschatologismBasis   ->Эдесь больше не осталось ничего ценного. Огромные постчеловеческие разумы плетут интриги в темноте. Порочные генно-инженерные создания, свирепствующие на суще. Жадные, глупые, амбициозные люди, охотящиеся на слабых. Все это следует уничтожить.</li>
+    <li>eschatologismBasis   ->Здесь больше не осталось ничего ценного. Огромные постчеловеческие разумы плетут интриги в темноте. Порочные генно-инженерные создания, свирепствующие на суще. Жадные, глупые, честолюбивые люди, охотящиеся на слабых. Всё это должно быть уничтожено.</li>
     <li>eschatologismBasis   ->Этот мир нуждается в очищении. Слишком долго мы оставляли его без контроля. Человеческая глупость безудержна и разрушительна.</li>
-    <li>eschatologismBasis   ->Это уже неизбежно факт: единственный путь вперёд — начать всё сначала и заново. Этот мир должен быть уничтожен.</li>
+    <li>eschatologismBasis   ->Неизбежный факт: единственный путь вперёд — начать всё сначала. Поэтому мир должен быть уничтожен.</li>
     <li>eschatologismBasis   ->Больше нет места для компромисса. Этот мир испорчен, нечист. Он должен быть уничтожен.</li>
-    <li>eschatologismFact    ->С помощью атомного огня, или другими способами, но мы должны принести Апокалипсис.</li>
-    <li>eschatologismFact    ->Великая битва в Конце Всего грядёт, и мы будем к ней готовы.</li>
-    <li>eschatologismFact    ->Ради возрождения никто не должен быть оставлен в живых, ибо семена гниения лежат глубоко внутри каждого из нас.</li>
-    <li>eschatologismFact    ->Не должно остаться ничего, кроме обугленных останков.</li>
-    <li>eschatologismFact    ->Когда всё будет уничтожено, мы, Избранные, должны воссоздать мир по своему суждению.</li>
+    <li>eschatologismFact    ->С помощью атомного огня, или же как-то иначе, но мы должны принести Апокалипсис.</li>
+    <li>eschatologismFact    ->Великая битва в Конце времён грядёт. Мы будем к ней готовы.</li>
+    <li>eschatologismFact    ->Ради возрождения никто не должен быть оставлен в живых, ибо семена порчи лежат глубоко внутри каждого из нас.</li>
+    <li>eschatologismFact    ->Не должно не остаться ничего, кроме обугленных останков.</li>
+    <li>eschatologismFact    ->Когда всё будет уничтожено, мы, Избранные, должны воссоздать мир по своим идеалам.</li>
     <li>eschatologismProphecy->Мы будем торжествовать.</li>
     <li>eschatologismProphecy->Никто не должен быть готов к нашему гневу.</li>
-    <li>eschatologismProphecy->Когда мы нанесём последний удар, все падут перед нами.</li>
+    <li>eschatologismProphecy->Когда мы нанесём последний удар и все падут перед нами.</li>
     <li>eschatologismProphecy->Дни этого мира сочтены.</li>
   </VME_EschatologismDescription.rules.rulesStrings>
 
 
   <VME_AuthoritarianDescription.rules.rulesFiles>
     <li>TerrainFeature_gen->Words/VME_TerrainFeatures_Genitive</li>
-	<li>Community_Prep->Words/VME_Communities_Prepos</li>
+	  <li>Community_Prep->Words/VME_Communities_Prepos</li>
   </VME_AuthoritarianDescription.rules.rulesFiles>
   <!-- EN:
     <li>lesson(priority=-1)->stuff happens</li>
@@ -280,44 +277,49 @@
     <li>lessonReinforcement->It is not enough to set our goal. It must be pursued with constancy and sacrifice.</li>
   -->
   <VME_AuthoritarianDescription.rules.rulesStrings>
-    <li>lesson(priority=-1)->stuff happens</li>
+    <li>lesson(priority=-1)->всякое случается</li>
     <li>r_pattern->«[r_lessonIntro] [r_lessonMain]. [r_lessonReinforcement]»\n\n  - [lessonAttribution]</li>
-    <li>lessonAttribution->[founder_nameFull], [speechadjective]ая [speech1] около [TerrainFeature_gen]</li>
-    <li>lessonAttribution->[founder_nameFull], [speechadjective]ое [speech2] около [TerrainFeature_gen]</li>
-	<li>lessonAttribution->[founder_nameFull], [speechadjective]ая [speech1] в [Community_Prep]</li>
-	<li>lessonAttribution->[founder_nameFull], [speechadjective]ое [speech2] в [Community_Prep]</li>
-    <li>speechadjective->зажигательн</li>
-    <li>speechadjective->публичн</li>
-    <li>speechadjective->широко известн</li>
-    <li>speechadjective->политическ</li>
-    <li>speechadjective->страстн</li>
-    <li>speechadjective->пламенн</li>
-	<li>speechadjective->скандальн</li>
-    <li>speech1->речь</li>
-	<li>speech1->проповедь</li>
-    <li>speech2->выступление</li>
-    <li>speech2->обращение</li>
-    <li>lessonIntro->Вся борьба за выживание — это завоевание средств к существованию.</li>
-    <li>lessonIntro->Я также выражаю высочайшее почтение мученикам революции, как воспетым, так и безвестным, пожертвовавшим своими драгоценными жизнями в священной войне за воссоединение и независимость нашего народа.</li>
-    <li>lessonIntro->Мы не можем думать о сегодняшнем дне нашего народа, не вспоминая пот и кровь, пролитые поколением победителей в войне, великий дух, который они продемонстрировали, и благородную жертву воинов.</li>
-    <li>lessonIntro->Существует лишь один порядок. Это бесспорно и обязательно для всех. Он уже расправляет крылья и воспламеняет сердца от [place_name] до дальних уголков этого мира: Покоряй!</li>      
-    <li>lessonIntro->Ничто не станет возможным, пока не будет повелевать одна воля, которой должны повиноваться все, от верхушки и до самого низа.</li>
-    <li>lessonIntro->Мои соотечественники, человек существует не в теориях и фразах, не в декларациях или системах политической философии; он живет тем, что может извлечь из земли своим собственным трудом.</li>
-    <li>lessonIntro->Наша победа была победой возвышенного патриотизма и массового героизма наших граждан, победой справедливости и прогресса над несправедливостью и реакцией, будущего человечества над его врагами.</li>
+    <li>lessonAttribution->[founder_nameFull], [speechadjective_female] [speech_female] около [TerrainFeature_gen]</li>
+    <li>lessonAttribution->[founder_nameFull], [speechadjective_neuter] [speech_neuter] около [TerrainFeature_gen]</li>
+	  <li>lessonAttribution->[founder_nameFull], [speechadjective_female] [speech_female] в [Community_Prep]</li>
+	  <li>lessonAttribution->[founder_nameFull], [speechadjective_neuter] [speech_neuter] в [Community_Prep]</li>
+    <li>speechadjective_female->зажигательная</li>
+    <li>speechadjective_female->публичная</li>
+    <li>speechadjective_female->широко известная</li>
+    <li>speechadjective_female->политическая</li>
+    <li>speechadjective_female->страстная</li>
+    <li>speechadjective_female->пламенная</li>
+	  <li>speechadjective_female->скандальная</li>
+    <li>speechadjective_neuter->зажигательное</li>
+    <li>speechadjective_neuter->публичное</li>
+    <li>speechadjective_neuter->широко известное</li>
+    <li>speechadjective_neuter->политическое</li>
+    <li>speechadjective_neuter->страстное</li>
+    <li>speechadjective_neuter->пламенное</li>
+	  <li>speechadjective_neuter->скандальное</li>
+    <li>speech_female->речь</li>
+	  <li>speech_female->проповедь</li>
+    <li>speech_neuter->выступление</li>
+    <li>speech_neuter->обращение</li>
+    <li>lessonIntro->Вся борьба за выживание заключается в захвате средств к существованию.</li>
+    <li>lessonIntro->Я выражаю высочайшее почтение мученикам революции, как воспетым, так и оставшимся неизвестными, пожертвовавшим своими драгоценными жизнями в священной войне за воссоединение и независимость нашего народа.</li>
+    <li>lessonIntro->Мы не можем думать о людях, не вспоминая пот и кровь, пролитые поколением победителей в войне, великий дух, который они продемонстрировали, и благородную жертву воинов.</li>
+    <li>lessonIntro->Существует лишь один порядок. Это бесспорно и очевидно для всех. Он уже расправляет крылья и воспламеняет сердца отсюда и до дальних уголков этого мира: Покоряй!</li>      
+    <li>lessonIntro->Всё станет возможным, когда будет повелевать единая воля, которой повинуются все, от верхов до самых низов.</li>
+    <li>lessonIntro->Мои соотечественники: человек существует не в теориях и фразах, не в декларациях или теориях философов. Он существует тем, что может создать своим трудом на земле.</li>
+    <li>lessonIntro->Наша победа была победой искреннего патриотизма и массового героизма граждан, победой справедливости и прогресса над несправедливостью и заторможенностью, победой будущего человечества над его врагами.</li>
     <li>lessonMain->Тем, кто меня слышит, я говорю: не отчаивайтесь</li>
-    
-	<!--  "кто хотел бы отвлечь нас от продвижения к осуществлению нашего движения" мне понравилась эта фраза, не стал причёсывать :) -->
-	<li>lessonMain->Никто не удивится, если теперь, когда этот этап можно считать преодолённым, мы отшвырнём всё и всех, кто хотел бы отвлечь нас от продвижения к осуществлению нашего движения</li>
-    <li>lessonMain->Мы — действующие лица новой эры, в которую мы не можем иметь ничего общего с менталитетом из прошлого</li>
-    <li>lessonMain->Молодёжь шла, сознавая свою историческую ответственность, к цели, которая ощущалась, но не была чётко определена</li>
-    <li>lessonMain->В эти дни наши поколения сталкиваются не только с территориальными и политическими проблемами, но и с важнейшими вопросами существования нашей веры, нашей цивилизации и нашей культуры, которые сейчас снова на кону</li>
-    <li>lessonMain->Некоторые люди хотели попасть в наши ряды, чтобы создать среди нас контролирующий орган или новую группу меньшинств. Этого не следовало допускать</li>
+	  <li>lessonMain->Ни для кого не станет секретом, что теперь, после преодоления прошлого этапа, мы можем отшвырнуть всё и всех, кто хотел бы отвлечь нас от продвижения к осуществлению нашего движения</li>
+    <li>lessonMain->Мы — действующие лица новой эры, мы не застрянем в предрассудках прошлого</li>
+    <li>lessonMain->Молодёжь шла, осознавая ответственность за будущее, к цели, которая лишь ощущалась, а не была чётко определена</li>
+    <li>lessonMain->Сейчас мы сталкиваемся не только с территориальными и политическими проблемами, но и с важнейшими вопросами существования нашей веры, нашей цивилизации и нашей культуры, которые сейчас снова поставлены на карту</li>
+    <li>lessonMain->Некоторые люди хотели попасть в наши ряды и создать контролирующий орган или новое угнетающее меньшинство. Этого нельзя допустить</li>
     <li>lessonReinforcement->Вместе мы пойдем навстречу рассвету новой эры.</li>
-    <li>lessonReinforcement->Наше будущее светлое, и мы будем упорны.</li>
+    <li>lessonReinforcement->Мы прорвёмся к светлому будущему.</li>
     <li>lessonReinforcement->Какие бы проекты ни существовали сейчас, историческая судьба нашей эпохи будет решена.</li>
-    <li>lessonReinforcement->По этой причине, потому что мы знаем, что мы правы, и потому что мы бесконечно трудились ради этого, мы со спокойствием смотрим на происходящее.</li>
-    <li>lessonReinforcement->Мы собрали вас вместе, чтобы довести нашу работу до конца, ибо она ознаменована непрерывными триумфами.</li>
-    <li>lessonReinforcement->Недостаточно поставить перед собой цель. К ней нужно стремиться с постоянством и самопожертвованием.</li>
+    <li>lessonReinforcement->Поэтому и потому, что правда на нашей стороне, наши бесконечные старания позволяются смотреть вперёд со спокойствием.</li>
+    <li>lessonReinforcement->Мы собрали вас вместе, чтобы довести нашу работу до конца, ведь она ознаменована непрерывными триумфами.</li>
+    <li>lessonReinforcement->Однако недостаточно поставить перед собой цель. К ней нужно стремиться с постоянством и самопожертвованием.</li>
   </VME_AuthoritarianDescription.rules.rulesStrings>
 
 
@@ -343,47 +345,42 @@
     <li>story(uses=1,priority=-10)->Our beloved leader, the latest successor of [founderName], will bring us to prosperity, allowing all of us to live a [memeAdjective] life.</li>
   -->
   <VME_CultOfPersonalityDescription.rules.rulesStrings>
-    <li>story(priority=-999)-></li> <!-- allow zero or more stories -->
-
-    <li>setup->Нет порядка без твёрдой руки, управляющей всем. Это ясно [founder_understand] [founderName], наш первый [leaderTitle].</li>
-    <li>setup->Мы избраны [founder_possessive] божественной волей. [founder_honorific] [founderName], наш первый [leaderTitle] — мы все [founder_possessive] сыновья и дочери.</li>
-    <li>setup->Рассказывают, что первый [leaderTitle], [founder_honorific] [founderName] [founder_arose] всесте со Вселенной в момент её сотворения.</li>
-    <li>setup->Среди ужасного хаоса, охватившего наших древних предков, [founder_arose] [founderName], наш первый [leaderTitle].</li>
-	<li>setup->Начав из скромного, ничем не примечательного положения, [founderName], наш первый [leaderTitle], [founder_raised] над предназначенным судьбой местом благодаря своей несгибаемой воле.</li>
-
-    <li>founder_honorific(founder_gender==Male)->[honorific_m]</li>
-    <li>founder_honorific(founder_gender==Female)->[honorific_f]</li>
-    <li>honorific_m->Великолепный</li>
-    <li>honorific_m->Великий</li>
-    <li>honorific_m->Святой</li>
-    <li>honorific_m->Внушающий Благоговейный Трепет</li>
-    <li>honorific_m->Завоеватель</li>
-    <li>honorific_m->Блистательный</li>
-	<li>honorific_f->Великолепная</li>
-    <li>honorific_f->Великая</li>
-    <li>honorific_f->Святая</li>
-    <li>honorific_f->Внушающая Благоговейный Трепет</li>
-    <li>honorific_f->Завоевательница</li>
-    <li>honorific_f->Блистательная</li>
- 
-	<li>founder_understand(founder_gender==Male)->понимал</li>
+    <li>story(priority=-999)-></li>
+    <li>setup->Нет порядка без твёрдой руки, управляющей всем. Это ясно [founder_understand] [founderName], первый [leaderTitle].</li>
+    <li>setup->Мы избраны [founder_possessive] божественной волей. Мы сыновья и дочери [founderName] [founder_honorific], первого [leaderTitle].</li>
+    <li>setup->Рассказывают, что первый [leaderTitle], [founderName] [founder_honorific] [founder_arose] вместе со Вселенной в момент её сотворения.</li>
+    <li>setup->Среди ужасного хаоса, охватившего древних предков, [founder_arose] [founderName], первый [leaderTitle].</li>
+	  <li>setup->Имея совсем непримечательное происхождение, [founderName], первый [leaderTitle], [founder_raised] до самой вершины благодаря своей несгибаемой воле.</li>
+    
+    <li>founder_honorific(founder_gender==Male)->[honorific_male]</li>
+    <li>founder_honorific(founder_gender==Female)->[honorific_female]</li>
+    <li>honorific_male->Великолепного</li>
+    <li>honorific_male->Великого</li>
+    <li>honorific_male->Святого</li>
+    <li>honorific_male->Ужасного</li>
+    <li>honorific_male->Завоевателя</li>
+    <li>honorific_male->Блистательного</li>
+	  <li>honorific_female->Великолепной</li>
+    <li>honorific_female->Великой</li>
+    <li>honorific_female->Святой</li>
+    <li>honorific_female->Ужасной</li>
+    <li>honorific_female->Завоевательницы</li>
+    <li>honorific_female->Блистательной</li>
+    <li>founder_understand(founder_gender==Male)->понимал</li>
     <li>founder_understand(founder_gender==Female)->понимала</li>
-
     <li>founder_arose(founder_gender==Male)->возник</li>
     <li>founder_arose(founder_gender==Female)->возникла</li>
-
     <li>founder_raised(founder_gender==Male)->вознёсся</li>
     <li>founder_raised(founder_gender==Female)->вознеслась</li>
 
-    <li>story(uses=1,priority=-10)->Первый [memberName] поклялся, что [founderName] и [founder_possessive] потомки всегда будут править нашим народом, навечно связав себя обетом служения.</li>
+    <li>story(uses=1,priority=-10)->Первые [memberNamePlural] поклялись в верности [founderName] и [founder_possessive] потомкам, связав себя обетом служения.</li>
     <li>story(uses=1,priority=-10)->[founderName] [founder_inspired] многих вести праведную жизнь, получив за это нашу бесконечную преданность.</li>
-	<li>story(uses=1,priority=-10)->Благодаря армии последователей, что [founder_gather] [founderName] под своим началом, [founder_possessive] династия, чьим продолжением является нынешний [leaderTitle], существует и теперь.</li>
-    <li>story(uses=1,priority=-10)->Наш любимый лидер, последний преемник [founderName], принесёт нам процветание, позволив вести [memeAdjective] образ жизни.</li>
-
-	<li>founder_inspired(founder_gender==Male)->вдохновил</li>
+	  <li>story(uses=1,priority=-10)->Благодаря армии последователей, что [founder_gather] [founderName] под своим началом, [founder_possessive] династия продолжается в лице нынешнего [leaderTitle].</li>
+    <li>story(uses=1,priority=-10)->Наш любимый лидер, последний преемник [founderName], принесёт нам процветание, позволяя вести [memeAdjective] образ жизни.</li>
+	  
+    <li>founder_inspired(founder_gender==Male)->вдохновил</li>
     <li>founder_inspired(founder_gender==Female)->вдохновила</li>
-
-	<li>founder_gather(founder_gender==Male)->собрал</li>
+	  <li>founder_gather(founder_gender==Male)->собрал</li>
     <li>founder_gather(founder_gender==Female)->собрала</li>
   </VME_CultOfPersonalityDescription.rules.rulesStrings>
 

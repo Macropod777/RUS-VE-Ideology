@@ -16,10 +16,10 @@
 		<li>memeConcept->fishing</li>
   -->
   <VME_Angler.generalRules.rulesStrings>
-  	<li>memeAdjective->пискаторское</li>
-		<li>memeAdjective->прибрежное</li>
-		<li>memeAdjective->морское</li>
-		<li>memeAdjective->рыболовное</li>
+  	<li>memeAdjective->пискаторский</li>
+		<li>memeAdjective->прибрежный</li>
+		<li>memeAdjective->морской</li>
+		<li>memeAdjective->рыболовный</li>
 		<li>memeHyphenPrefix->рыбно</li>
 		<li>memeHyphenPrefix->реко</li>
 		<li>memeHyphenPrefix->океано</li>

@@ -18,9 +18,9 @@
 		<li>memeMoralist->clairvoyant</li>
   -->
   <VME_PsychicFocus.generalRules.rulesStrings>
-		<li>memeAdjective->ментальное</li>
-		<li>memeAdjective->психическое</li>
-		<li>memeAdjective->метафизическое</li>
+		<li>memeAdjective->ментальный</li>
+		<li>memeAdjective->психический</li>
+		<li>memeAdjective->метафизический</li>
 	  <li>memeHyphenPrefix->пси</li>
 		<li>memeConcept->пси-способности</li>
 		<li>memeLeaderNoun->менталист</li>
