@@ -6,15 +6,15 @@
   <VME_Alcohol_Demanded.description>Что-то крепкое, алкогольное и жидкое — так описывается то, что нам нужно. Алкогольные напитки стоит пить хотя бы для снятия напряжения, как бы не возмущались трезвенники.</VME_Alcohol_Demanded.description>
 
   <!-- EN: Missing alcohol (3 days) -->
-  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>Недостаёт спиртного (3 дня)</VME_Alcohol_Demanded.0.thoughtStageDescriptions.0>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>Недостаёт спиртного (3 дня)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.0>
   <!-- EN: No alcohol (5 days) -->
-  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>Без спиртного (5 дней)</VME_Alcohol_Demanded.0.thoughtStageDescriptions.1>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>Без спиртного (5 дней)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.1>
   <!-- EN: Needs alcohol (10 days) -->
-  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>Нужно спиртное (10 дней)</VME_Alcohol_Demanded.0.thoughtStageDescriptions.2>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>Нужно спиртное (10 дней)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.2>
   <!-- EN: Craves alcohol (15 days) -->
-  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>Жажда спиртного (15 дней)</VME_Alcohol_Demanded.0.thoughtStageDescriptions.3>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>Жажда спиртного (15 дней)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.3>
   <!-- EN: Demands alcohol (30 days) -->
-  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>Требование спиртного (30 дней)</VME_Alcohol_Demanded.0.thoughtStageDescriptions.4>
+  <VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>Требование спиртного (30 дней)</VME_Alcohol_Demanded.comps.0.thoughtStageDescriptions.4>
 
 
   <!-- EN: desired -->
@@ -23,11 +23,11 @@
   <VME_Alcohol_Desired.description>Выпить — это просто развлечение, но не стоит злоупотреблять.</VME_Alcohol_Desired.description>
 
   <!-- EN: Missing alcohol (3 days) -->
-  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>Недостаёт спиртного (3 дня)</VME_Alcohol_Desired.0.thoughtStageDescriptions.0>
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>Недостаёт спиртного (3 дня)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Desiring a drink (5 days) -->
-  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>Желание выпить (5 дней)</VME_Alcohol_Desired.0.thoughtStageDescriptions.1>
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>Желание выпить (5 дней)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.1>
   <!-- EN: Wanting a drink (10 days or more) -->
-  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>Стремление выпить (10 дней)</VME_Alcohol_Desired.0.thoughtStageDescriptions.2>
+  <VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>Стремление выпить (10 дней)</VME_Alcohol_Desired.comps.0.thoughtStageDescriptions.2>
 
 
   <!-- EN: mild abstinence -->
@@ -36,7 +36,7 @@
   <VME_Alcohol_MildAbstinence.description>Алкоголь можно употреблять в малых дозах, но лучше держаться от него подальше как можно дольше.</VME_Alcohol_MildAbstinence.description>
 
   <!-- EN: Consumed alcohol -->
-  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>Употребление алкоголя</VME_Alcohol_MildAbstinence.0.thoughtStageDescriptions.0>
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>Употребление алкоголя</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Abstained from alcohol -->
-  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>Воздержание от алкоголя</VME_Alcohol_MildAbstinence.0.thoughtStageDescriptions.0>
+  <VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>Воздержание от алкоголя</VME_Alcohol_MildAbstinence.comps.0.thoughtStageDescriptions.0>
 </LanguageData>
