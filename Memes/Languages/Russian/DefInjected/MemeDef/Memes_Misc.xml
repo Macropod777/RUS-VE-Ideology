@@ -921,79 +921,266 @@
   <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_InsectoidSupremacy)-&gt;Among these genetically modified animals lies the insectoid geneline that was developed at Sorne, and that brought us the perfect lifeform.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.22>
   <VME_InsectoidSupremacy.symbolPacks.0.adjective>insectoid</VME_InsectoidSupremacy.symbolPacks.0.adjective>
 
-  <VME_PartyLife.label>party life</VME_PartyLife.label>
-  <VME_PartyLife.description>Let us toast to the acts of dance, drink and debauchery. Any free time is a good time, but party time is the best time.</VME_PartyLife.description>
-  <VME_PartyLife.generalRules.rulesStrings.0>memeCreed-&gt;party</VME_PartyLife.generalRules.rulesStrings.0>
-  <VME_PartyLife.generalRules.rulesStrings.1>memeAdjective-&gt;revelling</VME_PartyLife.generalRules.rulesStrings.1>
-  <VME_PartyLife.generalRules.rulesStrings.2>memeAdjective-&gt;dancing</VME_PartyLife.generalRules.rulesStrings.2>
-  <VME_PartyLife.generalRules.rulesStrings.3>memeAdjective-&gt;enjoying</VME_PartyLife.generalRules.rulesStrings.3>
-  <VME_PartyLife.generalRules.rulesStrings.4>memeConcept-&gt;celebration</VME_PartyLife.generalRules.rulesStrings.4>
-  <VME_PartyLife.generalRules.rulesStrings.5>memeConcept-&gt;festivity</VME_PartyLife.generalRules.rulesStrings.5>
-  <VME_PartyLife.generalRules.rulesStrings.6>memeLeaderNoun-&gt;merrymaker</VME_PartyLife.generalRules.rulesStrings.6>
-  <VME_PartyLife.generalRules.rulesStrings.7>memeMoralist-&gt;reveler</VME_PartyLife.generalRules.rulesStrings.7>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_PartyLife)        -&gt;[deity0_name] spoke to [deity0_possessive] followers: "Mark this day in your calendars as an occasion for revelry, for celebrations are sacred to me."</VME_PartyLife.descriptionMaker.rules.rulesStrings.0>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_PartyLife)  -&gt;From that day on, we celebrated.</VME_PartyLife.descriptionMaker.rules.rulesStrings.1>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_PartyLife)           -&gt;On the [place_summary] [place_name], the [memberNamePlural] built a gigantic scenario. It would be the perfect place to party, and glorify [deity0_name].</VME_PartyLife.descriptionMaker.rules.rulesStrings.2>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_PartyLife)        -&gt;The neighbours, however, weren't happy with the amount of noise, for they wanted their hard earned repose.</VME_PartyLife.descriptionMaker.rules.rulesStrings.3>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_PartyLife)     -&gt;[founderName], known as the Great Reveler, would have none of that nonsense. Rest is for the weak! Bring more cocktails!</VME_PartyLife.descriptionMaker.rules.rulesStrings.4>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_PartyLife)         -&gt;So they turned the level of the music even higher. Party on!</VME_PartyLife.descriptionMaker.rules.rulesStrings.5>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_PartyLife)           -&gt;[founderName] was a renowned philosopher, [founder_possessive] name heard all across the stars. [founder_pronoun] posited that life is too short to be lived without enjoying oneself, and that only by extolling the virtues of a party life can one hope to be truly fulfilled.</VME_PartyLife.descriptionMaker.rules.rulesStrings.6>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_PartyLife)    -&gt;Unfortunately, [founder_pronoun] was found dead of an overdose a few years back. That must have been one hell of a party!</VME_PartyLife.descriptionMaker.rules.rulesStrings.7>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_PartyLife)         -&gt;Listen, listen, come closer. Oh, man, what a hangover... You see, I want to tell you that</VME_PartyLife.descriptionMaker.rules.rulesStrings.8>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_PartyLife)              -&gt;I love going out. I love partying. Yeah, that's it</VME_PartyLife.descriptionMaker.rules.rulesStrings.9>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_PartyLife) -&gt;Now bugger off, and stop shouting. Damn, my poor head...</VME_PartyLife.descriptionMaker.rules.rulesStrings.10>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_PartyLife)    -&gt;Do you really think the archotechs, in their infinite wisdom, care anything for those who don't know how to enjoy themselves?</VME_PartyLife.descriptionMaker.rules.rulesStrings.11>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_PartyLife)     -&gt;The archotechs can't ascend everyone, and it stands to reason that they will choose the funniest, happiest among us.</VME_PartyLife.descriptionMaker.rules.rulesStrings.12>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_PartyLife) -&gt;[inTheEnd], only those who spend their lives partying in a thousand reveries will be allowed to transcend.</VME_PartyLife.descriptionMaker.rules.rulesStrings.13>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_PartyLife)    -&gt;The spirits want us to enjoy life. What sense does it make to pass through life like a shadow?</VME_PartyLife.descriptionMaker.rules.rulesStrings.14>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_PartyLife)     -&gt;Among the spirits, the spirit of joy and revelry has unrivaled wisdom. It alone knows how to enjoy itself.</VME_PartyLife.descriptionMaker.rules.rulesStrings.15>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_PartyLife) -&gt;[itIsSaid] only those who spend their lives partying in a thousand reveries can truly appease the spirits.</VME_PartyLife.descriptionMaker.rules.rulesStrings.16>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_PartyLife)-&gt;[itIsSaid] we will party. This... actually has nothing to do with insects whatsoever. I guess... a beetle probably would enjoy a beer? Yeah, let's go with that. I'm drunk already anyway.</VME_PartyLife.descriptionMaker.rules.rulesStrings.17>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_PartyLife)-&gt;Such eldritch entities can't be fought, can't be defeated. We might as well be drunk out of our minds if we have to face them.</VME_PartyLife.descriptionMaker.rules.rulesStrings.18>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_PartyLife)-&gt;Such occult knowledge can't be faced sober.</VME_PartyLife.descriptionMaker.rules.rulesStrings.19>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_PartyLife)-&gt;The world will burn, and this is something that is better not to face sober.</VME_PartyLife.descriptionMaker.rules.rulesStrings.20>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_PartyLife)-&gt;It's our favourite time of the year already! The company's mandatory team-building exercise will be scheduled for this next Tuesday. Remember to bring your tennis paddles!</VME_PartyLife.descriptionMaker.rules.rulesStrings.21>
-  <VME_PartyLife.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_PartyLife)-&gt;I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</VME_PartyLife.descriptionMaker.rules.rulesStrings.22>
-  <VME_PartyLife.symbolPacks.0.adjective>partying</VME_PartyLife.symbolPacks.0.adjective>
+
+
+  <!-- 27 -->
+
+  <!-- EN: party life -->
+  <VME_PartyLife.label></VME_PartyLife.label>
+  <!-- EN: Let us toast to the acts of dance, drink and debauchery. Any free time is a good time, but party time is the best time. -->
+  <VME_PartyLife.description>Поднимем тост за танцы, выпивку и разврат. Любое свободное время — хорошее время, но время для вечеринок — лучшее время.</VME_PartyLife.description>
+
+  <!-- EN:
+    <li>memeCreed->party</li>
+    <li>memeAdjective->revelling</li>
+    <li>memeAdjective->dancing</li>
+    <li>memeAdjective->enjoying</li>
+    <li>memeConcept->celebration</li>
+    <li>memeConcept->festivity</li>
+    <li>memeLeaderNoun->merrymaker</li>
+    <li>memeMoralist->reveler</li>
+  -->
+  <VME_PartyLife.generalRules.rulesStrings>
+    <li>memeCreed->party</li>
+    <li>memeAdjective->revelling</li>
+    <li>memeAdjective->dancing</li>
+    <li>memeAdjective->enjoying</li>
+    <li>memeConcept->celebration</li>
+    <li>memeConcept->festivity</li>
+    <li>memeLeaderNoun->merrymaker</li>
+    <li>memeMoralist->reveler</li>
+  </VME_PartyLife.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_PartyLife)        ->[deity0_name] spoke to [deity0_possessive] followers: "Mark this day in your calendars as an occasion for revelry, for celebrations are sacred to me."</li>
+    <li>episode(uses=1,tag=meme_PartyLife)  ->From that day on, we celebrated.</li>
+
+    <li>intro(tag=meme_PartyLife)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic scenario. It would be the perfect place to party, and glorify [deity0_name].</li>
+    <li>conflict(tag=meme_PartyLife)        ->The neighbours, however, weren't happy with the amount of noise, for they wanted their hard earned repose.</li>
+    <li>founderJoin(tag=meme_PartyLife)     ->[founderName], known as the Great Reveler, would have none of that nonsense. Rest is for the weak! Bring more cocktails!</li>
+    <li>victory(tag=meme_PartyLife)         ->So they turned the level of the music even higher. Party on!</li>
+
+    <li>setup(tag=meme_PartyLife)           ->[founderName] was a renowned philosopher, [founder_possessive] name heard all across the stars. [founder_pronoun] posited that life is too short to be lived without enjoying oneself, and that only by extolling the virtues of a party life can one hope to be truly fulfilled.</li>
+    <li>story(uses=1,tag=meme_PartyLife)    ->Unfortunately, [founder_pronoun] was found dead of an overdose a few years back. That must have been one hell of a party!</li>
+
+    <li>lessonIntro(tag=meme_PartyLife)         ->Listen, listen, come closer. Oh, man, what a hangover... You see, I want to tell you that</li>
+    <li>lesson(tag=meme_PartyLife)              ->I love going out. I love partying. Yeah, that's it</li>
+    <li>lessonReinforcement(tag=meme_PartyLife) ->Now bugger off, and stop shouting. Damn, my poor head...</li>
+
+    <li>archistBasis(tag=meme_PartyLife)    ->Do you really think the archotechs, in their infinite wisdom, care anything for those who don't know how to enjoy themselves?</li>
+    <li>archistFact(tag=meme_PartyLife)     ->The archotechs can't ascend everyone, and it stands to reason that they will choose the funniest, happiest among us.</li>
+    <li>archistProphecy(tag=meme_PartyLife) ->[inTheEnd], only those who spend their lives partying in a thousand reveries will be allowed to transcend.</li>
+
+    <li>animistBasis(tag=meme_PartyLife)    ->The spirits want us to enjoy life. What sense does it make to pass through life like a shadow?</li>
+    <li>animistFact(tag=meme_PartyLife)     ->Among the spirits, the spirit of joy and revelry has unrivaled wisdom. It alone knows how to enjoy itself.</li>
+    <li>animistProphecy(tag=meme_PartyLife) ->[itIsSaid] only those who spend their lives partying in a thousand reveries can truly appease the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_PartyLife)->[itIsSaid] we will party. This... actually has nothing to do with insects whatsoever. I guess... a beetle probably would enjoy a beer? Yeah, let's go with that. I'm drunk already anyway.</li>
+
+    <li>chthonianProphecy(tag=meme_PartyLife)->Such eldritch entities can't be fought, can't be defeated. We might as well be drunk out of our minds if we have to face them.</li>
+
+    <li>esotericismProphecy(tag=meme_PartyLife)->Such occult knowledge can't be faced sober.</li>
+
+    <li>eschatologismFact(tag=meme_PartyLife)->The world will burn, and this is something that is better not to face sober.</li>
+
+    <li>introMemo(tag=meme_PartyLife)->It's our favourite time of the year already! The company's mandatory team-building exercise will be scheduled for this next Tuesday. Remember to bring your tennis paddles!</li>					
+
+    <li>alienistProphecy(tag=meme_PartyLife)->I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</li>
+  -->
+  <VME_PartyLife.descriptionMaker.rules.rulesStrings>
+
+    <li>creation(tag=meme_PartyLife)        ->[deity0_name] spoke to [deity0_possessive] followers: "Mark this day in your calendars as an occasion for revelry, for celebrations are sacred to me."</li>
+    <li>episode(uses=1,tag=meme_PartyLife)  ->From that day on, we celebrated.</li>
+
+    <li>intro(tag=meme_PartyLife)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic scenario. It would be the perfect place to party, and glorify [deity0_name].</li>
+    <li>conflict(tag=meme_PartyLife)        ->The neighbours, however, weren't happy with the amount of noise, for they wanted their hard earned repose.</li>
+    <li>founderJoin(tag=meme_PartyLife)     ->[founderName], known as the Great Reveler, would have none of that nonsense. Rest is for the weak! Bring more cocktails!</li>
+    <li>victory(tag=meme_PartyLife)         ->So they turned the level of the music even higher. Party on!</li>
+
+    <li>setup(tag=meme_PartyLife)           ->[founderName] was a renowned philosopher, [founder_possessive] name heard all across the stars. [founder_pronoun] posited that life is too short to be lived without enjoying oneself, and that only by extolling the virtues of a party life can one hope to be truly fulfilled.</li>
+    <li>story(uses=1,tag=meme_PartyLife)    ->Unfortunately, [founder_pronoun] was found dead of an overdose a few years back. That must have been one hell of a party!</li>
+
+    <li>lessonIntro(tag=meme_PartyLife)         ->Listen, listen, come closer. Oh, man, what a hangover... You see, I want to tell you that</li>
+    <li>lesson(tag=meme_PartyLife)              ->I love going out. I love partying. Yeah, that's it</li>
+    <li>lessonReinforcement(tag=meme_PartyLife) ->Now bugger off, and stop shouting. Damn, my poor head...</li>
+
+    <li>archistBasis(tag=meme_PartyLife)    ->Do you really think the archotechs, in their infinite wisdom, care anything for those who don't know how to enjoy themselves?</li>
+    <li>archistFact(tag=meme_PartyLife)     ->The archotechs can't ascend everyone, and it stands to reason that they will choose the funniest, happiest among us.</li>
+    <li>archistProphecy(tag=meme_PartyLife) ->[inTheEnd], only those who spend their lives partying in a thousand reveries will be allowed to transcend.</li>
+
+    <li>animistBasis(tag=meme_PartyLife)    ->The spirits want us to enjoy life. What sense does it make to pass through life like a shadow?</li>
+    <li>animistFact(tag=meme_PartyLife)     ->Among the spirits, the spirit of joy and revelry has unrivaled wisdom. It alone knows how to enjoy itself.</li>
+    <li>animistProphecy(tag=meme_PartyLife) ->[itIsSaid] only those who spend their lives partying in a thousand reveries can truly appease the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_PartyLife)->[itIsSaid] we will party. This... actually has nothing to do with insects whatsoever. I guess... a beetle probably would enjoy a beer? Yeah, let's go with that. I'm drunk already anyway.</li>
+
+    <li>chthonianProphecy(tag=meme_PartyLife)->Such eldritch entities can't be fought, can't be defeated. We might as well be drunk out of our minds if we have to face them.</li>
+
+    <li>esotericismProphecy(tag=meme_PartyLife)->Such occult knowledge can't be faced sober.</li>
+
+    <li>eschatologismFact(tag=meme_PartyLife)->The world will burn, and this is something that is better not to face sober.</li>
+
+    <li>introMemo(tag=meme_PartyLife)->It's our favourite time of the year already! The company's mandatory team-building exercise will be scheduled for this next Tuesday. Remember to bring your tennis paddles!</li>					
+
+    <li>alienistProphecy(tag=meme_PartyLife)->I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</li>
+
+
+
+
+
+  </VME_PartyLife.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Party Life -->
+  <VME_PartyLife.symbolPacks.0.ideoName></VME_PartyLife.symbolPacks.0.ideoName>
+  <!-- EN: partying -->
+  <VME_PartyLife.symbolPacks.0.theme></VME_PartyLife.symbolPacks.0.theme>
+  <!-- EN: partying -->
+  <VME_PartyLife.symbolPacks.0.adjective></VME_PartyLife.symbolPacks.0.adjective>
+  <!-- EN: celebrant -->
+  <VME_PartyLife.symbolPacks.0.member></VME_PartyLife.symbolPacks.0.member>
+
+
+
+
+
+
 
 
   <!-- 28 -->
 
-  <VME_Anonymity.label>anonymity</VME_Anonymity.label>
-  <VME_Anonymity.description>Knowing the names, faces, and backgrounds of your fellow colonists can be both a blessing and a curse.</VME_Anonymity.description>
-  <VME_Anonymity.generalRules.rulesStrings.0>memeCreed-&gt;anonymity</VME_Anonymity.generalRules.rulesStrings.0>
-  <VME_Anonymity.generalRules.rulesStrings.1>memeAdjective-&gt;anonymous</VME_Anonymity.generalRules.rulesStrings.1>
-  <VME_Anonymity.generalRules.rulesStrings.2>memeAdjective-&gt;mysterious</VME_Anonymity.generalRules.rulesStrings.2>
-  <VME_Anonymity.generalRules.rulesStrings.3>memeAdjective-&gt;nameless</VME_Anonymity.generalRules.rulesStrings.3>
-  <VME_Anonymity.generalRules.rulesStrings.4>memeAdjective-&gt;inconspicuous</VME_Anonymity.generalRules.rulesStrings.4>
-  <VME_Anonymity.generalRules.rulesStrings.5>memeConcept-&gt;privacy</VME_Anonymity.generalRules.rulesStrings.5>
-  <VME_Anonymity.generalRules.rulesStrings.6>memeConcept-&gt;anonymity</VME_Anonymity.generalRules.rulesStrings.6>
-  <VME_Anonymity.generalRules.rulesStrings.7>memeLeaderNoun-&gt;anon</VME_Anonymity.generalRules.rulesStrings.7>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Anonymity)        -&gt;[deity0_name] didn't speak to [deity0_possessive] followers, and instead just looked at them sternly. They understood the need for complete silence.</VME_Anonymity.descriptionMaker.rules.rulesStrings.0>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Anonymity)  -&gt;[deity0_name]'s utter silence was interpreted as a portent, and we have stayed silent since then.</VME_Anonymity.descriptionMaker.rules.rulesStrings.1>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Anonymity)           -&gt;On the [place_summary] [place_name], the [memberNamePlural] built a giant temple erected in complete silence, a mute testament to [deity0_name]'s will.</VME_Anonymity.descriptionMaker.rules.rulesStrings.2>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Anonymity)        -&gt;An evil [foeLeader] despised this silence, and wanted to plunge the world into a multitudinous cacophony. [foeLeader_pronoun] wanted to tear down the temple and watch it burn.</VME_Anonymity.descriptionMaker.rules.rulesStrings.3>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Anonymity)     -&gt;[founderName], the Silent One, would have nothing of this heressy, and plunged a poisoned blade into the heart of the [foeLeader] in the dead of night.</VME_Anonymity.descriptionMaker.rules.rulesStrings.4>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Anonymity)         -&gt;[founderName] didn't want any accolades for [founder_possessive] acts, for [founder_pronoun] just wanted to be left alone.</VME_Anonymity.descriptionMaker.rules.rulesStrings.5>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Anonymity)           -&gt;We are not really sure who [founderName] actually was. Perhaps [founder_pronoun] didn't even exist, and we just have a faint recollection of a mythology of sorts. In any case, it is ascribed to [founder_objective] that a solitary life of contemplation and isolation is a goal in and of itself.</VME_Anonymity.descriptionMaker.rules.rulesStrings.6>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Anonymity)    -&gt;Anonymity is a shield from the tyranny of the majority.</VME_Anonymity.descriptionMaker.rules.rulesStrings.7>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Anonymity)         -&gt;Let me put down these words on paper, for relaying them to you by voice is repulsive:</VME_Anonymity.descriptionMaker.rules.rulesStrings.8>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Anonymity)              -&gt;you never appreciate your anonymity until you don't have it anymore</VME_Anonymity.descriptionMaker.rules.rulesStrings.9>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Anonymity) -&gt;Wanting to be unknown, unpossessed by others' knowledge of you. That is freedom.</VME_Anonymity.descriptionMaker.rules.rulesStrings.10>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Anonymity)    -&gt;The archotechs are unknown and unknowable, shielded behind the ultimate mask: transcendence.</VME_Anonymity.descriptionMaker.rules.rulesStrings.11>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Anonymity)     -&gt;The archotechs ask: "What is the purpose of civilization if not to grant the greatest of gifts, anonymity?".</VME_Anonymity.descriptionMaker.rules.rulesStrings.12>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Anonymity) -&gt;[inTheEnd], only those who spend their lives in anonymity will be allowed to transcend.</VME_Anonymity.descriptionMaker.rules.rulesStrings.13>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Anonymity)    -&gt;The spirits do not care about our meaningless identities, and would prefer us to stay anonymous.</VME_Anonymity.descriptionMaker.rules.rulesStrings.14>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Anonymity)     -&gt;They show us that a solitary life of contemplation and isolation is a goal in and of itself.</VME_Anonymity.descriptionMaker.rules.rulesStrings.15>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_Anonymity) -&gt;[itIsSaid] only those who spend their lives in solitude and silence can truly commune with the spirits.</VME_Anonymity.descriptionMaker.rules.rulesStrings.16>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_Anonymity)-&gt;[itIsSaid] we will fade into anonymity like a myriad ants, part of a whole but insignificant on their own.</VME_Anonymity.descriptionMaker.rules.rulesStrings.17>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_Anonymity)-&gt;It is madness to raise our voice in defiance of these entities, and thus we shall remain silent, isolated, lest we attract their unwanted attention.</VME_Anonymity.descriptionMaker.rules.rulesStrings.18>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_Anonymity)-&gt;Such occult knowledge can only be discovered through careful meditation. And perhaps we will discover that a solitary life of contemplation and isolation is a goal in and of itself.</VME_Anonymity.descriptionMaker.rules.rulesStrings.19>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_Anonymity)-&gt;The world will burn, and we shall be the faceless and anonymous bringers of its downfall.</VME_Anonymity.descriptionMaker.rules.rulesStrings.20>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Anonymity)-&gt;Lately we have had multiple instances of people using "Reply All" on company e-mails. Let me remind you that this is unnecessary and leads to confusion.</VME_Anonymity.descriptionMaker.rules.rulesStrings.21>
-  <VME_Anonymity.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Anonymity)-&gt;Animals do not care about human. We can be ourselves with them, as they are not as prone to judgement as humans are.</VME_Anonymity.descriptionMaker.rules.rulesStrings.22>
-  <VME_Anonymity.symbolPacks.0.adjective>anonymous</VME_Anonymity.symbolPacks.0.adjective>
+  <!-- EN: anonymity -->
+  <VME_Anonymity.label>анонимность</VME_Anonymity.label>
+  <!-- EN: Knowing the names, faces, and backgrounds of your fellow colonists can be both a blessing and a curse. -->
+  <VME_Anonymity.description>Знание имен, лиц и происхождения ваших товарищей-поселенцев может быть как благословением, так и проклятием.</VME_Anonymity.description>
 
+  <!-- EN:
+    <li>memeCreed->anonymity</li>
+    <li>memeAdjective->anonymous</li>
+    <li>memeAdjective->mysterious</li>
+    <li>memeAdjective->nameless</li>
+    <li>memeAdjective->inconspicuous</li>
+    <li>memeConcept->privacy</li>
+    <li>memeConcept->anonymity</li>
+    <li>memeLeaderNoun->anon</li>
+  -->
+  <VME_Anonymity.generalRules.rulesStrings>
+    <li>memeCreed->анонимат</li>
+    <li>memeAdjective->анонимный</li>
+    <li>memeAdjective->таинственный</li>
+    <li>memeAdjective->безымянный</li>
+    <li>memeAdjective->незаметный</li>
+    <li>memeConcept->приватности</li>
+    <li>memeConcept->анонимности</li>
+    <li>memeLeaderNoun->анон</li>
+  </VME_Anonymity.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Anonymity)        ->[deity0_name] didn't speak to [deity0_possessive] followers, and instead just looked at them sternly. They understood the need for complete silence.</li>
+    <li>episode(uses=1,tag=meme_Anonymity)  ->[deity0_name]'s utter silence was interpreted as a portent, and we have stayed silent since then.</li>
+
+    <li>intro(tag=meme_Anonymity)           ->On the [place_summary] [place_name], the [memberNamePlural] built a giant temple erected in complete silence, a mute testament to [deity0_name]'s will.</li>
+    <li>conflict(tag=meme_Anonymity)        ->An evil [foeLeader] despised this silence, and wanted to plunge the world into a multitudinous cacophony. [foeLeader_pronoun] wanted to tear down the temple and watch it burn.</li>
+    <li>founderJoin(tag=meme_Anonymity)     ->[founderName], the Silent One, would have nothing of this heressy, and plunged a poisoned blade into the heart of the [foeLeader] in the dead of night.</li>
+    <li>victory(tag=meme_Anonymity)         ->[founderName] didn't want any accolades for [founder_possessive] acts, for [founder_pronoun] just wanted to be left alone.</li>
+
+    <li>setup(tag=meme_Anonymity)           ->We are not really sure who [founderName] actually was. Perhaps [founder_pronoun] didn't even exist, and we just have a faint recollection of a mythology of sorts. In any case, it is ascribed to [founder_objective] that a solitary life of contemplation and isolation is a goal in and of itself.</li>
+    <li>story(uses=1,tag=meme_Anonymity)    ->Anonymity is a shield from the tyranny of the majority.</li>
+
+    <li>lessonIntro(tag=meme_Anonymity)         ->Let me put down these words on paper, for relaying them to you by voice is repulsive:</li>
+    <li>lesson(tag=meme_Anonymity)              ->you never appreciate your anonymity until you don't have it anymore</li>
+    <li>lessonReinforcement(tag=meme_Anonymity) ->Wanting to be unknown, unpossessed by others' knowledge of you. That is freedom.</li>
+
+    <li>archistBasis(tag=meme_Anonymity)    ->The archotechs are unknown and unknowable, shielded behind the ultimate mask: transcendence.</li>
+    <li>archistFact(tag=meme_Anonymity)     ->The archotechs ask: "What is the purpose of civilization if not to grant the greatest of gifts, anonymity?".</li>
+    <li>archistProphecy(tag=meme_Anonymity) ->[inTheEnd], only those who spend their lives in anonymity will be allowed to transcend.</li>
+
+    <li>animistBasis(tag=meme_Anonymity)    ->The spirits do not care about our meaningless identities, and would prefer us to stay anonymous.</li>
+    <li>animistFact(tag=meme_Anonymity)     ->They show us that a solitary life of contemplation and isolation is a goal in and of itself.</li>
+    <li>animistProphecy(tag=meme_Anonymity) ->[itIsSaid] only those who spend their lives in solitude and silence can truly commune with the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_Anonymity)->[itIsSaid] we will fade into anonymity like a myriad ants, part of a whole but insignificant on their own.</li>
+
+    <li>chthonianProphecy(tag=meme_Anonymity)->It is madness to raise our voice in defiance of these entities, and thus we shall remain silent, isolated, lest we attract their unwanted attention.</li>
+
+    <li>esotericismProphecy(tag=meme_Anonymity)->Such occult knowledge can only be discovered through careful meditation. And perhaps we will discover that a solitary life of contemplation and isolation is a goal in and of itself.</li>
+
+    <li>eschatologismFact(tag=meme_Anonymity)->The world will burn, and we shall be the faceless and anonymous bringers of its downfall.</li>
+
+    <li>introMemo(tag=meme_Anonymity)->Lately we have had multiple instances of people using "Reply All" on company e-mails. Let me remind you that this is unnecessary and leads to confusion.</li>
+
+    <li>alienistProphecy(tag=meme_Anonymity)->Animals do not care about human. We can be ourselves with them, as they are not as prone to judgement as humans are.</li>
+  -->
+  <VME_Anonymity.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Anonymity)        ->[deity0_name] не [deity0_speak] со своими последователями, а лишь смотрел на них строгим взглядом. Так они поняли необходимость полной тишины.</li>
+    <li>episode(uses=1,tag=meme_Anonymity)  ->Глубокое молчание, что [deity0_silence] [deity0_name], было истолковано как знамение, и с тех пор мы сами храним молчание.</li>
+
+    <li>intro(tag=meme_Anonymity)           ->В тайном месте, где, как все непосвящённые думают, находится [place_summary] [place_name], [memberNamePlural] построили гигантский храм, воздвигнутый в полной тишине, безмолвное свидетельство завета, что [deity0_gave] [deity0_name].</li>
+    <li>conflict(tag=meme_Anonymity)        ->[foe_evil] [foeLeader] [презирал] эту тишину и [foe_wanted1] погрузить мир в многоголосую какофонию. [foeLeader_pronoun] [foe_wanted2] снести храм и посмотреть, как тот горит.</li>
+    <li>founderJoin(tag=meme_Anonymity)     ->[founderName], Молчаливый Некто, не желал иметь ничего общего с этой ересью, и [foeLeader] глубокой ночью пал от [founder_possessive] руки, поражённый отравленным клинком в сердце.</li>
+    <li>victory(tag=meme_Anonymity)         ->[founderName] не [founder_want] никаких почестей за своё деяние, потому что [founder_pronoun] просто [founder_wanted], чтобы все оставили [founder_possessive] в покое.</li>
+
+    <li>setup(tag=meme_Anonymity)           ->Мы не совсем уверены, что знаем, кем на самом деле [founder_was] [founderName]. Возможно, [founder_pronoun] даже не [founder_exist], и нам досталось бледная тень какой-то мифологии. В любом случае, [founder_objective] приписывают утверждение, что уединённая жизнь в созерцании и изоляции является самоцелью.</li>
+    <li>story(uses=1,tag=meme_Anonymity)    ->Анонимность — щит от тирании большинства.</li>
+
+    <li>lessonIntro(tag=meme_Anonymity)         ->Позвольте мне записать эти слова на бумаге, поскольку передача их голосом отвратительна:</li>
+    <li>lesson(tag=meme_Anonymity)              ->вы не цените свою анонимность до того момента, когда её у вас больше нет</li>
+    <li>lessonReinforcement(tag=meme_Anonymity) ->Желание быть неизвестным, не зависящим от того, что о вас знают другие. Это и есть свобода.</li>
+
+    <li>archistBasis(tag=meme_Anonymity)    ->Архотеки неизвестны и непознаваемы, они отгородились окончательной маской: трансцендентностью.</li>
+    <li>archistFact(tag=meme_Anonymity)     ->Архотеки спрашивают: «В чём цель цивилизации, если не получение величайшего дара - анонимности?»</li>
+    <li>archistProphecy(tag=meme_Anonymity) ->[inTheEnd], только тем, кто проводит свою жизнь анонимно, будет позволено выйти за пределы.</li>
+
+    <li>animistBasis(tag=meme_Anonymity)    ->Духов не заботят наши бессмысленные личности, они предпочли бы, чтобы мы оставались неизвестными.</li>
+    <li>animistFact(tag=meme_Anonymity)     ->Они показывают нам, что уединенная жизнь в созерцании и изоляции является самоцелью.</li>
+    <li>animistProphecy(tag=meme_Anonymity) ->[itIsSaid] только те, кто проводит свою жизнь в уединении и тишине, могут по-настоящему общаться с духами.</li>
+
+    <li>serketistProphecy(tag=meme_Anonymity)->[itIsSaid] мы скроемся в анонимности, как мириады муравьев, часть целого, но по одиночке незаметные.</li>
+
+    <li>chthonianProphecy(tag=meme_Anonymity)->Безумием будет повышать свой голос вопреки этим сущностям, и поэтому мы будем молчать в одиночестве, чтобы не привлекать их нежелательного внимания.</li>
+
+    <li>esotericismProphecy(tag=meme_Anonymity)->Такое оккультное знание можно открыть только путем тщательной медитации. И, возможно, мы обнаружим, что уединенная жизнь в созерцании и изоляции является самоцелью.</li>
+
+    <li>eschatologismFact(tag=meme_Anonymity)->Мир будет гореть, и мы будем безликими и анонимными виновниками его крушения.</li>
+
+    <li>introMemo(tag=meme_Anonymity)->В последнее время было несколько случаев, когда сотрудники использовали "Ответить всем" в электронной переписке. Позвольте мне напомнить вам, что в этом нет необходимости, и что это приводит к путанице.</li>
+
+    <li>alienistProphecy(tag=meme_Anonymity)->Животным нет дела до человека. Мы можем быть самими собой с ними, поскольку они не так склонны иметь мнение, как люди.</li>
+
+	<li>deity0_speak(deity0_gender==None)->разговаривало</li>
+    <li>deity0_speak(deity0_gender==Male)->разговаривал</li>
+    <li>deity0_speak(deity0_gender==Female)->разговаривала</li>
+	<li>deity0_silence(deity0_gender==None)->соблюдало</li>
+    <li>deity0_silence(deity0_gender==Male)->соблюдал</li>
+    <li>deity0_silence(deity0_gender==Female)->соблюдала</li>
+	<li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дал</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+
+    <li>foe_evil(foeLeader_gender==Male)->злобный</li>
+    <li>foe_evil(foeLeader_gender==Female)->злобная</li>
+    <li>foe_wanted1(foeLeader_gender==Male)->хотел</li>
+    <li>foe_wanted1(foeLeader_gender==Female)->хотела</li>
+    <li>foe_wanted2(foeLeader_gender==Male)->пожелал</li>
+    <li>foe_wanted2(foeLeader_gender==Female)->пожелала</li>
+    <li>founder_want(founder_gender==Male)->пожелал</li>
+    <li>founder_want(founder_gender==Female)->пожелала</li>
+	<li>founder_wanted(founder_gender==Male)->хотел</li>
+    <li>founder_wanted(founder_gender==Female)->хотела</li>
+
+	<li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+	<li>founder_exist(founder_gender==Male)->существовал</li>
+    <li>founder_exist(founder_gender==Female)->существовала</li>
+  </VME_Anonymity.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Anonymity -->
+  <VME_Anonymity.symbolPacks.0.ideoName>Анонимность</VME_Anonymity.symbolPacks.0.ideoName>
+  <!-- EN: anonymity -->
+  <VME_Anonymity.symbolPacks.0.theme>анонимности</VME_Anonymity.symbolPacks.0.theme>
+  <!-- EN: anonymous -->
+  <VME_Anonymity.symbolPacks.0.adjective>анонимный</VME_Anonymity.symbolPacks.0.adjective>
+  <!-- EN: anon -->
+  <VME_Anonymity.symbolPacks.0.member>анон</VME_Anonymity.symbolPacks.0.member>
 
 
   <!-- 29 -->
