@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
+  <!-- 1 -->
   <VME_ViolentConversion.label>violent conversion</VME_ViolentConversion.label>
   <VME_ViolentConversion.description>Infidels can choose to adopt our beliefs, or die.</VME_ViolentConversion.description>
   <VME_ViolentConversion.generalRules.rulesStrings.0>memeAdjective-&gt;forced</VME_ViolentConversion.generalRules.rulesStrings.0>
@@ -34,7 +34,7 @@
   <VME_ViolentConversion.symbolPacks.0.adjective>strict</VME_ViolentConversion.symbolPacks.0.adjective>
   <VME_ViolentConversion.symbolPacks.1.adjective>crusading</VME_ViolentConversion.symbolPacks.1.adjective>
   <VME_ViolentConversion.symbolPacks.2.adjective>inquisitorial</VME_ViolentConversion.symbolPacks.2.adjective>
-
+  <!-- 2 -->
   <VME_Astrology.label>astrology</VME_Astrology.label>
   <VME_Astrology.description>A careful examination of the stars will unlock mystical powers far beyond our wildest imagination.</VME_Astrology.description>
   <VME_Astrology.generalRules.rulesStrings.0>memeAdjective-&gt;astrological</VME_Astrology.generalRules.rulesStrings.0>
@@ -68,7 +68,7 @@
   <VME_Astrology.symbolPacks.0.adjective>astrological</VME_Astrology.symbolPacks.0.adjective>
   <VME_Astrology.symbolPacks.1.adjective>tarot reading</VME_Astrology.symbolPacks.1.adjective>
   <VME_Astrology.symbolPacks.2.adjective>divinatorial</VME_Astrology.symbolPacks.2.adjective>
-
+  <!-- 3 -->
   <VME_GodEmperor.label>god emperor</VME_GodEmperor.label>
   <VME_GodEmperor.description>Our leader must be worshipped as a living God, a physical manifestation of our ideals and precepts.</VME_GodEmperor.description>
   <VME_GodEmperor.generalRules.rulesStrings.0>memeAdjective-&gt;absolute</VME_GodEmperor.generalRules.rulesStrings.0>
@@ -99,7 +99,7 @@
   <VME_GodEmperor.descriptionMaker.rules.rulesStrings.18>introMemo(tag=meme_GodEmperor)-&gt;Now, I know there have been rummors of the CEO of the Company being a God. Yes, a God Emperor, in fact. But that doesn't mean anything unless each and any of you acts PROACTIVELY. We need to leverage our assets!</VME_GodEmperor.descriptionMaker.rules.rulesStrings.18>
   <VME_GodEmperor.descriptionMaker.rules.rulesStrings.19>alienistProphecy(tag=meme_GodEmperor)-&gt;All these wondrous animals will be a great trophy for our beloved God Emperor.</VME_GodEmperor.descriptionMaker.rules.rulesStrings.19>
   <VME_GodEmperor.symbolPacks.0.adjective>divine</VME_GodEmperor.symbolPacks.0.adjective>
-
+  <!-- 4 -->
   <VME_HardcoreIndustrialism.label>industrialism</VME_HardcoreIndustrialism.label>
   <VME_HardcoreIndustrialism.description>Work gives a man dignity. Only through hard work and being productive can a person really grow.</VME_HardcoreIndustrialism.description>
   <VME_HardcoreIndustrialism.generalRules.rulesStrings.0>memeAdjective-&gt;high-yielding</VME_HardcoreIndustrialism.generalRules.rulesStrings.0>
@@ -131,7 +131,7 @@
   <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings.18>introMemo(tag=meme_HardcoreIndustrialis)-&gt;It has come to my attention that our production quotas have fallen 4.56% compared to last quarter. This is unnaceptable, and I trust that you will labour harder than ever to increase our throughput to desireable levels.</VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings.18>
   <VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings.19>alienistProphecy(tag=meme_HardcoreIndustrialis)-&gt;All these wondrous creatures show us what the ingenuity of humanity can do through hard work and careful experimentation.</VME_HardcoreIndustrialism.descriptionMaker.rules.rulesStrings.19>
   <VME_HardcoreIndustrialism.symbolPacks.0.adjective>productive</VME_HardcoreIndustrialism.symbolPacks.0.adjective>
-
+  <!-- 5 -->
   <VME_Gestalt.label>gestalt</VME_Gestalt.label>
   <VME_Gestalt.description>There shouldn't even be such a thing as individualism. By acting in perfect synchrony, our society will be more than the sum of its parts.</VME_Gestalt.description>
   <VME_Gestalt.generalRules.rulesStrings.0>memeAdjective-&gt;unified</VME_Gestalt.generalRules.rulesStrings.0>
@@ -166,7 +166,7 @@
   <VME_Gestalt.descriptionMaker.rules.rulesStrings.19>introMemo(tag=meme_Gestalt)-&gt;There have been some unsavoury rumours about an "employee appreciation" award. Let me remind you that in this Company we all act as One. We strive for a harmony of purpose and thought; no indecision, no doubts; the security and strength of a unified will. This is what our clients want, this is what out clients DESERVE.</VME_Gestalt.descriptionMaker.rules.rulesStrings.19>
   <VME_Gestalt.descriptionMaker.rules.rulesStrings.20>alienistProphecy(tag=meme_Gestalt)-&gt;If we have to judge whether all these genetically modified creations are good or bad, we will need to do it together.</VME_Gestalt.descriptionMaker.rules.rulesStrings.20>
   <VME_Gestalt.symbolPacks.0.adjective>gestalt</VME_Gestalt.symbolPacks.0.adjective>
-
+  <!-- 6 -->
   <VME_Fleshcrafters.label>fleshcrafting</VME_Fleshcrafters.label>
   <VME_Fleshcrafters.description>Technology should be shunned, unless it serves the flesh. Only through extreme biological experimentation may we unlock our hidden potential.</VME_Fleshcrafters.description>
   <VME_Fleshcrafters.generalRules.rulesStrings.0>memeAdjective-&gt;biotechnological</VME_Fleshcrafters.generalRules.rulesStrings.0>
@@ -212,7 +212,7 @@
   <VME_Fleshcrafters.symbolPacks.0.adjective>biotechnologistic</VME_Fleshcrafters.symbolPacks.0.adjective>
   <VME_Fleshcrafters.symbolPacks.1.adjective>fleshcrafter</VME_Fleshcrafters.symbolPacks.1.adjective>
   <VME_Fleshcrafters.symbolPacks.2.adjective>shaping</VME_Fleshcrafters.symbolPacks.2.adjective>
-
+  <!-- 7 -->
   <VME_HolyDiseases.label>holy diseases</VME_HolyDiseases.label>
   <VME_HolyDiseases.description>To be touched by pestilence is a boon to be coveted. As diseases spread, so too shall our influence.</VME_HolyDiseases.description>
   <VME_HolyDiseases.generalRules.rulesStrings.0>memeAdjective-&gt;diseased</VME_HolyDiseases.generalRules.rulesStrings.0>
@@ -252,7 +252,7 @@
   <VME_HolyDiseases.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_HolyDiseases)-&gt;All these wayward creations of humanity provide us with an infinite reservoir of holy diseases, a cornucopia of plagues.</VME_HolyDiseases.descriptionMaker.rules.rulesStrings.22>
   <VME_HolyDiseases.symbolPacks.0.adjective>plaguebringer</VME_HolyDiseases.symbolPacks.0.adjective>
   <VME_HolyDiseases.symbolPacks.1.adjective>diseased</VME_HolyDiseases.symbolPacks.1.adjective>
-
+  <!-- 8 -->
   <VME_CraftCulture.label>craft culture</VME_CraftCulture.label>
   <VME_CraftCulture.description>One should aspire to feel the ache in their fingers after a long day of craft. A talented blacksmith or tailor is to be dignified.</VME_CraftCulture.description>
   <VME_CraftCulture.generalRules.rulesStrings.0>memeAdjective-&gt;artificing</VME_CraftCulture.generalRules.rulesStrings.0>
@@ -289,7 +289,7 @@
   <VME_CraftCulture.symbolPacks.1.adjective>making</VME_CraftCulture.symbolPacks.1.adjective>
   <VME_CraftCulture.symbolPacks.2.adjective>artificial</VME_CraftCulture.symbolPacks.2.adjective>
   <VME_CraftCulture.symbolPacks.3.adjective>tinkering</VME_CraftCulture.symbolPacks.3.adjective>
-
+  <!-- 9 -->
   <VME_Progressive.label>progressive</VME_Progressive.label>
   <VME_Progressive.description>Machines, factories, drones, a goal to any successful community should be optimizing these devices and shunning the idea of sentient beings performing tasks normally meant for them.</VME_Progressive.description>
   <VME_Progressive.generalRules.rulesStrings.0>memeAdjective-&gt;automated</VME_Progressive.generalRules.rulesStrings.0>
@@ -319,7 +319,7 @@
   <VME_Progressive.descriptionMaker.rules.rulesStrings.19>introMemo(tag=meme_Progressive)-&gt;We have received complaints from Steve in tech support concerning the reluctance of some of you to adopt the new process automation policies. Some people were overhead saying "I spent 30 hours automating a process that I could do in half an hour by hand!". This is SO SHORTSIGHTED!</VME_Progressive.descriptionMaker.rules.rulesStrings.19>
   <VME_Progressive.descriptionMaker.rules.rulesStrings.20>alienistProphecy(tag=meme_Progressive)-&gt;All these wayward creations of humanity shows us what humanity can achieve through automated technology, wondrous genetic laboratories sampling the genome at breakneck speeds.</VME_Progressive.descriptionMaker.rules.rulesStrings.20>
   <VME_Progressive.symbolPacks.0.adjective>automatic</VME_Progressive.symbolPacks.0.adjective>
-
+  <!-- 10 -->
   <VME_Aristocratic.label>aristocratic</VME_Aristocratic.label>
   <VME_Aristocratic.description>Kings and Queens are the true path to prosperity, the mind of the common man is unfit for leadership.</VME_Aristocratic.description>
   <VME_Aristocratic.generalRules.rulesStrings.0>memeAdjective-&gt;kingly</VME_Aristocratic.generalRules.rulesStrings.0>
@@ -356,7 +356,7 @@
   <VME_Aristocratic.descriptionMaker.rules.rulesStrings.20>alienistProphecy(tag=tag=meme_Aristocratic)-&gt;We will create wondrous royal menageries with all of these creatures, a veritable display of our power and might.</VME_Aristocratic.descriptionMaker.rules.rulesStrings.20>
   <VME_Aristocratic.symbolPacks.0.adjective>noble</VME_Aristocratic.symbolPacks.0.adjective>
   <VME_Aristocratic.symbolPacks.1.adjective>aristocratic</VME_Aristocratic.symbolPacks.1.adjective>
-
+  <!-- 11 -->
   <VME_Republic.label>republic</VME_Republic.label>
   <VME_Republic.description>Power must be balanced between a select few, lest any settlement or empire fall to inevitable corruption.</VME_Republic.description>
   <VME_Republic.generalRules.rulesStrings.0>memeAdjective-&gt;republican</VME_Republic.generalRules.rulesStrings.0>
@@ -388,7 +388,7 @@
   <VME_Republic.descriptionMaker.rules.rulesStrings.20>alienistProphecy(tag=meme_Republic)-&gt;Our three triumvir will decide the fate of all these wayward human creations, for we trust their wisdom in such matters.</VME_Republic.descriptionMaker.rules.rulesStrings.20>
   <VME_Republic.symbolPacks.0.adjective>republican</VME_Republic.symbolPacks.0.adjective>
   <VME_Republic.symbolPacks.1.adjective>triumviral</VME_Republic.symbolPacks.1.adjective>
-
+  <!-- 12 -->
   <VME_ExaltedPriesthood.label>exalted priesthood</VME_ExaltedPriesthood.label>
   <VME_ExaltedPriesthood.description>Our leader must also be our prophet, and it’s important that we heed their advice.</VME_ExaltedPriesthood.description>
   <VME_ExaltedPriesthood.generalRules.rulesStrings.0>memeAdjective-&gt;exalted</VME_ExaltedPriesthood.generalRules.rulesStrings.0>
@@ -422,7 +422,7 @@
   <VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings.20>alienistProphecy(tag=meme_ExaltedPriesthood)-&gt;Our dear leader, the highest among our priests, will decide the fate of all these wayward human creations, for we trust his wisdom in such matters.</VME_ExaltedPriesthood.descriptionMaker.rules.rulesStrings.20>
   <VME_ExaltedPriesthood.symbolPacks.0.adjective>papal</VME_ExaltedPriesthood.symbolPacks.0.adjective>
   <VME_ExaltedPriesthood.symbolPacks.1.adjective>theocratic</VME_ExaltedPriesthood.symbolPacks.1.adjective>
-
+  <!-- 13 -->
   <VME_Scrapper.label>scrapper</VME_Scrapper.label>
   <VME_Scrapper.description>Nothing should ever be wasted, not even bloodied or torn clothes. Discarded remains of old civilizations should be kept as treasures and reminders.</VME_Scrapper.description>
   <VME_Scrapper.generalRules.rulesStrings.0>memeAdjective-&gt;scrapping</VME_Scrapper.generalRules.rulesStrings.0>
@@ -462,7 +462,7 @@
   <VME_Scrapper.symbolPacks.0.adjective>scavenging</VME_Scrapper.symbolPacks.0.adjective>
   <VME_Scrapper.symbolPacks.1.adjective>scrapper</VME_Scrapper.symbolPacks.1.adjective>
   <VME_Scrapper.symbolPacks.2.adjective>scrounging</VME_Scrapper.symbolPacks.2.adjective>
-
+  <!-- 14 -->
   <VME_Trader.label>trader</VME_Trader.label>
   <VME_Trader.description>With wealth comes power, going too long without profit means going too long without securing one’s position of power.</VME_Trader.description>
   <VME_Trader.generalRules.rulesStrings.0>memeAdjective-&gt;trading</VME_Trader.generalRules.rulesStrings.0>
@@ -500,7 +500,7 @@
   <VME_Trader.symbolPacks.0.adjective>trading</VME_Trader.symbolPacks.0.adjective>
   <VME_Trader.symbolPacks.1.adjective>economic</VME_Trader.symbolPacks.1.adjective>
   <VME_Trader.symbolPacks.2.adjective>wealthy</VME_Trader.symbolPacks.2.adjective>
-
+  <!-- 15 -->
   <VME_Elders.label>elders</VME_Elders.label>
   <VME_Elders.description>Age and wisdom often come in tandem, our wise and elderly should be respected on that premise alone and should not be expected to toil.</VME_Elders.description>
   <VME_Elders.generalRules.rulesStrings.0>memeAdjective-&gt;elderly</VME_Elders.generalRules.rulesStrings.0>
@@ -535,7 +535,7 @@
   <VME_Elders.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Elders)-&gt;Hear me out on this: it is time to retire retirement. Retirement only causes a severe shortage of talented workers, people who have been bringing expertise and wisdom to our company for decades. Why are we just letting them go? It's absurd!</VME_Elders.descriptionMaker.rules.rulesStrings.21>
   <VME_Elders.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Elders)-&gt;These wayward creations, born of human creativity, hold a treasure trove of ancient wisdom, a window to the forgotten techniques of our ancestors.</VME_Elders.descriptionMaker.rules.rulesStrings.22>
   <VME_Elders.symbolPacks.0.adjective>elderly</VME_Elders.symbolPacks.0.adjective>
-
+  <!-- 16 -->
   <VME_Vegan.label>vegan</VME_Vegan.label>
   <VME_Vegan.description>Eating meat is barbaric and uncouth, better eaten are the fruits of hard labor and ever-giving soil.</VME_Vegan.description>
   <VME_Vegan.generalRules.rulesStrings.0>memeAdjective-&gt;vegan</VME_Vegan.generalRules.rulesStrings.0>
@@ -570,7 +570,7 @@
   <VME_Vegan.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Vegan)-&gt;These wayward creatures are poor, innocent beings. It would be a grave mistake to mistreat them in any way.</VME_Vegan.descriptionMaker.rules.rulesStrings.22>
   <VME_Vegan.symbolPacks.0.adjective>vegan</VME_Vegan.symbolPacks.0.adjective>
   <VME_Vegan.symbolPacks.1.adjective>vegetarian</VME_Vegan.symbolPacks.1.adjective>
-
+  <!-- 17 -->
   <VME_Egalitarian.label>egalitarian</VME_Egalitarian.label>
   <VME_Egalitarian.description>Bigotry is absolutely to never be tolerated, helping those in need and respecting their beliefs are rewards in and of themselves.</VME_Egalitarian.description>
   <VME_Egalitarian.generalRules.rulesStrings.0>memeAdjective-&gt;egalitarian</VME_Egalitarian.generalRules.rulesStrings.0>
@@ -605,7 +605,7 @@
   <VME_Egalitarian.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Egalitarian)-&gt;This coming week we are instating the new multifaith policies to ensure all our employees are free to express their own beliefs in peace. The Human Resources department will handle reservations and timetables for the scheduled multifaith masses.</VME_Egalitarian.descriptionMaker.rules.rulesStrings.21>
   <VME_Egalitarian.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Egalitarian)-&gt;These wayward creatures are a point of contention among many people. Are they to be protected, or destroyed? We'd do well to listen to all points of view before deciding.</VME_Egalitarian.descriptionMaker.rules.rulesStrings.22>
   <VME_Egalitarian.symbolPacks.0.adjective>egalitarian</VME_Egalitarian.symbolPacks.0.adjective>
-
+  <!-- 18 -->
   <VME_Pacifist.label>pacifist</VME_Pacifist.label>
   <VME_Pacifist.description>While defending oneself is acceptable, we have come too far and evolved too much to ever endorse the premise of warfare or slavery. Even tantrums should only manifest in forms that do not harm others or property.</VME_Pacifist.description>
   <VME_Pacifist.generalRules.rulesStrings.0>memeAdjective-&gt;pacifist</VME_Pacifist.generalRules.rulesStrings.0>
@@ -637,7 +637,7 @@
   <VME_Pacifist.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Pacifist)-&gt;We are writing to inform you that the two employees (who shall remain unnamed per the company's privacy clauses) who caused a violent altercation yesterday have had their contracts terminated, and are no longer part of our staff. Such violence in the workplace is abhorrent and we will NOT let it go unpunished.</VME_Pacifist.descriptionMaker.rules.rulesStrings.21>
   <VME_Pacifist.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Pacifist)-&gt;These wayward creatures are innocent beings. We are not killers, and perhaps we'd better leave them alone.</VME_Pacifist.descriptionMaker.rules.rulesStrings.22>
   <VME_Pacifist.symbolPacks.0.adjective>pacifist</VME_Pacifist.symbolPacks.0.adjective>
-
+  <!-- 19 -->
   <VME_FireWorship.label>fire worship</VME_FireWorship.label>
   <VME_FireWorship.description>Holy flame breathes life into this planet and many others like it, may it guide us to salvation and may it reduce our enemies to ash.</VME_FireWorship.description>
   <VME_FireWorship.generalRules.rulesStrings.0>memeAdjective-&gt;burning</VME_FireWorship.generalRules.rulesStrings.0>
@@ -674,7 +674,7 @@
   <VME_FireWorship.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_FireWorship)-&gt;Let me remind you all that this week's fire evacuation drill has been scheduled one hour earlier than usual. We take safety measures very seriously here: fire may be sacred, but a burned employee harms profits.</VME_FireWorship.descriptionMaker.rules.rulesStrings.21>
   <VME_FireWorship.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_FireWorship)-&gt;All these wayward creatures, forgotten creations of humanity, will serve as kindling for the flames.</VME_FireWorship.descriptionMaker.rules.rulesStrings.22>
   <VME_FireWorship.symbolPacks.0.adjective>fire worshipping</VME_FireWorship.symbolPacks.0.adjective>
-
+  <!-- 20 -->
   <VME_Bushido.label>bushido</VME_Bushido.label>
   <VME_Bushido.description>A warrior's code of honor means striking down one’s foes unto death itself. Should one’s spirit falter and cowardice prevail, forgiveness can only be found in the afterlife.</VME_Bushido.description>
   <VME_Bushido.generalRules.rulesStrings.0>memeAdjective-&gt;honourable</VME_Bushido.generalRules.rulesStrings.0>
@@ -707,7 +707,7 @@
   <VME_Bushido.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Bushido)-&gt;Remember our motto! "Only a life lived with honour, courage and skill is worth living". We encourage printing this on stickers to decorate your offices.</VME_Bushido.descriptionMaker.rules.rulesStrings.21>
   <VME_Bushido.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Bushido)-&gt;These wayward creatures, forgotten and discarded creations of humanity's hubris, remind us that only a life lived with honour, courage and skill is worth living.</VME_Bushido.descriptionMaker.rules.rulesStrings.22>
   <VME_Bushido.symbolPacks.0.adjective>bushido</VME_Bushido.symbolPacks.0.adjective>
-
+  <!-- 21 -->
   <VME_Light.label>light</VME_Light.label>
   <VME_Light.description>Darkness obscures one’s vision as well as one’s mind, darklight is a wicked occurrence and is not to be condoned.</VME_Light.description>
   <VME_Light.generalRules.rulesStrings.0>memeAdjective-&gt;light</VME_Light.generalRules.rulesStrings.0>
@@ -743,7 +743,7 @@
   <VME_Light.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Light)-&gt;As scheduled, the new blue-coloured neon light fixtures will be installed on all our offices beginning next Tuesday. These are energy-efficient lights, so good for the environment!</VME_Light.descriptionMaker.rules.rulesStrings.21>
   <VME_Light.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Light)-&gt;These wayward creatures have veered too far from the light, and wander into darkness.</VME_Light.descriptionMaker.rules.rulesStrings.22>
   <VME_Light.symbolPacks.0.adjective>light</VME_Light.symbolPacks.0.adjective>
-
+  <!-- 22 -->
   <VME_Nomad.label>nomad</VME_Nomad.label>
   <VME_Nomad.description>Stagnation is death and as with all things in this world, homes are only temporary. Traveling this world and walking roads unwalked always leads to greater things.</VME_Nomad.description>
   <VME_Nomad.generalRules.rulesStrings.0>memeAdjective-&gt;nomad</VME_Nomad.generalRules.rulesStrings.0>
@@ -779,7 +779,7 @@
   <VME_Nomad.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Nomad)-&gt;In the interest of dedication, flexibility, and resolve, we have decided to implement a new policy of "mobile offices" that will greatly increase our productivity. Thank you for trusting in our ability to find new ways to continue to provide the best goods and services for our customers, all the while caring for our employees.</VME_Nomad.descriptionMaker.rules.rulesStrings.21>
   <VME_Nomad.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Nomad)-&gt;These wayward creatures can be our companions on the road, forever looking for a place where they can fit in.</VME_Nomad.descriptionMaker.rules.rulesStrings.22>
   <VME_Nomad.symbolPacks.0.adjective>nomadic</VME_Nomad.symbolPacks.0.adjective>
-
+  <!-- 23 -->
   <VME_BloodCourt.label>blood court</VME_BloodCourt.label>
   <VME_BloodCourt.description>Our leader should be a talented melee fighter and brutal warrior, only usurped by one greater. Bloodshed, corpses, scars are a part of life and a show of strength on this planet.</VME_BloodCourt.description>
   <VME_BloodCourt.generalRules.rulesStrings.0>memeAdjective-&gt;bloody</VME_BloodCourt.generalRules.rulesStrings.0>
@@ -812,7 +812,7 @@
   <VME_BloodCourt.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_BloodCourt)-&gt;Are you interested in a promotion? I'm glad to inform you all that from now on we are scheduling company-approved gladiator fights around the coffee machine. Tired of your boss? Prove it!</VME_BloodCourt.descriptionMaker.rules.rulesStrings.21>
   <VME_BloodCourt.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_BloodCourt)-&gt;These wayward creatures can show us what strength looks like, and by overpowering them we might prove to ourselves that we are deserving of it.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.22>
   <VME_BloodCourt.symbolPacks.0.adjective>violent</VME_BloodCourt.symbolPacks.0.adjective>
-
+  <!-- 24 -->
   <VME_CityBuilders.label>city builders</VME_CityBuilders.label>
   <VME_CityBuilders.description>Our home should feature all the accommodations of a great city, homes, workshops, and places of leisure should all be present and accessible by all.</VME_CityBuilders.description>
   <VME_CityBuilders.generalRules.rulesStrings.0>memeAdjective-&gt;building</VME_CityBuilders.generalRules.rulesStrings.0>
@@ -845,88 +845,324 @@
   <VME_CityBuilders.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_CityBuilders)-&gt;These wayward creatures can be useful when building our glorious cities.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.22>
   <VME_CityBuilders.symbolPacks.0.adjective>builder</VME_CityBuilders.symbolPacks.0.adjective>
 
-  <VME_MechanoidSupremacy.label>mechanoid supremacy</VME_MechanoidSupremacy.label>
-  <VME_MechanoidSupremacy.description>Never tire, never wither, never need for sustenance. Mechanoids are humanity perfected and should be revered as our superiors.</VME_MechanoidSupremacy.description>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.0>memeAdjective-&gt;mechanoid</VME_MechanoidSupremacy.generalRules.rulesStrings.0>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.1>memeAdjective-&gt;machine</VME_MechanoidSupremacy.generalRules.rulesStrings.1>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.2>memeAdjective-&gt;cybernetic</VME_MechanoidSupremacy.generalRules.rulesStrings.2>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.3>memeCreed-&gt;perfection</VME_MechanoidSupremacy.generalRules.rulesStrings.3>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.4>memeCreed-&gt;mechanoids</VME_MechanoidSupremacy.generalRules.rulesStrings.4>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;techno</VME_MechanoidSupremacy.generalRules.rulesStrings.5>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.6>memeHyphenPrefix-&gt;cyber</VME_MechanoidSupremacy.generalRules.rulesStrings.6>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.7>memeHyphenPrefix-&gt;mecha</VME_MechanoidSupremacy.generalRules.rulesStrings.7>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.8>memeConcept-&gt;technology</VME_MechanoidSupremacy.generalRules.rulesStrings.8>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.9>memeConcept-&gt;silicon</VME_MechanoidSupremacy.generalRules.rulesStrings.9>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.10>memeConcept-&gt;mechanoids</VME_MechanoidSupremacy.generalRules.rulesStrings.10>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.11>memeLeaderNoun-&gt;cyborg</VME_MechanoidSupremacy.generalRules.rulesStrings.11>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.12>memeLeaderAdjective-&gt;techno</VME_MechanoidSupremacy.generalRules.rulesStrings.12>
-  <VME_MechanoidSupremacy.generalRules.rulesStrings.13>memeLeaderAdjective-&gt;mecha</VME_MechanoidSupremacy.generalRules.rulesStrings.13>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_MechanoidSupremacy)        -&gt;[deity0_name] spoke to [deity0_possessive] followers: "Mechanoids were created in my image. Their form is sacred, and you must aspire to become more like them."</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.0>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_MechanoidSupremacy)  -&gt;Following the teachings of [deity0_name], we built countless mechanoid statues with their divine forms.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.1>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_MechanoidSupremacy)           -&gt;On the [place_summary] [place_name], the [memberNamePlural] built a gigantic statue of a biped mechanoid, its surface covered in a myriad vicious scythes, said to resemble the divine image of [deity0_name].</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.2>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_MechanoidSupremacy)        -&gt;An apostate [foeLeader] saw the image as blasphemous, as [foeLeader_pronoun] venerated a false deity [foeLeader_objective]self, and sought to topple the statue and imprison [deity0_name]'s followers.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.3>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_MechanoidSupremacy)     -&gt;[founderName], Great Mechanopriest of [deity0_name], prayed to [deity0_objective] to fight against the fearsome enemy, and [deity0_name] summoned from the skies the vessels of a mechanoid hive.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.4>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_MechanoidSupremacy)         -&gt;The mechanoids slaughtered the [foeLeader] and [foeLeader_possessive] soldiers, forever cemmenting the power of [deity0_name].</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.5>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_MechanoidSupremacy)           -&gt;[founderName] spent most of [founder_possessive] life studying mechanoids. [founder_pronoun] came to believe that mechanoids were humanity perfected, the next stage of evolution.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.6>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_MechanoidSupremacy)    -&gt;Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.7>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_MechanoidSupremacy)         -&gt;My experiments with mechanoids were extensive and thorough. After many years of toiling I came to the conclusion that</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.8>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_MechanoidSupremacy)              -&gt;mechanoids are humanity perfected, the next stage of evolution</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.9>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_MechanoidSupremacy) -&gt;Mechanoids never tire, never wither, never need for sustenance. They are simply superior to us organic beings in all respects.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.10>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_MechanoidSupremacy)    -&gt;Archotechs build innumerable mechanoids in their own image. Wondrous machines that are far beyond our capabilities.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.11>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_MechanoidSupremacy)     -&gt;The mechanoids that are created by archotechs are perfect machines, never tiring, never withering, never needing for sustenance.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.12>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_MechanoidSupremacy) -&gt;[inTheEnd], only by studying and revering the mechanoids can we hope to get closer to the archotechs, and perhaps participate in transcendence.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.13>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_MechanoidSupremacy)    -&gt;Mechanoids are animated by the most powerful spirits of all. The ravening spirits of machines that hate all life.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.14>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_MechanoidSupremacy)     -&gt;Only by appeasing the machine spirits can we hope to evade their ire, for they are blind to the material world.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.15>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_MechanoidSupremacy) -&gt;[itIsSaid] only those who venerate and revere the mechanoids can truly commune with the spirits.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.16>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_MechanoidSupremacy)-&gt;[itIsSaid] we will create the perfect being, a mechanoid insect infused with archotech technology that will bring a new era of prosperity.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.17>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_MechanoidSupremacy)-&gt;We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful machines can we hope to stand a chance against them.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.18>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_MechanoidSupremacy)-&gt;Such occult knowledge will be hard to find. We will study the bodies of the mechanoids, for they are perfect beings and the key to unlocking the secrets of the Cosmos.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.19>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_MechanoidSupremacy)-&gt;We will emulate the rage and ferocity of the mechanoids, perfect beings who are hell-bent on eradicating humanity.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.20>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_MechanoidSupremacy)-&gt;Starting next quarter, we will provide a helpful mechanoid companion to each of our employees. They will come pre-configured with a brand new productivity suite that I think most of you will find super useful to increase your proactivity and ROI.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.21>
-  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_MechanoidSupremacy)-&gt;These wayward creatures are faulty, mere biological machines that pale in comparison to any mechanoid, but they are a step in the right direction.</VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings.22>
-  <VME_MechanoidSupremacy.symbolPacks.0.adjective>mechanoid</VME_MechanoidSupremacy.symbolPacks.0.adjective>
 
-  <VME_InsectoidSupremacy.label>insectoid supremacy</VME_InsectoidSupremacy.label>
-  <VME_InsectoidSupremacy.description>The labyrinthine tunnels of the underdark ungulate with a seemingly limitless hive of relentless and brutal insects, we should not fear them, we should revere them.</VME_InsectoidSupremacy.description>
-  <VME_InsectoidSupremacy.generalRules.rulesStrings.0>memeAdjective-&gt;insectoid</VME_InsectoidSupremacy.generalRules.rulesStrings.0>
-  <VME_InsectoidSupremacy.generalRules.rulesStrings.1>memeAdjective-&gt;chitinous</VME_InsectoidSupremacy.generalRules.rulesStrings.1>
-  <VME_InsectoidSupremacy.generalRules.rulesStrings.2>memeAdjective-&gt;insectile</VME_InsectoidSupremacy.generalRules.rulesStrings.2>
-  <VME_InsectoidSupremacy.generalRules.rulesStrings.3>memeCreed-&gt;perfection</VME_InsectoidSupremacy.generalRules.rulesStrings.3>
-  <VME_InsectoidSupremacy.generalRules.rulesStrings.4>memeCreed-&gt;insectoids</VME_InsectoidSupremacy.generalRules.rulesStrings.4>
-  <VME_InsectoidSupremacy.generalRules.rulesStrings.5>memeHyphenPrefix-&gt;bug</VME_InsectoidSupremacy.generalRules.rulesStrings.5>
-  <VME_InsectoidSupremacy.generalRules.rulesStrings.6>memeHyphenPrefix-&gt;fly</VME_InsectoidSupremacy.generalRules.rulesStrings.6>
-  <VME_InsectoidSupremacy.generalRules.rulesStrings.7>memeConcept-&gt;insects</VME_InsectoidSupremacy.generalRules.rulesStrings.7>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_InsectoidSupremacy)        -&gt;[deity0_name] visage is otherworldly: a moving mass of chitin-covered flesh, thousands of small insects constantly darting in and out of its armoured plates."</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.0>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_InsectoidSupremacy)  -&gt;[deity0_name] commanded [deity0_possessive] followers: "respect and revere the insectoids, for they are my children and they were created in my own image".</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.1>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_InsectoidSupremacy)           -&gt;On the [place_summary] [place_name], the [memberNamePlural] built a great human hive, a testament to the glory of [deity0_name].</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.2>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_InsectoidSupremacy)        -&gt;An evil [foeLeader] despised [foeLeader_possessive] neighbours, and wanted to return to the ancient times when men lived apart from each other, isolated.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.3>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_InsectoidSupremacy)     -&gt;[founderName], the Chosen of [deity0_name], heard of the apostasy of the [foeLeader], and sought to convince [foeLeader_objective] of the error of [foeLeader_possessive] isolationist ways.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.4>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_InsectoidSupremacy)         -&gt;[founderName] extorted the virtues of [deity0_name]'s swarm cities, and the [foeLeader] was convinced of the truth behind [founder_possessive] words.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.5>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_InsectoidSupremacy)           -&gt;[founderName] was a biologist in one of the Glitterworlds. [founder_pronoun] spent [founder_possessive] whole youth studying insectoids, and came to the conclusion that they are a perfect lifeform. Adaptive, strong and resilient.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.6>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_InsectoidSupremacy)    -&gt;Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.7>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_InsectoidSupremacy)         -&gt;My experiments with insectoids were extensive and thorough. After many years of toiling I came to the conclusion that</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.8>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_InsectoidSupremacy)              -&gt;insectoids are the perfect lifeform, the next stage of evolution</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.9>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_InsectoidSupremacy) -&gt;Insectoids are adaptive, strong and resilient. They are simply superior to us humans in all respects.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.10>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_InsectoidSupremacy)    -&gt;In their infinite wisdom, the archotechs inspired humans to bio-engineer the perfect lifeform: insectoids.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.11>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_InsectoidSupremacy)     -&gt;Insectoids show us that biological evolution is just another step on the path to transcendence.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.12>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_InsectoidSupremacy) -&gt;[inTheEnd], only those who properly revere the perfect forms of the insectoids will be chosen by the archotechs.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.13>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_InsectoidSupremacy)    -&gt;Among the animal spirits, those who watch over the insectoids are the most powerful.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.14>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_InsectoidSupremacy)     -&gt;Insectoids are perfect creatures. Adaptive, strong and resilient. They are simply superior to us humans in all respects, and the spirits that govern them reign supreme.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.15>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_InsectoidSupremacy) -&gt;[itIsSaid] only those who properly revere the perfect forms of the insectoids can truly appease the spirits.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.16>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_InsectoidSupremacy)-&gt;[itIsSaid] we will become like perfect, holy insects. I, for one, welcome our new insect overlords.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.17>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_InsectoidSupremacy)-&gt;We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful insectoids can we hope to stand a chance against them.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.18>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_InsectoidSupremacy)-&gt;Such occult knowledge can be sought in the mysterious fractal patterns of an insectoid carapace. They are the perfect lifeform, the next stage of evolution.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.19>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_InsectoidSupremacy)-&gt;Like a devouring swarm of ravenous insects we will descend upon our enemies, and leave only their bones, devoid of flesh.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.20>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_InsectoidSupremacy)-&gt;Concerning the constant reports about cockroaches in the cafeteria, need I remind you that cockroaches are living creatures, as worthy of respect as you and I? I will not allow a single more furtive call to a pest control company!</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.21>
-  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_InsectoidSupremacy)-&gt;Among these genetically modified animals lies the insectoid geneline that was developed at Sorne, and that brought us the perfect lifeform.</VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings.22>
-  <VME_InsectoidSupremacy.symbolPacks.0.adjective>insectoid</VME_InsectoidSupremacy.symbolPacks.0.adjective>
 
+
+
+
+
+
+
+  <!-- 25 -->
+
+  <!-- EN: mechanoid supremacy -->
+  <VME_MechanoidSupremacy.label>примат механоидов</VME_MechanoidSupremacy.label>
+  <!-- EN: Never tire, never wither, never need for sustenance. Mechanoids are humanity perfected and should be revered as our superiors. -->
+  <VME_MechanoidSupremacy.description>Никогда не устают, никогда не проявляют слабость, никогда не нуждаются в пропитании. Механоиды — это совершенное человечество, и мы должны почитать их как своих покровителей.</VME_MechanoidSupremacy.description>
+
+  <!-- EN:
+    <li>memeAdjective->mechanoid</li>
+    <li>memeAdjective->machine</li>
+    <li>memeAdjective->cybernetic</li>
+    <li>memeCreed->perfection</li>
+    <li>memeCreed->mechanoids</li>
+    <li>memeHyphenPrefix->techno</li>
+    <li>memeHyphenPrefix->cyber</li>
+    <li>memeHyphenPrefix->mecha</li>
+    <li>memeConcept->technology</li>
+    <li>memeConcept->silicon</li>
+    <li>memeConcept->mechanoids</li>
+    <li>memeLeaderNoun->cyborg</li>
+    <li>memeLeaderAdjective->techno</li>
+    <li>memeLeaderAdjective->mecha</li>
+  -->
+  <VME_MechanoidSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->механоидный</li>
+    <li>memeAdjective->машинный</li>
+    <li>memeAdjective->кибернетический</li>
+    <li>memeCreed->перфекцизм</li>
+    <li>memeCreed->механоидизм</li>
+    <li>memeHyphenPrefix->техно</li>
+    <li>memeHyphenPrefix->кибер</li>
+    <li>memeHyphenPrefix->мехо</li>
+    <li>memeConcept->технологии</li>
+    <li>memeConcept->кремния</li>
+    <li>memeConcept->механоидов</li>
+    <li>memeLeaderNoun->киборг</li>
+    <li>memeLeaderAdjective->техно</li>
+    <li>memeLeaderAdjective->мехо</li>
+  </VME_MechanoidSupremacy.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_MechanoidSupremacy)        ->[deity0_name] spoke to [deity0_possessive] followers: "Mechanoids were created in my image. Their form is sacred, and you must aspire to become more like them."</li>
+    <li>episode(uses=1,tag=meme_MechanoidSupremacy)  ->Following the teachings of [deity0_name], we built countless mechanoid statues with their divine forms.</li>
+
+    <li>intro(tag=meme_MechanoidSupremacy)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic statue of a biped mechanoid, its surface covered in a myriad vicious scythes, said to resemble the divine image of [deity0_name].</li>
+    <li>conflict(tag=meme_MechanoidSupremacy)        ->An apostate [foeLeader] saw the image as blasphemous, as [foeLeader_pronoun] venerated a false deity [foeLeader_objective]self, and sought to topple the statue and imprison [deity0_name]'s followers.</li>
+    <li>founderJoin(tag=meme_MechanoidSupremacy)     ->[founderName], Great Mechanopriest of [deity0_name], prayed to [deity0_objective] to fight against the fearsome enemy, and [deity0_name] summoned from the skies the vessels of a mechanoid hive.</li>
+    <li>victory(tag=meme_MechanoidSupremacy)         ->The mechanoids slaughtered the [foeLeader] and [foeLeader_possessive] soldiers, forever cemmenting the power of [deity0_name].</li>
+
+    <li>setup(tag=meme_MechanoidSupremacy)           ->[founderName] spent most of [founder_possessive] life studying mechanoids. [founder_pronoun] came to believe that mechanoids were humanity perfected, the next stage of evolution.</li>
+    <li>story(uses=1,tag=meme_MechanoidSupremacy)    ->Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</li>
+
+    <li>lessonIntro(tag=meme_MechanoidSupremacy)         ->My experiments with mechanoids were extensive and thorough. After many years of toiling I came to the conclusion that</li>
+    <li>lesson(tag=meme_MechanoidSupremacy)              ->mechanoids are humanity perfected, the next stage of evolution</li>
+    <li>lessonReinforcement(tag=meme_MechanoidSupremacy) ->Mechanoids never tire, never wither, never need for sustenance. They are simply superior to us organic beings in all respects.</li>
+
+    <li>archistBasis(tag=meme_MechanoidSupremacy)    ->Archotechs build innumerable mechanoids in their own image. Wondrous machines that are far beyond our capabilities.</li>
+    <li>archistFact(tag=meme_MechanoidSupremacy)     ->The mechanoids that are created by archotechs are perfect machines, never tiring, never withering, never needing for sustenance.</li>
+    <li>archistProphecy(tag=meme_MechanoidSupremacy) ->[inTheEnd], only by studying and revering the mechanoids can we hope to get closer to the archotechs, and perhaps participate in transcendence.</li>
+
+    <li>animistBasis(tag=meme_MechanoidSupremacy)    ->Mechanoids are animated by the most powerful spirits of all. The ravening spirits of machines that hate all life.</li>
+    <li>animistFact(tag=meme_MechanoidSupremacy)     ->Only by appeasing the machine spirits can we hope to evade their ire, for they are blind to the material world.</li>
+    <li>animistProphecy(tag=meme_MechanoidSupremacy) ->[itIsSaid] only those who venerate and revere the mechanoids can truly commune with the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_MechanoidSupremacy)->[itIsSaid] we will create the perfect being, a mechanoid insect infused with archotech technology that will bring a new era of prosperity.</li>
+
+    <li>chthonianProphecy(tag=meme_MechanoidSupremacy)->We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful machines can we hope to stand a chance against them.</li>
+
+    <li>esotericismProphecy(tag=meme_MechanoidSupremacy)->Such occult knowledge will be hard to find. We will study the bodies of the mechanoids, for they are perfect beings and the key to unlocking the secrets of the Cosmos.</li>
+
+    <li>eschatologismFact(tag=meme_MechanoidSupremacy)->We will emulate the rage and ferocity of the mechanoids, perfect beings who are hell-bent on eradicating humanity.</li>
+
+    <li>introMemo(tag=meme_MechanoidSupremacy)->Starting next quarter, we will provide a helpful mechanoid companion to each of our employees. They will come pre-configured with a brand new productivity suite that I think most of you will find super useful to increase your proactivity and ROI.</li>
+
+    <li>alienistProphecy(tag=meme_MechanoidSupremacy)->These wayward creatures are faulty, mere biological machines that pale in comparison to any mechanoid, but they are a step in the right direction.</li>
+  -->
+  <VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_MechanoidSupremacy)        ->[deity0_name] [deity0_spoke] к своим последователям: «Механоиды были созданы по моему образу и подобию. Их образ священен, и вы должны стремиться стать подобными им».</li>
+    <li>episode(uses=1,tag=meme_MechanoidSupremacy)  ->[deity0_name] [deity0_gave] нам учение, следуя которому мы воздвигли множество статуй по образу божетвенных механоидов.</li>
+
+    <li>intro(tag=meme_MechanoidSupremacy)           ->[place_summary] [place_name] — так звалось месть, где [memberNamePlural] построили гигантскую статую двуногого механоида, поверхность которого была покрыта множеством ужасных кос. Говорят, что [deity0_name] имеет именно такой образ.</li>
+    <li>conflict(tag=meme_MechanoidSupremacy)        ->[foeLeader] [foe_apostate] изображение богохульным, поскольку [foe_venerated] как божество. [foeLeader_pronoun] [foe_sought] повалить статую и заключить в тюрьму последователей истиннго божества — [deity0_name].</li>
+    <li>founderJoin(tag=meme_MechanoidSupremacy)     ->[founderName], Великий Механо-жрец, [founder_prayed] о сокрушении грозного врага, и [deity0_name] [deity0_summoned] с небес посадочные капсулы кластера механоидов.</li>
+    <li>victory(tag=meme_MechanoidSupremacy)         ->[foeLeader] был убит механоидами, а вместе с ним и [foeLeader_possessive] его солдаты. Так [deity0_name] навечно [deity0_cemmenting] своё могущество.</li>
+
+    <li>setup(tag=meme_MechanoidSupremacy)           ->[founderName] [founder_spent] большую часть жизни, изучая механоидов. [founder_pronoun] [founder_came] к убеждению, что механоиды — это усовершенствованное человечество, следующая ступень эволюции.</li>
+    <li>story(uses=1,tag=meme_MechanoidSupremacy)    ->В стремлении продолжить свои исследования [founderName] [founder_assembled] команду учёных и [founder_chartered] корабль для путешествия в окраинные миры, где [founder_possessive] эксперименты не вызывали бы страха и подозрений.</li>
+
+    <li>lessonIntro(tag=meme_MechanoidSupremacy)         ->Мои эксперименты с механоидами были обширны и тщательны. После многих лет труда я пришел к выводу, что</li>
+    <li>lesson(tag=meme_MechanoidSupremacy)              ->механоиды — это усовершенствованное человечество, следующая ступень эволюции</li>
+    <li>lessonReinforcement(tag=meme_MechanoidSupremacy) ->Механоиды никогда не устают, никогда не проявляют слабость, никогда не нуждаются в пропитании. Они превосходят нас, органических существ, во всех отношениях.</li>
+
+    <li>archistBasis(tag=meme_MechanoidSupremacy)    ->Архотеки строят бесчисленных механоидов по своему образу и подобию. Удивительные машины, которые намного превосходят нас.</li>
+    <li>archistFact(tag=meme_MechanoidSupremacy)     ->Механоиды, созданные архотеками, являются совершенными машинами, никогда не устающими, никогда не слабеющими, никогда не нуждающимися в пище.</li>
+    <li>archistProphecy(tag=meme_MechanoidSupremacy) ->[inTheEnd], только изучая и почитая механоидов, мы можем надеяться приблизиться к архотекам и, возможно, участвовать в трансцендентном.</li>
+
+    <li>animistBasis(tag=meme_MechanoidSupremacy)    ->Механоиды движимы самыми могущественными духами. Хищными духами машин, ненавидящими всё живое.</li>
+    <li>animistFact(tag=meme_MechanoidSupremacy)     ->Только умилостивив духов машин, мы можем надеяться избежать их гнева, ибо они слепы к материальному миру.</li>
+    <li>animistProphecy(tag=meme_MechanoidSupremacy) ->[itIsSaid] только те, кто уважают и чтят механоидов, могут по-настоящему общаться с духами.</li>
+
+    <li>serketistProphecy(tag=meme_MechanoidSupremacy)->[itIsSaid] мы создадим совершенное существо, насекомое-механоида, вдохновлённое технологиями архотека, которое принесёт новую эру процветания.</li>
+
+    <li>chthonianProphecy(tag=meme_MechanoidSupremacy)->Мы — ничто перед этими жуткими сущностями, и только объединив наши тела с телами самых самых мощных машин, мы можем надеяться противостоять им.</li>
+
+    <li>esotericismProphecy(tag=meme_MechanoidSupremacy)->Такое оккультное знание будет трудно найти. Мы будем изучать тела механоидов, ибо они являются совершенными существами и ключом к разгадке тайн Космоса.</li>
+
+    <li>eschatologismFact(tag=meme_MechanoidSupremacy)->Мы будем подражать ярости и свирепости механоидов, совершенных существ, одержимых искоренением человечества.</li>
+
+    <li>introMemo(tag=meme_MechanoidSupremacy)->Начиная со следующего квартала, мы будем предоставлять каждому нашему сотруднику полезного помощника-механоида. Они будут поставляться с предварительно настроенными новыми фирменными пакетами для повышения производительности, что, я полагаю, большинство из вас сочтёт очень полезным для повышения вашей производительности труда и увеличения рентабельности инвестиций.</li>
+
+    <li>alienistProphecy(tag=meme_MechanoidSupremacy)->Эти непохожие существа — несовершенные, банальные биологические машины, которые бледны в сравнении с любым механоидом, но они являются шагом в правильном направлении.</li>
+
+    <li>deity0_spoke(deity0_gender==None)->обратилось</li>
+    <li>deity0_spoke(deity0_gender==Male)->обратился</li>
+    <li>deity0_spoke(deity0_gender==Female)->обратилась</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дал</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+
+    <li>foe_apostate(foeLeader_gender==Male)->был отступником и счёл</li>
+    <li>foe_apostate(foeLeader_gender==Female)->была отступнцей и сочла</li>
+    <li>foe_venerated(foeLeader_gender==Male)->сам себя почитал</li>
+    <li>foe_venerated(foeLeader_gender==Female)->сама себя почитала</li>
+    <li>foe_sought(foeLeader_gender==Male)->искал возможность</li>
+    <li>foe_sought(foeLeader_gender==Female)->искала возможность</li>
+
+	<li>founder_prayed(founder_gender==Male)->молился</li>
+    <li>founder_prayed(founder_gender==Female)->молилась</li>
+    <li>deity0_summoned(deity0_gender==None)->вызвало</li>
+    <li>deity0_summoned(deity0_gender==Male)->вызвал</li>
+    <li>deity0_summoned(deity0_gender==Female)->вызвала</li>
+    <li>deity0_cemmenting(deity0_gender==None)->укрепило</li>
+    <li>deity0_cemmenting(deity0_gender==Male)->укрепил</li>
+    <li>deity0_cemmenting(deity0_gender==Female)->укрепила</li>
+
+    <li>founder_spent(founder_gender==Male)->провёл</li>
+    <li>founder_spent(founder_gender==Female)->провела</li>
+	<li>founder_came(founder_gender==Male)->пришёл</li>
+    <li>founder_came(founder_gender==Female)->пришла</li>
+	<li>founder_assembled(founder_gender==Male)->собрал</li>
+    <li>founder_assembled(founder_gender==Female)->собрала</li>
+	<li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+    <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
+  </VME_MechanoidSupremacy.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Mechanoid -->
+  <VME_MechanoidSupremacy.symbolPacks.0.ideoName>Механоид</VME_MechanoidSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: mechanoids -->
+  <VME_MechanoidSupremacy.symbolPacks.0.theme>механоидов</VME_MechanoidSupremacy.symbolPacks.0.theme>
+  <!-- EN: mechanoid -->
+  <VME_MechanoidSupremacy.symbolPacks.0.adjective>механоидный</VME_MechanoidSupremacy.symbolPacks.0.adjective>
+  <!-- EN: mechanoid worshipper -->
+  <VME_MechanoidSupremacy.symbolPacks.0.member>механоидопоклонник</VME_MechanoidSupremacy.symbolPacks.0.member>
+
+
+  <!-- 26 -->
+
+  <!-- EN: insectoid supremacy -->
+  <VME_InsectoidSupremacy.label>примат инсектоидов</VME_InsectoidSupremacy.label>
+  <!-- EN: The labyrinthine tunnels of the underdark ungulate with a seemingly limitless hive of relentless and brutal insects, we should not fear them, we should revere them. -->
+  <VME_InsectoidSupremacy.description>Лабиринты подземных тоннелей в кажущихся безграничными ульях, полных безжалостных и жестоких насекомых. Мы не должны их бояться, мы должны их уважать.</VME_InsectoidSupremacy.description>
+
+  <!-- EN:
+    <li>memeAdjective->insectoid</li>
+    <li>memeAdjective->chitinous</li>
+    <li>memeAdjective->insectile</li>
+    <li>memeCreed->perfection</li>
+    <li>memeCreed->insectoids</li>
+    <li>memeHyphenPrefix->bug</li>
+    <li>memeHyphenPrefix->fly</li>
+    <li>memeConcept->insects</li>
+  -->
+  <VME_InsectoidSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->инсектоидный</li>
+    <li>memeAdjective->хитиновый</li>
+    <li>memeAdjective->насекомый</li>
+    <li>memeCreed->абсолют</li>
+    <li>memeCreed->инсектизм</li>
+    <li>memeHyphenPrefix->жуко</li>
+    <li>memeHyphenPrefix->мухо</li>
+    <li>memeConcept->инсектоидов</li>
+  </VME_InsectoidSupremacy.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] visage is otherworldly: a moving mass of chitin-covered flesh, thousands of small insects constantly darting in and out of its armoured plates."</li>
+    <li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] commanded [deity0_possessive] followers: "respect and revere the insectoids, for they are my children and they were created in my own image".</li>
+
+    <li>intro(tag=meme_InsectoidSupremacy)           ->On the [place_summary] [place_name], the [memberNamePlural] built a great human hive, a testament to the glory of [deity0_name].</li>
+    <li>conflict(tag=meme_InsectoidSupremacy)        ->An evil [foeLeader] despised [foeLeader_possessive] neighbours, and wanted to return to the ancient times when men lived apart from each other, isolated.</li>
+    <li>founderJoin(tag=meme_InsectoidSupremacy)     ->[founderName], the Chosen of [deity0_name], heard of the apostasy of the [foeLeader], and sought to convince [foeLeader_objective] of the error of [foeLeader_possessive] isolationist ways.</li>
+    <li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] extorted the virtues of [deity0_name]'s swarm cities, and the [foeLeader] was convinced of the truth behind [founder_possessive] words.</li>
+
+    <li>setup(tag=meme_InsectoidSupremacy)           ->[founderName] was a biologist in one of the Glitterworlds. [founder_pronoun] spent [founder_possessive] whole youth studying insectoids, and came to the conclusion that they are a perfect lifeform. Adaptive, strong and resilient.</li>
+    <li>story(uses=1,tag=meme_InsectoidSupremacy)    ->Seeking to continue [founder_possessive] studies, [founderName] assembled a team of scientists and chartered a ship to travel to the Rim, where [founder_possessive] experiments wouldn't be seen with fear and suspicion.</li>
+
+    <li>lessonIntro(tag=meme_InsectoidSupremacy)         ->My experiments with insectoids were extensive and thorough. After many years of toiling I came to the conclusion that</li>
+    <li>lesson(tag=meme_InsectoidSupremacy)              ->insectoids are the perfect lifeform, the next stage of evolution</li>
+    <li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Insectoids are adaptive, strong and resilient. They are simply superior to us humans in all respects.</li>
+
+    <li>archistBasis(tag=meme_InsectoidSupremacy)    ->In their infinite wisdom, the archotechs inspired humans to bio-engineer the perfect lifeform: insectoids.</li>
+    <li>archistFact(tag=meme_InsectoidSupremacy)     ->Insectoids show us that biological evolution is just another step on the path to transcendence.</li>
+    <li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], only those who properly revere the perfect forms of the insectoids will be chosen by the archotechs.</li>
+
+    <li>animistBasis(tag=meme_InsectoidSupremacy)    ->Among the animal spirits, those who watch over the insectoids are the most powerful.</li>
+    <li>animistFact(tag=meme_InsectoidSupremacy)     ->Insectoids are perfect creatures. Adaptive, strong and resilient. They are simply superior to us humans in all respects, and the spirits that govern them reign supreme.</li>
+    <li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] only those who properly revere the perfect forms of the insectoids can truly appease the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] we will become like perfect, holy insects. I, for one, welcome our new insect overlords.</li>
+
+    <li>chthonianProphecy(tag=meme_InsectoidSupremacy)->We are nothing to these eldritch entities, and only by fusing our bodies with those of the most powerful insectoids can we hope to stand a chance against them.</li>
+
+    <li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Such occult knowledge can be sought in the mysterious fractal patterns of an insectoid carapace. They are the perfect lifeform, the next stage of evolution.</li>
+
+    <li>eschatologismFact(tag=meme_InsectoidSupremacy)->Like a devouring swarm of ravenous insects we will descend upon our enemies, and leave only their bones, devoid of flesh.</li>
+
+    <li>introMemo(tag=meme_InsectoidSupremacy)->Concerning the constant reports about cockroaches in the cafeteria, need I remind you that cockroaches are living creatures, as worthy of respect as you and I? I will not allow a single more furtive call to a pest control company!</li>
+
+    <li>alienistProphecy(tag=meme_InsectoidSupremacy)->Among these genetically modified animals lies the insectoid geneline that was developed at Sorne, and that brought us the perfect lifeform.</li>
+  -->
+  <VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_InsectoidSupremacy)        ->[deity0_name] имеет загадочный облик: движущаяся масса покрытой хитином плоти, тысячи мелких насекомых, постоянно шныряющих внутри и снаружи ее бронированных пластин.</li>
+    <li>episode(uses=1,tag=meme_InsectoidSupremacy)  ->[deity0_name] [deity0_commanded] своим последователям: «Уважайте и почитайте инсектоидов, ибо они мои дети,созданые по моему образу и подобию».</li>
+
+    <li>intro(tag=meme_InsectoidSupremacy)           ->В месте, что зовётся [place_summary] [place_name], [memberNamePlural] построили великий человеческий улей, свидетельство славы божества по имени [deity0_name].</li>
+    <li>conflict(tag=meme_InsectoidSupremacy)        ->[foe_evil] [foeLeader] [foe_despised] своих соседей и [foe_wanted] вернуться в древние времена, когда люди жили отдельно друг от друга, разрозненные.</li>
+    <li>founderJoin(tag=meme_InsectoidSupremacy)     -[founderName], вскоре после того, как [deity0_name] [deity0_Chosen] [founder_Chosen] об отступничестве, которое [foe_committed] [foeLeader], и [founder_sought] убедить [foeLeader_possessive] в ошибочности изоляционизма.</li>
+    <li>victory(tag=meme_InsectoidSupremacy)         ->[founderName] [founder_extorted] достоинства городов роя, которым [deity0_patronized] [deity0_name], и [foeLeader] [foe_convinced] в правдивости [founder_possessive] слов.</li>
+
+    <li>setup(tag=meme_InsectoidSupremacy)           ->[founderName] [founder_was] биологом в одном из утопических миров. [founder_pronoun] [founder_spent] всю юность, изучая инсектоидов, и [founder_came] к выводу, что они являются идеальной формой жизни. Адаптивные, сильные и вынослиыве.</li>
+    <li>story(uses=1,tag=meme_InsectoidSupremacy)    ->В стремлении продолжить свои исследования [founderName] [founder_assembled] команду учёных и [founder_chartered] корабль для путешествия в окраинные миры, где [founder_possessive] эксперименты не вызывали бы страха и подозрений.</li>
+
+    <li>lessonIntro(tag=meme_InsectoidSupremacy)         ->Мои эксперименты с инсектоидами были обширны и тщательны. После многих лет труда я пришел к выводу, что</li>
+    <li>lesson(tag=meme_InsectoidSupremacy)              ->инсектоиды - идеальная форма жизни, следующий этап эволюции </li>
+    <li>lessonReinforcement(tag=meme_InsectoidSupremacy) ->Инсектоиды адаптивны, сильны и выносливы. Они просто превосходят нас, людей, во всех отношениях.</li>
+
+    <li>archistBasis(tag=meme_InsectoidSupremacy)    ->В своей бесконечной мудрости архотеки вдохновили людей на биоинженерию идеальной формы жизни: инсектоидов.</li>
+    <li>archistFact(tag=meme_InsectoidSupremacy)     ->Насекомые показывают нам, что биологическая эволюция - это всего лишь еще один шаг на пути к трансцендентности.</li>
+    <li>archistProphecy(tag=meme_InsectoidSupremacy) ->[inTheEnd], только те, кто должным образом чтит совершенные формы инсектоидов, будут выбраны архотеками.</li>
+
+    <li>animistBasis(tag=meme_InsectoidSupremacy)    ->Среди духов животных самыми могущественными являются те, кто охраняет инсектоидов.</li>
+    <li>animistFact(tag=meme_InsectoidSupremacy)     ->Инсектоиды — совершенные существа. Адаптивные, сильные и вынослиые. Они превосходят нас, людей, во всех отношениях, и духи, которые правят ими, царят безраздельно.</li>
+    <li>animistProphecy(tag=meme_InsectoidSupremacy) ->[itIsSaid] только те, кто должным образом чтит совершенные формы инсектоидов, могут по-настоящему умилостивить духов.</li>
+
+    <li>serketistProphecy(tag=meme_InsectoidSupremacy)->[itIsSaid] мы станем подобны совершенным, святым инсектоидам. Я, за одно, поприветствую наших новых инсектоидов-повелителей.</li>
+
+    <li>chthonianProphecy(tag=meme_InsectoidSupremacy)->Мы — ничто перед этими жуткими сущностями, и только объединив наши тела с телами самых могущественных инсектоидов, мы можем надеяться противостоять им.</li>
+
+    <li>esotericismProphecy(tag=meme_InsectoidSupremacy)->Такое оккультное знание можно найти в таинственных фрактальных узорах панцирей инсектоидов. Они являются совершенной формой жизни, следующей стадией эволюции.</li>
+
+    <li>eschatologismFact(tag=meme_InsectoidSupremacy)->Подобно всепожирающему рою прожорливых инсектоидов, мы обрушимся на наших врагов и оставим от них только кости, лишённые плоти.</li>
+
+    <li>introMemo(tag=meme_InsectoidSupremacy)->Что касается постоянных сообщений о тараканах в кафетерии, нужно ли мне напоминать вам, что тараканы — это живые существа, так же достойные уважения, как вы и я? Я не допущу больше ни одного тайного звонка в компанию по борьбе с вредителями!</li>
+
+    <li>alienistProphecy(tag=meme_InsectoidSupremacy)->Среди этих генетически модифицированных животных находится линия генов инсектоидов, которая была разработана в Sorne(???) и принесла нам идеальную форму жизни.</li>
+
+    <li>deity0_commanded(deity0_gender==None)->повелело</li>
+    <li>deity0_commanded(deity0_gender==Male)->повелел</li>
+    <li>deity0_commanded(deity0_gender==Female)->повелела</li>
+
+    <li>foe_evil(foeLeader_gender==Male)->злобный</li>
+    <li>foe_evil(foeLeader_gender==Female)->злобная</li>
+    <li>foe_despised(foeLeader_gender==Male)->презирал</li>
+    <li>foe_despised(foeLeader_gender==Female)->презирала</li>
+    <li>foe_wanted(foeLeader_gender==Male)->хотел</li>
+    <li>foe_wanted(foeLeader_gender==Female)->хотела</li>
+
+    <li>deity0_Chosen(deity0_gender==None)->назначило</li>
+    <li>deity0_Chosen(deity0_gender==Male)->назначил</li>
+    <li>deity0_Chosen(deity0_gender==Female)->назначила</li>
+	<li>founder_Chosen(founder_gender==Male)->его Избранником, услышал</li>
+    <li>founder_Chosen(founder_gender==Female)->её Избранницей, услышала</li>
+    <li>foe_committed(foeLeader_gender==Male)->совершил</li>
+    <li>foe_committed(foeLeader_gender==Female)->совершила</li>
+	<li>founder_sought(founder_gender==Male)->попытался</li>
+    <li>founder_sought(founder_gender==Female)->попыталась</li>
+
+	<li>founder_extorted(founder_gender==Male)->превозносил</li>
+    <li>founder_extorted(founder_gender==Female)->превозносила</li>
+    <li>deity0_patronized(deity0_gender==None)->покровительствовало</li>
+    <li>deity0_patronized(deity0_gender==Male)->покровительствовал</li>
+    <li>deity0_patronized(deity0_gender==Female)->покровительствовала</li>
+    <li>foe_convinced(foeLeader_gender==Male)->был убеждён</li>
+    <li>foe_convinced(foeLeader_gender==Female)->была убеждена</li>
+
+	<li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+	<li>founder_spent(founder_gender==Male)->провёл</li>
+    <li>founder_spent(founder_gender==Female)->провела</li>
+	<li>founder_came(founder_gender==Male)->пришёл</li>
+    <li>founder_came(founder_gender==Female)->пришла</li>
+	<li>founder_assembled(founder_gender==Male)->собрал</li>
+    <li>founder_assembled(founder_gender==Female)->собрала</li>
+	<li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+    <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
+  </VME_InsectoidSupremacy.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Insectoid -->
+  <VME_InsectoidSupremacy.symbolPacks.0.ideoName>Инсектоид</VME_InsectoidSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: insectoids -->
+  <VME_InsectoidSupremacy.symbolPacks.0.theme>инсектоидов</VME_InsectoidSupremacy.symbolPacks.0.theme>
+  <!-- EN: insectoid -->
+  <VME_InsectoidSupremacy.symbolPacks.0.adjective>инсектоидный</VME_InsectoidSupremacy.symbolPacks.0.adjective>
+  <!-- EN: insect worshipper -->
+  <VME_InsectoidSupremacy.symbolPacks.0.member>насекомопоклонник</VME_InsectoidSupremacy.symbolPacks.0.member>
 
 
   <!-- 27 -->
 
   <!-- EN: party life -->
-  <VME_PartyLife.label></VME_PartyLife.label>
+  <VME_PartyLife.label>праздная жизнь</VME_PartyLife.label>
   <!-- EN: Let us toast to the acts of dance, drink and debauchery. Any free time is a good time, but party time is the best time. -->
   <VME_PartyLife.description>Поднимем тост за танцы, выпивку и разврат. Любое свободное время — хорошее время, но время для вечеринок — лучшее время.</VME_PartyLife.description>
 
@@ -941,14 +1177,14 @@
     <li>memeMoralist->reveler</li>
   -->
   <VME_PartyLife.generalRules.rulesStrings>
-    <li>memeCreed->party</li>
-    <li>memeAdjective->revelling</li>
-    <li>memeAdjective->dancing</li>
-    <li>memeAdjective->enjoying</li>
-    <li>memeConcept->celebration</li>
-    <li>memeConcept->festivity</li>
-    <li>memeLeaderNoun->merrymaker</li>
-    <li>memeMoralist->reveler</li>
+    <li>memeCreed->празднизм</li>
+    <li>memeAdjective->весёлый</li>
+    <li>memeAdjective->танцевальный</li>
+    <li>memeAdjective->сладкий</li>
+    <li>memeConcept->веселья</li>
+    <li>memeConcept->праздника</li>
+    <li>memeLeaderNoun->весельчак</li>
+    <li>memeMoralist->гуляка</li>
   </VME_PartyLife.generalRules.rulesStrings>
 
   <!-- EN:
@@ -988,62 +1224,66 @@
     <li>alienistProphecy(tag=meme_PartyLife)->I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</li>
   -->
   <VME_PartyLife.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_PartyLife)        ->[deity0_name] [deity0_spoke] к своим последователям: «Отметьте этот день в своих календарях как повод для веселья, ибо праздники для меня священны».</li>
+    <li>episode(uses=1,tag=meme_PartyLife)  ->Вот с того дня мы и празднуем.</li>
 
-    <li>creation(tag=meme_PartyLife)        ->[deity0_name] spoke to [deity0_possessive] followers: "Mark this day in your calendars as an occasion for revelry, for celebrations are sacred to me."</li>
-    <li>episode(uses=1,tag=meme_PartyLife)  ->From that day on, we celebrated.</li>
+    <li>intro(tag=meme_PartyLife)           ->Где-то, кажется то место звалось [place_summary] [place_name], [memberNamePlural] соорудили гигантскую сцену. Это было бы идеальное место для вечеринок и прославления [deity0_god] по имени [deity0_name].</li>
+    <li>conflict(tag=meme_PartyLife)        ->Соседи, однако, были недовольны количеством шума, они хотели получить свой трудно доставшийся покой.</li>
+    <li>founderJoin(tag=meme_PartyLife)     ->[founderName], [founder_Reveler] во внимание такую чушь. Отдых — для слабаков! Подать ещё коктейлей!</li>
+    <li>victory(tag=meme_PartyLife)         ->Поэтому они включили музыку ещё громче. Вечеринка продолжилась!</li>
 
-    <li>intro(tag=meme_PartyLife)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic scenario. It would be the perfect place to party, and glorify [deity0_name].</li>
-    <li>conflict(tag=meme_PartyLife)        ->The neighbours, however, weren't happy with the amount of noise, for they wanted their hard earned repose.</li>
-    <li>founderJoin(tag=meme_PartyLife)     ->[founderName], known as the Great Reveler, would have none of that nonsense. Rest is for the weak! Bring more cocktails!</li>
-    <li>victory(tag=meme_PartyLife)         ->So they turned the level of the music even higher. Party on!</li>
+    <li>setup(tag=meme_PartyLife)           ->[founderName] [founder_was] известным философом, [founder_possessive] имя слышали во всех звёздных системах. [founder_pronoun] [founder_posited], что жизнь слишком коротка, чтобы прожить ее без удовольствия, и что только превознося достоинства праздной жизни, можно надеяться на подлинное удовлетворение.</li>
+    <li>story(uses=1,tag=meme_PartyLife)    ->К великому сожелению, несколько лет назад [founder_pronoun] [founder_dead] в результате передозировки. Должно быть, это была адская вечеринка!</li>
 
-    <li>setup(tag=meme_PartyLife)           ->[founderName] was a renowned philosopher, [founder_possessive] name heard all across the stars. [founder_pronoun] posited that life is too short to be lived without enjoying oneself, and that only by extolling the virtues of a party life can one hope to be truly fulfilled.</li>
-    <li>story(uses=1,tag=meme_PartyLife)    ->Unfortunately, [founder_pronoun] was found dead of an overdose a few years back. That must have been one hell of a party!</li>
+    <li>lessonIntro(tag=meme_PartyLife)         ->Слышь, слышь, подойди сюда. Ох, мужик, какое рохмелье... Вот глянь, я хочу тебе сказать, что</li>
+    <li>lesson(tag=meme_PartyLife)              ->я люблю гулять. Я люблю вечеринки. Да вот и всё</li>
+    <li>lessonReinforcement(tag=meme_PartyLife) ->А теперь отвали и перестань орать. Черт возьми, моя бедная голова...</li>
 
-    <li>lessonIntro(tag=meme_PartyLife)         ->Listen, listen, come closer. Oh, man, what a hangover... You see, I want to tell you that</li>
-    <li>lesson(tag=meme_PartyLife)              ->I love going out. I love partying. Yeah, that's it</li>
-    <li>lessonReinforcement(tag=meme_PartyLife) ->Now bugger off, and stop shouting. Damn, my poor head...</li>
+    <li>archistBasis(tag=meme_PartyLife)    ->Неужели вы действительно думаете, что архотекам, в их безграничной мудрости, есть дело до тех, кто не умеет получать удовольствие?</li>
+    <li>archistFact(tag=meme_PartyLife)     ->Архотеки не могут снизойти до всех, и разумеется они выберут самого весёлого, самого счастливого из нас.</li>
+    <li>archistProphecy(tag=meme_PartyLife) ->[inTheEnd], только те, кто проводит свою жизнь, развлекаясь в тысячах грёз, будет допущен до трансцедентного.</li>
 
-    <li>archistBasis(tag=meme_PartyLife)    ->Do you really think the archotechs, in their infinite wisdom, care anything for those who don't know how to enjoy themselves?</li>
-    <li>archistFact(tag=meme_PartyLife)     ->The archotechs can't ascend everyone, and it stands to reason that they will choose the funniest, happiest among us.</li>
-    <li>archistProphecy(tag=meme_PartyLife) ->[inTheEnd], only those who spend their lives partying in a thousand reveries will be allowed to transcend.</li>
+    <li>animistBasis(tag=meme_PartyLife)    ->Духи хотят, чтобы мы радовались жизни. Какой смысл идти по жизни, словно тень? </li>
+    <li>animistFact(tag=meme_PartyLife)     ->Среди всех духов дух радости и веселья обладает непревзойденной мудростью. Только он знает, как получать удовольствие.</li>
+    <li>animistProphecy(tag=meme_PartyLife) ->[itIsSaid] только те, кто проводит свою жизнь, развлекаясь в тысячах грёз, могут по-настоящему умилостивить духов.</li>
 
-    <li>animistBasis(tag=meme_PartyLife)    ->The spirits want us to enjoy life. What sense does it make to pass through life like a shadow?</li>
-    <li>animistFact(tag=meme_PartyLife)     ->Among the spirits, the spirit of joy and revelry has unrivaled wisdom. It alone knows how to enjoy itself.</li>
-    <li>animistProphecy(tag=meme_PartyLife) ->[itIsSaid] only those who spend their lives partying in a thousand reveries can truly appease the spirits.</li>
+    <li>serketistProphecy(tag=meme_PartyLife)->[itIsSaid] мы будем веселиться. Это... на самом деле не имеет вообще никакого отношения к насекомым. Я думаю... жук, наверное, с удовольствием выпил бы пива? Да, давайте ещё повторим. Я всё равно уже пьян.</li>
 
-    <li>serketistProphecy(tag=meme_PartyLife)->[itIsSaid] we will party. This... actually has nothing to do with insects whatsoever. I guess... a beetle probably would enjoy a beer? Yeah, let's go with that. I'm drunk already anyway.</li>
+    <li>chthonianProphecy(tag=meme_PartyLife)->С этими жуткими сущностями нельзя сражаться, их невозможно победить. Если бы нам пришлось столкнуться с ними, то с тем же успехом мы могли бы быть совсем пьяными.</li>
 
-    <li>chthonianProphecy(tag=meme_PartyLife)->Such eldritch entities can't be fought, can't be defeated. We might as well be drunk out of our minds if we have to face them.</li>
+    <li>esotericismProphecy(tag=meme_PartyLife)->В этих оккультных знаниях невозможно разобраться, будучи трезвым.</li>
 
-    <li>esotericismProphecy(tag=meme_PartyLife)->Such occult knowledge can't be faced sober.</li>
+    <li>eschatologismFact(tag=meme_PartyLife)->Мир будет гореть, и это то, с чем лучше не сталкиваться трезвым.</li>
 
-    <li>eschatologismFact(tag=meme_PartyLife)->The world will burn, and this is something that is better not to face sober.</li>
+    <li>introMemo(tag=meme_PartyLife)->Наступило наше любимое время в году! Обязательное командообразовательное мероприятие компании запланировано на следующий вторник. Не забудьте взять с собой теннисные ракетки!</li>					
 
-    <li>introMemo(tag=meme_PartyLife)->It's our favourite time of the year already! The company's mandatory team-building exercise will be scheduled for this next Tuesday. Remember to bring your tennis paddles!</li>					
+    <li>alienistProphecy(tag=meme_PartyLife)->Я слышал, что существует какая-то странная ящерица, которая превращает растения в спирт. Оооо, парень, я мог бы обнять эту ящерицу прямо сейчас.</li>
 
-    <li>alienistProphecy(tag=meme_PartyLife)->I have heard there is even some weird lizard that turns plants into alcohol. Ohhh, man, I could hug that lizard right now.</li>
+    <li>deity0_spoke(deity0_gender==None)->обратилось</li>
+    <li>deity0_spoke(deity0_gender==Male)->обратился</li>
+    <li>deity0_spoke(deity0_gender==Female)->обратилась</li>
+    <li>deity0_god(deity0_gender==None)->божества</li>
+    <li>deity0_god(deity0_gender==Male)->бога</li>
+    <li>deity0_god(deity0_gender==Female)->богини</li>
+	<li>founder_Reveler(founder_gender==Male)->известный как Великий Гуляка, не принял</li>
+    <li>founder_Reveler(founder_gender==Female)->известная как Великая Гуляка, не приняла</li>
 
-
-
-
-
+	<li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+	<li>founder_posited(founder_gender==Male)->утверждал</li>
+    <li>founder_posited(founder_gender==Female)->утверждала</li>
+	<li>founder_dead(founder_gender==Male)->был найден мертвым</li>
+    <li>founder_dead(founder_gender==Female)->была найдена мертвой</li>
   </VME_PartyLife.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Party Life -->
-  <VME_PartyLife.symbolPacks.0.ideoName></VME_PartyLife.symbolPacks.0.ideoName>
+  <VME_PartyLife.symbolPacks.0.ideoName>Праздная Жизнь</VME_PartyLife.symbolPacks.0.ideoName>
   <!-- EN: partying -->
-  <VME_PartyLife.symbolPacks.0.theme></VME_PartyLife.symbolPacks.0.theme>
+  <VME_PartyLife.symbolPacks.0.theme>празднования</VME_PartyLife.symbolPacks.0.theme>
   <!-- EN: partying -->
-  <VME_PartyLife.symbolPacks.0.adjective></VME_PartyLife.symbolPacks.0.adjective>
+  <VME_PartyLife.symbolPacks.0.adjective>праздный</VME_PartyLife.symbolPacks.0.adjective>
   <!-- EN: celebrant -->
-  <VME_PartyLife.symbolPacks.0.member></VME_PartyLife.symbolPacks.0.member>
-
-
-
-
-
-
+  <VME_PartyLife.symbolPacks.0.member>празднующий</VME_PartyLife.symbolPacks.0.member>
 
 
   <!-- 28 -->
@@ -1114,7 +1354,7 @@
     <li>creation(tag=meme_Anonymity)        ->[deity0_name] не [deity0_speak] со своими последователями, а лишь смотрел на них строгим взглядом. Так они поняли необходимость полной тишины.</li>
     <li>episode(uses=1,tag=meme_Anonymity)  ->Глубокое молчание, что [deity0_silence] [deity0_name], было истолковано как знамение, и с тех пор мы сами храним молчание.</li>
 
-    <li>intro(tag=meme_Anonymity)           ->В тайном месте, где, как все непосвящённые думают, находится [place_summary] [place_name], [memberNamePlural] построили гигантский храм, воздвигнутый в полной тишине, безмолвное свидетельство завета, что [deity0_gave] [deity0_name].</li>
+    <li>intro(tag=meme_Anonymity)           ->В тайном уголке пространства, где, как все непосвящённые думают, находится [place_summary] [place_name], [memberNamePlural] построили гигантский храм, воздвигнутый в полной тишине, безмолвное свидетельство завета, что [deity0_gave] [deity0_name].</li>
     <li>conflict(tag=meme_Anonymity)        ->[foe_evil] [foeLeader] [презирал] эту тишину и [foe_wanted1] погрузить мир в многоголосую какофонию. [foeLeader_pronoun] [foe_wanted2] снести храм и посмотреть, как тот горит.</li>
     <li>founderJoin(tag=meme_Anonymity)     ->[founderName], Молчаливый Некто, не желал иметь ничего общего с этой ересью, и [foeLeader] глубокой ночью пал от [founder_possessive] руки, поражённый отравленным клинком в сердце.</li>
     <li>victory(tag=meme_Anonymity)         ->[founderName] не [founder_want] никаких почестей за своё деяние, потому что [founder_pronoun] просто [founder_wanted], чтобы все оставили [founder_possessive] в покое.</li>
