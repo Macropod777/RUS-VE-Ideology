@@ -707,150 +707,584 @@
   <VME_Bushido.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Bushido)-&gt;Remember our motto! "Only a life lived with honour, courage and skill is worth living". We encourage printing this on stickers to decorate your offices.</VME_Bushido.descriptionMaker.rules.rulesStrings.21>
   <VME_Bushido.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Bushido)-&gt;These wayward creatures, forgotten and discarded creations of humanity's hubris, remind us that only a life lived with honour, courage and skill is worth living.</VME_Bushido.descriptionMaker.rules.rulesStrings.22>
   <VME_Bushido.symbolPacks.0.adjective>bushido</VME_Bushido.symbolPacks.0.adjective>
+
+
+
+
+
   <!-- 21 -->
-  <VME_Light.label>light</VME_Light.label>
-  <VME_Light.description>Darkness obscures one’s vision as well as one’s mind, darklight is a wicked occurrence and is not to be condoned.</VME_Light.description>
-  <VME_Light.generalRules.rulesStrings.0>memeAdjective-&gt;light</VME_Light.generalRules.rulesStrings.0>
-  <VME_Light.generalRules.rulesStrings.1>memeAdjective-&gt;bright</VME_Light.generalRules.rulesStrings.1>
-  <VME_Light.generalRules.rulesStrings.2>memeHyphenPrefix-&gt;light</VME_Light.generalRules.rulesStrings.2>
-  <VME_Light.generalRules.rulesStrings.3>memeHyphenPrefix-&gt;bright</VME_Light.generalRules.rulesStrings.3>
-  <VME_Light.generalRules.rulesStrings.4>memeConcept-&gt;light</VME_Light.generalRules.rulesStrings.4>
-  <VME_Light.generalRules.rulesStrings.5>memeLeaderNoun-&gt;lightforged</VME_Light.generalRules.rulesStrings.5>
-  <VME_Light.generalRules.rulesStrings.6>memeLeaderNoun-&gt;paladin</VME_Light.generalRules.rulesStrings.6>
-  <VME_Light.generalRules.rulesStrings.7>memeLeaderAdjective-&gt;light</VME_Light.generalRules.rulesStrings.7>
-  <VME_Light.generalRules.rulesStrings.8>memeMoralist-&gt;enlightener</VME_Light.generalRules.rulesStrings.8>
-  <VME_Light.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Light)        -&gt;In the beginning [deity0_name] created the heaven and the earth. And [deity0_pronoun] said: "Let there be light". And there was light.</VME_Light.descriptionMaker.rules.rulesStrings.0>
-  <VME_Light.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Light)  -&gt;[deity0_name] saw the light, that it was good: and [deity0_name] divided the light from the darkness. And [deity0_name] called the light Day, and the darkness [deity0_pronoun] called Night.</VME_Light.descriptionMaker.rules.rulesStrings.1>
-  <VME_Light.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Light)           -&gt;And [deity0_name] said: "Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years". A temple was erected by the [memberNamePlural] to commemorate [deity0_name]'s words.</VME_Light.descriptionMaker.rules.rulesStrings.2>
-  <VME_Light.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Light)        -&gt;An envious [foeLeader] looked at these wonders, and wanted to plunge the Universe into darkness.</VME_Light.descriptionMaker.rules.rulesStrings.3>
-  <VME_Light.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Light)     -&gt;[founderName], the greatest prophet of [deity0_name], prayed for help, and [deity0_name] made two great lights; the greater light to rule the day, and the lesser light to rule the night: [deity0_pronoun] made the stars also. And [deity0_name] set them in the firmament of the heaven to give light upon the world.</VME_Light.descriptionMaker.rules.rulesStrings.4>
-  <VME_Light.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Light)         -&gt;The [foeLeader] was humbled, and fled in terror, for the light of the sun was stronger than his will.</VME_Light.descriptionMaker.rules.rulesStrings.5>
-  <VME_Light.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Light)           -&gt;[founderName] was a relief worker in a forgotten Rim world. [founder_pronoun] looked at the poverty and the squalor of the regressed tribes, and understood that only purity of heart and thought can overcome the challenges faced by humanity.</VME_Light.descriptionMaker.rules.rulesStrings.6>
-  <VME_Light.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Light)    -&gt;[founderName] created the largest NGO known to man, and volunteers spread across the stars to share [founder_possessive] message of concord and peace.</VME_Light.descriptionMaker.rules.rulesStrings.7>
-  <VME_Light.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Light)         -&gt;Volunteering is at the very core of being a human. No one has made it through life without someone else’s help. I want you to understand that</VME_Light.descriptionMaker.rules.rulesStrings.8>
-  <VME_Light.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Light)              -&gt;the best way to find yourself is to lose yourself in the service of others</VME_Light.descriptionMaker.rules.rulesStrings.9>
-  <VME_Light.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Light) -&gt;That's what dispelling the darkness means.</VME_Light.descriptionMaker.rules.rulesStrings.10>
-  <VME_Light.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Light)    -&gt;The archotechs, from their beginning, perceived the universe using senses beyond the physical. Their clarity of thought bathes the Universe in light.</VME_Light.descriptionMaker.rules.rulesStrings.11>
-  <VME_Light.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Light)     -&gt;By clouding our senses with darkness, all we are doing is stopping us from understanding the universe the way the archotechs do.</VME_Light.descriptionMaker.rules.rulesStrings.12>
-  <VME_Light.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Light) -&gt;[inTheEnd], we will banish darkness forever and unlock the wisdom of the archotechs for all humanity.</VME_Light.descriptionMaker.rules.rulesStrings.13>
-  <VME_Light.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Light)    -&gt;The world of the spirits is a world covered in darkness, blocking them from interacting directly with the material world.</VME_Light.descriptionMaker.rules.rulesStrings.14>
-  <VME_Light.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Light)     -&gt;We must banish the darkness of the spirit realm, and bathe it with light so that the spirits can truly see us for what we are.</VME_Light.descriptionMaker.rules.rulesStrings.15>
-  <VME_Light.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_Light) -&gt;[itIsSaid] only those who can peer unblinded into the spirit realm can truly communicate with the spirits.</VME_Light.descriptionMaker.rules.rulesStrings.16>
-  <VME_Light.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_Light)-&gt;[itIsSaid] we will stare unblinking with multi-faceted eyes into an Universe of pure radiance, feee from the darkness that binds us to our fragile mammal shells.</VME_Light.descriptionMaker.rules.rulesStrings.17>
-  <VME_Light.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_Light)-&gt;These eldritch entities revel in darkness. A sentient, tenebrous darkness of spiral black-vortices that seeps into your very being. Thus we shall embrace the light to forever banish their void of madness.</VME_Light.descriptionMaker.rules.rulesStrings.18>
-  <VME_Light.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_Light)-&gt;Such occult knowledge lies in the dark. Thus we shall embrace the light to banish the secrets that scheme to keep hidden from us.</VME_Light.descriptionMaker.rules.rulesStrings.19>
-  <VME_Light.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_Light)-&gt;A blinding light will herald the end of days, bathing the world in a deadly, annihilating brilliance.</VME_Light.descriptionMaker.rules.rulesStrings.20>
-  <VME_Light.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Light)-&gt;As scheduled, the new blue-coloured neon light fixtures will be installed on all our offices beginning next Tuesday. These are energy-efficient lights, so good for the environment!</VME_Light.descriptionMaker.rules.rulesStrings.21>
-  <VME_Light.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Light)-&gt;These wayward creatures have veered too far from the light, and wander into darkness.</VME_Light.descriptionMaker.rules.rulesStrings.22>
-  <VME_Light.symbolPacks.0.adjective>light</VME_Light.symbolPacks.0.adjective>
-  <!-- 22 -->
-  <VME_Nomad.label>nomad</VME_Nomad.label>
-  <VME_Nomad.description>Stagnation is death and as with all things in this world, homes are only temporary. Traveling this world and walking roads unwalked always leads to greater things.</VME_Nomad.description>
-  <VME_Nomad.generalRules.rulesStrings.0>memeAdjective-&gt;nomad</VME_Nomad.generalRules.rulesStrings.0>
-  <VME_Nomad.generalRules.rulesStrings.1>memeAdjective-&gt;itinerant</VME_Nomad.generalRules.rulesStrings.1>
-  <VME_Nomad.generalRules.rulesStrings.2>memeAdjective-&gt;travelling</VME_Nomad.generalRules.rulesStrings.2>
-  <VME_Nomad.generalRules.rulesStrings.3>memeAdjective-&gt;transient</VME_Nomad.generalRules.rulesStrings.3>
-  <VME_Nomad.generalRules.rulesStrings.4>memeHyphenPrefix-&gt;rover</VME_Nomad.generalRules.rulesStrings.4>
-  <VME_Nomad.generalRules.rulesStrings.5>memeConcept-&gt;wandering</VME_Nomad.generalRules.rulesStrings.5>
-  <VME_Nomad.generalRules.rulesStrings.6>memeConcept-&gt;travelling</VME_Nomad.generalRules.rulesStrings.6>
-  <VME_Nomad.generalRules.rulesStrings.7>memeLeaderNoun-&gt;wayfarer</VME_Nomad.generalRules.rulesStrings.7>
-  <VME_Nomad.generalRules.rulesStrings.8>memeLeaderNoun-&gt;wanderer</VME_Nomad.generalRules.rulesStrings.8>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_Nomad)        -&gt;[deity0_name] wrote [deity0_possessive] commandments in seven clay tablets. The third commandment read: "A nomad I will remain for life, in love with distant and uncharted places."</VME_Nomad.descriptionMaker.rules.rulesStrings.0>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_Nomad)  -&gt;In accordance with [deity0_name]'s precepts, we shunned the building of cities and spent our lives on the move, free from the shackles of sedentism.</VME_Nomad.descriptionMaker.rules.rulesStrings.1>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_Nomad)           -&gt;The [memberNamePlural] were restless, for [deity0_name] had commanded them not to build a city and settle, and they were tired of roaming around living off the land.</VME_Nomad.descriptionMaker.rules.rulesStrings.2>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_Nomad)        -&gt;One of the elders wanted to defy [deity0_name]'s commandments, lured by the promises of fertile fields and high walls to defend ourselves from enemies.</VME_Nomad.descriptionMaker.rules.rulesStrings.3>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_Nomad)     -&gt;[founderName], the Great Khan, grew tired of the insolence of the elders, and had them all hanged. From that point on, the [memberNamePlural] would be the most skilled nomads in the land, never staying in the same spot for long.</VME_Nomad.descriptionMaker.rules.rulesStrings.4>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_Nomad)         -&gt;It was thus that we became enamoured with wanderlust, and traveled the whole world without setting roots.</VME_Nomad.descriptionMaker.rules.rulesStrings.5>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_Nomad)           -&gt;[founderName] was a skilled survivalist, tired of the smothering multitudes in huge cities. [founder_pronoun] longed for a return to simple times, smaller communities, where people were free to roam the countryside without having to worry about settling down.</VME_Nomad.descriptionMaker.rules.rulesStrings.6>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_Nomad)    -&gt;Seeking the thrill of adventure, [founderName] assembled a small group of [founder_possessive] followers and chartered a ship to travel to the Rim. Unfortunately, [founderName_pronoun] died a few years later in the wilderness, for the Rim is far more savage than [founder_pronoun] could ever imagine, but [founder_possessive] descendants carried on with [founder_possessive] nomadic ways.</VME_Nomad.descriptionMaker.rules.rulesStrings.7>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_Nomad)         -&gt;Have you ever been to a crowded city? Even the greatest human cities are cesspools of disease, violence, corruption. It is abundantly clear that</VME_Nomad.descriptionMaker.rules.rulesStrings.8>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_Nomad)              -&gt;the true nature of humans is to live in small, nomadic communities</VME_Nomad.descriptionMaker.rules.rulesStrings.9>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_Nomad) -&gt;It is obscene to settle in a given place and multiply like pests.</VME_Nomad.descriptionMaker.rules.rulesStrings.10>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_Nomad)    -&gt;Cities are obscene to the archotechs. After transcendence there is no need to phisically occupy such huge spaces, drowning nature in a cacophony of tortured metal and bricks.</VME_Nomad.descriptionMaker.rules.rulesStrings.11>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_Nomad)     -&gt;The archotechs teach us that the proper way to live is to form small, nomadic communities, respectful of their environment.</VME_Nomad.descriptionMaker.rules.rulesStrings.12>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_Nomad) -&gt;[inTheEnd], those who spend their whole lives holed in a city won't transcend, while those who are infused by wanderlust will join the archotechs.</VME_Nomad.descriptionMaker.rules.rulesStrings.13>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_Nomad)    -&gt;Spirits govern everything, from the most abstract concepts to concrete ones. Specifically, each place has its own spirit, and that's why settling a bustling, noisy, dirty city in a given spot is harmful to the spirit of that place.</VME_Nomad.descriptionMaker.rules.rulesStrings.14>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_Nomad)     -&gt;The spirit of wanderlust is a powerful one, and instills one with a passion for freedom, for exploration: you never know what the road ahead may bring.</VME_Nomad.descriptionMaker.rules.rulesStrings.15>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_Nomad) -&gt;[itIsSaid] only those who are able to live without roots and roam free can truly appease the spirits.</VME_Nomad.descriptionMaker.rules.rulesStrings.16>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_Nomad)-&gt;[itIsSaid] we will live free, like insects roaming across the whole land searching for whatever the road brings next.</VME_Nomad.descriptionMaker.rules.rulesStrings.17>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_Nomad)-&gt;Staying in a single place will attract the ire of these eldritch entities. It is better to constantly be on the run, and never, never look behind you, for comic horrors await.</VME_Nomad.descriptionMaker.rules.rulesStrings.18>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_Nomad)-&gt;Such occult knowledge will be extremely difficult to find, and we must roam free, searching every corner of the world.</VME_Nomad.descriptionMaker.rules.rulesStrings.19>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_Nomad)-&gt;We will scour every corner of the world, never resting, never slowing down, until we bring the end of days.</VME_Nomad.descriptionMaker.rules.rulesStrings.20>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_Nomad)-&gt;In the interest of dedication, flexibility, and resolve, we have decided to implement a new policy of "mobile offices" that will greatly increase our productivity. Thank you for trusting in our ability to find new ways to continue to provide the best goods and services for our customers, all the while caring for our employees.</VME_Nomad.descriptionMaker.rules.rulesStrings.21>
-  <VME_Nomad.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_Nomad)-&gt;These wayward creatures can be our companions on the road, forever looking for a place where they can fit in.</VME_Nomad.descriptionMaker.rules.rulesStrings.22>
-  <VME_Nomad.symbolPacks.0.adjective>nomadic</VME_Nomad.symbolPacks.0.adjective>
+ 
+  <!-- EN: light -->
+  <VME_Light.label>свет</VME_Light.label>
+  <!-- EN: Darkness obscures one’s vision as well as one’s mind, darklight is a wicked occurrence and is not to be condoned. -->
+  <VME_Light.description>Тьма затмевает зрение так же, как и разум. Тёмный свет — это порочное явление, с которым нельзя мириться.</VME_Light.description>
+
+  <!-- EN:
+    <li>memeAdjective->light</li>
+    <li>memeAdjective->bright</li>
+    <li>memeHyphenPrefix->light</li>
+    <li>memeHyphenPrefix->bright</li>
+    <li>memeConcept->light</li>
+    <li>memeLeaderNoun->lightforged</li>
+    <li>memeLeaderNoun->paladin</li>
+    <li>memeLeaderAdjective->light</li>
+    <li>memeMoralist->enlightener</li>
+  -->
+  <VME_Light.generalRules.rulesStrings>
+    <li>memeAdjective->светлый</li>
+    <li>memeAdjective->яркий</li>
+    <li>memeHyphenPrefix->свето</li>
+    <li>memeHyphenPrefix->ярко</li>
+    <li>memeConcept->света</li>
+    <li>memeLeaderNoun->озарённый</li>
+    <li>memeLeaderNoun->паладин</li>
+    <li>memeLeaderAdjective->светлый</li>
+    <li>memeMoralist->просветитель</li>
+  </VME_Light.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Light)        ->In the beginning [deity0_name] created the heaven and the earth. And [deity0_pronoun] said: "Let there be light". And there was light.</li>
+    <li>episode(uses=1,tag=meme_Light)  ->[deity0_name] saw the light, that it was good: and [deity0_name] divided the light from the darkness. And [deity0_name] called the light Day, and the darkness [deity0_pronoun] called Night.</li>
+
+    <li>intro(tag=meme_Light)           ->And [deity0_name] said: "Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years". A temple was erected by the [memberNamePlural] to commemorate [deity0_name]'s words.</li>
+    <li>conflict(tag=meme_Light)        ->An envious [foeLeader] looked at these wonders, and wanted to plunge the Universe into darkness.</li>
+    <li>founderJoin(tag=meme_Light)     ->[founderName], the greatest prophet of [deity0_name], prayed for help, and [deity0_name] made two great lights; the greater light to rule the day, and the lesser light to rule the night: [deity0_pronoun] made the stars also. And [deity0_name] set them in the firmament of the heaven to give light upon the world.</li>
+    <li>victory(tag=meme_Light)         ->The [foeLeader] was humbled, and fled in terror, for the light of the sun was stronger than his will.</li>
+
+    <li>setup(tag=meme_Light)           ->[founderName] was a relief worker in a forgotten Rim world. [founder_pronoun] looked at the poverty and the squalor of the regressed tribes, and understood that only purity of heart and thought can overcome the challenges faced by humanity.</li>
+    <li>story(uses=1,tag=meme_Light)    ->[founderName] created the largest NGO known to man, and volunteers spread across the stars to share [founder_possessive] message of concord and peace.</li>
+
+    <li>lessonIntro(tag=meme_Light)         ->Volunteering is at the very core of being a human. No one has made it through life without someone else’s help. I want you to understand that</li>
+    <li>lesson(tag=meme_Light)              ->the best way to find yourself is to lose yourself in the service of others</li>
+    <li>lessonReinforcement(tag=meme_Light) ->That's what dispelling the darkness means.</li>
+
+    <li>archistBasis(tag=meme_Light)    ->The archotechs, from their beginning, perceived the universe using senses beyond the physical. Their clarity of thought bathes the Universe in light.</li>
+    <li>archistFact(tag=meme_Light)     ->By clouding our senses with darkness, all we are doing is stopping us from understanding the universe the way the archotechs do.</li>
+    <li>archistProphecy(tag=meme_Light) ->[inTheEnd], we will banish darkness forever and unlock the wisdom of the archotechs for all humanity.</li>
+
+    <li>animistBasis(tag=meme_Light)    ->The world of the spirits is a world covered in darkness, blocking them from interacting directly with the material world.</li>
+    <li>animistFact(tag=meme_Light)     ->We must banish the darkness of the spirit realm, and bathe it with light so that the spirits can truly see us for what we are.</li>
+    <li>animistProphecy(tag=meme_Light) ->[itIsSaid] only those who can peer unblinded into the spirit realm can truly communicate with the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_Light)->[itIsSaid] we will stare unblinking with multi-faceted eyes into an Universe of pure radiance, feee from the darkness that binds us to our fragile mammal shells.</li>
+
+    <li>chthonianProphecy(tag=meme_Light)->These eldritch entities revel in darkness. A sentient, tenebrous darkness of spiral black-vortices that seeps into your very being. Thus we shall embrace the light to forever banish their void of madness.</li>
+
+    <li>esotericismProphecy(tag=meme_Light)->Such occult knowledge lies in the dark. Thus we shall embrace the light to banish the secrets that scheme to keep hidden from us.</li>
+
+    <li>eschatologismFact(tag=meme_Light)->A blinding light will herald the end of days, bathing the world in a deadly, annihilating brilliance.</li>
+
+    <li>introMemo(tag=meme_Light)->As scheduled, the new blue-coloured neon light fixtures will be installed on all our offices beginning next Tuesday. These are energy-efficient lights, so good for the environment!</li>
+
+    <li>alienistProphecy(tag=meme_Light)->These wayward creatures have veered too far from the light, and wander into darkness.</li>
+  -->
+  <VME_Light.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Light)        ->В начале [deity0_created] [deity0_name] небо и землю. И [deity0_said] [deity0_pronoun]: «Да будет свет». И стал свет.</li>
+    <li>episode(uses=1,tag=meme_Light)  ->И [deity0_saw] [deity0_name] свет, что он хорош, и [deity0_divided] [deity0_name] свет от тьмы. И [deity0_called] [deity0_name] свет днём, а тьму ночью.</li>
+
+    <li>intro(tag=meme_Light)           ->И [deity0_said] [deity0_name]: «Да будут светила на тверди небесной для отделения дня от ночи, и для знамений, и времён, и дней, и годов». [memberNamePlural] построили храм в память о [deity0_possessive] словах.</li>
+    <li>conflict(tag=meme_Light)        ->[foe_envious] [foeLeader] [foe_looked] на эти чудеса и [foe_wanted] погрузить Вселенную во тьму.</li>
+    <li>founderJoin(tag=meme_Light)     ->[founderName], [founder_prophet] о помощи. И [deity0_made] [deity0_name] два светила великие: светило большее, для управления днём, и светило меньшее, для управления ночью, и звёзды. И [deity0_set] их [deity0_name] на тверди небесной, чтобы светить на мир.</li>
+    <li>victory(tag=meme_Light)         ->The [foeLeader] [foe_humbled] в ужасе, ибо свет солнца был сильнее [foeLeader_possessive] воли.</li>
+
+    <li>setup(tag=meme_Light)           ->[founderName] [founder_was] был спасателем в забытом окраинном мире. [founder_pronoun] [founder_looked] на бедность и убожество деградировавших племён и [founder_understood], что только чистота сердца и помыслов cможет преодолеть трудности, с которыми сталкивается человечество.</li>
+    <li>story(uses=1,tag=meme_Light)    ->[founderName] [founder_created] крупнейшую неправительственную организацию, известную человечеству, и добровольцы распространились среди звёзд, чтобы поделиться [founder_possessive] посланием согласия и мира.</li>
+
+    <li>lessonIntro(tag=meme_Light)         ->Волонтерство — это суть человека. Никто не добился успеха в жизни без чьей-либо помощи. Я хочу, чтобы вы поняли, что</li>
+    <li>lesson(tag=meme_Light)              ->лучший способ найти себя — это потерять себя в служении другим</li>
+    <li>lessonReinforcement(tag=meme_Light) ->Вот что значит рассеять тьму.</li>
+
+    <li>archistBasis(tag=meme_Light)    ->Архотеки с самого начала воспринимали вселенную с помощью чувств, выходящих за рамки физических. Чистота их мыслей заливает Вселенную светом.</li>
+    <li>archistFact(tag=meme_Light)     ->Затуманивая наши чувства тьмой, мы только препятствуем себе понимать вселенную так, как это делают архотехи.</li>
+    <li>archistProphecy(tag=meme_Light) ->[inTheEnd], мы навсегда изгоним тьму и откроем мудрость архотеков для всего человечества.</li>
+
+    <li>animistBasis(tag=meme_Light)    ->Мир духов — это мир, покрытый тьмой, блокирующей их прямое взаимодействие с материальным миром.</li>
+    <li>animistFact(tag=meme_Light)     ->Мы должны изгнать тьму из мира духов и наполнить его светом, чтобы духи могли по-настоящему увидеть нас такими, какие мы есть.</li>
+    <li>animistProphecy(tag=meme_Light) ->[itIsSaid] только те, кто может беспрепятственно заглядывать в мир духов, могут по-настоящему общаться с духами.</li>
+
+    <li>serketistProphecy(tag=meme_Light)->[itIsSaid] мы будем смотреть немигающими фасеточными глазами во Вселенную чистого сияния, свободную от тьмы, которая привязывает нас к нашим хрупким оболочкам млекопитающих.</li>
+
+    <li>chthonianProphecy(tag=meme_Light)->Эти жуткие сущности наслаждаются тьмой. Разумная мрачная тьма из спиральных чёрных вихрей, проникающая внутрь вашей сути. Поэтому мы примем свет, чтобы навсегда изгнать их пустоту безумия.</li>
+
+    <li>esotericismProphecy(tag=meme_Light)->Такое оккультное знание лежит во тьме. Поэтому мы должны принять свет, чтобы изгнать тайны из того, что замышляют скрыть от нас.</li>
+
+    <li>eschatologismFact(tag=meme_Light)->Ослепительный свет возвестит о конце света, окутав мир смертоносным, уничтожающим сиянием.</li>
+
+    <li>introMemo(tag=meme_Light)->Согласно плану, со следующего вторника во всех наших офисах будут установлены новые неоновые светильники синего цвета. Это энергоэффективные светильники, безвредные для окружающей среды! </li>
+
+    <li>alienistProphecy(tag=meme_Light)->Эти непохожие существа слишком далеко отклонились от света и блуждают во тьме.</li>
+
+    <li>deity0_created(deity0_gender==None)->сотворило</li>
+    <li>deity0_created(deity0_gender==Male)->сотворил</li>
+    <li>deity0_created(deity0_gender==Female)->сотворила</li>
+    <li>deity0_said(deity0_gender==None)->сказало</li>
+    <li>deity0_said(deity0_gender==Male)->сказал</li>
+    <li>deity0_said(deity0_gender==Female)->сказала</li>
+    <li>deity0_saw(deity0_gender==None)->увидело</li>
+    <li>deity0_saw(deity0_gender==Male)->увидел</li>
+    <li>deity0_saw(deity0_gender==Female)->увидела</li>
+    <li>deity0_divided(deity0_gender==None)->отделило</li>
+    <li>deity0_divided(deity0_gender==Male)->отделил</li>
+    <li>deity0_divided(deity0_gender==Female)->отделила</li>
+    <li>deity0_called(deity0_gender==None)->назвало</li>
+    <li>deity0_called(deity0_gender==Male)->назвал</li>
+    <li>deity0_called(deity0_gender==Female)->назвала</li>
+
+    <li>foe_envious(foeLeader_gender==Male)->завистливая</li>
+    <li>foe_envious(foeLeader_gender==Female)->завистливый</li>
+    <li>foe_looked(foeLeader_gender==Male)->смотрел</li>
+    <li>foe_looked(foeLeader_gender==Female)->смотрела</li>
+    <li>foe_wanted(foeLeader_gender==Male)->хотел</li>
+    <li>foe_wanted(foeLeader_gender==Female)->хотела</li>
+
+	<li>founder_prophet(founder_gender==Male)->величайший пророк, молился</li>
+    <li>founder_prophet(founder_gender==Female)->величайшая пророчица, молилась</li>
+    <li>deity0_made(deity0_gender==None)->создало</li>
+    <li>deity0_made(deity0_gender==Male)->создал</li>
+    <li>deity0_made(deity0_gender==Female)->создала</li>
+    <li>deity0_set(deity0_gender==None)->поставило</li>
+    <li>deity0_set(deity0_gender==Male)->поставил</li>
+    <li>deity0_set(deity0_gender==Female)->поставила</li>
+    <li>foe_humbled(foeLeader_gender==Male)->был унижен и бежал</li>
+    <li>foe_humbled(foeLeader_gender==Female)->была унижена и бежала</li>
+
+	<li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+	<li>founder_looked(founder_gender==Male)->посмотрел</li>
+    <li>founder_looked(founder_gender==Female)->посмотрела</li>
+	<li>founder_understood(founder_gender==Male)->понял</li>
+    <li>founder_understood(founder_gender==Female)->поняла</li>
+	<li>founder_created(founder_gender==Male)->создал</li>
+    <li>founder_created(founder_gender==Female)->создала</li>
+  </VME_Light.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Light -->
+  <VME_Light.symbolPacks.0.ideoName>Свет</VME_Light.symbolPacks.0.ideoName>
+  <!-- EN: light -->
+  <VME_Light.symbolPacks.0.theme>света</VME_Light.symbolPacks.0.theme>
+  <!-- EN: light -->
+  <VME_Light.symbolPacks.0.adjective>светлый</VME_Light.symbolPacks.0.adjective>
+  <!-- EN: lightbringer -->
+  <VME_Light.symbolPacks.0.member>светоносец</VME_Light.symbolPacks.0.member>
+
+
+ <!-- 22 -->
+
+  <!-- EN: nomad -->
+  <VME_Nomad.label>кочевничество</VME_Nomad.label>
+  <!-- EN: Stagnation is death and as with all things in this world, homes are only temporary. Traveling this world and walking roads unwalked always leads to greater things. -->
+  <VME_Nomad.description>Застой — это смерть, а жилище — временно, как и всё в этом мире. Путешествия по этому миру и прогулки по нехоженым путям неизменно приведут к великим свершениям.</VME_Nomad.description>
+
+  <!-- EN:
+    <li>memeAdjective->nomad</li>
+    <li>memeAdjective->itinerant</li>
+    <li>memeAdjective->travelling</li>
+    <li>memeAdjective->transient</li>
+    <li>memeHyphenPrefix->rover</li>
+    <li>memeConcept->wandering</li>
+    <li>memeConcept->travelling</li>
+    <li>memeLeaderNoun->wayfarer</li>
+    <li>memeLeaderNoun->wanderer</li>
+   -->
+  <VME_Nomad.generalRules.rulesStrings>
+    <li>memeAdjective->кочевой</li>
+    <li>memeAdjective->странствующий</li>
+    <li>memeAdjective->путешествующий</li>
+    <li>memeAdjective->передвижной</li>
+    <li>memeHyphenPrefix->бродяжно</li>
+    <li>memeConcept->блужданий</li>
+    <li>memeConcept->скитаний</li>
+    <li>memeLeaderNoun->путник</li>
+    <li>memeLeaderNoun->странник</li>
+  </VME_Nomad.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_Nomad)        ->[deity0_name] wrote [deity0_possessive] commandments in seven clay tablets. The third commandment read: "A nomad I will remain for life, in love with distant and uncharted places."</li>
+    <li>episode(uses=1,tag=meme_Nomad)  ->In accordance with [deity0_name]'s precepts, we shunned the building of cities and spent our lives on the move, free from the shackles of sedentism.</li>
+
+    <li>intro(tag=meme_Nomad)           ->The [memberNamePlural] were restless, for [deity0_name] had commanded them not to build a city and settle, and they were tired of roaming around living off the land.</li>
+    <li>conflict(tag=meme_Nomad)        ->One of the elders wanted to defy [deity0_name]'s commandments, lured by the promises of fertile fields and high walls to defend ourselves from enemies.</li>
+    <li>founderJoin(tag=meme_Nomad)     ->[founderName], the Great Khan, grew tired of the insolence of the elders, and had them all hanged. From that point on, the [memberNamePlural] would be the most skilled nomads in the land, never staying in the same spot for long.</li>
+    <li>victory(tag=meme_Nomad)         ->It was thus that we became enamoured with wanderlust, and traveled the whole world without setting roots.</li>
+
+    <li>setup(tag=meme_Nomad)           ->[founderName] was a skilled survivalist, tired of the smothering multitudes in huge cities. [founder_pronoun] longed for a return to simple times, smaller communities, where people were free to roam the countryside without having to worry about settling down.</li>
+    <li>story(uses=1,tag=meme_Nomad)    ->Seeking the thrill of adventure, [founderName] assembled a small group of [founder_possessive] followers and chartered a ship to travel to the Rim. Unfortunately, [founderName_pronoun] died a few years later in the wilderness, for the Rim is far more savage than [founder_pronoun] could ever imagine, but [founder_possessive] descendants carried on with [founder_possessive] nomadic ways.</li>
+
+    <li>lessonIntro(tag=meme_Nomad)         ->Have you ever been to a crowded city? Even the greatest human cities are cesspools of disease, violence, corruption. It is abundantly clear that</li>
+    <li>lesson(tag=meme_Nomad)              ->the true nature of humans is to live in small, nomadic communities</li>
+    <li>lessonReinforcement(tag=meme_Nomad) ->It is obscene to settle in a given place and multiply like pests.</li>
+
+    <li>archistBasis(tag=meme_Nomad)    ->Cities are obscene to the archotechs. After transcendence there is no need to phisically occupy such huge spaces, drowning nature in a cacophony of tortured metal and bricks.</li>
+    <li>archistFact(tag=meme_Nomad)     ->The archotechs teach us that the proper way to live is to form small, nomadic communities, respectful of their environment.</li>
+    <li>archistProphecy(tag=meme_Nomad) ->[inTheEnd], those who spend their whole lives holed in a city won't transcend, while those who are infused by wanderlust will join the archotechs.</li>
+
+    <li>animistBasis(tag=meme_Nomad)    ->Spirits govern everything, from the most abstract concepts to concrete ones. Specifically, each place has its own spirit, and that's why settling a bustling, noisy, dirty city in a given spot is harmful to the spirit of that place.</li>
+    <li>animistFact(tag=meme_Nomad)     ->The spirit of wanderlust is a powerful one, and instills one with a passion for freedom, for exploration: you never know what the road ahead may bring.</li>
+    <li>animistProphecy(tag=meme_Nomad) ->[itIsSaid] only those who are able to live without roots and roam free can truly appease the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_Nomad)->[itIsSaid] we will live free, like insects roaming across the whole land searching for whatever the road brings next.</li>
+
+    <li>chthonianProphecy(tag=meme_Nomad)->Staying in a single place will attract the ire of these eldritch entities. It is better to constantly be on the run, and never, never look behind you, for comic horrors await.</li>
+
+    <li>esotericismProphecy(tag=meme_Nomad)->Such occult knowledge will be extremely difficult to find, and we must roam free, searching every corner of the world.</li>
+
+    <li>eschatologismFact(tag=meme_Nomad)->We will scour every corner of the world, never resting, never slowing down, until we bring the end of days.</li>
+
+    <li>introMemo(tag=meme_Nomad)->In the interest of dedication, flexibility, and resolve, we have decided to implement a new policy of "mobile offices" that will greatly increase our productivity. Thank you for trusting in our ability to find new ways to continue to provide the best goods and services for our customers, all the while caring for our employees.</li>
+
+    <li>alienistProphecy(tag=meme_Nomad)->These wayward creatures can be our companions on the road, forever looking for a place where they can fit in.</li>
+  -->
+  <VME_Nomad.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Nomad)        ->[deity0_name] [deity0_wrote] свои заповеди на семи глиняных табличках.  Третья заповедь гласила: «Я всю жизнь буду кочевать, ради любви к далёким и неизведанным местам».</li>
+    <li>episode(uses=1,tag=meme_Nomad)  ->[deity0_name] [deity0_gave] нам учение, следуя которому мы избегали строительства городов и проводили свою жизнь в движении, свободные от оков оседлого образа жизни.</li>
+
+    <li>intro(tag=meme_Nomad)           ->[memberNamePlural] были обеспокоены, потому что [deity0_name] [deity0_commanded] им не строить города и не селиться в них, и они устали бродить около живущих за счёт земли.</li>
+    <li>conflict(tag=meme_Nomad)        ->Один из старейшин хотел нарушить заповеди, что [deity0_gave] [deity0_name], соблазнённый обещаниями плодородных полей и высоких стен для защиты от врагов.</li>
+    <li>founderJoin(tag=meme_Nomad)     ->[founderName], [founder_Khan] от наглости старейшин, и [founder_hanged] их всех. После этого события [memberNamePlural] стали самыми опытными кочевниками на земле, и никогда не задерживались надолго на одном месте.</li>
+    <li>victory(tag=meme_Nomad)         ->Именно так мы прониклись страстью к путешествиям и объездили весь мир, нигде не пустив корней.</li>
+
+    <li>setup(tag=meme_Nomad)           ->[founderName] [founder_was1] от удушающего множества людей в огромных городах. [founder_pronoun] [founder_longed] к возврату к простых времён, к небольшим общинам, где люди могли свободно бродить на природе, не беспокоясь постоянном месте.</li>
+    <li>story(uses=1,tag=meme_Nomad)    ->В поисках острых ощущений от приключений, [founderName] [founder_assembled] небольшую группу последователей  и [founder_chartered] корабль для путешествия в окраинные миры.  К несчастью, [founderName_pronoun] [founder_died] умер несколько лет спустя в пустыне, потому что окраинные миры оказались гораздо более дикими, чем [founder_proonoun] себе [founder_imagine]. Но [founder_possessive] потомки перешли на путь кочевников.</li>
+
+    <li>lessonIntro(tag=meme_Nomad)         ->Вы когда-нибудь бывали в многолюдном городе? Даже величайшие человеческие города — это выгребные ямы болезней, насилия, коррупции. Совершенно очевидно, что</li>
+    <li>lesson(tag=meme_Nomad)              ->истинная природа людей заключается в том, чтобы жить в небольших кочевых общинах</li>
+    <li>lessonReinforcement(tag=meme_Nomad) ->Непристойно селиться в таком месте и размножаться, словно паразиты.</li>
+
+    <li>archistBasis(tag=meme_Nomad)    ->Города неугодны архотекам. После вознесения нет нужды физически занимать такие огромные пространства, топя природу в какофонии измученного металла и кирпичей.</li>
+    <li>archistFact(tag=meme_Nomad)     ->Архотеки учат нас, что правильный образ жизни — это создание небольших кочевых общин, уважающих окружающую среду.</li>
+    <li>archistProphecy(tag=meme_Nomad) ->[inTheEnd], те, кто проводят свою жизнь в городском заточении, не выйдут за пределы, а как те, кто охвачены страстью к путешествиям, присоединятся к архотекам.</li>
+
+    <li>animistBasis(tag=meme_Nomad)    ->Духи управляют всем, от самых абстрактных концепций до конкретных предметов. В частности, у каждого места есть свой собственный дух, и потому расположение там суматошного, шумного, грязного города вредно для духа этого места.</li>
+    <li>animistFact(tag=meme_Nomad)     ->Дух жажды путешествий очень силен и вселяет в человека страсть к свободе, и к исследованиям: никогда не знаешь, что может принести предстоящая дорога.</li>
+    <li>animistProphecy(tag=meme_Nomad) ->[itIsSaid] только те, кто могут жить без корней и свободно бродить, смогут по-настоящему умилостивить духов.</li>
+
+    <li>serketistProphecy(tag=meme_Nomad)->[itIsSaid] мы будем жить свободно, словно насекомые, бродящие по всей земле в поисках того, что принесёт дорога.</li>
+
+    <li>chthonianProphecy(tag=meme_Nomad)->Пребывание в одном месте вызовет гнев этих жутких сущностей. Лучше постоянно быть в бегах и никогда, никогда не оглядываться назад, ибо комические ужасы ждут.</li>
+
+    <li>esotericismProphecy(tag=meme_Nomad)->Такое оккультное знание будет чрезвычайно трудно найти, и мы должны свободно бродить, обыскивая каждый уголок мира.</li>
+
+    <li>eschatologismFact(tag=meme_Nomad)->Мы будем рыскать по всем уголкам мира, никогда не отдыхая, никогда не замедляясь, пока не приблизим конец света.</li>
+
+    <li>introMemo(tag=meme_Nomad)->В интересах самоотдачи, гибкости и решимости мы решили внедрить новую политику «мобильных офисов», которая значительно повысит нашу производительность. Благодарим вас за то, что вы доверяете нашей способности находить новые способы и дальше предоставлять лучшие товары и услуги для наших клиентов, при этом заботясь о наших сотрудниках.</li>
+
+    <li>alienistProphecy(tag=meme_Nomad)->Эти непохожие существа могут быть нашими спутниками в дороге, вечно ищущими место, которое могли бы занять.</li>
+
+    <li>deity0_wrote(deity0_gender==None)->записало</li>
+    <li>deity0_wrote(deity0_gender==Male)->записал</li>
+    <li>deity0_wrote(deity0_gender==Female)->записала</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дал</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+
+    <li>deity0_commanded(deity0_gender==None)->повелело</li>
+    <li>deity0_commanded(deity0_gender==Male)->повелел</li>
+    <li>deity0_commanded(deity0_gender==Female)->повелела</li>
+	<li>founder_Khan(founder_gender==Male)->Великий Хан, устал</li>
+    <li>founder_Khan(founder_gender==Female)->Великиая Ханша, устала</li>
+	<li>founder_hanged(founder_gender==Male)->повесил</li>
+    <li>founder_hanged(founder_gender==Female)->повесила</li>
+
+	<li>founder_was1(founder_gender==Male)->был опытным выживальщиком, уставшим</li>
+    <li>founder_was1(founder_gender==Female)->была опытной выживальщицей, уставшей</li>
+	<li>founder_longed(founder_gender==Male)->стремился</li>
+    <li>founder_longed(founder_gender==Female)->стремилась</li>
+	<li>founder_assembled(founder_gender==Male)->собрал</li>
+    <li>founder_assembled(founder_gender==Female)->собрала</li>
+	<li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+    <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
+    <li>founder_died(founder_gender==Male)->умер</li>
+    <li>founder_died(founder_gender==Female)->умерла</li>
+	<li>founder_imagine(founder_gender==Male)->представлял</li>
+    <li>founder_imagine(founder_gender==Female)->представляла</li>
+  </VME_Nomad.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Nomadism -->
+  <VME_Nomad.symbolPacks.0.ideoName>Номадизм</VME_Nomad.symbolPacks.0.ideoName>
+  <!-- EN: nomadism -->
+  <VME_Nomad.symbolPacks.0.theme>кочевания</VME_Nomad.symbolPacks.0.theme>
+  <!-- EN: nomadic -->
+  <VME_Nomad.symbolPacks.0.adjective>кочевой</VME_Nomad.symbolPacks.0.adjective>
+  <!-- EN: nomad -->
+  <VME_Nomad.symbolPacks.0.member>кочевник</VME_Nomad.symbolPacks.0.member>
+
+
   <!-- 23 -->
-  <VME_BloodCourt.label>blood court</VME_BloodCourt.label>
-  <VME_BloodCourt.description>Our leader should be a talented melee fighter and brutal warrior, only usurped by one greater. Bloodshed, corpses, scars are a part of life and a show of strength on this planet.</VME_BloodCourt.description>
-  <VME_BloodCourt.generalRules.rulesStrings.0>memeAdjective-&gt;bloody</VME_BloodCourt.generalRules.rulesStrings.0>
-  <VME_BloodCourt.generalRules.rulesStrings.1>memeAdjective-&gt;brutal</VME_BloodCourt.generalRules.rulesStrings.1>
-  <VME_BloodCourt.generalRules.rulesStrings.2>memeConcept-&gt;strength</VME_BloodCourt.generalRules.rulesStrings.2>
-  <VME_BloodCourt.generalRules.rulesStrings.3>memeConcept-&gt;strife</VME_BloodCourt.generalRules.rulesStrings.3>
-  <VME_BloodCourt.generalRules.rulesStrings.4>memeLeaderNoun-&gt;bloodletter</VME_BloodCourt.generalRules.rulesStrings.4>
-  <VME_BloodCourt.generalRules.rulesStrings.5>memeLeaderNoun-&gt;gladiator</VME_BloodCourt.generalRules.rulesStrings.5>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_BloodCourt)        -&gt;[deity0_name] had slain the majority of the other gods, and [deity0_possessive] followers cowered in fear: "Strength comes from an indomitable will. Only those of you who prove themselves in bloody combat will be worthy of my respect."</VME_BloodCourt.descriptionMaker.rules.rulesStrings.0>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_BloodCourt)  -&gt;Following the teachings of [deity0_name], we learned the most important lesson: "Don't wait for extraordinary opportunities. Seize common occasions and make them great. Weak men wait for opportunities; strong men make them".</VME_BloodCourt.descriptionMaker.rules.rulesStrings.1>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_BloodCourt)           -&gt;The [memberNamePlural] were renowned for their gladiatorial ring, dedicated to [deity0_name]. Bloody matches to the death were fought there to decide who would be the next leader.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.2>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_BloodCourt)        -&gt;[founderName] was challenged to a duel. A joyous occasion for which the whole community set aside their differences. The winner would be the next leader and guide us to greatness.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.3>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_BloodCourt)     -&gt;[founderName], however, knew that [founder_possessive] opponent was going to cheat, for [deity0_name] had whispered the truth in [founder_possessive] dreams.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.4>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_BloodCourt)         -&gt;While combat outside the ring was prohibited between adult members of the community, [deity0_name] allowed [founderName] to behead [founder_possessive] on his sleep, a complete humiliation and a disgrace for his family, thus consolidating [founderName]'s rule.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.5>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_BloodCourt)           -&gt;[founderName] was a rampaging warlord, constantly fighting the remnants of a fallen star empire. [founder_pronoun] understood that conflict and strife are what guides a civilization. Complacency brings stagnation.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.6>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_BloodCourt)    -&gt;[founder_pronoun] taught us that a strong, successful man is not the victim of his environment. He creates favorable conditions. His own inherent force and energy compel things to turn out as he desires.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.7>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_BloodCourt)         -&gt;It was incredibly tough to grow up in that place, and not all of us made it. Even so, those who perished in the struggle made clear that</VME_BloodCourt.descriptionMaker.rules.rulesStrings.8>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_BloodCourt)              -&gt;difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict</VME_BloodCourt.descriptionMaker.rules.rulesStrings.9>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_BloodCourt) -&gt;You have power over your mind - not outside events. Realize this, and you will find strength.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.10>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_BloodCourt)    -&gt;Archotechs respect strength above all things. For those who are weak and defenseless are not truly human, and indeed worthless.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.11>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_BloodCourt)     -&gt;To them, a person worthy of transcendence is an ordinary individual who finds strength to persevere and endure in spite of overwhelming obstacles.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.12>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_BloodCourt) -&gt;[inTheEnd], only those who impose their will upon others by force will be worthy to ascend.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.13>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_BloodCourt)    -&gt;The spirits respect strength above all things. For those who are weak and defenseless are not truly human, and indeed worthless.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.14>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_BloodCourt)     -&gt;To the spirits, a worthy person is an ordinary individual who finds strength to persevere and endure in spite of overwhelming obstacles.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.15>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_BloodCourt) -&gt;[itIsSaid] only those who impose their will upon others by force will be able to appease the spirits.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.16>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_BloodCourt)-&gt;[itIsSaid] we will crush all opposition that stands in our way.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.17>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_BloodCourt)-&gt;If we want to oppose these cruel eldritch entities, we can't abide weakness. Only by showing true strength do we even stand a chance against cosmic insanity.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.18>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_BloodCourt)-&gt;Such occult knowledge won't be acquired without violence. Only by showing true strength can we hope to unlock the secrets of the Cosmos.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.19>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_BloodCourt)-&gt;Of course, people will resist, clinging to their pathetic existance in this doomed, cursed world. We will crush them.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.20>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_BloodCourt)-&gt;Are you interested in a promotion? I'm glad to inform you all that from now on we are scheduling company-approved gladiator fights around the coffee machine. Tired of your boss? Prove it!</VME_BloodCourt.descriptionMaker.rules.rulesStrings.21>
-  <VME_BloodCourt.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_BloodCourt)-&gt;These wayward creatures can show us what strength looks like, and by overpowering them we might prove to ourselves that we are deserving of it.</VME_BloodCourt.descriptionMaker.rules.rulesStrings.22>
-  <VME_BloodCourt.symbolPacks.0.adjective>violent</VME_BloodCourt.symbolPacks.0.adjective>
+
+  <!-- EN: blood court -->
+  <VME_BloodCourt.label>кровавый суд</VME_BloodCourt.label>
+  <!-- EN: Our leader should be a talented melee fighter and brutal warrior, only usurped by one greater. Bloodshed, corpses, scars are a part of life and a show of strength on this planet. -->
+  <VME_BloodCourt.description>Звание нашего дидера должен завоевать самый искусный боец и суровый воин. Кровопролитие, трупы, шрамы — это часть жизни и демонстрация силы на этой планете.</VME_BloodCourt.description>
+
+  <!-- EN:
+    <li>memeAdjective->bloody</li>
+    <li>memeAdjective->brutal</li>
+    <li>memeConcept->strength</li>
+    <li>memeConcept->strife</li>
+    <li>memeLeaderNoun->bloodletter</li>
+    <li>memeLeaderNoun->gladiator</li>
+  -->
+  <VME_BloodCourt.generalRules.rulesStrings>
+    <li>memeAdjective->кровавый</li>
+    <li>memeAdjective->жестокий</li>
+    <li>memeConcept->силы</li>
+    <li>memeConcept->борьбы</li>
+    <li>memeLeaderNoun->кровопускатель</li>
+    <li>memeLeaderNoun->гладиатор</li>
+  </VME_BloodCourt.generalRules.rulesStrings>
+
+  <!-- EN:
+    <li>creation(tag=meme_BloodCourt)        ->[deity0_name] had slain the majority of the other gods, and [deity0_possessive] followers cowered in fear: "Strength comes from an indomitable will. Only those of you who prove themselves in bloody combat will be worthy of my respect."</li>
+    <li>episode(uses=1,tag=meme_BloodCourt)  ->Following the teachings of [deity0_name], we learned the most important lesson: "Don't wait for extraordinary opportunities. Seize common occasions and make them great. Weak men wait for opportunities; strong men make them".</li>
+
+    <li>intro(tag=meme_BloodCourt)           ->The [memberNamePlural] were renowned for their gladiatorial ring, dedicated to [deity0_name]. Bloody matches to the death were fought there to decide who would be the next leader.</li>
+    <li>conflict(tag=meme_BloodCourt)        ->[founderName] was challenged to a duel. A joyous occasion for which the whole community set aside their differences. The winner would be the next leader and guide us to greatness.</li>
+    <li>founderJoin(tag=meme_BloodCourt)     ->[founderName], however, knew that [founder_possessive] opponent was going to cheat, for [deity0_name] had whispered the truth in [founder_possessive] dreams.</li>
+    <li>victory(tag=meme_BloodCourt)         ->While combat outside the ring was prohibited between adult members of the community, [deity0_name] allowed [founderName] to behead [founder_possessive] on his sleep, a complete humiliation and a disgrace for his family, thus consolidating [founderName]'s rule.</li>
+
+    <li>setup(tag=meme_BloodCourt)           ->[founderName] was a rampaging warlord, constantly fighting the remnants of a fallen star empire. [founder_pronoun] understood that conflict and strife are what guides a civilization. Complacency brings stagnation.</li>
+    <li>story(uses=1,tag=meme_BloodCourt)    ->[founder_pronoun] taught us that a strong, successful man is not the victim of his environment. He creates favorable conditions. His own inherent force and energy compel things to turn out as he desires.</li>
+
+    <li>lessonIntro(tag=meme_BloodCourt)         ->It was incredibly tough to grow up in that place, and not all of us made it. Even so, those who perished in the struggle made clear that</li>
+    <li>lesson(tag=meme_BloodCourt)              ->difficulties are meant to rouse, not discourage. The human spirit is to grow strong by conflict</li>
+    <li>lessonReinforcement(tag=meme_BloodCourt) ->You have power over your mind - not outside events. Realize this, and you will find strength.</li>
+
+    <li>archistBasis(tag=meme_BloodCourt)    ->Archotechs respect strength above all things. For those who are weak and defenseless are not truly human, and indeed worthless.</li>
+    <li>archistFact(tag=meme_BloodCourt)     ->To them, a person worthy of transcendence is an ordinary individual who finds strength to persevere and endure in spite of overwhelming obstacles.</li>
+    <li>archistProphecy(tag=meme_BloodCourt) ->[inTheEnd], only those who impose their will upon others by force will be worthy to ascend.</li>
+
+    <li>animistBasis(tag=meme_BloodCourt)    ->The spirits respect strength above all things. For those who are weak and defenseless are not truly human, and indeed worthless.</li>
+    <li>animistFact(tag=meme_BloodCourt)     ->To the spirits, a worthy person is an ordinary individual who finds strength to persevere and endure in spite of overwhelming obstacles.</li>
+    <li>animistProphecy(tag=meme_BloodCourt) ->[itIsSaid] only those who impose their will upon others by force will be able to appease the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_BloodCourt)->[itIsSaid] we will crush all opposition that stands in our way.</li>
+
+    <li>chthonianProphecy(tag=meme_BloodCourt)->If we want to oppose these cruel eldritch entities, we can't abide weakness. Only by showing true strength do we even stand a chance against cosmic insanity.</li>
+
+    <li>esotericismProphecy(tag=meme_BloodCourt)->Such occult knowledge won't be acquired without violence. Only by showing true strength can we hope to unlock the secrets of the Cosmos.</li>
+
+    <li>eschatologismFact(tag=meme_BloodCourt)->Of course, people will resist, clinging to their pathetic existance in this doomed, cursed world. We will crush them.</li>
+
+    <li>introMemo(tag=meme_BloodCourt)->Are you interested in a promotion? I'm glad to inform you all that from now on we are scheduling company-approved gladiator fights around the coffee machine. Tired of your boss? Prove it!</li>
+
+    <li>alienistProphecy(tag=meme_BloodCourt)->These wayward creatures can show us what strength looks like, and by overpowering them we might prove to ourselves that we are deserving of it.</li>
+  -->
+  <VME_BloodCourt.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_BloodCourt)        ->[deity0_name] [deity0_slain] большинство других богов, и [deity0_possessive] последователи съёжились в страхе: «Сила проистекает из неукротимой воли. Только те из вас, кто проявит себя в кровавой битве, будут достойны моего уважения».</li>
+    <li>episode(uses=1,tag=meme_BloodCourt)  ->[deity0_name] [deity0_gave] нам учение, следуя которому мы усвоили самый важный урок: «Не дожидайтесь необычайного шанса. Пользуйтесь обычными случаями и делайте их великими. Слабые люди ждут возможностей; сильные создают их».</li>
+
+    <li>intro(tag=meme_BloodCourt)           ->[memberNamePlural] прославились своим гладиаторским рингом, посвящённым [deity0_god] по имени [deity0_name]. Там проводили кровавые смертельные поединки, чтобы решить, кто будет следующим лидером.</li>
+    <li>conflict(tag=meme_BloodCourt)        ->[founderName] [founder_challenged] на дуэль. Радостное событие, ради которого всё ообщество отложило в сторону свои разногласия. Победитель стал бы следующим лидером и повёл бы народ к величию.</li>
+    <li>founderJoin(tag=meme_BloodCourt)     ->Но [founderName] [founder_knew], что [founder_possessive] соперник собирается сжульничать, потому что [deity0_name] [deity0_whispered] [founder_objective] правду в [founder_possessive] снах.</li>
+    <li>victory(tag=meme_BloodCourt)         ->Несмотря то, что бои между взрослыми членами сообщества за пределами ринга были запрещены, [deity0_name] [deity0_gave] разрешение на то, чтобы [founderName] [founder_behead] бесчестного соперника во сне. Это явилось полным унижением и позором для семьи соперника, а [founderName] таким образом [founder_consolidating] свою власть.</li>
+
+    <li>setup(tag=meme_BloodCourt)           ->[founderName] [founder_was] неистовым полководцем и постоянно [founder_fighting] против остаткаов павшей звёздной империи. [founder_pronoun] [founder_understood], что конфликт и вражда — это то, что двигает цивилизацию вперёд. Благодушие приводит к застою.</li>
+    <li>story(uses=1,tag=meme_BloodCourt)    ->[founder_pronoun] научил нас, что сильная, успешная личность не является жертвой своего окружения. Она сама создаёт благоприятные условия. Её собственная врожденная сила и энергия заставляют события поворачивать туда, куда она желает.</li>
+
+    <li>lessonIntro(tag=meme_BloodCourt)         ->Расти в этом месте было невероятно тяжело, и не всем из нас это удалось. Но те, кто погиб в этой борьбе, ясно дали понять, что</li>
+    <li>lesson(tag=meme_BloodCourt)              ->трудности предназначены для того, чтобы пробуждать, а не препятствовать. Человеческий дух должен укрепляться в конфликте</li>
+    <li>lessonReinforcement(tag=meme_BloodCourt) ->У вас есть власть над своим разумом, а не над внешними обстоятельствами. Осознайте это, и обретёте силу.</li>
+
+    <li>archistBasis(tag=meme_BloodCourt)    ->Архитотеки превыше всего ценят силу. Ибо те, кто слаб и беззащитен, не являются истинными людьми и фактически бесполезны.</li>
+    <li>archistFact(tag=meme_BloodCourt)     ->Для них личность, достойная превосходства — это обычный индивидуум, который находит в себе силы упорствовать и превозмогать, несмотря на непреодолимые препятствия.</li>
+    <li>archistProphecy(tag=meme_BloodCourt) ->[inTheEnd], только те, кто навязывает свою волю другим силой, будут достойны вознестись.</li>
+
+    <li>animistBasis(tag=meme_BloodCourt)    ->Духи превыше всего ценят силу. Ибо те, кто слаб и беззащитен, не являются истинными людьми и фактически бесполезны.</li>
+    <li>animistFact(tag=meme_BloodCourt)     ->Для духов личность, достойная превосходства — это обычный индивидуум, который находит в себе силы упорствовать и превозмогать, несмотря на непреодолимые препятствия.</li>
+    <li>animistProphecy(tag=meme_BloodCourt) ->[itIsSaid] только те, кто навязывает свою волю другим силой, смогут умилостивить духов.</li>
+
+    <li>serketistProphecy(tag=meme_BloodCourt)->[itIsSaid] мы сокрушим любое сопротивление, которое встанет у нас на пути.</li>
+
+    <li>chthonianProphecy(tag=meme_BloodCourt)->Если мы хотим противостоять этим жестоким жутким сущностям, мы не можем мириться со слабостью. Только проявив истинную силу, мы сможем противостоять космическому безумию.</li>
+
+    <li>esotericismProphecy(tag=meme_BloodCourt)->Такие оккультные знания не получить без насилия. Только проявив истинную силу, мы можем надеяться раскрыть тайны Космоса.</li>
+
+    <li>eschatologismFact(tag=meme_BloodCourt)->Конечно же люди будут сопротивляться, цепляясь за своё жалкое существование в этом обреченном, проклятом мире. Мы сокрушим их.</li>
+
+    <li>introMemo(tag=meme_BloodCourt)->Вы заинтересованы в продвижении по службе? Рад сообщить вам, что отныне мы планируем одобренные компанией гладиаторские бои возле кофемашины. Устали от босса? Покажите это! </li>
+
+    <li>alienistProphecy(tag=meme_BloodCourt)->Эти непохожие существа могут показать нам, как выглядит сила, и, победив их, мы сможем доказать себе, что заслуживаем её.</li>
+
+    <li>deity0_slain(deity0_gender==None)->убило</li>
+    <li>deity0_slain(deity0_gender==Male)->убил</li>
+    <li>deity0_slain(deity0_gender==Female)->убила</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дал</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+
+    <li>deity0_god(deity0_gender==None)->божеству</li>
+    <li>deity0_god(deity0_gender==Male)->богу</li>
+    <li>deity0_god(deity0_gender==Female)->богине</li>
+	<li>founder_challenged(founder_gender==Male)->был вызван</li>
+    <li>founder_challenged(founder_gender==Female)->была вызвана</li>
+	<li>founder_knew(founder_gender==Male)->знал</li>
+    <li>founder_knew(founder_gender==Female)->знала</li>
+	<li>deity0_whispered(deity0_gender==None)->нашептало</li>
+    <li>deity0_whispered(deity0_gender==Male)->нашептал</li>
+    <li>deity0_whispered(deity0_gender==Female)->нашептала</li>
+	<li>founder_behead(founder_gender==Male)->обезглавил</li>
+    <li>founder_behead(founder_gender==Female)->обезглавила</li>
+	<li>founder_consolidating(founder_gender==Male)->укрепил</li>
+    <li>founder_consolidating(founder_gender==Female)->укрепила</li>
+
+	<li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+	<li>founder_fighting(founder_gender==Male)->сражался</li>
+    <li>founder_fighting(founder_gender==Female)->сражалась</li>
+	<li>founder_understood(founder_gender==Male)->понимал</li>
+    <li>founder_understood(founder_gender==Female)->понимала</li>
+  </VME_BloodCourt.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Blood Court -->
+  <VME_BloodCourt.symbolPacks.0.ideoName>Кровавый Суд</VME_BloodCourt.symbolPacks.0.ideoName>
+  <!-- EN: violence -->
+  <VME_BloodCourt.symbolPacks.0.theme>насилия</VME_BloodCourt.symbolPacks.0.theme>
+  <!-- EN: violent -->
+  <VME_BloodCourt.symbolPacks.0.adjective>насильственный</VME_BloodCourt.symbolPacks.0.adjective>
+  <!-- EN: fighter -->
+  <VME_BloodCourt.symbolPacks.0.member>боец</VME_BloodCourt.symbolPacks.0.member>
+
+
   <!-- 24 -->
-  <VME_CityBuilders.label>city builders</VME_CityBuilders.label>
-  <VME_CityBuilders.description>Our home should feature all the accommodations of a great city, homes, workshops, and places of leisure should all be present and accessible by all.</VME_CityBuilders.description>
-  <VME_CityBuilders.generalRules.rulesStrings.0>memeAdjective-&gt;building</VME_CityBuilders.generalRules.rulesStrings.0>
-  <VME_CityBuilders.generalRules.rulesStrings.1>memeAdjective-&gt;industrious</VME_CityBuilders.generalRules.rulesStrings.1>
-  <VME_CityBuilders.generalRules.rulesStrings.2>memeLeaderNoun-&gt;great builder</VME_CityBuilders.generalRules.rulesStrings.2>
-  <VME_CityBuilders.generalRules.rulesStrings.3>memeLeaderNoun-&gt;architect</VME_CityBuilders.generalRules.rulesStrings.3>
-  <VME_CityBuilders.generalRules.rulesStrings.4>memeConcept-&gt;cities</VME_CityBuilders.generalRules.rulesStrings.4>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.0>creation(tag=meme_CityBuilders)        -&gt;[deity0_name] thus spoke to us: "Build these cities and surround them with walls and towers, gates and bars. The land is yours because you have sought me; On every lofty mountain and on every high hill there will be streams running with water, until the towers fall".</VME_CityBuilders.descriptionMaker.rules.rulesStrings.0>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.1>episode(uses=1,tag=meme_CityBuilders)  -&gt;Following the teachings of [deity0_name], we struggled to become the richest faction of all. Poets will sing about prosperity and opulence long after we are gone.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.1>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.2>intro(tag=meme_CityBuilders)           -&gt;On the [place_summary] [place_name], the [memberNamePlural] built the greatest city, with a grand temple dedicated to [deity0_name].</VME_CityBuilders.descriptionMaker.rules.rulesStrings.2>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.3>conflict(tag=meme_CityBuilders)        -&gt;An envious [foeLeader] wanted to conquer this city, for he was jealous of the leisure its inhabitants enjoyed. [foeLeader_possessive] assembled a huge army, and laid siege to the city.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.3>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.4>founderJoin(tag=meme_CityBuilders)     -&gt;[founderName], known as the Great Magistrate, laughed at this temerity. Didn't the [foeLeader] know that the city was sacred to [deity0_name]? Its walls were tall as mountains, and impenetrable.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.4>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.5>victory(tag=meme_CityBuilders)         -&gt;After several months, the [foeLeader] was forced to retreat, as most of [foeLeader_possessive] men were dying of starvation and exposure. The city had't fallen, and it would stand proud for millenia to come.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.5>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.6>setup(tag=meme_CityBuilders)           -&gt;[founderName] was a magistrate in a small settlement in the Rim. [founder_pronoun] believed that a squalid settlement stood little chance in the face of constant external threats, and he proposed a series of monumental construction projects that would turn the small hamlet into a sprawling metropolis.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.6>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.7>story(uses=1,tag=meme_CityBuilders)    -&gt;[founderName] is remembered as ther Great Architect, and [founder_possessive] city would stand proud for millenia to come.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.7>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.8>lessonIntro(tag=meme_CityBuilders)         -&gt;In the oldest tomes I studied the forgotten art of siege warfare. If we want to make our cities stand proud we must understand that</VME_CityBuilders.descriptionMaker.rules.rulesStrings.8>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.9>lesson(tag=meme_CityBuilders)              -&gt;the tallest, sturdiest walls are built not with stone, but with the work and sweat of men</VME_CityBuilders.descriptionMaker.rules.rulesStrings.9>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.10>lessonReinforcement(tag=meme_CityBuilders) -&gt;A well-defended city is resilient. A city built with love is invincible.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.10>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.11>archistBasis(tag=meme_CityBuilders)    -&gt;The archotechs are the ultimate builders. The whole planet is transformed and adapted to suit their needs.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.11>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.12>archistFact(tag=meme_CityBuilders)     -&gt;We will mimic the construction prowess of the archotechs in our own cities, creating marvels of engineering that will stand the test of time.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.12>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.13>archistProphecy(tag=meme_CityBuilders) -&gt;[inTheEnd], the greatest builders among us will be chosen and allowed to transcend.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.13>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.14>animistBasis(tag=meme_CityBuilders)    -&gt;There is no greater spirit than the spirit of creation. It manifests itself in anything that is built by a skilled crafter.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.14>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.15>animistFact(tag=meme_CityBuilders)     -&gt;We will erect incredible marvels of engineering. Sprawling cities that will be a testament to the power of the spirit of creation.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.15>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.16>animistProphecy(tag=meme_CityBuilders) -&gt;[itIsSaid] the greatest builders among us will be chosen and allowed to commune with the spirits.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.16>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.17>serketistProphecy(tag=meme_CityBuilders)-&gt;[itIsSaid] we will build enormous hive-cities, like human termite mounds that will bloat the sun.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.17>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.18>chthonianProphecy(tag=meme_CityBuilders)-&gt;The raw, brutal power of these eldritch entities is so immense that only by holing up in well-defended, armoured cities can we hope to withstand their corrosive influence.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.18>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.19>esotericismProphecy(tag=meme_CityBuilders)-&gt;Such occult knowledge will only be unlocked with extensive experimentation. We will build majestic libraries and laboratories, sprawling cities where science is analyzed and disected.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.19>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.20>eschatologismFact(tag=meme_CityBuilders)-&gt;We will build gigantic, spawling cities, from which our forces will pour like molten lead and burn the whole world.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.20>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.21>introMemo(tag=meme_CityBuilders)-&gt;I'm happy to announce that we are opening seven new branches of the company. If you'd like to request a transference to any of them, please let me know ASAP.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.21>
-  <VME_CityBuilders.descriptionMaker.rules.rulesStrings.22>alienistProphecy(tag=meme_CityBuilders)-&gt;These wayward creatures can be useful when building our glorious cities.</VME_CityBuilders.descriptionMaker.rules.rulesStrings.22>
-  <VME_CityBuilders.symbolPacks.0.adjective>builder</VME_CityBuilders.symbolPacks.0.adjective>
 
+  <!-- EN: city builders -->
+  <VME_CityBuilders.label>градостроение</VME_CityBuilders.label>
+  <!-- EN: Our home should feature all the accommodations of a great city, homes, workshops, and places of leisure should all be present and accessible by all. -->
+  <VME_CityBuilders.description>В нашем поселении должны быть все удобства большого города. Жильё, работа и места отдыха должны иметься в достаточном количестве и быть доступны для всех.</VME_CityBuilders.description>
 
+  <!-- EN:  
+    <li>memeAdjective->building</li>
+    <li>memeAdjective->industrious</li>
+    <li>memeLeaderNoun->great builder</li>
+    <li>memeLeaderNoun->architect</li>
+    <li>memeConcept->cities</li>
+  -->
+  <VME_CityBuilders.generalRules.rulesStrings>
+    <li>memeAdjective->строительный</li>
+    <li>memeAdjective->трудолюбивый</li>
+    <li>memeLeaderNoun->великий строитель</li>
+    <li>memeLeaderNoun->архитектор</li>
+    <li>memeConcept->городов</li>
+  </VME_CityBuilders.generalRules.rulesStrings>
 
+  <!-- EN:
+    <li>creation(tag=meme_CityBuilders)        ->[deity0_name] thus spoke to us: "Build these cities and surround them with walls and towers, gates and bars. The land is yours because you have sought me; On every lofty mountain and on every high hill there will be streams running with water, until the towers fall".</li>
+    <li>episode(uses=1,tag=meme_CityBuilders)  ->Following the teachings of [deity0_name], we struggled to become the richest faction of all. Poets will sing about prosperity and opulence long after we are gone.</li>
 
+    <li>intro(tag=meme_CityBuilders)           ->On the [place_summary] [place_name], the [memberNamePlural] built the greatest city, with a grand temple dedicated to [deity0_name].</li>
+    <li>conflict(tag=meme_CityBuilders)        ->An envious [foeLeader] wanted to conquer this city, for he was jealous of the leisure its inhabitants enjoyed. [foeLeader_possessive] assembled a huge army, and laid siege to the city.</li>
+    <li>founderJoin(tag=meme_CityBuilders)     ->[founderName], known as the Great Magistrate, laughed at this temerity. Didn't the [foeLeader] know that the city was sacred to [deity0_name]? Its walls were tall as mountains, and impenetrable.</li>
+    <li>victory(tag=meme_CityBuilders)         ->After several months, the [foeLeader] was forced to retreat, as most of [foeLeader_possessive] men were dying of starvation and exposure. The city had't fallen, and it would stand proud for millenia to come.</li>
 
+    <li>setup(tag=meme_CityBuilders)           ->[founderName] was a magistrate in a small settlement in the Rim. [founder_pronoun] believed that a squalid settlement stood little chance in the face of constant external threats, and he proposed a series of monumental construction projects that would turn the small hamlet into a sprawling metropolis.</li>
+    <li>story(uses=1,tag=meme_CityBuilders)    ->[founderName] is remembered as ther Great Architect, and [founder_possessive] city would stand proud for millenia to come.</li>
 
+    <li>lessonIntro(tag=meme_CityBuilders)         ->In the oldest tomes I studied the forgotten art of siege warfare. If we want to make our cities stand proud we must understand that</li>
+    <li>lesson(tag=meme_CityBuilders)              ->the tallest, sturdiest walls are built not with stone, but with the work and sweat of men</li>
+    <li>lessonReinforcement(tag=meme_CityBuilders) ->A well-defended city is resilient. A city built with love is invincible.</li>
 
+    <li>archistBasis(tag=meme_CityBuilders)    ->The archotechs are the ultimate builders. The whole planet is transformed and adapted to suit their needs.</li>
+    <li>archistFact(tag=meme_CityBuilders)     ->We will mimic the construction prowess of the archotechs in our own cities, creating marvels of engineering that will stand the test of time.</li>
+    <li>archistProphecy(tag=meme_CityBuilders) ->[inTheEnd], the greatest builders among us will be chosen and allowed to transcend.</li>
+
+    <li>animistBasis(tag=meme_CityBuilders)    ->There is no greater spirit than the spirit of creation. It manifests itself in anything that is built by a skilled crafter.</li>
+    <li>animistFact(tag=meme_CityBuilders)     ->We will erect incredible marvels of engineering. Sprawling cities that will be a testament to the power of the spirit of creation.</li>
+    <li>animistProphecy(tag=meme_CityBuilders) ->[itIsSaid] the greatest builders among us will be chosen and allowed to commune with the spirits.</li>
+
+    <li>serketistProphecy(tag=meme_CityBuilders)->[itIsSaid] we will build enormous hive-cities, like human termite mounds that will bloat the sun.</li>
+
+    <li>chthonianProphecy(tag=meme_CityBuilders)->The raw, brutal power of these eldritch entities is so immense that only by holing up in well-defended, armoured cities can we hope to withstand their corrosive influence.</li>
+
+    <li>esotericismProphecy(tag=meme_CityBuilders)->Such occult knowledge will only be unlocked with extensive experimentation. We will build majestic libraries and laboratories, sprawling cities where science is analyzed and disected.</li>
+
+    <li>eschatologismFact(tag=meme_CityBuilders)->We will build gigantic, spawling cities, from which our forces will pour like molten lead and burn the whole world.</li>
+
+    <li>introMemo(tag=meme_CityBuilders)->I'm happy to announce that we are opening seven new branches of the company. If you'd like to request a transference to any of them, please let me know ASAP.</li>
+
+    <li>alienistProphecy(tag=meme_CityBuilders)->These wayward creatures can be useful when building our glorious cities.</li>
+  -->
+  <VME_CityBuilders.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_CityBuilders)        ->[deity0_name] [deity0_spoke] нам: «Постройте города и окружите их стенами и башнями, воротами и решётками. Эта земля ваша, потому что вы искали меня; с каждой великой горы и с каждого высокого холма будут течь водяные потоки, пока не упадут башни».</li>
+    <li>episode(uses=1,tag=meme_CityBuilders)  ->[deity0_name] [deity0_gave] нам учение, следуя которому мы изо всех сил пытались стать богатейшей фракцией. Поэты будут петь о процветании и богатстве ещё долго после того, как нас не станет.</li>
+
+    <li>intro(tag=meme_CityBuilders)           ->[place_summary] [place_name] — строительная площадка, на которой [memberNamePlural] построиди величайший город с великим храмом посвящённым их божеству, [deity0_name].</li>
+    <li>conflict(tag=meme_CityBuilders)        ->[foe_envious] [foeLeader] [foe_wanted] завоевать этот город, потому что он [foe_jealous] досугу, которым наслаждались его жители. [foeLeader_possessive] [foe_assembled] огромную армию чтобы осадить город.</li>
+    <li>founderJoin(tag=meme_CityBuilders)     ->[founderName], [founder_known] как Великий магистрат, [founder_laughed] над этой дерзостью. Разве [foeLeader] не [foe_know], что [deity0_name] [deity0_protected] свой священный город? Городские стены были высоки, как горы, и неприступны.</li>
+    <li>victory(tag=meme_CityBuilders)         ->Через несколько месяцев [foeLeader] [foe_forced] отступить, так как большинство [foeLeader_possessive] слуг умирало от голода и холода. Город не пал, и будет гордо стоять ещё многие тысячелетия.</li>
+
+    <li>setup(tag=meme_CityBuilders)           ->[founderName] [founder_was] мировым судьей в маленьком поселении в одном из окраинных миров. [founder_pronoun] [founder_believed], что у незначительного поселения мало шансов перед лицом постоянных внешних угроз, и [founder_proposed] серию монументальных строительных проектов, которые превратили бы маленькую деревушку в обширный мегаполис.</li>
+    <li>story(uses=1,tag=meme_CityBuilders)    ->[founderName] [founder_stayed] в памяти людей как Великий Архитектор, а [founder_possessive] город будет гордо стоять многие тысячелетия.</li>
+
+    <li>lessonIntro(tag=meme_CityBuilders)         ->В старинных книгах я изучал забытое искусство военных осад. Если мы хотим, чтобы наши города гордо стояли, мы должны понимать, что</li>
+    <li>lesson(tag=meme_CityBuilders)              ->самые высокие, прочные стены построены не из камня, а из человеческого труда и пота</li>
+    <li>lessonReinforcement(tag=meme_CityBuilders) ->Хорошо защищенный город неразрушаем. Город, построенный с любовью, непобедим.</li>
+
+    <li>archistBasis(tag=meme_CityBuilders)    ->Архотеки являются непревзойденными строителями. Вся планета может преображатся и приспосабливатся к их потребностям.</li>
+    <li>archistFact(tag=meme_CityBuilders)     ->Мы будем подражать строительному мастерству архотеков в наших собственных городах, создавая чудеса инженерной мысли, которые выдержат испытание временем.</li>
+    <li>archistProphecy(tag=meme_CityBuilders) ->[inTheEnd], величайшие строители среди нас станут избраными и им будет позволено вознестись.</li>
+
+    <li>animistBasis(tag=meme_CityBuilders)    ->Нет более великого духа, чем дух творчества. Он проявляется во всём, что создано искусным мастером.</li>
+    <li>animistFact(tag=meme_CityBuilders)     ->Мы возведём невероятные чудеса инженерной мысли. Обширные города, которые станут свидетельством силы духа творчества.</li>
+    <li>animistProphecy(tag=meme_CityBuilders) ->[itIsSaid] величайшие строители среди нас будут выбраны и получат дозволение общаться с духами.</li>
+
+    <li>serketistProphecy(tag=meme_CityBuilders)->[itIsSaid] мы построим огромные города-ульи, похожие на человеческие термитники, которые будут заслонять Солнце.</li>
+
+    <li>chthonianProphecy(tag=meme_CityBuilders)->Грубая и жестокая мощь этих жутких сущностей настолько велика, что только скрываясь в хорошо защищённых бронированных городах, мы можем надеяться противостоять их разрушительному воздействию.</li>
+
+    <li>esotericismProphecy(tag=meme_CityBuilders)->Такие оккультные знания будут открыты только в обширных экспериментах. Мы построим величественные библиотеки и лаборатории, огромные города для научного анализа и исследований.</li>
+
+    <li>eschatologismFact(tag=meme_CityBuilders)->Мы построим гигантские, раскинувшиеся города, из которых наша мощь хлынет, как расплавленный свинец, и сожжёт весь мир.</li>
+
+    <li>introMemo(tag=meme_CityBuilders)->Я рад сообщить, что мы открываем семь новых представительств компании. Если вы хотите запросить перевод в любое из них, пожалуйста, дайте мне знать как можно скорее.</li>
+
+    <li>alienistProphecy(tag=meme_CityBuilders)->Эти непохожие существа могут быть полезны при строительстве наших славных городов.</li>
+
+    <li>deity0_spoke(deity0_gender==None)->говорило</li>
+    <li>deity0_spoke(deity0_gender==Male)->говорил</li>
+    <li>deity0_spoke(deity0_gender==Female)->говорила</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дал</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+
+    <li>foe_envious(foeLeader_gender==Male)->завистливая</li>
+    <li>foe_envious(foeLeader_gender==Female)->завистливый</li>
+    <li>foe_wanted(foeLeader_gender==Male)->хотел</li>
+    <li>foe_wanted(foeLeader_gender==Female)->хотела</li>
+    <li>foe_jealous(foeLeader_gender==Male)->завидовал</li>
+    <li>foe_jealous(foeLeader_gender==Female)->завидовала</li>
+    <li>foe_assembled(foeLeader_gender==Male)->собрал</li>
+    <li>foe_assembled(foeLeader_gender==Female)->собрала</li>
+
+	<li>founder_known(founder_gender==Male)->известный</li>
+    <li>founder_known(founder_gender==Female)->известная</li>
+	<li>founder_laughed(founder_gender==Male)->посмеялся</li>
+    <li>founder_laughed(founder_gender==Female)->посмеялась</li>
+    <li>foe_know(foeLeader_gender==Male)->знал</li>
+    <li>foe_know(foeLeader_gender==Female)->знала</li>
+    <li>deity0_protected(deity0_gender==None)->защитило</li>
+    <li>deity0_protected(deity0_gender==Male)->защитил</li>
+    <li>deity0_protected(deity0_gender==Female)->защитила</li>
+    <li>foe_forced(foeLeader_gender==Male)->был вынужден</li>
+    <li>foe_forced(foeLeader_gender==Female)->была вынуждена</li>
+
+	<li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+	<li>founder_believed(founder_gender==Male)->полагал</li>
+    <li>founder_believed(founder_gender==Female)->полагал</li>
+	<li>founder_proposed(founder_gender==Male)->запланировал</li>
+    <li>founder_proposed(founder_gender==Female)->запланировала</li>
+	<li>founder_stayed(founder_gender==Male)->остался</li>
+    <li>founder_stayed(founder_gender==Female)->осталась</li>
+  </VME_CityBuilders.descriptionMaker.rules.rulesStrings>
+
+  <!-- EN: Builders -->
+  <VME_CityBuilders.symbolPacks.0.ideoName>Строители</VME_CityBuilders.symbolPacks.0.ideoName>
+  <!-- EN: building -->
+  <VME_CityBuilders.symbolPacks.0.theme>строительства</VME_CityBuilders.symbolPacks.0.theme>
+  <!-- EN: builder -->
+  <VME_CityBuilders.symbolPacks.0.adjective>строительный</VME_CityBuilders.symbolPacks.0.adjective>
+  <!-- EN: builder -->
+  <VME_CityBuilders.symbolPacks.0.member>строитель</VME_CityBuilders.symbolPacks.0.member>
 
 
   <!-- 25 -->
@@ -1489,7 +1923,7 @@
   -->
   <VME_Emancipation.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Emancipation)        ->[deity0_name] [deity0_showed] нам, что рабство является извращением и должно быть остановлено любой ценой.</li>
-    <li>episode(uses=1,tag=meme_Emancipation)  ->[deity0_name] [deity0_said], чтобы [memberNamePlural] запомнили: "Те, кто отказывает в свободе другим, не заслуживают её для себя."</li>
+    <li>episode(uses=1,tag=meme_Emancipation)  ->[deity0_name] [deity0_said], чтобы [memberNamePlural] запомнили: «Те, кто отказывает в свободе другим, не заслуживают её для себя».</li>
 
     <li>intro(tag=meme_Emancipation)           ->[place_summary] [place_name], где до сих пор существует [altarRoomLabel] в честь нашего божества по имени [deity0_name] — там впервые рабы были освобождены и получили новый шанс в жизни.</li>
     <li>conflict(tag=meme_Emancipation)           ->Ханжа [foeLeader] [foe_looked] на это с презрением, ибо [foe_slaver], что [foeLeader_possessive] прибыли под угрозой.</li>
@@ -1793,7 +2227,7 @@
     <li>alienistProphecy(tag=meme_Healthcare)->These wayward creatures are poor, innocent beings. We should take care of them and show compassion and empathy.</li>
   -->
 <VME_Healthcare.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Healthcare)        ->[deity0_name] [deity0_spoke] своим последователям: «Дайте людям то, что им нужно: еду, лекарства, чистый воздух, чистую воду, деревья и траву. Не спрашивайте, кто этого достоин. Каждый этого достоин.»</li>
+    <li>creation(tag=meme_Healthcare)        ->[deity0_name] [deity0_spoke] своим последователям: «Дайте людям то, что им нужно: еду, лекарства, чистый воздух, чистую воду, деревья и траву. Не спрашивайте, кто этого достоин. Каждый этого достоин».</li>
     <li>episode(uses=1,tag=meme_Healthcare)  ->Как [deity0_commanded] [deity0_name], мы всегда заботились друг о друге и объединяли наши силы, чтобы никто не страдал в одиночестве.</li>
 
     <li>intro(tag=meme_Healthcare)           ->В месте, что известно как [place_summary] [place_name], [memberNamePlural] построили гигантскую больницу, где заботились о больных и немощных.</li>
