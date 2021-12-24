@@ -11,11 +11,16 @@
   Hats and Rags
 	Splits and Schisms
 	Memes and Structures (в процессе)
-  </description>
+  Anima Theme</description>
   <loadAfter>
 		<li>VanillaExpanded.Ideo.RelicsAndArtifacts</li>
 		<li>VanillaExpanded.VIEHAR</li>
 		<li>VanillaExpanded.VIESAS</li>
 		<li>VanillaExpanded.VMemesE</li>
+    <li>sarg.alphaanimals</li>
+    <li>VanillaExpanded.VCookE</li>
+    <li>VanillaExpanded.VCEF</li>
+    <li>VanillaExpanded.VBooksE</li>
+		<li>VanillaExpanded.VIEAT</li>
 	</loadAfter>
 </ModMetaData>
