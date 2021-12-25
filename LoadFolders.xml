@@ -10,5 +10,6 @@
 		<li IfModActive="VanillaExpanded.VCookE">Memes_VCE</li>
 		<li IfModActive="VanillaExpanded.VCEF">Memes_VFE</li>
 		<li IfModActive="VanillaExpanded.VBooksE">Memes_VBE</li>
+    <li IfModActive="VanillaExpanded.VIEAT">Anima</li>
   </v1.3>
 </loadFolders>
