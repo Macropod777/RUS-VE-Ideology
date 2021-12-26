@@ -2141,6 +2141,10 @@
   <VME_Pacifist.symbolPacks.0.member>пацифист</VME_Pacifist.symbolPacks.0.member>
 
 
+
+  <!-- ыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыы -->
+
+
   <!-- 19 -->
 
   <!-- EN: fire worship -->
@@ -2210,40 +2214,76 @@
     <li>alienistProphecy(tag=meme_FireWorship)->All these wayward creatures, forgotten creations of humanity, will serve as kindling for the flames.</li>
   -->
   <VME_FireWorship.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_FireWorship)        ->[deity0_name] infused [deity0_possessive] followers with a holy flame: "The hero and the coward both feel exactly the same fear, only the hero confronts his fear and converts it into fire."</li>
-    <li>episode(uses=1,tag=meme_FireWorship)  ->Following the teachings of [deity0_name], we understood that what fire does not destroy, it hardens</li>
+    <li>creation(tag=meme_FireWorship)        ->[deity0_name] [deity0_infused]  в своих последователей священное пламя: «Герой и трус испытывают одинаковый страх, но герой противостоит страху и превращает его в огонь».</li>
+    <li>episode(uses=1,tag=meme_FireWorship)  ->[deity0_name] [deity0_gave] нам учение, следуя которому мы поняли, что то, что огонь не уничтожает, он закаляет.</li>
 
-    <li>intro(tag=meme_FireWorship)           ->On the [place_summary] [place_name], the [memberNamePlural] built an enormous bonfire, dedicated to [deity0_name].</li>
-    <li>conflict(tag=meme_FireWorship)        ->An envious [foeLeader] saw the bonfire in the horizon, and wanted to quench its fire.</li>
-    <li>founderJoin(tag=meme_FireWorship)     ->At great peril [founderName], an acolyte of [deity0_name], infiltrated the encampment of the [foeLeader]'s soldiers during the night, and set their tents ablaze.</li>
-    <li>victory(tag=meme_FireWorship)         ->The [memberNamePlural] will never forget the anguished cries of the burning soldiers. Their charred corpses were added to the bonfire, a warning to all who would attempt to defy the Will of [deity0_name] again.</li>
+    <li>intro(tag=meme_FireWorship)           ->В месте, называемом, [place_summary] [place_name], [memberNamePlural] сложили огромный костёр, посвящённый [deity0_god] огня по имени [deity0_name].</li>
+    <li>conflict(tag=meme_FireWorship)        ->[foe_envious] [foeLeader] [foe_saw] костёр на горизонте и [foe_wanted] погасить его пламя.</li>
+    <li>founderJoin(tag=meme_FireWorship)     ->Подвергая себя великой опасности, [founderName], [founder_acolyte] [deity0_god1] огня по имени [deity0_name], ночью [founder_infiltrated] в лагерь, где спали [foeSoldiers], и [founder_ablaze] палатки.</li>
+    <li>victory(tag=meme_FireWorship)         ->[memberNamePlural] никода не забывали мучительные крики горящих солдат. Обугленные трупы были брошены в костёр, как предупреждение всем, кто снова попытается бросить вызов воле [deity0_god] огня по имени [deity0_name].</li>
 
-    <li>setup(tag=meme_FireWorship)           ->[founderName] was imprisoned from [founderName_possessive] youth for [founderName_possessive] supposed crimes. Arsonist, [founderName_pronoun] was called. What they failed to see is that [founderName_pronoun] was instead a visionary, a prophet. [founderName_pronoun] saw the hidden patterns that are inside all flames.</li>
-    <li>story(uses=1,tag=meme_FireWorship)    ->A small spark can start a great fire, and the philosophy of [founderName] became a dominant school of thought that spread across the stars.</li>
+    <li>setup(tag=meme_FireWorship)           ->[founderName] в юности [founder_was1] в тюрьму за [founder_possessive] предполагаемые преступления. [founder_possessive] называли поджигателем. Но тюремщики не могли разглядеть, что [founder_pronoun] на самом деле [founder_was] провидцем и пророком. [founderName_pronoun] [founder_saw] скрытые надписи внутри всех языков пламени.</li>
+    <li>story(uses=1,tag=meme_FireWorship)    ->Маленькая искра может разжечь большой пожар. Философия, которую [founder_formulated] [founderName], стала главенствующей школой мысли, и распространилась среди звёзд.</li>
 
-    <li>lessonIntro(tag=meme_FireWorship)         ->I found them among the ashes: blackened, charred remains that were disfigured beyond recognition. It was sad, but I had warned them that</li>
-    <li>lesson(tag=meme_FireWorship)              ->fire is never a gentle master</li>
-    <li>lessonReinforcement(tag=meme_FireWorship) ->The deepest lessons come out of the deepest waters and the hottest fires.</li>
+    <li>lessonIntro(tag=meme_FireWorship)         ->Я нашёл их среди пепла: почерневшие, обугленные останки, изуродованные до неузнаваемости. Это было печально, но я предупреждал их, что</li>
+    <li>lesson(tag=meme_FireWorship)              ->огонь никогда не бывает ласковым хозяином </li>
+    <li>lessonReinforcement(tag=meme_FireWorship) ->Самые сильные уроки извлекаются из самой глубокой воды и самого жаркого огня.</li>
 
-    <li>archistBasis(tag=meme_FireWorship)    ->The archotechs are wise, pure. They manifest themselves to us in the most tangible of all visible mysteries – fire.</li>
-    <li>archistFact(tag=meme_FireWorship)     ->It is said that a world entering transcendence is engulfed in continent-wide wildfires. A mystical fire that doesn't consume, but instead gathers souls to allow them to ascend.</li>
-    <li>archistProphecy(tag=meme_FireWorship) ->[inTheEnd], only those who are worthy of the sacred fire will be allowed to evolve beyond their human selves.</li>
+    <li>archistBasis(tag=meme_FireWorship)    ->Архотеки мудры, чисты. Они являют нам себя в самой осязаемой из всех видимых тайн — огне.</li>
+    <li>archistFact(tag=meme_FireWorship)     ->Говорят, что мир, вступающий в трансцендентность, покрыт пожарами охватывающими все континенты. Мистический огонь, который не истребляет, а собирает души, чтобы позволить им вознестись.</li>
+    <li>archistProphecy(tag=meme_FireWorship) ->[inTheEnd], только тем, кто достоин священного огня, будет позволено развиться за пределы своего человеческого «я».</li>
 
-    <li>animistBasis(tag=meme_FireWorship)    ->There is no stronger spirit than the spirit of fire. All other spirits are subservient to it.</li>
-    <li>animistFact(tag=meme_FireWorship)     ->The wavering flames offer us an insight into the world of spirits, for they represent the transmogrification of wood into ashes.</li>
-    <li>animistProphecy(tag=meme_FireWorship) ->[itIsSaid] only those who venerate fire will be able to appease the spirits.</li>
+    <li>animistBasis(tag=meme_FireWorship)    ->Нет духа более сильного, чем дух огня. Все прочие духи подчинены ему.</li>
+    <li>animistFact(tag=meme_FireWorship)     ->Колеблющееся пламя предлагает нам заглянуть в мир духов, поскольку оно представляет собой превращение дерева в пепел.</li>
+    <li>animistProphecy(tag=meme_FireWorship) ->[itIsSaid] только те, кто поклоняются огню, смогут умилостивить духов.</li>
 
-    <li>serketistProphecy(tag=meme_FireWorship)->[itIsSaid] we will be like a fire-chaser beetle, drawn to flames as the source of all life.</li>
+    <li>serketistProphecy(tag=meme_FireWorship)->[itIsSaid]мы будем подобны жуку-пожарнику, которого влечёт к огню как источнику всей жизни.</li>
 
-    <li>chthonianProphecy(tag=meme_FireWorship)->By mastering and controlling the holy fire we might be able to evade these cosmic monstrosities, and perhaps burn them to ashes if they decide to end us.</li>
+    <li>chthonianProphecy(tag=meme_FireWorship)->Овладев священным огнём и управляя им, мы могли бы ускользнуть от этих космических чудовищ и, возможно, сжечь их дотла, если они решат покончить с нами.</li>
 
-    <li>esotericismProphecy(tag=meme_FireWorship)->Studying the holy flame will bring precious insights into the nature of the Universe, for fire is the ultimate, purest expression of entropy.</li>
+    <li>esotericismProphecy(tag=meme_FireWorship)->Изучение священного пламени принесёт драгоценное понимание природы Вселенной, поскольку огонь - это наивысшее, чистейшее выражение энтропии.</li>
 
-    <li>eschatologismFact(tag=meme_FireWorship)->We will watch it all burn.</li>
+    <li>eschatologismFact(tag=meme_FireWorship)->Мы будем смотреть, как всё это горит.</li>
 
-    <li>introMemo(tag=meme_FireWorship)->Let me remind you all that this week's fire evacuation drill has been scheduled one hour earlier than usual. We take safety measures very seriously here: fire may be sacred, but a burned employee harms profits.</li>
+    <li>introMemo(tag=meme_FireWorship)->Напоминая, что учения по эвакуации при пожаре на этой неделе запланированы на час раньше обычного. Мы очень серьёзно относимся к мерам безопасности: огонь может быть священным, но обгоревший сотрудник вредит прибыли.</li>
 
-    <li>alienistProphecy(tag=meme_FireWorship)->All these wayward creatures, forgotten creations of humanity, will serve as kindling for the flames.</li>
+    <li>alienistProphecy(tag=meme_FireWorship)->Все эти непохожие создания, забытые творения человечества, послужат растопкой для пламени.</li>
+
+	<li>deity0_infused(deity0_gender==None)->вдохнулo</li>
+    <li>deity0_infused(deity0_gender==Male)->вдохнул</li>
+    <li>deity0_infused(deity0_gender==Female)->вдохнулa</li>
+	<li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дал</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+
+	<li>deity0_god(deity0_gender==None)->божеству</li>
+    <li>deity0_god(deity0_gender==Male)->богу</li>
+    <li>deity0_god(deity0_gender==Female)->богине</li>
+	<li>foe_envious(foeLeader_gender==Male)->завистливый</li>
+    <li>foe_envious(foeLeader_gender==Female)->завистливая</li>
+    <li>foe_saw(foeLeader_gender==Male)->увидел</li>
+    <li>foe_saw(foeLeader_gender==Female)->увидела</li>
+    <li>foe_wanted(foeLeader_gender==Male)->захотел</li>
+    <li>foe_wanted(foeLeader_gender==Female)->захотела</li>
+
+	<li>founder_acolyte(founder_gender==Male)->послушник</li>
+    <li>founder_acolyte(founder_gender==Female)->послушница</li>
+	<li>deity0_god1(deity0_gender==None)->божества</li>
+    <li>deity0_god1(deity0_gender==Male)->бога</li>
+    <li>deity0_god1(deity0_gender==Female)->богини</li>
+	<li>founder_infiltrated(founder_gender==Male)->прокрался</li>
+    <li>founder_infiltrated(founder_gender==Female)->прокралась</li>	
+	<li>founder_ablaze(founder_gender==Male)->поджёг</li>
+    <li>founder_ablaze(founder_gender==Female)->подожгла</li>	
+
+	<li>founder_was1(founder_gender==Male)->был заключён</li>
+    <li>founder_was1(founder_gender==Female)->была заключена</li>
+	<li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+	<li>founder_saw(founder_gender==Male)->увидел</li>
+    <li>founder_saw(founder_gender==Female)->увидела</li>
+	<li>founder_formulated(founder_gender==Male)->сформулировал</li>
+    <li>founder_formulated(founder_gender==Female)->сформулировала</li>
   </VME_FireWorship.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Fire Worship -->
@@ -2317,40 +2357,66 @@
     <li>alienistProphecy(tag=meme_Bushido)->These wayward creatures, forgotten and discarded creations of humanity's hubris, remind us that only a life lived with honour, courage and skill is worth living.</li>
  -->
   <VME_Bushido.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Bushido)        ->[deity0_name] spoke to [deity0_possessive] followers: "Act with the heart of the warrior."</li>
-    <li>episode(uses=1,tag=meme_Bushido)  ->The teachings of [deity0_name] to his followers emphasized honour, courage and skill: "All men make mistakes, but a good man yields when he knows his course is wrong, and repairs the evil".</li>
+    <li>creation(tag=meme_Bushido)        ->[deity0_name] [deity0_spoke] своим последователям: «Поступайте как велит сердце воина».</li>
+    <li>episode(uses=1,tag=meme_Bushido)  -> [deity0_name] [deity0_gave] своим последователям учение, в котором выделялось честь, мужество и мастерство: "Все люди совершают ошибки, но хороший человек отступает, когда знает, что его путь неверен, и исправляет зло".</li>
 
-    <li>intro(tag=meme_Bushido)           ->On the [place_summary] [place_name], the [memberNamePlural] built a gigantic dōjō, a sacred hall where [deity0_name]'s ways were taught.</li>
-    <li>conflict(tag=meme_Bushido)        ->Judging it wasteful, the magistrates wanted to demolish the dōjō, using the land for more mundane purposes. They considered [deity0_name]'s ways to be obsolete.</li>
-    <li>founderJoin(tag=meme_Bushido)     ->[founderName], a scholar and master of the martial arts, gathered [founderName_possessive] followers around, and asked them to show the ways of [deity0_name] to the magistrates, preaching their truth by example. They'd show them that only a life lived with honour, courage and skill is worth living.</li>
-    <li>victory(tag=meme_Bushido)         ->The magistrates were humbled by the incredible display of virtue, and their hearts were changed. [founderName] gained great acclaim and [founderName_possessive] teachings spread across the stars.</li>
+    <li>intro(tag=meme_Bushido)           ->В месте, называемом, [place_summary] [place_name], [memberNamePlural] построили гигантское додзё, священный зал, в котором учили путям, что [deity0_open] нам [deity0_name].</li>
+    <li>conflict(tag=meme_Bushido)        ->Посчитав это расточительным, магистраты хотели снести додзё, чтобы использоват землю для более практичных целей. Путь, что [deity0_open] [deity0_name], они считали устаревшим.</li>
+    <li>founderJoin(tag=meme_Bushido)     ->[founderName], ученый и мастер боевых искусств, [founder_gathered] своих учеников, и [founder_asked] их показать магистратам пути, что [deity0_open] [божества0_имя], проповедуя истину собственным примером. Они показали бы им, что только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить.</li>
+    <li>victory(tag=meme_Bushido)         ->Магистраты были поражены невероятным проявлением добродетели, и их сердца преобразились. [founderName] [founder_gained] всеобщее признание, и [founder_possessive] учение распространились среди звёзд.</li>
 
-    <li>setup(tag=meme_Bushido)           ->[founderName] was a renowned martial artist in one of the Glitterworlds. [founder_pronoun] posited that only a life lived with honour, courage and skill is worth living. By setting one's heart right every morning and evening, he gains freedom in the Way. His whole life will be without blame, and he will succeed in his calling.</li>
-    <li>story(uses=1,tag=meme_Bushido)    ->Seeking inner peace, [founderName] gathered [founderName_possessive] followers and chartered a ship to travel to the Rim.</li>
+    <li>setup(tag=meme_Bushido)           ->[founderName] [founder_was] известным мастером боевых искусств в одном из утопических миров. [founder_pronoun] [founder_posited], что только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить. Приводящий своё сердце в порядок каждое утро и вечер, обретает свободу на этом Пути. Вся его жизнь будет безeупречна, и он преуспеет в своём призвании.</li>
+    <li>story(uses=1,tag=meme_Bushido)    ->В поисках внутреннего покоя, [founderName] [founder_assembled] своих учеников  и [founder_chartered] корабль для путешествия в окраинные миры.</li>
 
-    <li>lessonIntro(tag=meme_Bushido)         ->It is thus that we learn one single truth: "you must live being true to the single purpose of the present moment". The most important thing I've learned is that</li>
-    <li>lesson(tag=meme_Bushido)              ->only a life lived with honour, courage and skill is worth living</li>
-    <li>lessonReinforcement(tag=meme_Bushido) ->The best fighter is never angry.</li>
+    <li>lessonIntro(tag=meme_Bushido)         ->Таким образом, мы учимся одной истине: "Вы должны жить, оставаясь верными единственной задаче настоящего момента". Самое важное, что я узнал, это то, что</li>
+    <li>lesson(tag=meme_Bushido)              ->только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить</li>
+    <li>lessonReinforcement(tag=meme_Bushido) ->Лучший воин никогда не гневается.</li>
 
-    <li>archistBasis(tag=meme_Bushido)    ->The archotechs are ascended beings, free of the basic instincts that plague humanity.</li>
-    <li>archistFact(tag=meme_Bushido)     ->As supreme ethical beings, the archotechs show us that only a life lived with honour, courage and skill is worth living.</li>
-    <li>archistProphecy(tag=meme_Bushido) ->[inTheEnd], only those warriors who are pure of heart will be allowed to transcend.</li>
+    <li>archistBasis(tag=meme_Bushido)    ->Архотеки - вознёсшиеся существа, свободные от природных инстинктов, которыми болеет человечество.</li>
+    <li>archistFact(tag=meme_Bushido)     ->Как высшие этические существа, архотеки показывают нам, что только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить.</li>
+    <li>archistProphecy(tag=meme_Bushido) ->[inTheEnd], только тем воинам, у которых чистое сердце, будет позволено вознестись.</li>
 
-    <li>animistBasis(tag=meme_Bushido)    ->There are many spirits of War, but the greatest among them all is the spirit of honour.</li>
-    <li>animistFact(tag=meme_Bushido)     ->The greatest among the spirits teaches us that only a life lived with honour, courage and skill is worth living.</li>
-    <li>animistProphecy(tag=meme_Bushido) ->[itIsSaid] only those warriors who are pure of heart can truly appease the spirits.</li>
+    <li>animistBasis(tag=meme_Bushido)    ->Существует множестов духов войны, но величайший из них — дух чести.</li>
+    <li>animistFact(tag=meme_Bushido)     ->Величайший из духов учит нас, что только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить.</li>
+    <li>animistProphecy(tag=meme_Bushido) ->[itIsSaid] только те воины, у которых чистое сердце, могут по-настоящему умилостивить духов.</li>
 
-    <li>serketistProphecy(tag=meme_Bushido)->[itIsSaid] we will understand that insects teach us that only a life lived with honour, courage and skill is worth living.</li>
+    <li>serketistProphecy(tag=meme_Bushido)->[itIsSaid] мы поймём, что насекомые учат нас тому, что только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить.</li>
 
-    <li>chthonianProphecy(tag=meme_Bushido)->They are the epitome of iniquity. Innately evil, immoral. They are a dark mirror that shows us that only a life lived with honour, courage and skill is worth living.</li>
+    <li>chthonianProphecy(tag=meme_Bushido)->Они являются воплощением порока. В самой сути злые и аморальные. Они - тёмное зеркало, которое показывает нам, что только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить.</li>
 
-    <li>esotericismProphecy(tag=meme_Bushido)->Such occult knowledge can't be acquired through dishonourable means, for only a life lived with honour, courage and skill is worth living.</li>
+    <li>esotericismProphecy(tag=meme_Bushido)->Такое оккультное знание не может быть приобретено бесчестным путём, ибо только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить.</li>
 
-    <li>eschatologismFact(tag=meme_Bushido)->Through the very end, we will keep ourselves pure, for only a life lived with honour, courage and skill is worth living.</li>
+    <li>eschatologismFact(tag=meme_Bushido)->До самого конца мы будем сохранять себя чистыми, ибо только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить.</li>
 
-    <li>introMemo(tag=meme_Bushido)->Remember our motto! "Only a life lived with honour, courage and skill is worth living". We encourage printing this on stickers to decorate your offices.</li>
+    <li>introMemo(tag=meme_Bushido)->Помните наш слоган: «Только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить!» Мы рекомендуем распечатать его на наклейках, чтобы украсить ваш офис.</li>
 
-    <li>alienistProphecy(tag=meme_Bushido)->These wayward creatures, forgotten and discarded creations of humanity's hubris, remind us that only a life lived with honour, courage and skill is worth living.</li>
+    <li>alienistProphecy(tag=meme_Bushido)->Эти непохожие создания, забытые и отвергнутые порождения человеческого высокомерия, напоминают нам, что только жизнь, прожитая с честью, мужеством и мастерством, стоит того, чтобы жить.</li>
+
+    <li>deity0_spoke(deity0_gender==None)->говорило</li>
+    <li>deity0_spoke(deity0_gender==Male)->говорил</li>
+    <li>deity0_spoke(deity0_gender==Female)->говорила</li>
+    <li>deity0_gave(deity0_gender==None)->дало</li>
+    <li>deity0_gave(deity0_gender==Male)->дал</li>
+    <li>deity0_gave(deity0_gender==Female)->дала</li>
+
+    <li>deity0_open(deity0_gender==None)->открыло</li>
+    <li>deity0_open(deity0_gender==Male)->открыл</li>
+    <li>deity0_open(deity0_gender==Female)->открыла</li>
+	<li>founder_gathered(founder_gender==Male)->собрал</li>
+    <li>founder_gathered(founder_gender==Female)->собрала</li>
+	<li>founder_asked(founder_gender==Male)->попросил</li>
+    <li>founder_asked(founder_gender==Female)->попросила</li>
+	<li>founder_gained(founder_gender==Male)->получил</li>
+    <li>founder_gained(founder_gender==Female)->получила</li>
+
+	<li>founder_was(founder_gender==Male)->был</li>
+    <li>founder_was(founder_gender==Female)->была</li>
+	<li>founder_posited(founder_gender==Male)->утверждал</li>
+    <li>founder_posited(founder_gender==Female)->утверждала</li>
+	<li>founder_assembled(founder_gender==Male)->собрал</li>
+    <li>founder_assembled(founder_gender==Female)->собрала</li>
+	<li>founder_chartered(founder_gender==Male)->зафрахтовал</li>
+    <li>founder_chartered(founder_gender==Female)->зафрахтовала</li>
   </VME_Bushido.descriptionMaker.rules.rulesStrings>
 
   <!-- EN: Bushido -->
@@ -2362,12 +2428,6 @@
   <!-- EN: samurai -->
   <VME_Bushido.symbolPacks.0.member>самурай</VME_Bushido.symbolPacks.0.member>
 
-
-
-
-
-  <!-- ыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыы -->
-  <!-- ёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёё -->
 
   <!-- 21 -->
  
@@ -2487,8 +2547,8 @@
     <li>deity0_called(deity0_gender==Male)->назвал</li>
     <li>deity0_called(deity0_gender==Female)->назвала</li>
 
-    <li>foe_envious(foeLeader_gender==Male)->завистливая</li>
-    <li>foe_envious(foeLeader_gender==Female)->завистливый</li>
+    <li>foe_envious(foeLeader_gender==Male)->завистливый</li>
+    <li>foe_envious(foeLeader_gender==Female)->завистливая</li>
     <li>foe_looked(foeLeader_gender==Male)->смотрел</li>
     <li>foe_looked(foeLeader_gender==Female)->смотрела</li>
     <li>foe_wanted(foeLeader_gender==Male)->хотел</li>
@@ -2903,8 +2963,8 @@
     <li>deity0_gave(deity0_gender==Male)->дал</li>
     <li>deity0_gave(deity0_gender==Female)->дала</li>
 
-    <li>foe_envious(foeLeader_gender==Male)->завистливая</li>
-    <li>foe_envious(foeLeader_gender==Female)->завистливый</li>
+    <li>foe_envious(foeLeader_gender==Male)->завистливый</li>
+    <li>foe_envious(foeLeader_gender==Female)->завистливая</li>
     <li>foe_wanted(foeLeader_gender==Male)->хотел</li>
     <li>foe_wanted(foeLeader_gender==Female)->хотела</li>
     <li>foe_jealous(foeLeader_gender==Male)->завидовал</li>
@@ -3024,7 +3084,7 @@
     <li>creation(tag=meme_MechanoidSupremacy)        ->[deity0_name] [deity0_spoke] к своим последователям: «Механоиды были созданы по моему образу и подобию. Их образ священен, и вы должны стремиться стать подобными им».</li>
     <li>episode(uses=1,tag=meme_MechanoidSupremacy)  ->[deity0_name] [deity0_gave] нам учение, следуя которому мы воздвигли множество статуй по образу божетвенных механоидов.</li>
 
-    <li>intro(tag=meme_MechanoidSupremacy)           ->[place_summary] [place_name] — так звалось месть, где [memberNamePlural] построили гигантскую статую двуногого механоида, поверхность которого была покрыта множеством ужасных кос. Говорят, что [deity0_name] имеет именно такой образ.</li>
+    <li>intro(tag=meme_MechanoidSupremacy)           ->[place_summary] [place_name] — так звалось место, где [memberNamePlural] построили гигантскую статую двуногого механоида, поверхность которого была покрыта множеством ужасных кос. Говорят, что [deity0_name] имеет именно такой образ.</li>
     <li>conflict(tag=meme_MechanoidSupremacy)        ->[foeLeader] [foe_apostate] изображение богохульным, поскольку [foe_venerated] как божество. [foeLeader_pronoun] [foe_sought] повалить статую и заключить в тюрьму последователей истиннго божества — [deity0_name].</li>
     <li>founderJoin(tag=meme_MechanoidSupremacy)     ->[founderName], Великий Механо-жрец, [founder_prayed] о сокрушении грозного врага, и [deity0_name] [deity0_summoned] с небес посадочные капсулы кластера механоидов.</li>
     <li>victory(tag=meme_MechanoidSupremacy)         ->[foeLeader] был убит механоидами, а вместе с ним и [foeLeader_possessive] его солдаты. Так [deity0_name] навечно [deity0_cemmenting] своё могущество.</li>
