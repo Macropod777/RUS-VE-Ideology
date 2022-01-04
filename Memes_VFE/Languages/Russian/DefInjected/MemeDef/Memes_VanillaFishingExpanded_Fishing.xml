@@ -58,12 +58,12 @@
   -->
   <VME_Angler.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Anglers)        ->Однажды [deity0_name] [deity_spoke] ко всем своим последователям и [deity_told]: «Царство небесное подобно неводу, что Бог отправляет в море, дабы притянуть к себе любую рыбёшку».</li>
-    <li>episode(uses=1,tag=meme_Anglers)  ->[deity0_name] [deity_spoke] ко всем [memberNamePlural]: «Идите по моим следам и найдёте сети, что притянут людей».</li>
+    <li>episode(uses=1,tag=meme_Anglers)  ->[deity0_name] [deity_spoke]: «[memberNamePlural], идите по моим следам и найдёте сети, что притянут людей».</li>
     
     <li>intro(tag=meme_Anglers)           ->[memberNamePlural] построили нечто прекрасное в [place_summary] [place_name], названное «[altarName]». И было решено собираться у него каждый год, соревноваться в рыбалке.</li>
-    <li>conflict(tag=meme_Anglers)        ->[foe_envious] [foeLeader] [foe_deny] законы [deity0_name] и [foe_told] своим [foeSoldiers] отравить все водоёмы, раскинувшиеся вокруг места, что люди звали «[altarName]».</li>
-    <li>founderJoin(tag=meme_Anglers)     ->[founder_simple] [place_job] по имени [founderName] [founder_get] благословение от [deity0_name]. Оно даровало [founder_objective] божественную мудрость воздвигнуть великий очиститель воды и наполнить воды вновь сотнями рыб.</li>
-    <li>victory(tag=meme_Anglers)         ->Планы [foeSoldiers] и [foeLeader] потерпели крах, а сами они были унижены. Им ничего не осталось, кроме как оставить [memberNamePlural] в покое.</li>
+    <li>conflict(tag=meme_Anglers)        ->[foe_envious] [foeLeader] [foe_deny] законы [deity0_name] и [foe_told] приказ, чтобы [foeSoldiers] отравили все водоёмы, раскинувшиеся вокруг места, что люди звали «[altarName]».</li>
+    <li>founderJoin(tag=meme_Anglers)     ->[founder_simple] [place_job] по имени [founderName] [founder_get] благословение [deity0_name]. Оно даровало [founder_objective] божественную мудрость воздвигнуть великий очиститель воды и вернуть в воды сотни рыб.</li>
+    <li>victory(tag=meme_Anglers)         ->Планы [foeLeader] и [foeSoldiers] потерпели крах, а сами они были унижены. Им больше ничего не осталось и [memberNamePlural] были оставлены в покое.</li>
     
     <li>setup(tag=meme_Anglers)           ->Наш основатель, [founderName] [founder_setup]. Не было рыбы, которую [founderName_objective] бы поймать на крючок.</li>
     <li>story(uses=1,tag=meme_Anglers)    ->[founderName] [founder_teach] нас тому, что рыбалка, в первую очередь, это состояние души. [founderName_pronoun] всегда [founder_repeat], что смысл рыбалки в вечных попытках поймать нечто иллюзорное, но реальное и достижимое для каждого путём неисчислимых попыток.</li> 
@@ -95,8 +95,8 @@
     <li>foe_envious(foeLeader_gender==Female)->завистливая</li>
     <li>foe_deny(foeLeader_gender==Male)->отринул</li>
     <li>foe_deny(foeLeader_gender==Female)->отринула</li>
-    <li>foe_told(foeLeader_gender==Male)->приказал</li>
-    <li>foe_told(foeLeader_gender==Female)->приказала</li>
+    <li>foe_told(foeLeader_gender==Male)->отдал</li>
+    <li>foe_told(foeLeader_gender==Female)->отдала</li>
 
     <li>founder_simple(founder_gender==Male)->Простой</li>
     <li>founder_simple(founder_gender==Female)->Простая</li>

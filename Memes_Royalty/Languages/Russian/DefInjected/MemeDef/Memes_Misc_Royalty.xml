@@ -61,10 +61,10 @@
   
   <VME_PsychicFocus.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_PsychicFocus)        ->[deity0_name] [deity_spoke] людей пси-способностями, чтобы те следовали [deity0_possessive] воле.</li>
-    <li>episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name] [deity_told] всем [memberNamePlural]: «Ваш разум — ваш главный помощник. Научитесь пользоваться им и никто не сможет устоять против вас».</li>
+    <li>episode(uses=1,tag=meme_PsychicFocus)  ->[deity0_name] [deity_told]: «[memberNamePlural], ваш разум — ваш главный помощник. Научитесь пользоваться им и никто не сможет устоять против вас».</li>
     
     <li>intro(tag=meme_PsychicFocus)           ->[memberNamePlural] построили нечто величественное в [place_summary] [place_name], названное «[altarName]». Это стало местом обучения пси-способностям и божественной воле.</li>
-    <li>conflict(tag=meme_PsychicFocus)        ->[foe_envious] [foeLeader] [foe_deny] волю [deity0_name] и [foe_told] своим [foeSoldiers] напасть на последователей [deity0_name], призвав самые безумные психические силы.</li>
+    <li>conflict(tag=meme_PsychicFocus)        ->[foe_envious] [foeLeader] [foe_deny] волю [deity0_name] и [foe_told] приказ, чтобы [foeSoldiers] напали на последователей [deity0_name], призвав самые безумные психические силы.</li>
     <li>founderJoin(tag=meme_PsychicFocus)     ->И тогда [founder_simple] [place_job] по имени [founderName] [founder_get] благословение от [deity0_name]. Оно даровало [founder_objective] невиданные психические силы. Когда [founder_pronoun] говорила, все замирали, очарованные мудрейшими словами.</li>
     <li>victory(tag=meme_PsychicFocus)         ->Речи [founderName] изменили разум многих [foeSoldiers] и заставили молиться [deity0_name]. А [foeLeader] [foe_diet] не слышал.</li>
     
@@ -98,12 +98,10 @@
     <li>foe_envious(foeLeader_gender==Female)->трусливая</li>
     <li>foe_deny(foeLeader_gender==Male)->отринул</li>
     <li>foe_deny(foeLeader_gender==Female)->отринула</li>
-    <li>foe_told(foeLeader_gender==Male)->приказал</li>
-    <li>foe_told(foeLeader_gender==Female)->приказала</li>
-
+    <li>foe_told(foeLeader_gender==Male)->отдал</li>
+    <li>foe_told(foeLeader_gender==Female)->отдала</li>
     <li>foe_diet(foeLeader_gender==Male)->был опозорен, удалился и больше никто о нём</li>
     <li>foe_diet(foeLeader_gender==Female)->была опозорена, удалилась и больше никто о ней</li>
-
     <li>foe_can(foeLeader_gender==Male)->не мог</li>
     <li>foe_can(foeLeader_gender==Female)->не могла</li>
     <li>foe_intro(foeLeader_gender==Male)->оценил и принял</li>

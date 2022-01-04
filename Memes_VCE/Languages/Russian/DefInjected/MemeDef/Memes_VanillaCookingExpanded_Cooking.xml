@@ -56,10 +56,10 @@
   -->
   <VME_SweetTeeth.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_SweetTeeth)        ->[deity0_name] [deity_spoke] ко всем своим последователям и [deity_told]: «Сладкий пирог есть тело моё, вкусивший его станет един со мной, а я с ним».</li>
-    <li>episode(uses=1,tag=meme_SweetTeeth)  ->[deity0_name] [deity_spoke] ко всем [memberNamePlural]: «Весь мир — огромный праздничный торт. Не взять ни кусочка — невежливо, взять много кусков — ещё более невежливо».</li>
+    <li>episode(uses=1,tag=meme_SweetTeeth)  ->[deity0_name] [deity_spoke]: «[memberNamePlural], весь мир — огромный торт на празднике. Не взять ни кусочка — невежливо, взять много кусков — ещё более невежливо».</li>
     
     <li>intro(tag=meme_SweetTeeth)           ->[memberNamePlural] построили нечто прекрасное в [place_summary] [place_name], названное «[altarName]». И было оно наполнено сладостями для всех паломников.</li>
-    <li>conflict(tag=meme_SweetTeeth)        ->[foe_envious] [foeLeader] раздражали стремления [deity0_name] и [foe_told] своим [foeSoldiers] избавиться от сладостей, ибо [foe_diet] на строгой диете и [foe_can] есть сладкое.</li>
+    <li>conflict(tag=meme_SweetTeeth)        ->[foe_envious] [foeLeader] раздражали стремления [deity0_name] и [foe_told] приказ, чтобы [foeSoldiers] избавились от сладостей, ибо [foe_diet] на строгой диете и [foe_can] есть сладкое.</li>
     <li>founderJoin(tag=meme_SweetTeeth)     ->[deity0_name] [deity_bless] [founder_simple] [founderName], известную как [place_job], дав бесконечный аппетит и изобретательность для создания таких кондитерских изделий, каких ещё свет не видывал.</li>
     <li>victory(tag=meme_SweetTeeth)         ->[founderName] [founder_get] свои творения [foeSoldiers] и [founder_setup] их в восторг. Даже [foeLeader] [foe_intro] волю [deity0_name].</li>
     
@@ -94,8 +94,8 @@
 
     <li>foe_envious(foeLeader_gender==Male)->строгого</li>
     <li>foe_envious(foeLeader_gender==Female)->строгую</li>
-    <li>foe_told(foeLeader_gender==Male)->приказал</li>
-    <li>foe_told(foeLeader_gender==Female)->приказала</li>
+    <li>foe_told(foeLeader_gender==Male)->отдал</li>
+    <li>foe_told(foeLeader_gender==Female)->отдала</li>
     <li>foe_diet(foeLeader_gender==Male)->был он</li>
     <li>foe_diet(foeLeader_gender==Female)->была она</li>
     <li>foe_can(foeLeader_gender==Male)->не мог</li>
