@@ -59,10 +59,10 @@
   -->
   <VME_Cultured.descriptionMaker.rules.rulesStrings>
     <li>creation(tag=meme_Cultured)        ->Однажды [deity0_name] [deity_spoke] ко всем своим последователям и [deity_told] тайну письма: «Каждое произнесённое слово можно сохранить навсегда, записав его. Создайте первую книгу со словами моими».</li>
-    <li>episode(uses=1,tag=meme_Cultured)  ->[deity0_name] [deity_spoke] ко всем [memberNamePlural]: «Каждый писарь, начавший следовать за словами царства Божьего, должен стать главой дома, одаривающим семью сокровищами слов записанных».</li>
+    <li>episode(uses=1,tag=meme_Cultured)  ->[deity0_name] [deity_spoke]: «[memberNamePlural] знайте, что каждый писарь, начавший следовать за словами царства Божьего, должен стать главой дома, одаривающим семью сокровищами слов записанных».</li>
     
     <li>intro(tag=meme_Cultured)           ->[memberNamePlural] построили великую библиотеку в [place_summary] [place_name]. И была она наполнена чудесными книгами и свитками, мудрость предков содержащими.</li>
-    <li>conflict(tag=meme_Cultured)        ->[foe_envious] [foeLeader] [foe_deny] стремления [deity0_name] и [foe_told] своим [foeSoldiers] сжечь все книги дотла. После чего [foeLeader] [foe_intro].</li>
+    <li>conflict(tag=meme_Cultured)        ->[foe_envious] [foeLeader] [foe_deny] стремления [deity0_name] и [foe_told] приказ, чтобы [foeSoldiers] сожгли все книги дотла. После чего [foeLeader] [foe_intro].</li>
     <li>founderJoin(tag=meme_Cultured)     ->[deity0_name] [deity_bless] [founder_simple] [founderName], известную как [place_job], дав [founder_objective] свои знания обо всём на свете. [founderName] [founder_get] свои знания в неразрушимые ядра данных.</li>
     <li>victory(tag=meme_Cultured)         ->[foeSoldiers] с упоением сжигали книги, радовались победе, но они проиграли: знания предков были в целости и сохранности благодаря усилиям [founderName].</li>
     
@@ -99,8 +99,8 @@
     <li>foe_envious(foeLeader_gender==Female)->глупая</li>
     <li>foe_deny(foeLeader_gender==Male)->отринул</li>
     <li>foe_deny(foeLeader_gender==Female)->отринула</li>
-    <li>foe_told(foeLeader_gender==Male)->приказал</li>
-    <li>foe_told(foeLeader_gender==Female)->приказала</li>
+    <li>foe_told(foeLeader_gender==Male)->отдал</li>
+    <li>foe_told(foeLeader_gender==Female)->отдала</li>
     <li>foe_intro(foeLeader_gender==Male)->провозгласил себя воинственным анти-интеллектуалом</li>
     <li>foe_intro(foeLeader_gender==Female)->провозгласила себя воинственной анти-интеллектуалкой</li>
 
@@ -123,9 +123,9 @@
   <!-- EN: Cultured -->
   <VME_Cultured.symbolPacks.0.ideoName>образованность</VME_Cultured.symbolPacks.0.ideoName>
   <!-- EN: reader -->
-  <VME_Cultured.symbolPacks.0.member>чтец</VME_Cultured.symbolPacks.0.member>
+  <VME_Cultured.symbolPacks.0.member>читатель</VME_Cultured.symbolPacks.0.member>
   <!-- EN: books -->
-  <VME_Cultured.symbolPacks.0.theme>книг</VME_Cultured.symbolPacks.0.theme>
+  <VME_Cultured.symbolPacks.0.theme>книги</VME_Cultured.symbolPacks.0.theme>
   
   <!-- EN: writing -->
   <VME_Cultured.symbolPacks.1.adjective>писательский</VME_Cultured.symbolPacks.1.adjective>
@@ -134,5 +134,5 @@
   <!-- EN: writer -->
   <VME_Cultured.symbolPacks.1.member>писатель</VME_Cultured.symbolPacks.1.member>
   <!-- EN: writing -->
-  <VME_Cultured.symbolPacks.1.theme>писательства</VME_Cultured.symbolPacks.1.theme>
+  <VME_Cultured.symbolPacks.1.theme>писательство</VME_Cultured.symbolPacks.1.theme>
 </LanguageData>
